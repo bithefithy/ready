@@ -1,0 +1,259 @@
+{
+    "m_Enable": 1,
+    "m_Log": 1,
+    "m_Quantity": 10,
+    "m_Locations": [
+        {
+            "m_D": "Pos01",
+            "m_X": 10136.25,
+            "m_Y": 12221.25,
+            "m_R": 0.0
+        },
+        {
+            "m_D": "Pos02",
+            "m_X": 10938.75,
+            "m_Y": 11998.75,
+            "m_R": 0.0
+        },
+        {
+            "m_D": "Pos03",
+            "m_X": 10951.88,
+            "m_Y": 13862.50,
+            "m_R": 0.0
+        },
+        {
+            "m_D": "Pos04",
+            "m_X": 9945.00,
+            "m_Y": 11835.00,
+            "m_R": 0.0
+        },
+        {
+            "m_D": "Pos05",
+            "m_X": 10077.50,
+            "m_Y": 10680.00,
+            "m_R": 0.0
+        },
+        {
+            "m_D": "Pos06",
+            "m_X": 11420.00,
+            "m_Y": 8617.50,
+            "m_R": 0.0
+        },
+        {
+            "m_D": "Pos07",
+            "m_X": 10432.50,
+            "m_Y": 8315.00,
+            "m_R": 0.0
+        },
+        {
+            "m_D": "Pos08",
+            "m_X": 9891.25,
+            "m_Y": 8146.25,
+            "m_R": 0.0
+        },
+        {
+            "m_D": "Pos09",
+            "m_X": 9467.50,
+            "m_Y": 8115.00,
+            "m_R": 0.0
+        },
+        {
+            "m_D": "Pos10",
+            "m_X": 8105.00,
+            "m_Y": 7667.50,
+            "m_R": 0.0
+        }
+    ],
+    "m_Helicopters": [
+        {
+            "m_Description": "Food",
+            "m_Quantity": 15,
+            "m_Items": [
+                {
+                    "m_Item": "TacticalBaconCan",
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Tomato",
+                    "m_QuantityMax": 10,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "TomatoSeedsPack",
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Canteen",
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "SodaCan_Cola",
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "SodaCan_Kvass",
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "SodaCan_Empty",
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "SodaCan_Spite",
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PeachesCan",
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "BakedBeansCan",
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "SardinesCan",
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "TunaCan",
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "CatFoodCan",
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PorkCan",
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                }
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_White"
+            ]
+        },
+        {
+            "m_Description": "Weapons",
+            "m_Quantity": 5,
+            "m_Items": [
+                {
+                    "m_Item": "ASVAL",
+                    "m_QuantityMax": 1,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "AirborneMask",
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "AmmoBox",
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "FAL",
+                    "m_QuantityMax": 1,
+                    "m_Attachments": [
+                        "Fal_OeBttstck"
+                    ]
+                },
+                {
+                    "m_Item": "Mag_AKM_Drum75Rnd",
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Mag_CMAG_40Rnd",
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "BurlapSack",
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Mag_Deagle_9rnd",
+                    "m_QuantityMax": 3,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Mag_STANAG_60Rnd",
+                    "m_QuantityMax": 3,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Mag_Saiga_Drum20Rnd",
+                    "m_QuantityMax": 3,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "SVD",
+                    "m_QuantityMax": 1,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Scout_Chernarus",
+                    "m_QuantityMax": 1,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "M4A1",
+                    "m_QuantityMax": 1,
+                    "m_Attachments": [
+                        "M4_MPBttstck"
+                    ]
+                },
+                {
+                    "m_Item": "Saiga",
+                    "m_QuantityMax": 1,
+                    "m_Attachments": [
+                        "Saiga_Bttstck"
+                    ]
+                }
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "ZmbM_CitizenASkinny_Red",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_White",
+                "Animal_CanisLupus_White",
+                "Animal_UrsusArctos"
+            ]
+        }
+    ]
+}

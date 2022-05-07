@@ -1,0 +1,702 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-2-19_0-0-58
+====================================================================================
+0:0:58 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+0:0:58 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+0:0:58 | [PermissionManager] Perm (FreeCamera) has been registered!
+0:0:58 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuItemManager) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuServerManager) has been registered!
+0:0:58 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+0:0:58 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+0:0:58 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+0:0:58 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+0:0:58 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+0:0:58 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+0:0:58 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+0:0:58 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+0:0:58 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+0:0:58 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+0:0:58 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+0:0:58 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+0:0:58 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+0:0:58 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+0:0:58 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+0:0:58 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+0:0:58 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+0:0:58 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+0:0:58 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+0:0:58 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+0:0:58 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+0:0:58 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+0:0:58 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+0:0:58 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+0:0:58 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+0:0:58 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+0:0:58 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+0:0:58 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+0:0:58 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+0:0:58 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+0:0:58 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+0:0:58 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+0:0:58 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuBansManager) has been registered!
+0:0:58 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+0:0:58 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+0:0:58 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+0:0:58 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+0:0:58 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+0:0:58 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+0:0:58 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+0:0:58 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+0:0:58 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+0:0:58 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+0:0:58 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+0:0:58 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+0:0:58 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+0:0:58 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+0:0:58 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+0:0:58 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+0:0:58 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+0:0:58 | [PermissionManager] Adding Super Admin (76561198253386609)
+0:0:58 | [PermissionManager] Adding Super Admin (76561198442072760)
+0:0:58 | [PermissionManager] Adding Super Admin (76561198950594742)
+0:0:58 | [PermissionManager] Adding Super Admin (76561198329721265)
+0:0:58 | [PermissionManager] Loaded UserGroups.json
+0:0:58 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+0:0:58 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+0:0:58 | Building Sets Loaded: 1
+0:0:58 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+0:0:58 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+0:0:58 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+0:0:58 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+0:0:58 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+0:0:58 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+0:0:58 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+0:0:58 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+0:0:58 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+0:0:58 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+0:0:58 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+0:0:58 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+0:0:58 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+0:0:58 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+0:0:58 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+0:2:10 | Player "[guri]n31t0n" (steamId=76561198046649849) connected to server!
+0:2:11 | Player "Pontaria" (steamId=76561198432710490) connected to server!
+0:2:11 | Player "[GURI]-BRUXO" (steamId=76561198140728342) connected to server!
+0:2:12 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) connected to server!
+0:2:12 | Player "[Mercenarios] Rambo" (steamId=76561198375135263) connected to server!
+0:2:12 | Player "[GURI]-TinkWink" (steamId=76561198170630445) connected to server!
+0:2:12 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) connected to server!
+0:2:14 | Player "Lend" (steamId=76561198268537009) connected to server!
+0:2:14 | Player "=FURY=InfantiDF" (steamId=76561198283309946) connected to server!
+0:2:16 | Player "[Mercenarios] Chines Angolano" (steamId=76561198128636633) connected to server!
+0:2:42 | Player "[guri]n31t0n" (steamId=76561198046649849) connected to server!
+0:2:42 | Player "[Mercenarios] Rambo" (steamId=76561198375135263) connected to server!
+0:2:42 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) connected to server!
+0:2:42 | Player "Pontaria" (steamId=76561198432710490) connected to server!
+0:2:42 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) connected to server!
+0:2:42 | Player "[GURI]-TinkWink" (steamId=76561198170630445) connected to server!
+0:2:42 | Player "[GURI]-BRUXO" (steamId=76561198140728342) connected to server!
+0:2:46 | Player "TcheuS" (steamId=76561198317193038) connected to server!
+0:2:47 | Player "Lend" (steamId=76561198268537009) connected to server!
+0:2:49 | Player "MBrown" (steamId=76561198834441216) connected to server!
+0:2:49 | Player "TataN" (steamId=76561198967995861) connected to server!
+0:2:49 | Player "<AVG>TaldoTMs" (steamId=76561197963645902) connected to server!
+0:2:50 | Player "=FURY=KABUT" (steamId=76561198877070289) connected to server!
+0:2:51 | Player "(mercenarios)vKILLERz" (steamId=76561198849938878) connected to server!
+0:2:52 | Player "CABOBRANCO" (steamId=76561198057389190) connected to server!
+0:2:53 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) connected to server!
+0:2:53 | Player "TcheuS" (steamId=76561198317193038) connected to server!
+0:2:56 | Player "=FURY=eBrZ1K4" (steamId=76561199105670985) connected to server!
+0:2:57 | Player "MBrown" (steamId=76561198834441216) connected to server!
+0:2:59 | Player "<AVG>TaldoTMs" (steamId=76561197963645902) connected to server!
+0:3:0 | Player "<AVG>Marquinho" (steamId=76561198925056081) connected to server!
+0:3:1 | Player "=FURY=InfantiDF" (steamId=76561198283309946) connected to server!
+0:3:1 | Player "[Mercenarios] Chines Angolano" (steamId=76561198128636633) connected to server!
+0:3:4 | Player "TataN" (steamId=76561198967995861) connected to server!
+0:3:4 | Player "<AVG> CEBOLA" (steamId=76561198031925978) connected to server!
+0:3:5 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) connected to server!
+0:3:6 | Player "<AVG>Lampiao" (steamId=76561199031402791) connected to server!
+0:3:7 | Player "ADM-MARK" (steamId=76561198950594742) connected to server!
+0:3:9 | Player "Survivor" (steamId=76561198084896565) connected to server!
+0:3:13 | Player "CABOBRANCO" (steamId=76561198057389190) connected to server!
+0:3:14 | Player "LuN" (steamId=76561198355678780) connected to server!
+0:3:15 | Player "=FURY=eBrZ1K4" (steamId=76561199105670985) connected to server!
+0:3:17 | Player "<AVG>Marquinho" (steamId=76561198925056081) connected to server!
+0:3:17 | Player "=FURY=KABUT" (steamId=76561198877070289) connected to server!
+0:3:20 | Player "[TROLHA] Hodag" (steamId=76561198136545685) connected to server!
+0:3:23 | Player "ADM-MARK" (steamId=76561198950594742) connected to server!
+0:3:24 | Player "[SCD] Coringa" (steamId=76561198133211909) connected to server!
+0:3:27 | Player "<AVG> CEBOLA" (steamId=76561198031925978) connected to server!
+0:3:28 | Player "<AVG>Lampiao" (steamId=76561199031402791) connected to server!
+0:3:28 | Player "Survivor" (steamId=76561198084896565) connected to server!
+0:3:28 | Player "[TROLHA] Hodag" (steamId=76561198136545685) connected to server!
+0:3:35 | Player "LuN" (steamId=76561198355678780) connected to server!
+0:3:36 | Player "[SCD] Coringa" (steamId=76561198133211909) connected to server!
+0:3:47 | Player "W" (steamId=76561198245343656) connected to server!
+0:3:51 | [WeatherManager] Send Data Count is 0
+0:3:55 | [Time Manager] Setting Date to 2022/9/20 8:30
+0:3:59 | Player "W" (steamId=76561198245343656) connected to server!
+0:4:1 | Player "Rick Linguisao" (steamId=76561198123446009) connected to server!
+0:4:10 | Player "Rick Linguisao" (steamId=76561198123446009) connected to server!
+0:4:17 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+0:4:21 | Player "=FURY= GabyZik4" (steamId=76561198177159459) connected to server!
+0:4:23 | Player "KOREA" (steamId=76561198253386609) connected to server!
+0:4:26 | Player "[SDC]pistoleiro" (steamId=76561198046104047) connected to server!
+0:4:29 | Player "=FURY= GabyZik4" (steamId=76561198177159459) connected to server!
+0:4:36 | Player "[SDC]pistoleiro" (steamId=76561198046104047) connected to server!
+0:4:54 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) connected to server!
+0:5:0 | Player "[Mercenarios] MauriLim" (steamId=76561198054045761) connected to server!
+0:5:8 | Player "[Mercenarios] MauriLim" (steamId=76561198054045761) connected to server!
+0:5:15 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) connected to server!
+0:6:29 | Player "KOREA" (steamId=76561198253386609) connected to server!
+0:6:44 | Player "[LMM] Menor Costelinha" (steamId=76561198070585796) connected to server!
+0:6:45 | "KOREA" (steamid=76561198253386609) toggled godmode
+0:7:29 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:7:43 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:7:43 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+0:7:43 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+0:7:43 | [BuildingSetManager] Deleted file: NewSet
+0:7:43 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:7:43 | Player "[LMM] Menor Costelinha" (steamId=76561198070585796) connected to server!
+0:7:44 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:8:4 | "ADM-MARK" (steamid=76561198950594742) healed player (steamid=76561198950594742)
+0:8:5 | "ADM-MARK" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+0:8:7 | Player "=FURY=Brunner" (steamId=76561199031638818) connected to server!
+0:8:27 | Player "=FURY=Brunner" (steamId=76561199031638818) connected to server!
+0:9:2 | Player "=FURY=eBrZ1K4" (steamId=76561199105670985) disconnected from server.
+0:9:3 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:9:9 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:9:28 | Player "=FURY=eBrZ1K4" (steamId=76561199105670985) connected to server!
+0:9:46 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:9:46 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+0:9:46 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+0:9:46 | [BuildingSetManager] Deleted file: NewSet
+0:9:46 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:10:21 | Player "Survivor (2)" (steamId=76561199234112690) connected to server!
+0:11:26 | Player "Survivor (2)" (steamId=76561199234112690) disconnected from server.
+0:11:29 | Player "Survivor (2)" (steamId=76561199234112690) disconnected from server.
+0:13:40 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<4204.989746, 318.189880, 7764.643066>)
+0:13:45 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+0:14:18 | Player "KOREA" (steamId=76561198253386609) disconnected from server.
+0:14:39 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+0:16:41 | Player "YANKE[OGD]" (steamId=76561199133999774) connected to server!
+0:16:42 | Player "Sueguero[OGD]" (steamId=76561198138666335) connected to server!
+0:16:48 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:16:48 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+0:16:48 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+0:16:48 | [BuildingSetManager] Deleted file: NewSet
+0:16:48 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:16:50 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+0:16:59 | Player "YANKE[OGD]" (steamId=76561199133999774) connected to server!
+0:17:3 | Player "Sueguero[OGD]" (steamId=76561198138666335) connected to server!
+0:17:20 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+0:20:46 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:20:46 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+0:20:46 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+0:20:46 | [BuildingSetManager] Deleted file: NewSet
+0:20:46 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:20:55 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:20:55 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+0:20:55 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+0:20:55 | [BuildingSetManager] Deleted file: NewSet
+0:20:55 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:21:10 | Player "=FURY=KABUT" (steamId=76561198877070289) disconnected from server.
+0:21:44 | Player "=FURY=KABUT" (steamId=76561198877070289) connected to server!
+0:21:58 | Player "=FURY=KABUT" (steamId=76561198877070289) connected to server!
+0:22:32 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:22:32 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+0:22:32 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+0:22:32 | [BuildingSetManager] Deleted file: NewSet
+0:22:32 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:23:7 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:23:7 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+0:23:7 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+0:23:7 | [BuildingSetManager] Deleted file: NewSet
+0:23:7 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:23:10 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4203.806152, 318.156281, 7766.459473>)
+0:23:10 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+0:23:28 | Player "(GRM)  Zed_tc" (steamId=76561199004802857) connected to server!
+0:23:30 | Player "Pontaria" (steamId=76561198432710490) disconnected from server.
+0:23:32 | Player "Pontaria" (steamId=76561198432710490) re-connected to server [canceledLogout]
+0:23:37 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_wall_big_Kit)
+0:23:37 | Player "[TROLHA] Hodag" (steamId=76561198136545685) disconnected from server.
+0:23:39 | Player "[TROLHA] Hodag" (steamId=76561198136545685) disconnected from server.
+0:23:54 | Player "Pontaria" (steamId=76561198432710490) disconnected from server.
+0:23:55 | Player "Pontaria" (steamId=76561198432710490) disconnected from server.
+0:24:42 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (AdminHatchet)
+0:24:42 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (AdminHatchet)
+0:24:45 | Player "(GRM)  Zed_tc" (steamId=76561199004802857) connected to server!
+0:24:48 | Player "LuN" (steamId=76561198355678780) disconnected from server.
+0:26:3 | "ADM-MARK" (steamid=76561198950594742) deleted object "dp_wall_big" (pos=<4197.793945, 317.914124, 7759.589844>)
+0:27:24 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (FenceKit)
+0:28:11 | Player "[MDP] V i n i" (steamId=76561198068205013) connected to server!
+0:28:28 | Player "[MDP] V i n i" (steamId=76561198068205013) connected to server!
+0:31:23 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+0:31:40 | "ADM-MARK" (steamid=76561198950594742) deleted object "dp_wall_big" (pos=<4198.987305, 318.190216, 7754.527832>)
+0:31:42 | "ADM-MARK" (steamid=76561198950594742) deleted object "vbldr_rock_bright_monolith1" (pos=<4202.709961, 308.993988, 7761.200195>)
+0:31:44 | "ADM-MARK" (steamid=76561198950594742) deleted object "dp_wall_big" (pos=<4197.353027, 317.887482, 7759.608398>)
+0:31:45 | "ADM-MARK" (steamid=76561198950594742) deleted object "vbldr_rock_bright_monolith1" (pos=<4198.859863, 308.924988, 7757.109863>)
+0:31:46 | "ADM-MARK" (steamid=76561198950594742) deleted object "vbldr_rock_bright_monolith1" (pos=<4190.850098, 303.889008, 7768.799805>)
+0:31:48 | "ADM-MARK" (steamid=76561198950594742) deleted object "vbldr_rock_bright_monolith1" (pos=<4209.779785, 309.178009, 7754.080078>)
+0:31:49 | "ADM-MARK" (steamid=76561198950594742) deleted object "Land_Castle_Bergfrit" (pos=<4209.609863, 330.252014, 7756.049805>)
+0:31:50 | "ADM-MARK" (steamid=76561198950594742) deleted object "Fence" (pos=<4200.901855, 320.273438, 7762.995605>)
+0:31:52 | "ADM-MARK" (steamid=76561198950594742) deleted object "bldr_wall_gate_cgry" (pos=<4204.339844, 320.855011, 7762.080078>)
+0:31:52 | Player "[guri]n31t0n" (steamId=76561198046649849) disconnected from server.
+0:31:53 | "ADM-MARK" (steamid=76561198950594742) deleted object "Land_Castle_Stairs" (pos=<4197.609863, 320.332001, 7760.299805>)
+0:31:54 | Player "[guri]n31t0n" (steamId=76561198046649849) disconnected from server.
+0:31:54 | "ADM-MARK" (steamid=76561198950594742) deleted object "vbldr_rock_bright_monolith3" (pos=<4182.899902, 302.079987, 7780.740234>)
+0:32:12 | "ADM-MARK" (steamid=76561198950594742) deleted building set (NewSet)
+0:32:15 | "ADM-MARK" (steamid=76561198950594742) deleted object "Fence" (pos=<4200.950195, 318.106567, 7762.984863>)
+0:32:31 | Player "[guri]n31t0n" (steamId=76561198046649849) connected to server!
+0:32:46 | Player "[guri]n31t0n" (steamId=76561198046649849) connected to server!
+0:33:10 | Player "{KMG}-Rockeiro-" (steamId=76561198928581570) connected to server!
+0:33:24 | Player "{KMG}-Rockeiro-" (steamId=76561198928581570) connected to server!
+0:34:16 | Player "Sueguero[OGD]" (steamId=76561198138666335) disconnected from server.
+0:34:18 | Player "Sueguero[OGD]" (steamId=76561198138666335) disconnected from server.
+0:34:31 | Player "Survivor" (steamId=76561198084896565) disconnected from server.
+0:34:33 | Player "Survivor" (steamId=76561198084896565) disconnected from server.
+0:34:35 | Player "{KMG}fuzil." (steamId=76561198965933878) connected to server!
+0:34:56 | Player "{KMG}fuzil." (steamId=76561198965933878) connected to server!
+0:34:56 | Player "ADM Firewall" (steamId=76561198329721265) connected to server!
+0:34:57 | Player "Menor Infrator" (steamId=76561199002430687) connected to server!
+0:35:4 | Player "YANKE[OGD]" (steamId=76561199133999774) disconnected from server.
+0:35:11 | Player "ADM Firewall" (steamId=76561198329721265) connected to server!
+0:35:20 | Player "Menor Infrator" (steamId=76561199002430687) connected to server!
+0:35:24 | "ADM Firewall" (steamid=76561198329721265) toggled godmode
+0:35:39 | Player "ADM-MARK" (steamId=76561198950594742) disconnected from server.
+0:36:45 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:37:32 | Player "Lancastel" (steamId=76561199103114870) connected to server!
+0:37:53 | Player "Lancastel" (steamId=76561199103114870) connected to server!
+0:39:17 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:40:44 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:40:55 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:41:45 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:41:52 | Player "MBrown" (steamId=76561198834441216) disconnected from server.
+0:42:22 | "ADM Firewall" (steamid=76561198329721265) teleported to crosshair (pos=<12728.826172, 6.014080, 9706.134766>)
+0:42:23 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:42:26 | Player "ADM Firewall" (steamId=76561198329721265) disconnected from server.
+0:42:26 | Player "ADM Firewall" (steamId=76561198329721265) re-connected to server [canceledLogout]
+0:42:26 | Player "ADM Firewall" (steamId=76561198329721265) re-connected to server [canceledLogout]
+0:43:31 | Player "Survivor" (steamId=76561198084896565) connected to server!
+0:43:41 | Player "Survivor" (steamId=76561198084896565) connected to server!
+0:45:14 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:45:28 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:46:1 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) connected to server!
+0:46:21 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) connected to server!
+0:47:59 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:48:7 | "ADM Firewall" (steamid=76561198329721265) teleported to crosshair (pos=<13107.945313, 6.135862, 10438.451172>)
+0:48:8 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:49:52 | "ADM Firewall" (steamid=76561198329721265) Spawned Item: (dp_plantsbox_brown)
+0:49:55 | "ADM Firewall" (steamid=76561198329721265) deleted object "dp_plantsbox_brown" (pos=<13105.759766, 6.154339, 10439.076172>)
+0:50:9 | "ADM Firewall" (steamid=76561198329721265) Spawned Item: (dp_box_small_Tan)
+0:50:22 | "ADM Firewall" (steamid=76561198329721265) Spawned Item: (dp_box_big_Brown)
+0:50:25 | "ADM Firewall" (steamid=76561198329721265) Spawned Item: (dp_box_big_Brown)
+0:50:40 | Player "FAEL" (steamId=76561199009725445) connected to server!
+0:50:51 | Player "Lancastel" (steamId=76561199103114870) disconnected from server.
+0:51:2 | Player "FAEL" (steamId=76561199009725445) connected to server!
+0:51:26 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) disconnected from server.
+0:51:35 | "ADM Firewall" (steamid=76561198329721265) Spawned Item: (dp_box_big_Brown)
+0:51:36 | "ADM Firewall" (steamid=76561198329721265) Spawned Item: (dp_box_big_Grey)
+0:51:37 | "ADM Firewall" (steamid=76561198329721265) Spawned Item: (dp_box_big_Green)
+0:51:38 | "ADM Firewall" (steamid=76561198329721265) Spawned Item: (dp_box_big_Olive)
+0:51:38 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) disconnected from server.
+0:51:44 | Player "[guri]n31t0n" (steamId=76561198046649849) disconnected from server.
+0:51:52 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) connected to server!
+0:51:54 | Player "CaPintaum" (steamId=76561198388198368) connected to server!
+0:52:4 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) connected to server!
+0:52:12 | Player "[guri]n31t0n" (steamId=76561198046649849) connected to server!
+0:52:25 | Player "[guri]n31t0n" (steamId=76561198046649849) connected to server!
+0:53:29 | Player "WARDOGS" (steamId=76561199046735504) connected to server!
+0:53:41 | Player "WARDOGS" (steamId=76561199046735504) connected to server!
+0:53:43 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:53:58 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:54:2 | Player "Snow" (steamId=76561199104246317) connected to server!
+0:54:7 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:54:18 | Player "Snow" (steamId=76561199104246317) connected to server!
+0:54:20 | "ADM Firewall" (steamid=76561198329721265) teleported to crosshair (pos=<12724.701172, 6.014080, 9709.958008>)
+0:54:21 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:54:23 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:54:24 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:54:51 | Player "FAEL" (steamId=76561199009725445) disconnected from server.
+0:55:14 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:55:21 | "ADM Firewall" (steamid=76561198329721265) teleported to crosshair (pos=<13108.756836, 6.135583, 10443.122070>)
+0:55:21 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:55:25 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:55:31 | Player "[Mercenarios] Paje" (steamId=76561198199599815) connected to server!
+0:55:33 | "ADM Firewall" (steamid=76561198329721265) teleported to crosshair (pos=<12723.343750, 6.014080, 9710.632813>)
+0:55:34 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:55:35 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:55:37 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:56:45 | Player "[LMM] Menor Toscano" (steamId=76561198133820488) connected to server!
+0:56:47 | Player "[Mercenarios] Paje" (steamId=76561198199599815) connected to server!
+0:56:54 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:57:2 | "ADM Firewall" (steamid=76561198329721265) teleported to crosshair (pos=<13109.120117, 6.135457, 10443.035156>)
+0:57:3 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:57:6 | Player "[LMM] Menor Toscano" (steamId=76561198133820488) connected to server!
+0:57:39 | Player "MINERO" (steamId=76561198197065670) connected to server!
+0:57:46 | "ADM Firewall" (steamid=76561198329721265) teleported to crosshair (pos=<13106.910156, 6.136220, 10429.750977>)
+0:58:2 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:58:9 | "ADM Firewall" (steamid=76561198329721265) teleported to crosshair (pos=<12724.552734, 6.014080, 9709.913086>)
+0:58:11 | "ADM Firewall" (steamid=76561198329721265) teleported to crosshair (pos=<12724.552734, 6.014080, 9709.913086>)
+0:58:12 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+0:58:45 | "ADM Firewall" (steamid=76561198329721265) Spawned Item: (Screwdriver)
+0:59:23 | Player "(mercenarios)vKILLERz" (steamId=76561198849938878) connected to server!
+1:0:30 | "ADM Firewall" (steamid=76561198329721265) Spawned Item: (dp_metcabinet_Kit)
+1:0:45 | "ADM Firewall" (steamid=76561198329721265) deleted object "dp_metcabinet" (pos=<12720.308594, 6.215740, 9709.645508>)
+1:0:48 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:0:55 | "ADM Firewall" (steamid=76561198329721265) teleported to crosshair (pos=<13113.073242, 6.134092, 10447.541016>)
+1:0:56 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:1:28 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:1:31 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:1:39 | Player "Guhenf" (steamId=76561198088272569) connected to server!
+1:2:1 | Player "Guhenf" (steamId=76561198088272569) connected to server!
+1:2:9 | Player "[Mercenarios] MauriLim" (steamId=76561198054045761) disconnected from server.
+1:3:53 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:3:56 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:9:21 | Player "Guhenf" (steamId=76561198088272569) disconnected from server.
+1:13:19 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:14:27 | "ADM Firewall" (steamid=76561198329721265) teleported to crosshair (pos=<10626.024414, 169.865723, 13744.251953>)
+1:14:28 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:14:31 | Player "ADM Firewall" (steamId=76561198329721265) disconnected from server.
+1:14:32 | Player "ADM Firewall" (steamId=76561198329721265) re-connected to server [canceledLogout]
+1:14:32 | Player "ADM Firewall" (steamId=76561198329721265) re-connected to server [canceledLogout]
+1:14:39 | Player "BRUXAO" (steamId=76561198076565680) connected to server!
+1:14:44 | "ADM Firewall" (steamid=76561198329721265) just updated a health stat on (steamid=76561198329721265)
+1:14:47 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:15:33 | "ADM Firewall" (steamid=76561198329721265) teleported to crosshair (pos=<10538.493164, 74.106026, 14308.836914>)
+1:15:34 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:15:37 | Player "ADM Firewall" (steamId=76561198329721265) disconnected from server.
+1:15:37 | Player "ADM Firewall" (steamId=76561198329721265) re-connected to server [canceledLogout]
+1:15:42 | Player "ADM Firewall" (steamId=76561198329721265) disconnected from server.
+1:15:43 | Player "ADM Firewall" (steamId=76561198329721265) re-connected to server [canceledLogout]
+1:15:49 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:15:57 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:16:19 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:16:20 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:16:23 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:16:54 | Player "ADM Firewall" (steamId=76561198329721265) disconnected from server.
+1:17:56 | Player "ADM Firewall" (steamId=76561198329721265) connected to server!
+1:18:19 | Player "ADM Firewall" (steamId=76561198329721265) connected to server!
+1:18:27 | "ADM Firewall" (steamid=76561198329721265) toggled godmode
+1:18:34 | "ADM Firewall" (steamid=76561198329721265) just updated a health stat on (steamid=76561198329721265)
+1:18:53 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:19:9 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:19:18 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:19:45 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:19:57 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:20:6 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:20:14 | Player "Myrage" (steamId=76561199082905892) connected to server!
+1:20:25 | Player "Myrage (2)" (steamId=76561198097286760) connected to server!
+1:20:29 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:20:52 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:21:31 | "ADM Firewall" (steamid=76561198329721265) Spawned Item: (Winchester70)
+1:21:42 | "ADM Firewall" (steamid=76561198329721265) Spawned Item: (Ammo_308Win)
+1:21:59 | Player "Myrage" (steamId=76561199082905892) disconnected from server.
+1:22:0 | "ADM Firewall" (steamid=76561198329721265) teleported to crosshair (pos=<11359.936523, 46.522186, 14469.439453>)
+1:22:1 | "ADM Firewall" (steamid=76561198329721265) teleported to crosshair (pos=<11332.998047, 47.268467, 14468.524414>)
+1:22:3 | "ADM Firewall" (steamid=76561198329721265) teleported to crosshair (pos=<11304.802734, 48.093307, 14463.476563>)
+1:22:20 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:22:22 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:22:36 | Player "[Mercenarios] MauriLim" (steamId=76561198054045761) connected to server!
+1:22:49 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:22:55 | Player "[Mercenarios] MauriLim" (steamId=76561198054045761) connected to server!
+1:24:3 | Player "ADM Firewall" (steamId=76561198329721265) disconnected from server.
+1:25:14 | Player "ADM Firewall" (steamId=76561198329721265) connected to server!
+1:25:41 | Player "ADM Firewall" (steamId=76561198329721265) connected to server!
+1:25:44 | "ADM Firewall" (steamid=76561198329721265) toggled godmode
+1:25:52 | "ADM Firewall" (steamid=76561198329721265) just updated a health stat on (steamid=76561198329721265)
+1:26:9 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:26:33 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:26:53 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:28:38 | Player "=FURY= GabyZik4" (steamId=76561198177159459) disconnected from server.
+1:28:43 | Player "[FARM]RIBEIRO" (steamId=76561198998920846) connected to server!
+1:28:59 | Player "[FARM]RIBEIRO" (steamId=76561198998920846) connected to server!
+1:29:11 | Player "=FURY= GabyZik4" (steamId=76561198177159459) connected to server!
+1:29:22 | Player "=FURY= GabyZik4" (steamId=76561198177159459) connected to server!
+1:32:32 | Player "[MENINO] blink" (steamId=76561198047487553) connected to server!
+1:32:59 | Player "ADM Firewall" (steamId=76561198329721265) disconnected from server.
+1:34:59 | Player "ADM Firewall" (steamId=76561198329721265) connected to server!
+1:35:25 | Player "ADM Firewall" (steamId=76561198329721265) connected to server!
+1:35:27 | "ADM Firewall" (steamid=76561198329721265) toggled godmode
+1:36:24 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:37:26 | Player "[LMM] Menor Costelinha" (steamId=76561198070585796) disconnected from server.
+1:37:28 | Player "TcheuS" (steamId=76561198317193038) disconnected from server.
+1:37:29 | Player "TcheuS" (steamId=76561198317193038) disconnected from server.
+1:37:31 | Player "Survivor" (steamId=76561198084896565) disconnected from server.
+1:38:42 | Player "Survivor" (steamId=76561198084409322) connected to server!
+1:39:5 | Player "BRUXAO" (steamId=76561198076565680) disconnected from server.
+1:39:7 | Player "BRUXAO" (steamId=76561198076565680) disconnected from server.
+1:40:5 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:40:7 | Player "Guhenf" (steamId=76561198088272569) connected to server!
+1:40:20 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:40:27 | Player "Guhenf" (steamId=76561198088272569) connected to server!
+1:40:30 | Player "ADM-MARK" (steamId=76561198950594742) connected to server!
+1:40:31 | Player "Vesp*o" (steamId=76561198314592765) connected to server!
+1:41:20 | Player "ADM-MARK" (steamId=76561198950594742) connected to server!
+1:42:19 | Player "Eduardo Kremer" (steamId=76561198080942626) connected to server!
+1:42:45 | Player "=FURY=CrN" (steamId=76561198100945209) connected to server!
+1:43:12 | "ADM-MARK" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+1:43:20 | Player "=FURY=CrN" (steamId=76561198100945209) connected to server!
+1:43:47 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+1:44:18 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:44:22 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:44:40 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:44:41 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:45:11 | Player "Havaianos" (steamId=76561198128780952) connected to server!
+1:45:29 | Player "Havaianos" (steamId=76561198128780952) connected to server!
+1:45:59 | Player "[MENINO] blink" (steamId=76561198047487553) disconnected from server.
+1:47:36 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+1:47:44 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+1:48:5 | Player "[CMDs]MrZulu" (steamId=76561198133335010) connected to server!
+1:49:6 | Player "[Mercenarios] Paje" (steamId=76561198199599815) disconnected from server.
+1:49:7 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+1:49:9 | Player "[Mercenarios] Paje" (steamId=76561198199599815) disconnected from server.
+1:49:19 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (NVGHeadstrap)
+1:49:20 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (NVGHeadstrap)
+1:49:41 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (NVGoggles)
+1:49:42 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (NVGoggles)
+1:49:58 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (Battery9V)
+1:49:58 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (Battery9V)
+1:49:58 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (Battery9V)
+1:50:22 | Player "Guhenf" (steamId=76561198088272569) disconnected from server.
+1:50:29 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+1:50:37 | Player "[CMDs]MrZulu" (steamId=76561198133335010) connected to server!
+1:52:36 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:52:53 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:53:39 | Player "[FARM]NATO" (steamId=76561199083641388) connected to server!
+1:53:46 | Player "Vesp*o" (steamId=76561198314592765) disconnected from server.
+1:53:52 | Player "Vesp*o" (steamId=76561198314592765) disconnected from server.
+1:54:15 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:54:15 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:54:34 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:54:34 | [WeatherManager] Send Data Count is 0
+1:54:36 | [WeatherManager] Send Data Count is 0
+1:54:54 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+1:55:6 | Player "[FARM]NATO" (steamId=76561199083641388) connected to server!
+1:57:16 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+1:57:27 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+1:59:34 | Player "=FURY=InfantiDF" (steamId=76561198283309946) disconnected from server.
+1:59:37 | Player "Sebastiao Genuino" (steamId=76561197987774453) connected to server!
+2:0:36 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+2:0:47 | "ADM-MARK": (steamid=76561198950594742) teleported to (pos=1699.13,0,15329.9)
+2:0:59 | Player "ADM Firewall" (steamId=76561198329721265) disconnected from server.
+2:1:11 | Player "Rick Linguisao" (steamId=76561198123446009) disconnected from server.
+2:1:15 | Player "W" (steamId=76561198245343656) disconnected from server.
+2:1:17 | Player "W" (steamId=76561198245343656) disconnected from server.
+2:2:11 | Player "ADM Firewall" (steamId=76561198329721265) connected to server!
+2:2:37 | Player "ADM Firewall" (steamId=76561198329721265) connected to server!
+2:2:43 | "ADM Firewall" (steamid=76561198329721265) toggled godmode
+2:2:48 | "ADM Firewall" (steamid=76561198329721265) just updated a health stat on (steamid=76561198329721265)
+2:3:12 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:3:41 | Player "ADM-MARK" (steamId=76561198950594742) disconnected from server.
+2:5:19 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:5:20 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:5:20 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:5:23 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:5:25 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:5:27 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:6:33 | Player "Sebastiao Genuino" (steamId=76561197987774453) connected to server!
+2:7:58 | Player "ADM-MARK" (steamId=76561198950594742) connected to server!
+2:9:7 | Player "ADM-MARK" (steamId=76561198950594742) connected to server!
+2:10:12 | "ADM-MARK" (steamid=76561198950594742) toggled godmode
+2:10:12 | "ADM-MARK" (steamid=76561198950594742) toggled godmode
+2:10:12 | "ADM-MARK" (steamid=76561198950594742) toggled godmode
+2:10:13 | "ADM-MARK" (steamid=76561198950594742) toggled godmode
+2:10:14 | "ADM-MARK" (steamid=76561198950594742) toggled godmode
+2:10:15 | "ADM-MARK" (steamid=76561198950594742) toggled godmode
+2:10:16 | "ADM-MARK" (steamid=76561198950594742) toggled godmode
+2:10:17 | "ADM-MARK" (steamid=76561198950594742) toggled godmode
+2:10:19 | "ADM-MARK" (steamid=76561198950594742) deleted object "AC_CargoPants_Admin" (pos=<1679.059692, 448.996216, 15315.247070>)
+2:10:20 | "ADM-MARK" (steamid=76561198950594742) deleted object "AC_TacticalShirt_Admin" (pos=<1679.059692, 448.996216, 15315.247070>)
+2:10:22 | "ADM-MARK" (steamid=76561198950594742) deleted object "AC_MilitaryBoots_Admin" (pos=<1679.059692, 448.999542, 15315.247070>)
+2:10:23 | "ADM-MARK" (steamid=76561198950594742) deleted object "AC_TacticalGloves_Admin" (pos=<1679.059692, 449.072052, 15315.247070>)
+2:10:48 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: Roupa verde has no parrent!
+2:10:48 | "ADM-MARK" (steamid=76561198950594742) spawned preset: (Roupa verde)
+2:11:12 | Player "Guhenf" (steamId=76561198088272569) connected to server!
+2:11:37 | Player "Guhenf" (steamId=76561198088272569) connected to server!
+2:12:28 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4416.113770, 341.672394, 10844.598633>)
+2:12:33 | "ADM-MARK" (steamid=76561198950594742) /heal used on: "ADM-MARK" (steamid=76561198950594742)
+2:12:46 | "ADM-MARK" (steamid=76561198950594742) deleted object "ZmbM_usSoldier_normal_Desert" (pos=<4457.531250, 338.874878, 10838.893555>)
+2:13:12 | "ADM-MARK" (steamid=76561198950594742) deleted object "ZmbM_SoldierNormal" (pos=<4477.392090, 338.901184, 10843.996094>)
+2:13:12 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4471.949707, 338.854004, 10843.948242>)
+2:13:13 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4468.468750, 338.832977, 10854.706055>)
+2:13:13 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4468.347656, 338.832123, 10855.105469>)
+2:13:13 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4468.209473, 338.831024, 10855.626953>)
+2:13:13 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4468.078125, 338.829926, 10856.221680>)
+2:13:13 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4467.940918, 338.828552, 10856.945313>)
+2:13:13 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4467.768066, 338.826782, 10857.948242>)
+2:13:13 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4467.680176, 338.825745, 10858.544922>)
+2:13:13 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4464.519043, 338.806732, 10869.960938>)
+2:13:13 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4464.442871, 338.806396, 10870.201172>)
+2:13:13 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4464.370605, 338.806091, 10870.432617>)
+2:13:13 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4464.328125, 338.805908, 10870.568359>)
+2:13:13 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4464.188965, 338.804871, 10871.332031>)
+2:13:13 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4464.017578, 338.803162, 10872.624023>)
+2:13:13 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4463.771973, 338.801697, 10873.898438>)
+2:13:13 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4461.380859, 338.714874, 10882.602539>)
+2:13:13 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4460.493652, 338.695740, 10885.842773>)
+2:13:32 | "ADM-MARK" (steamid=76561198950594742) deleted object "ZmbM_PatrolNormal_Autumn" (pos=<4462.898926, 338.697266, 10893.625977>)
+2:13:33 | "ADM-MARK" (steamid=76561198950594742) /heal used on: "ADM-MARK" (steamid=76561198950594742)
+2:13:39 | "ADM-MARK" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+2:14:14 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<10196.925781, 174.617462, 13191.316406>)
+2:14:18 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+2:18:47 | Player "[LMM] MarkinTePoca" (steamId=76561199099493699) connected to server!
+2:19:23 | Player "[LMM] MarkinTePoca" (steamId=76561199099493699) connected to server!
+2:19:25 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+2:19:31 | "ADM-MARK": (steamid=76561198950594742) teleported to (pos=10725.3,0,13839.1)
+2:19:48 | "ADM-MARK": (steamid=76561198950594742) teleported to (pos=14373.5,0,13346.7)
+2:19:49 | Player "ADM Firewall" (steamId=76561198329721265) disconnected from server.
+2:20:39 | Player "ADM Firewall" (steamId=76561198329721265) connected to server!
+2:20:41 | Player "ADM-MARK" (steamId=76561198950594742) disconnected from server.
+2:21:5 | Player "ADM Firewall" (steamId=76561198329721265) connected to server!
+2:21:11 | "ADM Firewall" (steamid=76561198329721265) toggled godmode
+2:21:40 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:22:35 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:22:37 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:22:37 | Player "CPT-R" (steamId=76561198456404142) connected to server!
+2:23:13 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:23:15 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:23:20 | Player "Guhenf" (steamId=76561198088272569) disconnected from server.
+2:23:27 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:23:29 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:23:30 | Player "Guhenf" (steamId=76561198088272569) connected to server!
+2:25:13 | Player "{KMG}-Rockeiro-" (steamId=76561198928581570) disconnected from server.
+2:26:15 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:27:35 | Player "KabaL" (steamId=76561198190126350) connected to server!
+2:28:38 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:28:44 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:29:4 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:31:57 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:32:14 | Player "Survivor (2)" (steamId=76561198339311204) connected to server!
+2:32:42 | Player "ADM Firewall" (steamId=76561198329721265) disconnected from server.
+2:32:43 | Player "ADM Firewall" (steamId=76561198329721265) re-connected to server [canceledLogout]
+2:32:48 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:36:48 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:38:36 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:38:46 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:38:48 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:39:23 | Player "ADM-MARK" (steamId=76561198950594742) connected to server!
+2:40:42 | Player "ADM-MARK" (steamId=76561198950594742) connected to server!
+2:40:46 | Player "[FARM]NATO" (steamId=76561199083641388) disconnected from server.
+2:40:46 | Player "[CMDs]MrZulu" (steamId=76561198133335010) disconnected from server.
+2:40:54 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<14323.211914, 3.290001, 13278.674805>)
+2:40:59 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<14311.148438, 3.269195, 13274.956055>)
+2:40:59 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<14306.593750, 3.193050, 13274.708008>)
+2:40:59 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<14306.758789, 3.193199, 13274.638672>)
+2:40:59 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<14306.442383, 3.193270, 13274.622070>)
+2:41:0 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:41:8 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<14299.401367, 4.032583, 13285.107422>)
+2:41:9 | Player "[CMDs]MrZulu" (steamId=76561198133335010) connected to server!
+2:41:12 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<14299.463867, 3.706512, 13285.396484>)
+2:41:13 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<14299.916016, 3.290004, 13281.547852>)
+2:41:13 | Player "[FARM]NATO" (steamId=76561199083641388) connected to server!
+2:41:17 | Player "[CMDs]MrZulu" (steamId=76561198133335010) connected to server!
+2:41:22 | Player "[FARM]NATO" (steamId=76561199083641388) connected to server!
+2:41:39 | Player "CPT-R" (steamId=76561198456404142) disconnected from server.
+2:43:15 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:43:19 | Player "[GURI]-BRUXO" (steamId=76561198140728342) disconnected from server.
+2:43:58 | "ADM-MARK" (steamid=76561198950594742) deleted object "JungleBoots_Green" (pos=<14303.147461, 3.327635, 13273.199219>)
+2:43:59 | "ADM-MARK" (steamid=76561198950594742) deleted object "dp_CargoPants_Pixel" (pos=<14303.147461, 3.322549, 13273.199219>)
+2:44:0 | "ADM-MARK" (steamid=76561198950594742) deleted object "dp_PlateCarrier_Pixel" (pos=<14303.147461, 3.322549, 13273.199219>)
+2:44:1 | "ADM-MARK" (steamid=76561198950594742) deleted object "dp_WarBelt_green" (pos=<14303.147461, 3.318921, 13273.199219>)
+2:44:2 | "ADM-MARK" (steamid=76561198950594742) deleted object "dp_TacticalShirt_Pixel" (pos=<14303.147461, 3.322549, 13273.199219>)
+2:44:4 | "ADM-MARK" (steamid=76561198950594742) deleted object "TacticalGloves_Green" (pos=<14303.147461, 3.324759, 13273.199219>)
+2:44:6 | "ADM-MARK" (steamid=76561198950594742) deleted object "dp_balaclava_pixel" (pos=<14303.147461, 3.401047, 13273.199219>)
+2:44:35 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_6b45_black)
+2:44:37 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+2:44:38 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_6b43_pixel_black)
+2:44:45 | "ADM-MARK" (steamid=76561198950594742) deleted object "dp_6b45_black" (pos=<14303.248047, 3.336133, 13273.376953>)
+2:45:1 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_TacticPants_BLACK)
+2:45:9 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_chemist_bag_black)
+2:45:12 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_buff_black)
+2:45:51 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<14301.292969, 3.201050, 13263.640625>)
+2:45:54 | Player "[GURI]-BRUXO" (steamId=76561198140728342) connected to server!
+2:45:56 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<14301.969727, 3.202885, 13259.880859>)
+2:45:58 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<14301.735352, 3.204325, 13270.172852>)
+2:46:3 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<14302.766602, 3.206833, 13269.082031>)
+2:46:9 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<14301.193359, 3.196972, 13273.272461>)
+2:46:12 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<14298.855469, 3.241195, 13274.909180>)
+2:46:16 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<14309.106445, 3.290000, 13277.044922>)
+2:46:17 | Player "[GURI]-BRUXO" (steamId=76561198140728342) connected to server!
+2:46:25 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<14299.395508, 3.209558, 13268.070313>)
+2:46:28 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<14300.176758, 3.198833, 13272.533203>)
+2:46:30 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<14308.377930, 5.758756, 13274.436523>)
+2:46:32 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<14308.258789, 8.310702, 13277.433594>)
+2:46:40 | "ADM-MARK" (steamid=76561198950594742) /heal used on: "ADM-MARK" (steamid=76561198950594742)
+2:46:45 | "ADM-MARK" (steamid=76561198950594742) /heal used on: "ADM-MARK" (steamid=76561198950594742)
+2:46:46 | "ADM-MARK" (steamid=76561198950594742) /heal used on: "ADM-MARK" (steamid=76561198950594742)
+2:46:49 | Player "[Mercenarios] Rambo" (steamId=76561198375135263) disconnected from server.
+2:46:51 | "ADM-MARK" (steamid=76561198950594742) /heal used on: "ADM-MARK" (steamid=76561198950594742)
+2:47:18 | "ADM-MARK" (steamid=76561198950594742) /heal used on: "ADM-MARK" (steamid=76561198950594742)
+2:47:18 | Player "Guhenf" (steamId=76561198088272569) disconnected from server.
+2:48:5 | Player "CABOBRANCO" (steamId=76561198057389190) disconnected from server.
+2:48:10 | Player "CABOBRANCO" (steamId=76561198057389190) disconnected from server.
+2:48:11 | Player "[guri]n31t0n" (steamId=76561198046649849) disconnected from server.
+2:48:14 | Player "[guri]n31t0n" (steamId=76561198046649849) disconnected from server.
+2:49:8 | Player "=FURY=KABUT" (steamId=76561198877070289) disconnected from server.
+2:49:9 | Player "=FURY=KABUT" (steamId=76561198877070289) re-connected to server [canceledLogout]
+2:49:9 | Player "=FURY=KABUT" (steamId=76561198877070289) re-connected to server [canceledLogout]
+2:49:13 | Player "Lend" (steamId=76561198268537009) disconnected from server.
+2:49:18 | "ADM-MARK" (steamid=76561198950594742) deleted object "dp_chemist_bag_black" (pos=<14032.116211, 18.048780, 11302.670898>)
+2:49:27 | Player "=FURY=KABUT" (steamId=76561198877070289) disconnected from server.
+2:49:29 | "ADM-MARK" (steamid=76561198950594742) healed player (steamid=76561198950594742)
+2:49:29 | Player "=FURY=KABUT" (steamId=76561198877070289) disconnected from server.
+2:49:39 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (Morphine)
+2:49:39 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (Morphine)
+2:50:15 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (MilitaryBoots_Black)
+2:50:31 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (HikingJacket_Black)
+2:50:34 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (RidersJacket_Black)
+2:50:34 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (M65Jacket_Black)
+2:50:44 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_ifak_pouches_black)
+2:50:44 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_ifak_pouches_black)
+2:50:44 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_ifak_pouches_black)
+2:50:45 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_mag_pouches_black)
+2:50:45 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_mag_pouches_black)
+2:50:45 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_mag_pouches_black)
+2:50:45 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_mag_pouches_black)
+2:50:47 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_em_pouches_black)
+2:50:47 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_em_pouches_black)
+2:50:48 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_em_pouches_black)
+2:50:49 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_canteen_black)
+2:50:50 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_canteen_black)
+2:50:50 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_canteen_black)
+2:50:55 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_chemist_bag_black)
+2:50:55 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_military_big_black)
+2:50:56 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_military_small_black)
+2:50:57 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_tourist_black)
+2:51:1 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_jpc_black)
+2:51:2 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_mtv_black)
+2:51:3 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_PlateCarrier_black)
+2:51:4 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_PlateCarrierPouches_black)
+2:51:4 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_PlateCarrierHolster_black)
+2:51:6 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (SportGlasses_Black)
+2:51:9 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_6b23_black)
+2:51:9 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_6b43_pixel_black)
+2:51:10 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_6b45_black)
+2:51:10 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_6b45_black)
+2:51:12 | "ADM-MARK" (steamid=76561198950594742) Spawned Item: (dp_iotv_black)
+2:51:35 | Player "ADM Firewall" (steamId=76561198329721265) disconnected from server.
+2:51:41 | Player "ADM Firewall" (steamId=76561198329721265) disconnected from server.
+2:51:47 | Player "=FURY= GabyZik4" (steamId=76561198177159459) disconnected from server.
+2:52:26 | Player "[GURI]-TinkWink" (steamId=76561198170630445) disconnected from server.

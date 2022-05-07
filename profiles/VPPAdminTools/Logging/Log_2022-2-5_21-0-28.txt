@@ -1,0 +1,593 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-2-5_21-0-28
+====================================================================================
+21:0:28 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+21:0:28 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+21:0:28 | [PermissionManager] Perm (FreeCamera) has been registered!
+21:0:28 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuItemManager) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuServerManager) has been registered!
+21:0:28 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+21:0:28 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+21:0:28 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+21:0:28 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+21:0:28 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+21:0:28 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+21:0:28 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+21:0:28 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+21:0:28 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+21:0:28 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+21:0:28 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+21:0:28 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+21:0:28 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+21:0:28 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+21:0:28 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+21:0:28 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+21:0:28 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+21:0:28 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+21:0:28 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+21:0:28 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+21:0:28 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+21:0:28 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+21:0:28 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+21:0:28 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+21:0:28 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+21:0:28 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+21:0:28 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+21:0:28 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+21:0:28 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+21:0:28 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+21:0:28 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+21:0:28 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+21:0:28 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuBansManager) has been registered!
+21:0:28 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+21:0:28 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+21:0:28 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+21:0:28 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+21:0:28 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+21:0:28 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+21:0:28 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+21:0:28 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+21:0:28 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+21:0:28 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+21:0:28 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+21:0:28 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+21:0:28 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+21:0:28 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+21:0:28 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+21:0:28 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+21:0:28 | [PermissionManager] Adding Super Admin (76561198253386609)
+21:0:28 | [PermissionManager] Adding Super Admin (76561198442072760)
+21:0:28 | [PermissionManager] Adding Super Admin (76561198950594742)
+21:0:28 | [PermissionManager] Loaded UserGroups.json
+21:0:28 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+21:0:28 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+21:0:28 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+21:0:28 | Building Sets Loaded: 0
+21:0:28 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+21:0:28 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+21:0:28 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+21:0:28 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+21:0:28 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+21:0:28 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+21:0:28 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+21:0:28 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+21:0:28 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+21:0:28 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+21:0:28 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+21:0:28 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+21:0:28 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+21:0:28 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+21:0:28 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+21:1:4 | Player "XxLipezinxX" (steamId=76561199090089389) connected to server!
+21:1:6 | Player "[Mercenarios] Rambo" (steamId=76561198375135263) connected to server!
+21:1:7 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) connected to server!
+21:1:11 | Player "[Mercenarios] Chines Angolano" (steamId=76561198128636633) connected to server!
+21:1:15 | Player "[mercenarios] striker" (steamId=76561198801415744) connected to server!
+21:1:32 | Player "XxLipezinxX" (steamId=76561199090089389) connected to server!
+21:1:36 | Player "[Mercenarios] Rambo" (steamId=76561198375135263) connected to server!
+21:1:36 | Player "Condor" (steamId=76561198243470506) connected to server!
+21:1:37 | Player "[mercenarios] striker" (steamId=76561198801415744) connected to server!
+21:1:38 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) connected to server!
+21:1:49 | Player "[Mercenarios] Chines Angolano" (steamId=76561198128636633) connected to server!
+21:1:53 | Player "Condor" (steamId=76561198243470506) connected to server!
+21:2:8 | Player "Survivor" (steamId=76561197977977178) connected to server!
+21:3:3 | Player "Mark" (steamId=76561198950594742) connected to server!
+21:3:19 | Player "Survivor" (steamId=76561197977977178) connected to server!
+21:3:30 | Player "Mark" (steamId=76561198950594742) connected to server!
+21:3:56 | "Mark" (steamid=76561198950594742) toggled freecam
+21:4:28 | Player "Survivor (2)" (steamId=76561199228878387) connected to server!
+21:4:32 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<11994.476563, 32.528862, 14270.323242>)
+21:5:11 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) connected to server!
+21:5:36 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<12166.579102, 37.506496, 14338.913086>)
+21:5:46 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) connected to server!
+21:5:49 | Player "Survivor (2)" (steamId=76561199228878387) connected to server!
+21:6:0 | "Mark" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+21:6:11 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<12158.377930, 78.089928, 14293.489258>)
+21:6:23 | Player "{uwu}" (steamId=76561199162065760) connected to server!
+21:6:25 | "Mark" (steamid=76561198950594742) toggled freecam
+21:7:57 | Player "{uwu}" (steamId=76561199162065760) disconnected from server.
+21:8:26 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) disconnected from server.
+21:8:31 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) disconnected from server.
+21:8:31 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) disconnected from server.
+21:8:35 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) disconnected from server.
+21:8:36 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) disconnected from server.
+21:8:43 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) connected to server!
+21:9:4 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) connected to server!
+21:9:40 | "Mark": (steamid=76561198950594742) teleported to (pos=4422.78,0,2230.08)
+21:9:57 | Player "Survivor (3)" (steamId=76561198233418232) connected to server!
+21:10:17 | Player "Survivor (3)" (steamId=76561198233418232) connected to server!
+21:12:26 | [WeatherManager] Send Data Count is 0
+21:12:31 | [Time Manager] Setting Date to 2022/9/20 9:54
+21:12:59 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4362.056152, 3.026407, 2215.844727>)
+21:12:59 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4357.410156, 3.026407, 2208.114990>)
+21:12:59 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4357.373535, 3.026407, 2208.047607>)
+21:12:59 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4357.330078, 3.026407, 2207.965332>)
+21:12:59 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4357.290039, 3.026407, 2207.890869>)
+21:12:59 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4357.261719, 3.026407, 2207.835938>)
+21:12:59 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4357.231934, 3.026407, 2207.772217>)
+21:12:59 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4357.198730, 3.026407, 2207.706787>)
+21:12:59 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4355.780762, 3.026407, 2205.289063>)
+21:12:59 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4354.368652, 3.026407, 2202.887695>)
+21:13:0 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4347.643555, 3.010201, 2190.231689>)
+21:13:1 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4340.563965, 3.010201, 2176.852295>)
+21:13:2 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4335.869141, 3.010201, 2167.969971>)
+21:13:3 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4330.376465, 3.067568, 2157.524658>)
+21:13:59 | "Mark" (steamid=76561198950594742) Spawned Item: (AdminHatchet)
+21:14:10 | Player "Survivor (4)" (steamId=76561198193011214) connected to server!
+21:14:19 | "Mark" (steamid=76561198950594742) Spawned Item: (FenceKit)
+21:14:20 | "Mark" (steamid=76561198950594742) Spawned Item: (FenceKit)
+21:14:20 | "Mark" (steamid=76561198950594742) Spawned Item: (FenceKit)
+21:14:24 | "Mark" (steamid=76561198950594742) Spawned Item: (WatchtowerKit)
+21:14:25 | "Mark" (steamid=76561198950594742) Spawned Item: (WatchtowerKit)
+21:14:25 | "Mark" (steamid=76561198950594742) Spawned Item: (WatchtowerKit)
+21:14:26 | "Mark" (steamid=76561198950594742) Spawned Item: (WatchtowerKit)
+21:14:26 | "Mark" (steamid=76561198950594742) Spawned Item: (WatchtowerKit)
+21:14:35 | "Mark" (steamid=76561198950594742) Spawned Item: (TerritoryFlagKit)
+21:14:44 | "Mark" (steamid=76561198950594742) Spawned Item: (dp_door_Kit)
+21:14:47 | "Mark" (steamid=76561198950594742) Spawned Item: (dp_door_Kit)
+21:14:47 | "Mark" (steamid=76561198950594742) Spawned Item: (dp_door_Kit)
+21:14:47 | "Mark" (steamid=76561198950594742) Spawned Item: (dp_roof_Kit)
+21:14:48 | "Mark" (steamid=76561198950594742) Spawned Item: (dp_roof_Kit)
+21:14:48 | "Mark" (steamid=76561198950594742) Spawned Item: (dp_roof_Kit)
+21:14:49 | "Mark" (steamid=76561198950594742) Spawned Item: (dp_wall_kit)
+21:14:49 | "Mark" (steamid=76561198950594742) Spawned Item: (dp_wall_kit)
+21:14:49 | "Mark" (steamid=76561198950594742) Spawned Item: (dp_wall_kit)
+21:14:49 | "Mark" (steamid=76561198950594742) Spawned Item: (dp_wall_kit)
+21:14:53 | "Mark" (steamid=76561198950594742) Spawned Item: (dp_window_sheild_kit)
+21:14:53 | "Mark" (steamid=76561198950594742) Spawned Item: (dp_window_sheild_kit)
+21:17:15 | Player "Mark" (steamId=76561198950594742) disconnected from server.
+21:17:58 | Player "Dobon FA" (steamId=76561198873942374) connected to server!
+21:18:34 | Player "Dobon FA" (steamId=76561198873942374) connected to server!
+21:19:18 | Player "Mark" (steamId=76561198950594742) connected to server!
+21:19:39 | Player "Mark" (steamId=76561198950594742) connected to server!
+21:22:7 | Player "BABAYHAGA" (steamId=76561198878034273) connected to server!
+21:22:26 | Player "Survivor (3)" (steamId=76561198233418232) disconnected from server.
+21:22:36 | Player "Survivor (3)" (steamId=76561198233418232) disconnected from server.
+21:22:38 | Player "BABAYHAGA" (steamId=76561198878034273) connected to server!
+21:22:49 | Player "rogerin bala fina" (steamId=76561197999736796) connected to server!
+21:23:46 | Player "Survivor (4)" (steamId=76561198193011214) disconnected from server.
+21:23:48 | Player "Survivor (4)" (steamId=76561198193011214) disconnected from server.
+21:24:5 | Player "rogerin bala fina" (steamId=76561197999736796) connected to server!
+21:27:7 | "Mark" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+21:29:3 | Player "Survivor (3)" (steamId=76561198002534448) connected to server!
+21:29:28 | Player "MrZuluu" (steamId=76561198133335010) connected to server!
+21:29:49 | Player "Survivor (3)" (steamId=76561198002534448) connected to server!
+21:30:35 | Player "MrZuluu" (steamId=76561198133335010) connected to server!
+21:32:17 | Player "Condor" (steamId=76561198243470506) disconnected from server.
+21:33:9 | Player "(CWY) F.A.R.P.S" (steamId=76561198815979156) connected to server!
+21:33:29 | Player "Mark" (steamId=76561198950594742) disconnected from server.
+21:34:4 | Player "(CWY) F.A.R.P.S" (steamId=76561198815979156) connected to server!
+21:35:8 | Player "Mark" (steamId=76561198950594742) connected to server!
+21:35:34 | Player "Mark" (steamId=76561198950594742) connected to server!
+21:36:53 | Player "[Mercenarios] Rambo" (steamId=76561198375135263) disconnected from server.
+21:36:55 | Player "[Mercenarios] Rambo" (steamId=76561198375135263) disconnected from server.
+21:37:2 | "Mark" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+21:39:57 | "Mark" (steamid=76561198950594742) deleted object "MetalPlate" (pos=<4331.445801, 8.631611, 2152.871094>)
+21:42:18 | "Mark" (steamid=76561198950594742) healed player (steamid=76561198133335010)
+21:43:22 | "Mark" (steamid=76561198950594742) healed player (steamid=76561198133335010)
+21:43:24 | "Mark": (steamid=76561198950594742) teleported to (pos=13217.8,0,10108.3)
+21:44:30 | Player "Mark" (steamId=76561198950594742) disconnected from server.
+21:45:39 | Player "Mark" (steamId=76561198950594742) connected to server!
+21:46:11 | Player "Mark" (steamId=76561198950594742) connected to server!
+21:46:46 | "Mark" (steamid=76561198950594742) toggled freecam
+21:46:50 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13220.930664, 5.905664, 10106.146484>)
+21:47:0 | "Mark" (steamid=76561198950594742) toggled freecam
+21:47:21 | "Mark" (steamid=76561198950594742) healed player (steamid=76561198133335010)
+21:47:27 | "Mark" (steamid=76561198950594742) deleted object "dp_balaclava_pixel" (pos=<13221.424805, 6.096325, 10105.889648>)
+21:48:23 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13208.316406, 5.990469, 10123.450195>)
+21:48:31 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13174.467773, 6.235919, 10155.783203>)
+21:50:49 | "Mark": (steamid=76561198950594742) teleported to (pos=4439.97,0,2249.29)
+21:52:7 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4415.324219, 3.028397, 2228.714355>)
+21:52:25 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4356.956055, 3.026407, 2208.357422>)
+21:52:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4348.018066, 3.010201, 2192.768555>)
+21:52:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4340.205078, 3.010201, 2178.665283>)
+21:52:58 | "Mark" (steamid=76561198950594742) deleted object "AdminHatchet" (pos=<4326.590820, 3.080840, 2155.477783>)
+21:53:17 | Player "max" (steamId=76561198253219697) connected to server!
+21:53:43 | Player "Mark" (steamId=76561198950594742) disconnected from server.
+21:53:48 | Player "max" (steamId=76561198253219697) connected to server!
+21:58:41 | Player "Survivor" (steamId=76561197977977178) disconnected from server.
+21:58:42 | Player "Survivor (2)" (steamId=76561199228878387) disconnected from server.
+22:0:3 | Player "Nick" (steamId=76561199077375485) connected to server!
+22:1:7 | Player "Nick" (steamId=76561199077375485) connected to server!
+22:4:30 | Player "Tomodachi" (steamId=76561198950594742) connected to server!
+22:5:22 | Player "Tomodachi" (steamId=76561198950594742) connected to server!
+22:5:28 | Player "Dobon FA" (steamId=76561198873942374) disconnected from server.
+22:5:31 | Player "Dobon FA" (steamId=76561198873942374) disconnected from server.
+22:7:2 | Player "XxLipezinxX" (steamId=76561199090089389) disconnected from server.
+22:7:6 | Player "XxLipezinxX" (steamId=76561199090089389) disconnected from server.
+22:8:47 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (AdminHatchet)
+22:11:5 | Player "Ricardo Tomaz" (steamId=76561198063313446) connected to server!
+22:12:45 | Player "Ricardo Tomaz" (steamId=76561198063313446) disconnected from server.
+22:12:55 | Player "Ricardo Tomaz" (steamId=76561198063313446) disconnected from server.
+22:12:55 | Player "Ricardo Tomaz" (steamId=76561198063313446) disconnected from server.
+22:12:55 | Player "Ricardo Tomaz" (steamId=76561198063313446) disconnected from server.
+22:13:32 | Player "SniperBrasileiro " (steamId=76561198876185496) connected to server!
+22:14:2 | Player "rogerin bala fina" (steamId=76561197999736796) disconnected from server.
+22:14:7 | Player "Ricardo Tomaz" (steamId=76561198063313446) connected to server!
+22:14:33 | Player "Ricardo Tomaz" (steamId=76561198063313446) connected to server!
+22:14:39 | Player "SniperBrasileiro " (steamId=76561198876185496) connected to server!
+22:15:47 | Player "BABAYHAGA" (steamId=76561198878034273) disconnected from server.
+22:15:50 | Player "BABAYHAGA" (steamId=76561198878034273) disconnected from server.
+22:17:4 | Player "Baka182" (steamId=76561198283309946) connected to server!
+22:20:54 | "Tomodachi": (steamid=76561198950594742) teleported to (pos=4170.97,0,10727)
+22:21:12 | "Tomodachi" (steamid=76561198950594742) /heal used on: "Tomodachi" (steamid=76561198950594742)
+22:22:20 | "Tomodachi": (steamid=76561198950594742) teleported to (pos=4462.95,0,2259.5)
+22:22:29 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4433.154785, 4.206040, 2230.738037>)
+22:22:30 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4416.364258, 2.946058, 2226.597412>)
+22:22:30 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4405.470703, 2.999987, 2226.738037>)
+22:22:31 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4393.020508, 3.008497, 2229.055420>)
+22:22:31 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4381.099121, 2.897490, 2231.983643>)
+22:22:32 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4369.731934, 2.889061, 2232.254395>)
+22:22:32 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4361.590332, 3.026407, 2223.823486>)
+22:22:33 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4355.637207, 3.026407, 2213.055664>)
+22:22:33 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4349.694824, 3.026407, 2200.964355>)
+22:22:33 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4343.693848, 3.010201, 2188.254150>)
+22:22:33 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4337.968750, 3.010201, 2176.155273>)
+22:22:33 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4332.570801, 3.010201, 2164.611084>)
+22:22:34 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4329.146484, 3.479520, 2157.195313>)
+22:23:12 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (CodeLock)
+22:23:52 | "Tomodachi" (steamid=76561198950594742) deleted object "ZmbM_PatrolNormal_Autumn" (pos=<4139.458008, 339.052765, 10539.586914>)
+22:23:54 | "Tomodachi" (steamid=76561198950594742) deleted object "ZmbM_PatrolNormal_PautRev" (pos=<4150.939453, 339.066681, 10565.037109>)
+22:23:55 | "Tomodachi" (steamid=76561198950594742) deleted object "ZmbM_PatrolNormal_Summer" (pos=<4151.237793, 339.063141, 10562.373047>)
+22:23:57 | "Tomodachi" (steamid=76561198950594742) deleted object "ZmbM_PatrolNormal_Autumn" (pos=<4152.393066, 339.061676, 10561.274414>)
+22:23:58 | "Tomodachi" (steamid=76561198950594742) deleted object "ZmbM_PatrolNormal_PautRev" (pos=<4150.208008, 339.063843, 10562.912109>)
+22:23:59 | "Tomodachi" (steamid=76561198950594742) deleted object "ZmbM_PatrolNormal_Summer" (pos=<4148.758789, 339.059967, 10559.406250>)
+22:24:1 | "Tomodachi" (steamid=76561198950594742) /heal used on: "Tomodachi" (steamid=76561198950594742)
+22:24:5 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4123.808594, 339.010040, 10536.411133>)
+22:24:6 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4117.003418, 339.010010, 10524.891602>)
+22:24:7 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4117.009766, 339.140900, 10515.962891>)
+22:25:17 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (DogFoodCan)
+22:25:17 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (DogFoodCan)
+22:25:17 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (DogFoodCan)
+22:25:18 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (DogFoodCan)
+22:25:18 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (DogFoodCan)
+22:25:18 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (DogFoodCan)
+22:25:18 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (DogFoodCan)
+22:25:18 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (DogFoodCan)
+22:25:18 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (DogFoodCan)
+22:25:19 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (DogFoodCan)
+22:25:19 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (DogFoodCan)
+22:25:19 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (DogFoodCan)
+22:25:19 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (DogFoodCan)
+22:25:24 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4100.790527, 339.000000, 10507.482422>)
+22:25:24 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4099.776367, 339.000000, 10498.861328>)
+22:25:24 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4100.765137, 339.000000, 10491.069336>)
+22:25:25 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4101.810547, 339.000000, 10482.504883>)
+22:25:25 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4103.324219, 339.000000, 10473.939453>)
+22:25:25 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4104.853027, 339.000000, 10465.579102>)
+22:25:26 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4104.909668, 339.978821, 10461.682617>)
+22:25:26 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4103.586914, 339.000031, 10447.992188>)
+22:25:26 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4100.805664, 339.000000, 10439.956055>)
+22:25:27 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4099.000000, 339.000031, 10432.860352>)
+22:25:27 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4097.492188, 339.000000, 10424.291992>)
+22:25:27 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4097.675293, 339.000000, 10423.936523>)
+22:25:27 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4097.086914, 339.000000, 10417.040039>)
+22:25:28 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4100.917480, 339.229614, 10412.707031>)
+22:25:29 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4113.602051, 342.393188, 10410.350586>)
+22:25:37 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4102.296387, 339.229614, 10411.219727>)
+22:25:37 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4096.451660, 339.000031, 10413.564453>)
+22:25:38 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4092.611328, 339.695160, 10418.290039>)
+22:25:38 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4086.956543, 339.001434, 10427.453125>)
+22:25:38 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4084.664307, 339.068359, 10431.958008>)
+22:25:38 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4080.834961, 339.009979, 10441.387695>)
+22:25:39 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4077.453613, 339.006592, 10451.115234>)
+22:25:39 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4076.919678, 339.000000, 10465.099609>)
+22:25:39 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4076.584229, 339.000000, 10479.208984>)
+22:25:39 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4076.509033, 340.226440, 10481.933594>)
+22:25:40 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4077.125977, 339.000000, 10502.763672>)
+22:25:40 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4077.348389, 338.811218, 10515.583008>)
+22:25:40 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4077.442871, 338.904694, 10523.917969>)
+22:25:40 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4077.451172, 339.524109, 10532.538086>)
+22:25:40 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4078.038818, 339.589111, 10545.113281>)
+22:25:41 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4078.459717, 339.434235, 10558.111328>)
+22:25:41 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4079.190674, 339.495605, 10568.987305>)
+22:25:41 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4079.831543, 339.533691, 10578.969727>)
+22:25:41 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4078.452393, 339.754639, 10588.803711>)
+22:25:42 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4073.277100, 339.360565, 10599.642578>)
+22:25:45 | "Tomodachi" (steamid=76561198950594742) deleted object "ZmbM_SoldierNormal" (pos=<4062.600830, 339.039978, 10602.129883>)
+22:25:47 | "Tomodachi" (steamid=76561198950594742) deleted object "ZmbM_usSoldier_normal_Woodland" (pos=<4053.832031, 339.039978, 10598.257813>)
+22:25:50 | "Tomodachi" (steamid=76561198950594742) deleted object "ZmbM_PatrolNormal_Flat" (pos=<4051.094971, 340.124268, 10599.248047>)
+22:25:55 | "Tomodachi" (steamid=76561198950594742) deleted object "ZmbM_SoldierNormal" (pos=<4070.768555, 339.119781, 10603.752930>)
+22:25:56 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4062.434082, 339.000000, 10603.143555>)
+22:25:56 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4059.897217, 339.430786, 10613.891602>)
+22:25:56 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4057.929443, 339.000000, 10629.028320>)
+22:25:57 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4056.098389, 339.043518, 10637.658203>)
+22:25:57 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4054.226563, 339.170502, 10646.192383>)
+22:25:57 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4053.399902, 339.330200, 10654.623047>)
+22:25:58 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4052.618896, 339.259186, 10664.106445>)
+22:25:58 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4052.705566, 339.068542, 10672.644531>)
+22:26:4 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4062.466309, 339.013733, 10679.588867>)
+22:26:5 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4069.653320, 339.028381, 10678.880859>)
+22:26:5 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4076.549561, 339.000671, 10675.923828>)
+22:26:5 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4080.442871, 339.686859, 10673.786133>)
+22:26:5 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4090.786865, 339.000000, 10669.002930>)
+22:26:5 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4097.394043, 339.000000, 10665.871094>)
+22:26:6 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4100.486328, 339.961792, 10664.336914>)
+22:26:6 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4112.823730, 339.127960, 10659.662109>)
+22:26:6 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4118.851563, 339.434601, 10657.561523>)
+22:26:6 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4124.614258, 339.761932, 10655.776367>)
+22:26:6 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4134.097656, 339.871429, 10653.139648>)
+22:26:7 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4148.454102, 339.167389, 10647.968750>)
+22:26:7 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4159.156250, 339.000000, 10642.497070>)
+22:26:7 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4168.318848, 338.999969, 10637.466797>)
+22:26:7 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4175.983398, 338.999969, 10632.817383>)
+22:26:7 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4181.406738, 339.000000, 10627.542969>)
+22:26:8 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4185.915527, 339.000000, 10620.744141>)
+22:26:8 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4190.370605, 339.000000, 10613.779297>)
+22:26:8 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4195.274414, 339.000000, 10605.769531>)
+22:26:8 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4200.460938, 339.000031, 10597.299805>)
+22:26:8 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4206.349609, 338.999969, 10587.750977>)
+22:26:9 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4213.654297, 339.000031, 10575.900391>)
+22:26:9 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4214.662109, 339.000000, 10574.297852>)
+22:26:9 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4215.289551, 338.999969, 10573.310547>)
+22:26:21 | "Tomodachi": (steamid=76561198950594742) teleported to (pos=4449.76,0,2245.23)
+22:26:27 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4438.031738, 4.767574, 2240.077393>)
+22:26:27 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4430.488770, 3.865240, 2236.214111>)
+22:26:27 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4425.271973, 3.390748, 2234.524658>)
+22:26:28 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4422.065430, 4.262215, 2233.356934>)
+22:26:28 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4413.704590, 3.019761, 2230.847412>)
+22:26:28 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4408.782227, 3.000000, 2229.934570>)
+22:26:28 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4402.690918, 3.002747, 2229.731689>)
+22:26:29 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4395.898926, 3.007231, 2230.500732>)
+22:26:29 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4389.275879, 2.891293, 2231.389648>)
+22:26:29 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4382.355469, 2.895927, 2232.253906>)
+22:26:30 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4369.685059, 2.889061, 2229.349854>)
+22:26:31 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4363.914551, 3.026407, 2220.283936>)
+22:26:31 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4357.394043, 3.026407, 2207.377197>)
+22:26:31 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4349.631348, 3.026407, 2194.319824>)
+22:26:31 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4342.190430, 3.010201, 2181.510010>)
+22:26:31 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4335.169922, 3.010201, 2169.260010>)
+22:26:31 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4329.903320, 3.010201, 2160.190430>)
+22:26:32 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4328.297852, 4.282044, 2157.655518>)
+22:26:37 | Player "[CwY] Jeffersom" (steamId=76561198868323438) connected to server!
+22:27:1 | Player "max" (steamId=76561198253219697) disconnected from server.
+22:27:7 | Player "[CwY] Jeffersom" (steamId=76561198868323438) connected to server!
+22:28:24 | "Tomodachi" (steamid=76561198950594742) deleted object "dp_military_big_black" (pos=<4326.247070, 3.194717, 2152.463135>)
+22:28:26 | "Tomodachi" (steamid=76561198950594742) deleted object "WoodenStick" (pos=<4326.247070, 3.084830, 2152.463135>)
+22:28:27 | "Tomodachi" (steamid=76561198950594742) deleted object "" (pos=<4326.974609, -20.372425, 2153.635986>)
+22:28:28 | "Tomodachi" (steamid=76561198950594742) deleted object "" (pos=<4326.974609, -20.372425, 2153.635986>)
+22:28:28 | "Tomodachi" (steamid=76561198950594742) deleted object "" (pos=<4326.974609, -20.372425, 2153.635986>)
+22:28:30 | "Tomodachi" (steamid=76561198950594742) deleted object "dp_m9" (pos=<4326.247070, 3.095446, 2152.463135>)
+22:28:31 | "Tomodachi" (steamid=76561198950594742) deleted object "dp_HK416" (pos=<4326.247070, 3.095447, 2152.463135>)
+22:28:32 | "Tomodachi" (steamid=76561198950594742) deleted object "WoodenStick" (pos=<4326.247070, 3.084830, 2152.463135>)
+22:28:33 | "Tomodachi" (steamid=76561198950594742) deleted object "WoodenStick" (pos=<4326.247070, 3.084830, 2152.463135>)
+22:28:34 | "Tomodachi" (steamid=76561198950594742) deleted object "WoodenStick" (pos=<4326.247070, 3.084830, 2152.463135>)
+22:28:35 | "Tomodachi" (steamid=76561198950594742) deleted object "WoodenStick" (pos=<4326.247070, 3.084830, 2152.463135>)
+22:28:37 | "Tomodachi" (steamid=76561198950594742) deleted object "WoodenStick" (pos=<4326.247070, 3.084830, 2152.463135>)
+22:28:38 | "Tomodachi" (steamid=76561198950594742) deleted object "WoodenStick" (pos=<4326.247070, 3.084830, 2152.463135>)
+22:28:39 | "Tomodachi" (steamid=76561198950594742) deleted object "WoodenStick" (pos=<4326.247070, 3.084830, 2152.463135>)
+22:29:0 | Player "[mercenarios] striker" (steamId=76561198801415744) disconnected from server.
+22:29:27 | "Tomodachi" (steamid=76561198950594742) deleted object "JungleBoots_Black" (pos=<4325.258789, 3.074818, 2151.819336>)
+22:29:29 | "Tomodachi" (steamid=76561198950594742) deleted object "M65Jacket_Black" (pos=<4325.258789, 3.069732, 2151.819336>)
+22:29:29 | "Tomodachi" (steamid=76561198950594742) deleted object "dp_6b23_black" (pos=<4325.258789, 3.069732, 2151.819336>)
+22:29:30 | "Tomodachi" (steamid=76561198950594742) deleted object "WitchHood_Black" (pos=<4325.258789, 3.067456, 2151.819336>)
+22:29:31 | "Tomodachi" (steamid=76561198950594742) deleted object "OMNOGloves_Gray" (pos=<4325.258789, 3.067568, 2151.819336>)
+22:29:31 | "Tomodachi" (steamid=76561198950594742) deleted object "BalaclavaMask_Black" (pos=<4325.258789, 3.148230, 2151.819336>)
+22:29:33 | "Tomodachi" (steamid=76561198950594742) deleted object "dp_TacticPants_BLACK" (pos=<4325.258789, 3.077137, 2151.819336>)
+22:29:34 | "Tomodachi" (steamid=76561198950594742) deleted object "dp_DDMV4" (pos=<4325.258789, 3.096210, 2151.819336>)
+22:29:35 | "Tomodachi" (steamid=76561198950594742) deleted object "dp_AK105" (pos=<4325.258789, 3.085193, 2151.819336>)
+22:29:54 | "Tomodachi" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+22:29:57 | "Tomodachi" (steamid=76561198950594742) /heal used on: "Tomodachi" (steamid=76561198950594742)
+22:30:3 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4330.883301, 8.264315, 2153.001465>)
+22:30:4 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4331.020996, 11.004004, 2153.275879>)
+22:30:4 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4331.061523, 13.735739, 2153.392090>)
+22:30:5 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4331.479980, 17.641813, 2153.769043>)
+22:30:13 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4329.979980, 16.684429, 2153.895508>)
+22:30:20 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4325.079102, 17.167719, 2156.861572>)
+22:30:41 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4325.456543, 16.920063, 2156.824463>)
+22:30:49 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4332.788086, 17.773224, 2154.801025>)
+22:30:50 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4325.798340, 16.880411, 2157.372314>)
+22:31:5 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4325.348633, 3.067568, 2153.562256>)
+22:31:42 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4328.807617, 3.778564, 2157.154541>)
+22:31:47 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4328.754395, 4.004271, 2157.407715>)
+22:31:47 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4327.440918, 3.067568, 2155.152588>)
+22:32:19 | Player "Sgt.ReedNose" (steamId=76561198448915614) connected to server!
+22:32:35 | Player "Perdido" (steamId=76561198110678456) connected to server!
+22:32:43 | Player "Sgt.ReedNose" (steamId=76561198448915614) connected to server!
+22:33:55 | Player "Perdido" (steamId=76561198110678456) connected to server!
+22:35:47 | Player "ATIRADOR" (steamId=76561199101972011) connected to server!
+22:36:19 | Player "ATIRADOR" (steamId=76561199101972011) connected to server!
+22:36:49 | "Tomodachi" (steamid=76561198950594742) deleted object "ZmbM_HandymanNormal_White" (pos=<4460.095703, 338.843170, 10837.810547>)
+22:36:54 | "Tomodachi" (steamid=76561198950594742) deleted object "ZmbM_usSoldier_normal_Desert" (pos=<4469.219238, 338.918091, 10822.369141>)
+22:37:4 | "Tomodachi" (steamid=76561198950594742) deleted object "ZmbM_PatrolNormal_Autumn" (pos=<4464.506836, 338.905334, 10824.440430>)
+22:37:42 | Player "[CwY] Jeffersom" (steamId=76561198868323438) disconnected from server.
+22:37:47 | Player "Bwdy" (steamId=76561199014206774) connected to server!
+22:38:6 | Player "Bwdy" (steamId=76561199014206774) connected to server!
+22:38:16 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (dp_cmag_100Rnd)
+22:38:21 | "Tomodachi" (steamid=76561198950594742) deleted object "dp_cmag_100Rnd" (pos=<4456.403809, 338.893494, 10833.891602>)
+22:38:26 | Player "MrZuluu" (steamId=76561198133335010) disconnected from server.
+22:38:27 | Player "MrZuluu" (steamId=76561198133335010) disconnected from server.
+22:38:43 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (Mag_CMAG_30Rnd_Black)
+22:38:52 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (Mag_CMAG_30Rnd_Black)
+22:39:16 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (dp_M82A3)
+22:39:19 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (dp_m82a3_Suppr)
+22:39:20 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (dp_Mag_m82a3_10Rnd)
+22:39:46 | [WeatherManager] Send Data Count is 0
+22:39:50 | [Time Manager] Setting Date to 2022/9/20 9:37
+22:40:26 | Player "[CwY] Jeffersom" (steamId=76561198868323438) connected to server!
+22:40:46 | Player "Bwdy" (steamId=76561199014206774) disconnected from server.
+22:40:47 | Player "Bwdy" (steamId=76561199014206774) disconnected from server.
+22:40:50 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (MosinLRS)
+22:40:51 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (Mosin9130)
+22:40:56 | Player "[CwY] Jeffersom" (steamId=76561198868323438) connected to server!
+22:41:4 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (Mosin_Compensator)
+22:41:13 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (AmmoBox_762x54_20Rnd)
+22:41:13 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (AmmoBox_762x54_20Rnd)
+22:41:14 | "Tomodachi" (steamid=76561198950594742) Spawned Item: (AmmoBox_762x54_20Rnd)
+22:41:17 | "Tomodachi" (steamid=76561198950594742) deleted object "ZmbM_PatrolNormal_Flat" (pos=<4456.399414, 338.880341, 10832.504883>)
+22:41:18 | "Tomodachi" (steamid=76561198950594742) deleted object "ZmbF_BlueCollarFat_Red" (pos=<4456.786621, 338.883209, 10831.138672>)
+22:41:19 | "Tomodachi" (steamid=76561198950594742) deleted object "ZmbF_MechanicNormal_Orange" (pos=<4457.282227, 338.884644, 10831.049805>)
+22:41:20 | "Tomodachi" (steamid=76561198950594742) deleted object "ZmbM_usSoldier_normal_Desert" (pos=<4457.213867, 338.883545, 10831.729492>)
+22:42:17 | "Tomodachi" (steamid=76561198950594742) deleted object "ZmbM_OffshoreWorker_Orange" (pos=<4460.434082, 338.894470, 10829.085938>)
+22:42:19 | "Tomodachi" (steamid=76561198950594742) deleted object "ZmbM_ConstrWorkerNormal_Green" (pos=<4470.486816, 338.918274, 10824.750000>)
+22:42:26 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4548.277832, 381.797729, 10828.378906>)
+22:42:53 | "Tomodachi" (steamid=76561198950594742) healed player (steamid=76561198876185496)
+22:42:53 | "Tomodachi" (steamid=76561198950594742) healed player (steamid=76561198283309946)
+22:42:53 | "Tomodachi" (steamid=76561198950594742) healed player (steamid=76561199101972011)
+22:43:1 | "Tomodachi" (steamid=76561198950594742) deleted object "Land_Smokestack_Medium" (pos=<4549.816406, 362.134430, 10828.196289>)
+22:43:3 | "Tomodachi" (steamid=76561198950594742) deleted object "Land_Smokestack_Medium" (pos=<4549.816406, 362.134430, 10828.196289>)
+22:43:4 | "Tomodachi" (steamid=76561198950594742) deleted object "Land_Smokestack_Medium" (pos=<4549.816406, 362.134430, 10828.196289>)
+22:43:6 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4592.514648, 338.631775, 10805.577148>)
+22:43:11 | "Tomodachi" (steamid=76561198950594742) deleted object "dp_M82A3" (pos=<4592.525391, 338.683380, 10805.573242>)
+22:43:15 | "Tomodachi" (steamid=76561198950594742) deleted object "ZmbM_PatrolNormal_Summer" (pos=<4589.594238, 338.634399, 10816.801758>)
+22:43:17 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4598.758301, 340.438995, 10818.730469>)
+22:43:18 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4615.223145, 344.083801, 10851.684570>)
+22:43:21 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4576.411133, 355.709442, 10855.570313>)
+22:44:20 | "Tomodachi" (steamid=76561198950594742) /heal used on: "Tomodachi" (steamid=76561198950594742)
+22:44:32 | "Tomodachi" (steamid=76561198950594742) /heal used on: "Tomodachi" (steamid=76561198950594742)
+22:44:37 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4508.203613, 338.847809, 10856.709961>)
+22:45:7 | "Tomodachi" (steamid=76561198950594742) deleted object "Land_FuelStation_Feed" (pos=<4512.679688, 339.726807, 10846.385742>)
+22:45:8 | "Tomodachi" (steamid=76561198950594742) deleted object "ZmbM_PatrolNormal_Flat" (pos=<4513.521484, 338.905182, 10847.526367>)
+22:45:10 | "Tomodachi" (steamid=76561198950594742) deleted object "ZmbM_HeavyIndustryWorker" (pos=<4514.038574, 338.898438, 10849.810547>)
+22:46:16 | "Tomodachi": (steamid=76561198950594742) teleported to (pos=4324.7,0,2152.44)
+22:46:22 | "Tomodachi": (steamid=76561198950594742) teleported to (pos=4426.73,0,2222.73)
+22:46:28 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4412.557129, 2.651403, 2224.216553>)
+22:46:28 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4403.546875, 3.001698, 2228.210693>)
+22:46:29 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4393.716309, 3.008501, 2230.322998>)
+22:46:29 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4384.059570, 2.895397, 2231.679932>)
+22:46:29 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4372.970703, 2.902617, 2231.951172>)
+22:46:30 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4364.385254, 3.026407, 2222.924072>)
+22:46:31 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4358.658203, 3.026407, 2212.886475>)
+22:46:31 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4353.326172, 3.026407, 2203.381836>)
+22:46:31 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4348.025391, 3.026407, 2193.940430>)
+22:46:31 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4342.834961, 3.010201, 2184.696045>)
+22:46:32 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4336.695313, 3.010201, 2173.624268>)
+22:46:32 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4331.125977, 3.010201, 2162.926514>)
+22:46:33 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4328.323242, 3.797924, 2157.641602>)
+22:47:28 | Player "Sgt.ReedNose" (steamId=76561198448915614) disconnected from server.
+22:47:39 | "Tomodachi" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+22:47:46 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4325.614258, 3.100659, 2150.106689>)
+22:47:47 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4419.371094, 1098.882446, 2131.759766>)
+22:48:1 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4438.067383, 4.519180, 2225.731201>)
+22:50:19 | Player "[CwY] Jeffersom" (steamId=76561198868323438) disconnected from server.
+22:50:23 | Player "[CwY] Jeffersom" (steamId=76561198868323438) disconnected from server.
+22:50:31 | Player "XxLipezinxX" (steamId=76561199090089389) connected to server!
+22:50:56 | Player "XxLipezinxX" (steamId=76561199090089389) connected to server!
+22:51:25 | "Tomodachi": (steamid=76561198950594742) teleported to (pos=4542.77,0,8260.82)
+22:52:31 | Player "[mercenarios] striker" (steamId=76561198801415744) connected to server!
+22:52:50 | Player "[Mercenarios] Chines Angolano" (steamId=76561198128636633) disconnected from server.
+22:52:52 | Player "[Mercenarios] Chines Angolano" (steamId=76561198128636633) disconnected from server.
+22:53:40 | Player "[CwY] Jeffersom" (steamId=76561198868323438) connected to server!
+22:53:59 | Player "[CwY] Jeffersom" (steamId=76561198868323438) connected to server!
+22:54:17 | Player "[FUS]Rubao" (steamId=76561198977737572) connected to server!
+22:56:14 | Player "Survivor" (steamId=76561198970690760) connected to server!
+23:4:13 | "Tomodachi" (steamid=76561198950594742) /heal used on: "Tomodachi" (steamid=76561198950594742)
+23:7:13 | Player "[mercenarios] striker" (steamId=76561198801415744) connected to server!
+23:8:16 | Player "[mercenarios] striker" (steamId=76561198801415744) disconnected from server.
+23:11:20 | Player "Baka182" (steamId=76561198283309946) disconnected from server.
+23:11:27 | Player "ATIRADOR" (steamId=76561199101972011) disconnected from server.
+23:12:59 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<5150.550781, 312.812134, 10459.884766>)
+23:12:59 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<5125.760254, 314.477631, 10442.215820>)
+23:13:0 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<5109.757813, 316.019714, 10430.876953>)
+23:13:0 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<5109.002930, 316.097565, 10430.296875>)
+23:13:0 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<5103.062500, 316.701141, 10425.359375>)
+23:13:7 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<5049.529785, 321.817596, 10354.557617>)
+23:13:7 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<5032.988281, 325.254974, 10339.817383>)
+23:13:8 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<5020.039063, 327.997070, 10330.320313>)
+23:13:15 | Player "BABAYHAGA" (steamId=76561198878034273) connected to server!
+23:13:34 | Player "BABAYHAGA" (steamId=76561198878034273) connected to server!
+23:13:57 | Player "[FUS]B1ll" (steamId=76561199068762705) connected to server!
+23:15:29 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4797.946777, 339.040009, 10424.842773>)
+23:15:29 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4805.404297, 339.040009, 10411.398438>)
+23:15:29 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4805.701172, 339.040009, 10410.298828>)
+23:15:30 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4811.696777, 339.040009, 10399.215820>)
+23:15:31 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4824.471191, 339.055664, 10375.752930>)
+23:15:32 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4832.202148, 338.982361, 10360.514648>)
+23:15:33 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4843.161133, 338.920044, 10344.053711>)
+23:15:33 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4852.062500, 338.948639, 10328.577148>)
+23:15:34 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4858.433105, 338.949982, 10311.808594>)
+23:15:34 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4863.483398, 338.950012, 10296.781250>)
+23:15:35 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4868.454590, 338.960754, 10282.115234>)
+23:15:35 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4877.619629, 338.989990, 10262.924805>)
+23:15:36 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4885.820801, 338.989990, 10248.979492>)
+23:15:36 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4885.998535, 338.989990, 10248.701172>)
+23:15:36 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4886.133301, 338.989990, 10248.493164>)
+23:15:36 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4886.340332, 338.990021, 10248.171875>)
+23:15:36 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4886.549805, 338.989990, 10247.833984>)
+23:15:37 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4892.660645, 338.989960, 10237.615234>)
+23:15:37 | Player "Quiites" (steamId=76561198194079053) connected to server!
+23:15:39 | "Tomodachi" (steamid=76561198950594742) teleported to crosshair (pos=<4924.190430, 342.208557, 10158.768555>)
+23:16:13 | Player "[mercenarios] striker" (steamId=76561198801415744) connected to server!
+23:16:43 | Player "Quiites" (steamId=76561198194079053) connected to server!
+23:19:1 | Player "SniperBrasileiro " (steamId=76561198876185496) disconnected from server.
+23:19:3 | Player "SniperBrasileiro " (steamId=76561198876185496) disconnected from server.
+23:19:6 | Player "FUS KAL." (steamId=76561198342991412) connected to server!
+23:19:6 | Player "Tomodachi" (steamId=76561198950594742) disconnected from server.
+23:21:10 | Player "[LMM]Sargentolmm" (steamId=76561197993431575) connected to server!
+23:24:24 | Player "[mercenarios] striker" (steamId=76561198801415744) connected to server!
+23:24:27 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) disconnected from server.
+23:24:30 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) re-connected to server [canceledLogout]
+23:24:34 | Player "[LMM]Sargentolmm" (steamId=76561197993431575) disconnected from server.
+23:25:14 | Player "Nick" (steamId=76561199077375485) disconnected from server.
+23:27:28 | Player "Sgt.ReedNose" (steamId=76561198448915614) connected to server!
+23:27:51 | Player "Sgt.ReedNose" (steamId=76561198448915614) connected to server!
+23:31:58 | Player "Sgt.ReedNose" (steamId=76561198448915614) disconnected from server.
+23:33:55 | Player "enaldo" (steamId=76561198018852662) connected to server!
+23:35:1 | Player "Ricardo Tomaz" (steamId=76561198063313446) disconnected from server.
+23:35:3 | Player "Ricardo Tomaz" (steamId=76561198063313446) disconnected from server.
+23:36:4 | Player "[OSR] rLucasK" (steamId=76561198212014151) connected to server!
+23:38:16 | Player "Sgt.ReedNose" (steamId=76561198448915614) connected to server!
+23:38:39 | Player "Sgt.ReedNose" (steamId=76561198448915614) connected to server!
+23:41:33 | Player "[OSR] rLucasK" (steamId=76561198212014151) disconnected from server.
+23:41:35 | Player "[OSR] rLucasK" (steamId=76561198212014151) disconnected from server.
+23:42:47 | Player "[OSR] rLucasK" (steamId=76561198212014151) connected to server!
+23:47:28 | Player "[OSR] rLucasK" (steamId=76561198212014151) connected to server!
+23:48:40 | Player "[OSR] rLucasK" (steamId=76561198212014151) disconnected from server.
+23:48:41 | Player "[OSR] rLucasK" (steamId=76561198212014151) disconnected from server.
+23:50:46 | Player "Quiites" (steamId=76561198194079053) disconnected from server.
+23:50:48 | Player "Quiites" (steamId=76561198194079053) disconnected from server.
+23:54:46 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) disconnected from server.
+23:56:7 | Player "BABAYHAGA" (steamId=76561198878034273) disconnected from server.
+23:59:26 | Player "Perdido" (steamId=76561198110678456) disconnected from server.
+23:59:29 | Player "[FUS]Rubao" (steamId=76561198977737572) disconnected from server.
+23:59:30 | Player "Perdido" (steamId=76561198110678456) disconnected from server.
+23:59:30 | Player "[mercenarios] striker" (steamId=76561198801415744) disconnected from server.
+23:59:30 | Player "FUS KAL." (steamId=76561198342991412) disconnected from server.
+23:59:30 | Player "[CwY] Jeffersom" (steamId=76561198868323438) disconnected from server.
+23:59:30 | Player "[FUS]B1ll" (steamId=76561199068762705) disconnected from server.
+23:59:30 | Player "(CWY) F.A.R.P.S" (steamId=76561198815979156) disconnected from server.
+23:59:30 | Player "[FUS]Rubao" (steamId=76561198977737572) disconnected from server.
+23:59:30 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) disconnected from server.
+23:59:30 | Player "Sgt.ReedNose" (steamId=76561198448915614) disconnected from server.
+23:59:30 | Player "XxLipezinxX" (steamId=76561199090089389) disconnected from server.

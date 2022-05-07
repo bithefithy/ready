@@ -1,0 +1,925 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-4-25_23-0-34
+====================================================================================
+23:0:34 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+23:0:34 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+23:0:34 | [PermissionManager] Perm (FreeCamera) has been registered!
+23:0:34 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuItemManager) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuServerManager) has been registered!
+23:0:34 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+23:0:34 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+23:0:34 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+23:0:34 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+23:0:34 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+23:0:34 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+23:0:34 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+23:0:34 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+23:0:34 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+23:0:34 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+23:0:34 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+23:0:34 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+23:0:34 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+23:0:34 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+23:0:34 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+23:0:34 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+23:0:34 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+23:0:34 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+23:0:34 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+23:0:34 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+23:0:34 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+23:0:34 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+23:0:34 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+23:0:34 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+23:0:34 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+23:0:34 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+23:0:34 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+23:0:34 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+23:0:34 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+23:0:34 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+23:0:34 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+23:0:34 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+23:0:34 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuBansManager) has been registered!
+23:0:34 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+23:0:34 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+23:0:34 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+23:0:34 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+23:0:34 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+23:0:34 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+23:0:34 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+23:0:34 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+23:0:34 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+23:0:34 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+23:0:34 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+23:0:34 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+23:0:34 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+23:0:34 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+23:0:34 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+23:0:34 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+23:0:34 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+23:0:34 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+23:0:34 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+23:0:34 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+23:0:34 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+23:0:34 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+23:0:34 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+23:0:34 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+23:0:34 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+23:0:34 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+23:0:34 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+23:0:34 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+23:0:34 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+23:0:34 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+23:0:34 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+23:0:34 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+23:0:34 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+23:0:34 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+23:0:34 | [PermissionManager] Adding Super Admin (76561198253386609)
+23:0:34 | [PermissionManager] Adding Super Admin (76561198950594742)
+23:0:34 | [PermissionManager] Adding Super Admin (76561198329721265)
+23:0:34 | [PermissionManager] Adding Super Admin (76561198140728342)
+23:0:34 | [PermissionManager] Loaded UserGroups.json
+23:0:34 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+23:0:34 | Building Sets Loaded: 5
+23:0:55 | Player "Passo Largo" (steamId=76561199203652654) connected to server!
+23:0:55 | Player "Hitokiri_" (steamId=76561198189143650) connected to server!
+23:0:55 | Player "jhean" (steamId=76561198819003355) connected to server!
+23:0:55 | Player "Foikar" (steamId=76561199156649696) connected to server!
+23:0:55 | Player "[ONE] KARABULJHAN" (steamId=76561198100527842) connected to server!
+23:0:56 | Player "Lobo Sentado" (steamId=76561198138311400) connected to server!
+23:0:58 | Player "MendeL" (steamId=76561198329721265) connected to server!
+23:1:0 | Player "DjRaelZiin29" (steamId=76561198963310995) connected to server!
+23:1:0 | Player "N E T O" (steamId=76561199193971823) connected to server!
+23:1:3 | Player "Luska" (steamId=76561198099970604) connected to server!
+23:1:7 | Player "Hitokiri_" (steamId=76561198189143650) connected to server!
+23:1:7 | Player "MendeL" (steamId=76561198329721265) connected to server!
+23:1:7 | Player "Lobo Sentado" (steamId=76561198138311400) connected to server!
+23:1:7 | Player "Passo Largo" (steamId=76561199203652654) connected to server!
+23:1:9 | Player "[ONE] KARABULJHAN" (steamId=76561198100527842) connected to server!
+23:1:10 | Player "[L.B]TropaDoEnguisa" (steamId=76561198211423224) connected to server!
+23:1:10 | Player "[YKZ] chron1c" (steamId=76561198205585613) connected to server!
+23:1:11 | Player "c l a s h" (steamId=76561198277384503) connected to server!
+23:1:11 | Player "jhean" (steamId=76561198819003355) connected to server!
+23:1:12 | Player "TeuSDek" (steamId=76561198394822113) connected to server!
+23:1:13 | Player "DjRaelZiin29" (steamId=76561198963310995) connected to server!
+23:1:13 | Player "Luska" (steamId=76561198099970604) connected to server!
+23:1:14 | Player "N E T O" (steamId=76561199193971823) connected to server!
+23:1:16 | Player "General2323" (steamId=76561198300843847) connected to server!
+23:1:16 | Player "JackTavan" (steamId=76561198018514068) connected to server!
+23:1:17 | Player "j o v e m" (steamId=76561198289206808) connected to server!
+23:1:17 | Player "[NEBU] yGauchoTv" (steamId=76561198141956652) connected to server!
+23:1:20 | Player "c l a s h" (steamId=76561198277384503) connected to server!
+23:1:20 | Player "[HORDA] zBieL" (steamId=76561198001525812) connected to server!
+23:1:21 | Player "Foikar" (steamId=76561199156649696) connected to server!
+23:1:24 | Player "JackTavan" (steamId=76561198018514068) connected to server!
+23:1:25 | Player "[L.B]TropaDoEnguisa" (steamId=76561198211423224) connected to server!
+23:1:25 | Player "General2323" (steamId=76561198300843847) connected to server!
+23:1:29 | Player "TeuSDek" (steamId=76561198394822113) connected to server!
+23:1:30 | Player "DanielSam" (steamId=76561198867200764) connected to server!
+23:1:31 | Player "[YKZ] chron1c" (steamId=76561198205585613) connected to server!
+23:1:32 | Player "Shadyyy" (steamId=76561198145120164) connected to server!
+23:1:35 | Player "PEDRAO" (steamId=76561199098626087) connected to server!
+23:1:39 | Player "Eloy" (steamId=76561197980095586) connected to server!
+23:1:40 | Player "Shadyyy" (steamId=76561198145120164) connected to server!
+23:1:44 | Player "[HORDA] zBieL" (steamId=76561198001525812) connected to server!
+23:1:45 | Player "DanielSam" (steamId=76561198867200764) connected to server!
+23:1:49 | Player "Eloy" (steamId=76561197980095586) connected to server!
+23:1:57 | Player "Joker" (steamId=76561198038326260) connected to server!
+23:2:1 | Player "matheuslps" (steamId=76561198081711036) connected to server!
+23:2:7 | Player "Joker" (steamId=76561198038326260) connected to server!
+23:2:8 | Player "PEDRAO" (steamId=76561199098626087) connected to server!
+23:2:46 | Player "Duerowww" (steamId=76561198259492425) connected to server!
+23:3:7 | Player "Duerowww" (steamId=76561198259492425) connected to server!
+23:3:19 | Player "Guijermo" (steamId=76561198080701997) connected to server!
+23:3:28 | Player "Guijermo" (steamId=76561198080701997) connected to server!
+23:5:3 | Player "TcheLoco" (steamId=76561198099449370) connected to server!
+23:5:14 | Player "TcheLoco" (steamId=76561198099449370) connected to server!
+23:5:52 | Player "Stalinxx" (steamId=76561198085999243) connected to server!
+23:5:57 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) connected to server!
+23:6:5 | Player "Stalinxx" (steamId=76561198085999243) connected to server!
+23:6:15 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) connected to server!
+23:6:18 | Player "[DGK] FALL" (steamId=76561198878621400) connected to server!
+23:6:26 | "MendeL" (steamid=76561198329721265) toggled freecam
+23:6:31 | "MendeL" (steamid=76561198329721265) toggled freecam
+23:7:41 | "MendeL" (steamid=76561198329721265) toggled freecam
+23:7:48 | "MendeL" (steamid=76561198329721265) toggled freecam
+23:8:12 | Player "[YKZ] Notsniw" (steamId=76561197967151252) connected to server!
+23:8:13 | Player "[YKZ] chron1c" (steamId=76561198205585613) disconnected from server.
+23:8:15 | Player "[YKZ] chron1c" (steamId=76561198205585613) disconnected from server.
+23:8:35 | Player "[YKZ] Notsniw" (steamId=76561197967151252) connected to server!
+23:10:20 | Player "JackTavan" (steamId=76561198018514068) disconnected from server.
+23:10:22 | Player "JackTavan" (steamId=76561198018514068) disconnected from server.
+23:11:44 | Player "Leon" (steamId=76561198043057028) connected to server!
+23:11:56 | Player "[L.B] Santorin" (steamId=76561199069721527) connected to server!
+23:12:25 | Player "[L.B] Santorin" (steamId=76561199069721527) connected to server!
+23:12:31 | Player "Leon" (steamId=76561198043057028) connected to server!
+23:14:2 | Player "PEDRAO" (steamId=76561199098626087) disconnected from server.
+23:14:4 | Player "PEDRAO" (steamId=76561199098626087) disconnected from server.
+23:14:4 | Player "[YKZ] chron1c" (steamId=76561198205585613) connected to server!
+23:14:32 | Player "[YKZ] chron1c" (steamId=76561198205585613) connected to server!
+23:15:34 | Player "PEDRAO" (steamId=76561199098626087) connected to server!
+23:15:54 | Player "PEDRAO" (steamId=76561199098626087) connected to server!
+23:16:5 | Player "Ronin" (steamId=76561197979480347) connected to server!
+23:16:34 | Player "ignazaki87" (steamId=76561199027076248) connected to server!
+23:16:53 | Player "ignazaki87" (steamId=76561199027076248) connected to server!
+23:17:0 | Player "AlexFraxe" (steamId=76561198079014774) connected to server!
+23:17:13 | Player "[DGK] FALL" (steamId=76561198878621400) disconnected from server.
+23:17:15 | Player "AlexFraxe" (steamId=76561198079014774) connected to server!
+23:17:23 | Player "Passo Largo" (steamId=76561199203652654) disconnected from server.
+23:17:25 | Player "Passo Largo" (steamId=76561199203652654) disconnected from server.
+23:22:8 | Player "AlexFraxe" (steamId=76561198079014774) disconnected from server.
+23:22:9 | Player "AlexFraxe" (steamId=76561198079014774) disconnected from server.
+23:22:56 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_refrigerator)
+23:23:13 | Player "Obuco" (steamId=76561198212013820) connected to server!
+23:23:32 | "MendeL" (steamid=76561198329721265) toggled freecam
+23:23:40 | "MendeL" (steamid=76561198329721265) toggled freecam
+23:23:57 | Player "Obuco" (steamId=76561198212013820) connected to server!
+23:24:55 | Player "[DGK] FALL" (steamId=76561198878621400) connected to server!
+23:26:1 | Player "[DGK] FALL" (steamId=76561198878621400) connected to server!
+23:26:50 | Player "[YKZ] Emissarius" (steamId=76561198271087379) connected to server!
+23:27:8 | Player "[YKZ] Emissarius" (steamId=76561198271087379) connected to server!
+23:27:21 | Player "Shadyyy" (steamId=76561198145120164) disconnected from server.
+23:27:57 | Player "DjRaelZiin29" (steamId=76561198963310995) disconnected from server.
+23:28:0 | Player "DjRaelZiin29" (steamId=76561198963310995) disconnected from server.
+23:28:13 | Player "jhean" (steamId=76561198819003355) disconnected from server.
+23:28:52 | Player "ignazaki87" (steamId=76561199027076248) disconnected from server.
+23:28:54 | Player "ignazaki87" (steamId=76561199027076248) disconnected from server.
+23:29:42 | Player "Psico" (steamId=76561199107524850) connected to server!
+23:31:0 | Player "Ronin" (steamId=76561197979480347) disconnected from server.
+23:31:2 | Player "Ronin" (steamId=76561197979480347) disconnected from server.
+23:31:42 | Player "Ronin" (steamId=76561197979480347) connected to server!
+23:31:46 | Player "joao" (steamId=76561199070971844) connected to server!
+23:31:59 | Player "Ronin" (steamId=76561197979480347) connected to server!
+23:32:48 | Player "c l a s h" (steamId=76561198277384503) disconnected from server.
+23:32:50 | Player "c l a s h" (steamId=76561198277384503) disconnected from server.
+23:32:53 | Player "j o v e m" (steamId=76561198289206808) disconnected from server.
+23:33:13 | Player "joao" (steamId=76561199070971844) connected to server!
+23:35:3 | Player "Obuco" (steamId=76561198212013820) disconnected from server.
+23:36:35 | Player "[YKZ]-BlackBear" (steamId=76561198343030820) connected to server!
+23:36:55 | Player "[YKZ]-BlackBear" (steamId=76561198343030820) connected to server!
+23:38:15 | Player "[YKZ] chron1c" (steamId=76561198205585613) disconnected from server.
+23:38:17 | Player "[YKZ] chron1c" (steamId=76561198205585613) disconnected from server.
+23:38:54 | Player "Stalinxx" (steamId=76561198085999243) disconnected from server.
+23:39:43 | Player "Passo Largo" (steamId=76561199203652654) connected to server!
+23:40:4 | Player "[L.B]TropaDoEnguisa" (steamId=76561198211423224) disconnected from server.
+23:40:7 | Player "Passo Largo" (steamId=76561199203652654) connected to server!
+23:41:7 | Player "Gecom" (steamId=76561198020315206) connected to server!
+23:41:15 | Player "Survivor" (steamId=76561198075180434) connected to server!
+23:41:23 | Player "[L.B]TropaDoEnguisa" (steamId=76561198211423224) connected to server!
+23:41:39 | Player "[L.B]TropaDoEnguisa" (steamId=76561198211423224) connected to server!
+23:42:11 | Player "Gecom" (steamId=76561198020315206) connected to server!
+23:42:25 | Player "Fulber" (steamId=76561198053443712) connected to server!
+23:42:29 | Player "AriJR" (steamId=76561198075180434) connected to server!
+23:42:38 | Player "Fulber" (steamId=76561198053443712) connected to server!
+23:42:39 | Player "AlexFraxe" (steamId=76561198079014774) connected to server!
+23:42:56 | Player "AlexFraxe" (steamId=76561198079014774) connected to server!
+23:43:34 | Player "[KGB}Nobre Lobo" (steamId=76561198127199963) connected to server!
+23:43:55 | Player "[KGB}Nobre Lobo" (steamId=76561198127199963) connected to server!
+23:44:6 | Player "[DGK] FALL" (steamId=76561198878621400) disconnected from server.
+23:44:37 | Player "[YKZ] chron1c" (steamId=76561198205585613) connected to server!
+23:44:59 | Player "[YKZ] chron1c" (steamId=76561198205585613) connected to server!
+23:46:5 | "MendeL" (steamid=76561198329721265) toggled freecam
+23:46:21 | Player "ttuker" (steamId=76561198971813376) connected to server!
+23:46:50 | "MendeL" (steamid=76561198329721265) toggled freecam
+23:46:56 | "MendeL" (steamid=76561198329721265) toggled freecam
+23:47:11 | Player "ttuker" (steamId=76561198971813376) connected to server!
+23:48:3 | Player "[DGK] FALL" (steamId=76561198878621400) connected to server!
+23:48:15 | Player "[DGK] FALL" (steamId=76561198878621400) connected to server!
+23:49:20 | Player "Felipe" (steamId=76561198145846598) connected to server!
+23:50:16 | Player "Felipe" (steamId=76561198145846598) connected to server!
+23:50:19 | Player "[NEBU] yGauchoTv" (steamId=76561198141956652) disconnected from server.
+23:50:45 | Player "Hitokiri_" (steamId=76561198189143650) disconnected from server.
+23:50:54 | Player "Hitokiri_" (steamId=76561198189143650) connected to server!
+23:51:40 | Player "Fulber" (steamId=76561198053443712) disconnected from server.
+23:52:15 | Player "Fulber" (steamId=76561198053443712) connected to server!
+23:52:37 | Player "Fulber" (steamId=76561198053443712) connected to server!
+23:54:18 | Player "Stalinxx" (steamId=76561198085999243) connected to server!
+23:54:39 | Player "AlexFraxe" (steamId=76561198079014774) disconnected from server.
+23:55:19 | Player "AlexFraxe" (steamId=76561198079014774) connected to server!
+23:55:28 | Player "AlexFraxe" (steamId=76561198079014774) connected to server!
+23:56:28 | Player "N E T O" (steamId=76561199193971823) disconnected from server.
+23:56:30 | Player "N E T O" (steamId=76561199193971823) disconnected from server.
+23:57:28 | Player "DanielSam" (steamId=76561198867200764) disconnected from server.
+23:57:31 | Player "DanielSam" (steamId=76561198867200764) disconnected from server.
+23:57:49 | Player "CongaLaConga" (steamId=76561198346938777) connected to server!
+23:58:8 | Player "DanielSam" (steamId=76561198867200764) connected to server!
+23:58:14 | Player "DanielSam" (steamId=76561198867200764) connected to server!
+0:2:40 | Player "[DGK] FALL" (steamId=76561198878621400) disconnected from server.
+0:2:43 | Player "Kenny" (steamId=76561198044562814) connected to server!
+0:2:56 | Player "Kenny" (steamId=76561198044562814) connected to server!
+0:3:34 | Player "General2323" (steamId=76561198300843847) disconnected from server.
+0:3:38 | Player "General2323" (steamId=76561198300843847) disconnected from server.
+0:3:39 | Player "TcheLoco" (steamId=76561198099449370) disconnected from server.
+0:3:42 | Player "TcheLoco" (steamId=76561198099449370) disconnected from server.
+0:6:9 | Player "_C1dy" (steamId=76561199272399866) connected to server!
+0:6:45 | Player "Ronin" (steamId=76561197979480347) disconnected from server.
+0:6:55 | Player "Ronin" (steamId=76561197979480347) connected to server!
+0:6:59 | Player "Guijermo" (steamId=76561198080701997) disconnected from server.
+0:7:4 | Player "Guijermo" (steamId=76561198080701997) disconnected from server.
+0:7:11 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) disconnected from server.
+0:7:12 | Player "matheuslps" (steamId=76561198081711036) disconnected from server.
+0:7:21 | Player "PEDRAO" (steamId=76561199098626087) disconnected from server.
+0:7:28 | Player "PEDRAO" (steamId=76561199098626087) disconnected from server.
+0:8:28 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:8:30 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:8:54 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:9:37 | Player "Kowalski" (steamId=76561198813514168) connected to server!
+0:9:44 | Player "[HORDA] zBieL" (steamId=76561198001525812) disconnected from server.
+0:10:6 | Player "Kenny" (steamId=76561198044562814) disconnected from server.
+0:10:19 | Player "Kenny" (steamId=76561198044562814) disconnected from server.
+0:10:28 | Player "TcheLoco" (steamId=76561198099449370) connected to server!
+0:10:36 | Player "TcheLoco" (steamId=76561198099449370) connected to server!
+0:11:17 | Player "[HORDA] JHON WICK" (steamId=76561198122075703) connected to server!
+0:11:32 | Player "[HORDA] JHON WICK" (steamId=76561198122075703) connected to server!
+0:12:0 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:12:2 | Player "ChukenThe3rd" (steamId=76561198134837847) connected to server!
+0:12:3 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:12:26 | "MendeL" (steamid=76561198329721265) toggled godmode
+0:12:28 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:12:46 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8571.580078, 8.600680, 10447.535156>)
+0:12:47 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:12:54 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:13:15 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8551.377930, 22.318815, 9536.934570>)
+0:13:16 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:13:27 | Player "[horda]marcelinhho" (steamId=76561198817477406) connected to server!
+0:13:28 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:13:38 | Player "[HORDA] zBieL" (steamId=76561198001525812) connected to server!
+0:13:47 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:13:48 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:13:51 | Player "[horda]marcelinhho" (steamId=76561198817477406) connected to server!
+0:13:59 | Player "[HORDA] zBieL" (steamId=76561198001525812) connected to server!
+0:14:1 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) connected to server!
+0:14:12 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) connected to server!
+0:14:29 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<9387.059570, 27.903843, 9040.507813>)
+0:15:14 | "MendeL" (steamid=76561198329721265) deleted object "dp_workbench" (pos=<9176.331055, 27.399965, 8124.707520>)
+0:15:21 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:15:36 | "MendeL": (steamid=76561198329721265) teleported to (pos=10655.9,0,13831.6)
+0:15:38 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:16:1 | Player "TripaSeca" (steamId=76561198093060507) connected to server!
+0:16:51 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:16:52 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:17:0 | Player "TripaSeca" (steamId=76561198093060507) connected to server!
+0:17:36 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<11199.716797, 57.733482, 13373.764648>)
+0:17:36 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:18:5 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:18:19 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<11347.551758, 35.903980, 13413.423828>)
+0:19:39 | Player "CongaLaConga" (steamId=76561198346938777) disconnected from server.
+0:20:14 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10799.557617, 25.750961, 12940.373047>)
+0:20:28 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10256.900391, 22.082039, 13038.675781>)
+0:21:34 | Player "[L.B]TropaDoEnguisa" (steamId=76561198211423224) disconnected from server.
+0:21:36 | Player "[L.B]TropaDoEnguisa" (steamId=76561198211423224) disconnected from server.
+0:21:47 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:21:48 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:21:52 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10307.905273, 8.954048, 12437.255859>)
+0:22:9 | Player "Kenny" (steamId=76561198044562814) connected to server!
+0:22:9 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10138.497070, 12.449549, 12222.424805>)
+0:22:10 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:22:22 | Player "Kenny" (steamId=76561198044562814) connected to server!
+0:22:36 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:22:58 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10215.826172, 29.511660, 12438.044922>)
+0:23:7 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10481.255859, 11.501610, 11901.333008>)
+0:23:22 | Player "Hacan121" (steamId=76561198345012092) connected to server!
+0:23:36 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<9946.723633, 8.253577, 11836.619141>)
+0:23:43 | Player "Hacan121" (steamId=76561198345012092) connected to server!
+0:23:47 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<9857.484375, 22.870667, 11767.562500>)
+0:23:48 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:23:59 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:24:4 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:24:23 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:24:54 | Player "DanielSam" (steamId=76561198867200764) disconnected from server.
+0:24:57 | Player "DanielSam" (steamId=76561198867200764) disconnected from server.
+0:25:7 | Player "[L.B] Santorin" (steamId=76561199069721527) disconnected from server.
+0:25:9 | Player "[L.B] Santorin" (steamId=76561199069721527) disconnected from server.
+0:25:22 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:25:29 | "MendeL": (steamid=76561198329721265) teleported to (pos=10558.3,0,13587.9)
+0:25:31 | Player "Biel FxR" (steamId=76561198050836260) connected to server!
+0:25:31 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:25:52 | Player "Biel FxR" (steamId=76561198050836260) connected to server!
+0:26:4 | "MendeL" (steamid=76561198329721265) deleted object "CodeLock" (pos=<10527.595703, 24.247980, 13535.515625>)
+0:26:14 | "MendeL" (steamid=76561198329721265) deleted object "CodeLock" (pos=<10477.459961, 19.591694, 13496.206055>)
+0:26:30 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10426.761719, 18.467659, 13519.686523>)
+0:26:38 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10430.324219, 18.467405, 13522.253906>)
+0:26:43 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10436.302734, 18.467405, 13524.484375>)
+0:27:0 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10396.019531, 17.183857, 13554.666992>)
+0:27:27 | Player "Survivor" (steamId=76561198797898877) connected to server!
+0:27:29 | "MendeL" (steamid=76561198329721265) deleted object "Wellies_Brown" (pos=<10511.519531, 18.749962, 13521.491211>)
+0:27:32 | "MendeL" (steamid=76561198329721265) deleted object "WoolCoat_Beige" (pos=<10510.566406, 18.768795, 13516.885742>)
+0:27:35 | "MendeL" (steamid=76561198329721265) deleted object "CanvasPants_Blue" (pos=<10517.570313, 18.217205, 13515.627930>)
+0:27:40 | "MendeL" (steamid=76561198329721265) deleted object "Wellies_Green" (pos=<10518.966797, 17.978418, 13520.551758>)
+0:27:55 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:28:1 | "MendeL": (steamid=76561198329721265) teleported to (pos=10303.6,0,12055.2)
+0:28:4 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:29:29 | Player "[YKZ] pedrobala" (steamId=76561198046653521) connected to server!
+0:29:30 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10433.933594, 12.490537, 11548.879883>)
+0:29:30 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:30:3 | Player "Psico" (steamId=76561199107524850) disconnected from server.
+0:30:5 | Player "Cariokah" (steamId=76561198249038296) connected to server!
+0:30:11 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:30:15 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10464.255859, 12.899312, 11505.292969>)
+0:30:16 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:30:26 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:30:37 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10238.345703, 16.174107, 11391.464844>)
+0:30:39 | Player "[YKZ] pedrobala" (steamId=76561198046653521) connected to server!
+0:31:7 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10249.622070, 10.345367, 11014.569336>)
+0:31:9 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:31:10 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:31:43 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10335.072266, 13.436676, 11012.328125>)
+0:32:13 | Player "Gecom" (steamId=76561198020315206) disconnected from server.
+0:32:15 | Player "Gecom" (steamId=76561198020315206) disconnected from server.
+0:32:48 | Player "Riitz" (steamId=76561198217313227) connected to server!
+0:32:52 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10304.081055, 8.744453, 10787.849609>)
+0:33:9 | Player "Felipe" (steamId=76561198145846598) disconnected from server.
+0:33:46 | Player "Riitz" (steamId=76561198217313227) connected to server!
+0:33:50 | Player "Felipe" (steamId=76561198145846598) connected to server!
+0:33:58 | Player "Felipe" (steamId=76561198145846598) connected to server!
+0:34:8 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10393.796875, 15.734001, 10648.888672>)
+0:34:9 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:34:22 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:34:43 | Player "_C1dy" (steamId=76561199272399866) disconnected from server.
+0:34:46 | Player "_C1dy" (steamId=76561199272399866) disconnected from server.
+0:35:26 | Player "Stalinxx" (steamId=76561198085999243) disconnected from server.
+0:35:26 | Player "Stalinxx" (steamId=76561198085999243) disconnected from server.
+0:35:40 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10362.316406, 4.824379, 10296.241211>)
+0:36:1 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10336.658203, 3.781235, 10209.036133>)
+0:36:2 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:36:7 | Player "Stalinxx" (steamId=76561198085999243) connected to server!
+0:36:15 | Player "Stalinxx" (steamId=76561198085999243) connected to server!
+0:36:18 | Player "Hitokiri_" (steamId=76561198189143650) disconnected from server.
+0:36:22 | Player "[YKZ] pedrobala" (steamId=76561198046653521) disconnected from server.
+0:36:30 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:36:40 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10182.571289, 4.052238, 9849.205078>)
+0:37:0 | Player "Santos" (steamId=76561198194230525) connected to server!
+0:37:18 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10348.975586, 3.556441, 9479.132813>)
+0:37:20 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10349.974609, 2.911373, 9478.320313>)
+0:37:24 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10460.450195, 3.109577, 9650.891602>)
+0:37:40 | Player "Santos" (steamId=76561198194230525) connected to server!
+0:37:55 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10447.129883, 2.766658, 9689.195313>)
+0:38:33 | Player "[YKZ] pedrobala" (steamId=76561198046653521) connected to server!
+0:38:51 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10817.928711, 10.343714, 8807.242188>)
+0:39:35 | "MendeL" (steamid=76561198329721265) deleted object "dp_weapons_stand" (pos=<10760.076172, 16.333138, 8767.491211>)
+0:39:39 | Player "[YKZ] pedrobala" (steamId=76561198046653521) connected to server!
+0:40:7 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10882.722656, 7.347609, 8830.304688>)
+0:40:8 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:40:31 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:40:38 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:40:53 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:41:2 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10929.527344, 3.977918, 8802.682617>)
+0:41:3 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:41:9 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:41:16 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:41:20 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:41:41 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10905.773438, 10.280602, 8778.348633>)
+0:41:41 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:41:51 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:42:29 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10965.616211, 46.970001, 8688.662109>)
+0:42:30 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:42:43 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:43:46 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<11076.494141, 11.617440, 8510.682617>)
+0:43:47 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:43:50 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:43:51 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:44:13 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:44:45 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<11416.077148, 1.603703, 8618.225586>)
+0:44:50 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:44:53 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:45:3 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<11177.778320, 21.059097, 8906.398438>)
+0:45:4 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:45:24 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:45:51 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<11175.285156, 13.026005, 8892.688477>)
+0:46:15 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<11146.471680, 16.054712, 8882.934570>)
+0:46:42 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<11357.120117, 23.170134, 8447.964844>)
+0:47:5 | Player "TeuSDek" (steamId=76561198394822113) disconnected from server.
+0:47:7 | Player "TeuSDek" (steamId=76561198394822113) disconnected from server.
+0:47:13 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:47:20 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:47:40 | Player "[ONE] JAPA" (steamId=76561198161060673) connected to server!
+0:47:48 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<11309.751953, 4.087686, 8324.827148>)
+0:47:56 | Player "[ONE] JAPA" (steamId=76561198161060673) connected to server!
+0:48:55 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<11097.122070, 5.023765, 8196.351563>)
+0:48:55 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:49:11 | Player "Santos" (steamId=76561198194230525) disconnected from server.
+0:49:13 | Player "Santos" (steamId=76561198194230525) disconnected from server.
+0:49:17 | Player "SniperX" (steamId=76561199206798095) connected to server!
+0:49:21 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:49:27 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<11065.187500, 4.588017, 8247.625000>)
+0:49:40 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<11056.683594, 4.375462, 8276.674805>)
+0:49:40 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:49:47 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:49:48 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:49:51 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:49:57 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<11039.291992, 4.466109, 8280.557617>)
+0:50:17 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<11083.846680, 4.856295, 8144.020508>)
+0:50:40 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<11005.354492, 4.000019, 7873.233398>)
+0:51:18 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10837.600586, 14.456903, 7657.981934>)
+0:51:31 | Player "[YKZ] pedrobala" (steamId=76561198046653521) disconnected from server.
+0:51:33 | Player "[YKZ] pedrobala" (steamId=76561198046653521) disconnected from server.
+0:52:29 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10826.749023, 3.991389, 7660.747559>)
+0:52:31 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:53:1 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:53:30 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10834.747070, 4.089860, 7626.438477>)
+0:53:33 | Player "tappes" (steamId=76561198990092287) connected to server!
+0:53:40 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10888.382813, 4.001626, 7663.661133>)
+0:53:47 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10828.287109, 4.010005, 7636.885742>)
+0:53:48 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:53:49 | Player "tappes" (steamId=76561198990092287) connected to server!
+0:54:48 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:54:54 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10887.364258, 7.503050, 7636.449707>)
+0:54:54 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:54:57 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:55:0 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10834.937500, 4.142198, 7626.550781>)
+0:55:23 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10744.833008, 31.320440, 7506.054199>)
+0:55:31 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10665.175781, 52.674961, 7062.814941>)
+0:55:44 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10716.704102, 50.645844, 6943.839844>)
+0:55:45 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:56:4 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:56:12 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10574.732422, 47.254993, 6683.668945>)
+0:56:28 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10208.548828, 34.918476, 6326.472656>)
+0:56:32 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:56:51 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:57:0 | Player "tappes" (steamId=76561198990092287) disconnected from server.
+0:57:1 | Player "tappes" (steamId=76561198990092287) disconnected from server.
+0:57:4 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+0:57:18 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10239.913086, 36.552063, 6292.563965>)
+0:58:1 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10170.974609, 36.229382, 6301.039063>)
+0:58:11 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10145.413086, 36.681618, 6287.526367>)
+0:58:11 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+0:58:12 | Player "PedroBola" (steamId=76561198797898877) disconnected from server.
+0:58:17 | Player "tappes" (steamId=76561198990092287) connected to server!
+0:58:31 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10110.763672, 52.997318, 6366.348633>)
+0:58:32 | Player "Stalinxx" (steamId=76561198085999243) disconnected from server.
+0:58:34 | Player "Stalinxx" (steamId=76561198085999243) disconnected from server.
+0:58:41 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<10079.263672, 33.202026, 6198.939453>)
+0:59:3 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<9955.748047, 46.282108, 6279.540527>)
+0:59:6 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<9956.417969, 46.996117, 6287.731934>)
+0:59:11 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<9859.093750, 47.046402, 6358.968262>)
+0:59:26 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<9404.354492, 30.098301, 6644.134277>)
+0:59:27 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:59:28 | Player "TcheLoco" (steamId=76561198099449370) disconnected from server.
+0:59:32 | Player "TcheLoco" (steamId=76561198099449370) disconnected from server.
+0:59:33 | "MendeL" (steamid=76561198329721265) toggled freecam
+0:59:34 | Player "Raymond" (steamId=76561197987809739) connected to server!
+0:59:56 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<9029.866211, 16.194527, 6194.910156>)
+1:0:12 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8672.496094, 182.015015, 6716.993164>)
+1:0:17 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:0:25 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:0:34 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8664.966797, 182.663864, 6678.987793>)
+1:0:39 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:0:42 | Player "Raymond" (steamId=76561197987809739) disconnected from server.
+1:0:45 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:1:7 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8648.554688, 185.291336, 6684.834473>)
+1:1:7 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:1:9 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:1:12 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8641.762695, 182.317551, 6686.887695>)
+1:1:13 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:1:19 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:1:22 | Player "Riitz" (steamId=76561198217313227) disconnected from server.
+1:1:29 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8673.450195, 182.270126, 6700.588379>)
+1:1:30 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:1:45 | "MendeL": (steamid=76561198329721265) teleported to (pos=8850.88,0,10246.7)
+1:2:35 | Player "Cariokah" (steamId=76561198249038296) disconnected from server.
+1:2:37 | Player "Cariokah" (steamId=76561198249038296) disconnected from server.
+1:2:37 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8851.802734, 11.573920, 10243.004883>)
+1:3:16 | Player "romimmoss" (steamId=76561198282777734) connected to server!
+1:3:54 | Player "[HORDA] zBieL" (steamId=76561198001525812) disconnected from server.
+1:4:27 | Player "romimmoss" (steamId=76561198282777734) connected to server!
+1:5:13 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:5:21 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:5:30 | Player "TeuSDek" (steamId=76561198394822113) connected to server!
+1:5:30 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8849.489258, 11.508260, 10252.069336>)
+1:5:50 | Player "TeuSDek" (steamId=76561198394822113) connected to server!
+1:5:51 | Player "[ONE] JAPA" (steamId=76561198161060673) disconnected from server.
+1:5:53 | Player "[ONE] JAPA" (steamId=76561198161060673) disconnected from server.
+1:5:54 | Player "tappes" (steamId=76561198990092287) disconnected from server.
+1:6:16 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8849.364258, 7.472600, 10247.963867>)
+1:6:54 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:6:55 | Player "romimmoss" (steamId=76561198282777734) disconnected from server.
+1:7:2 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8673.594727, 182.092636, 6711.005859>)
+1:7:7 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:7:9 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:7:12 | Player "romimmoss" (steamId=76561198282777734) connected to server!
+1:7:28 | Player "GLORIA GROOVE" (steamId=76561198836991038) connected to server!
+1:7:29 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8698.337891, 183.035126, 6648.402344>)
+1:7:38 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:7:41 | Player "GLORIA GROOVE" (steamId=76561198836991038) connected to server!
+1:7:49 | Player "Survivor" (steamId=76561198392669639) connected to server!
+1:7:55 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:8:3 | Player "DanielSam" (steamId=76561198867200764) connected to server!
+1:8:5 | Player "tappes" (steamId=76561198990092287) connected to server!
+1:8:16 | Player "DanielSam" (steamId=76561198867200764) connected to server!
+1:8:22 | Player "tappes" (steamId=76561198990092287) connected to server!
+1:9:1 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8682.658203, 182.582657, 6699.042480>)
+1:9:6 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:9:12 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:9:18 | Player "Eloy" (steamId=76561197980095586) disconnected from server.
+1:9:35 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8734.289063, 181.569153, 6695.156738>)
+1:10:2 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8665.762695, 183.571609, 6661.754883>)
+1:10:30 | Player "ApocalipZ" (steamId=76561199082346965) connected to server!
+1:11:2 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8673.753906, 182.274048, 6700.470703>)
+1:11:11 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8700.959961, 183.198959, 6650.322266>)
+1:11:22 | Player "Joker" (steamId=76561198038326260) disconnected from server.
+1:11:49 | Player "Kowalski" (steamId=76561198813514168) disconnected from server.
+1:12:20 | Player "Luska" (steamId=76561198099970604) disconnected from server.
+1:12:43 | Player "Ronin" (steamId=76561197979480347) disconnected from server.
+1:12:45 | Player "Ronin" (steamId=76561197979480347) disconnected from server.
+1:18:0 | Player "Klimczak" (steamId=76561198093758203) connected to server!
+1:19:47 | Player "Klimczak" (steamId=76561198093758203) disconnected from server.
+1:19:49 | Player "Klimczak" (steamId=76561198093758203) disconnected from server.
+1:19:50 | Player "Lobo Sentado" (steamId=76561198138311400) disconnected from server.
+1:21:8 | Player "Leon" (steamId=76561198043057028) disconnected from server.
+1:21:29 | Player "Leon" (steamId=76561198043057028) re-connected to server [canceledLogout]
+1:21:49 | Player "[YKZ] pedrobala" (steamId=76561198046653521) connected to server!
+1:21:58 | Player "Leon" (steamId=76561198043057028) disconnected from server.
+1:22:27 | Player "Foikar" (steamId=76561199156649696) disconnected from server.
+1:22:41 | Player "[YKZ] pedrobala" (steamId=76561198046653521) connected to server!
+1:22:51 | Player "[HORDA]LUCASBR" (steamId=76561198973828354) connected to server!
+1:22:59 | Player "Felipe" (steamId=76561198145846598) disconnected from server.
+1:23:1 | Player "Felipe" (steamId=76561198145846598) disconnected from server.
+1:23:47 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:24:12 | Player "[HORDA]LUCASBR" (steamId=76561198973828354) connected to server!
+1:24:12 | Player "TeuSDek" (steamId=76561198394822113) disconnected from server.
+1:24:13 | "MendeL": (steamid=76561198329721265) teleported to (pos=8499.78,0,7681.49)
+1:24:14 | "MendeL": (steamid=76561198329721265) teleported to (pos=8499.78,0,7681.49)
+1:24:14 | "MendeL": (steamid=76561198329721265) teleported to (pos=8499.78,0,7681.49)
+1:24:21 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:24:46 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<7974.344727, 35.809364, 6596.582520>)
+1:25:19 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8355.014648, 71.785805, 6506.193359>)
+1:25:21 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:25:30 | Player "Todden" (steamId=76561198013189715) connected to server!
+1:25:45 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:25:52 | Player "Todden" (steamId=76561198013189715) connected to server!
+1:25:59 | Player "ttuker" (steamId=76561198971813376) disconnected from server.
+1:26:2 | Player "ttuker" (steamId=76561198971813376) disconnected from server.
+1:26:16 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8311.851563, 52.020569, 6759.843262>)
+1:26:47 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:27:2 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:27:39 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8679.740234, 181.900467, 6739.309570>)
+1:27:53 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:27:55 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:28:2 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8666.256836, 183.571609, 6661.948730>)
+1:28:3 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:28:20 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:28:57 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:29:8 | "MendeL": (steamid=76561198329721265) teleported to (pos=9136.6,0,9780.42)
+1:29:14 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:29:52 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8845.072266, 7.440002, 10240.219727>)
+1:29:53 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:30:8 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:30:10 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8860.755859, 7.439983, 10250.752930>)
+1:30:10 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:30:27 | "MendeL" (steamid=76561198329721265) Spawned Item: (Lockpick)
+1:30:38 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:30:44 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8852.766602, 11.573920, 10242.308594>)
+1:30:44 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:30:59 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8849.511719, 11.471143, 10252.051758>)
+1:31:17 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8853.256836, 11.573920, 10242.235352>)
+1:31:43 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8848.976563, 11.573920, 10253.366211>)
+1:34:4 | "MendeL" (steamid=76561198329721265) Spawned Item: (AC_MilitaryBoots_Admin)
+1:34:5 | "MendeL" (steamid=76561198329721265) Spawned Item: (AC_MilitaryBeret_Admin)
+1:34:6 | "MendeL" (steamid=76561198329721265) Spawned Item: (AC_CargoPants_Admin)
+1:34:7 | "MendeL" (steamid=76561198329721265) Spawned Item: (AC_TacticalShirt_Admin)
+1:34:8 | "MendeL" (steamid=76561198329721265) Spawned Item: (AC_TacticalGloves_Admin)
+1:34:10 | "MendeL" (steamid=76561198329721265) Spawned Item: (AdminHatchet)
+1:34:21 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8856.382813, 7.472600, 10244.341797>)
+1:34:26 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:36:36 | Player "StarkCG" (steamId=76561198121484554) connected to server!
+1:36:41 | Player "Henke" (steamId=76561198110592511) connected to server!
+1:37:6 | Player "SniperX" (steamId=76561199206798095) disconnected from server.
+1:37:18 | Player "Henke" (steamId=76561198110592511) connected to server!
+1:37:27 | Player "SniperX" (steamId=76561199206798095) disconnected from server.
+1:37:39 | Player "SniperX" (steamId=76561199206798095) connected to server!
+1:37:47 | Player "SniperX" (steamId=76561199206798095) connected to server!
+1:38:36 | Player "StarkCG" (steamId=76561198121484554) connected to server!
+1:38:55 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8846.576172, 7.440016, 10243.227539>)
+1:38:56 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:40:11 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:40:15 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:40:23 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:41:30 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8837.766602, 7.439998, 10246.852539>)
+1:41:30 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:41:36 | "MendeL" (steamid=76561198329721265) Spawned Item: (FenceKit)
+1:41:52 | "MendeL" (steamid=76561198329721265) Spawned Item: (WatchtowerKit)
+1:44:2 | "MendeL" (steamid=76561198329721265) deleted object "Watchtower" (pos=<8838.260742, 7.439959, 10248.255859>)
+1:44:38 | Player "[P.S]g2" (steamId=76561198352516654) connected to server!
+1:44:57 | Player "[YKZ] pedrobala" (steamId=76561198046653521) disconnected from server.
+1:44:59 | Player "[YKZ] pedrobala" (steamId=76561198046653521) disconnected from server.
+1:45:29 | Player "[P.S]g2" (steamId=76561198352516654) connected to server!
+1:46:26 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:46:35 | Player "[YKZ] pedrobala" (steamId=76561198046653521) connected to server!
+1:46:47 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:47:34 | Player "[YKZ] pedrobala" (steamId=76561198046653521) connected to server!
+1:48:24 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8849.951172, 7.440024, 10238.644531>)
+1:48:38 | Player "[P.S]g2" (steamId=76561198352516654) disconnected from server.
+1:48:42 | Player "[P.S]g2" (steamId=76561198352516654) disconnected from server.
+1:49:11 | Player "[YKZ] pedrobala" (steamId=76561198046653521) disconnected from server.
+1:49:12 | Player "[YKZ] pedrobala" (steamId=76561198046653521) disconnected from server.
+1:49:46 | Player "Todden" (steamId=76561198013189715) disconnected from server.
+1:50:24 | Player "[YKZ] pedrobala" (steamId=76561198046653521) connected to server!
+1:50:55 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:51:5 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:51:19 | Player "[YKZ] pedrobala" (steamId=76561198046653521) connected to server!
+1:52:7 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:52:15 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:52:17 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:52:19 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8847.482422, 7.439919, 10236.125977>)
+1:52:20 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:52:39 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:52:56 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:54:50 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:54:51 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8809.559570, 7.860127, 10245.948242>)
+1:54:51 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:55:8 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:55:11 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8832.994141, 7.432011, 10245.521484>)
+1:55:11 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:55:18 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:55:36 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:56:18 | Player "[ONE] JAPA" (steamId=76561198161060673) connected to server!
+1:56:34 | Player "[ONE] JAPA" (steamId=76561198161060673) connected to server!
+1:57:35 | Player "[YKZ] pedrobala" (steamId=76561198046653521) disconnected from server.
+1:57:40 | "MendeL" (steamid=76561198329721265) Spawned Item: (Hatchet)
+1:57:49 | Player "[YKZ] pedrobala" (steamId=76561198046653521) disconnected from server.
+1:58:29 | Player "G A T O" (steamId=76561199207813177) connected to server!
+1:58:37 | Player "[HORDA]MacLovin" (steamId=76561199068236803) disconnected from server.
+1:58:42 | Player "joao" (steamId=76561199070971844) disconnected from server.
+1:58:43 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:58:45 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8834.170898, 7.572926, 10236.979492>)
+1:58:45 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:58:46 | Player "joao" (steamId=76561199070971844) disconnected from server.
+1:58:50 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:58:52 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8838.302734, 7.450885, 10237.282227>)
+1:58:53 | "MendeL" (steamid=76561198329721265) toggled freecam
+1:58:53 | Player "G A T O" (steamId=76561199207813177) connected to server!
+1:59:8 | Player "StarkCG" (steamId=76561198121484554) disconnected from server.
+1:59:9 | Player "StarkCG" (steamId=76561198121484554) disconnected from server.
+1:59:14 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+1:59:18 | Player "ttuker" (steamId=76561198971813376) connected to server!
+1:59:24 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+2:0:4 | Player "ttuker" (steamId=76561198971813376) connected to server!
+2:0:36 | Player "Spawn" (steamId=76561198079935580) connected to server!
+2:0:52 | Player "Spawn" (steamId=76561198079935580) connected to server!
+2:1:7 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:1:10 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:1:33 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8839.174805, 7.447764, 10238.063477>)
+2:1:46 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:1:54 | Player "Josema420" (steamId=76561198278742213) connected to server!
+2:1:55 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:1:57 | Player "[YKZ] pedrobala" (steamId=76561198046653521) connected to server!
+2:2:50 | Player "[YKZ] pedrobala" (steamId=76561198046653521) connected to server!
+2:2:51 | Player "Josema420" (steamId=76561198278742213) connected to server!
+2:4:27 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8851.562500, 7.440010, 10237.928711>)
+2:4:59 | Player "Henke" (steamId=76561198110592511) disconnected from server.
+2:7:4 | "MendeL" (steamid=76561198329721265) Spawned Item: (CodeLock)
+2:8:2 | Player "AlexFraxe" (steamId=76561198079014774) disconnected from server.
+2:8:4 | Player "AlexFraxe" (steamId=76561198079014774) disconnected from server.
+2:9:2 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:9:9 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:9:48 | Player "[KGB}Nobre Lobo" (steamId=76561198127199963) disconnected from server.
+2:9:52 | Player "[KGB}Nobre Lobo" (steamId=76561198127199963) disconnected from server.
+2:10:8 | Player "tappes" (steamId=76561198990092287) disconnected from server.
+2:10:9 | Player "tappes" (steamId=76561198990092287) disconnected from server.
+2:10:32 | Player "AriJR" (steamId=76561198075180434) disconnected from server.
+2:10:57 | Player "AriJR" (steamId=76561198075180434) re-connected to server [canceledLogout]
+2:11:45 | Player "tappes" (steamId=76561198990092287) connected to server!
+2:11:54 | Player "tappes" (steamId=76561198990092287) connected to server!
+2:12:29 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:12:35 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:13:29 | Player "SniperX" (steamId=76561199206798095) disconnected from server.
+2:14:3 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:14:14 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8853.532227, 12.911436, 10235.296875>)
+2:14:15 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:14:30 | Player "[YKZ] chron1c" (steamId=76561198205585613) disconnected from server.
+2:15:5 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8840.827148, 7.440050, 10241.518555>)
+2:15:29 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:15:34 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:16:15 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door_Kit)
+2:16:26 | Player "TcheLoco" (steamId=76561198099449370) connected to server!
+2:16:26 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door_Kit)
+2:16:43 | Player "TcheLoco" (steamId=76561198099449370) connected to server!
+2:16:56 | "MendeL" (steamid=76561198329721265) deleted object "Fence" (pos=<8833.897461, 7.435634, 10246.448242>)
+2:19:24 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:19:48 | Player "Spawn" (steamId=76561198079935580) disconnected from server.
+2:19:54 | Player "Fulber" (steamId=76561198053443712) disconnected from server.
+2:20:3 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:20:9 | Player "AriJR" (steamId=76561198075180434) disconnected from server.
+2:20:39 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:20:42 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:21:23 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:21:48 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:21:57 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:22:3 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:22:56 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:23:37 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:23:44 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:23:52 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:27:46 | "MendeL" (steamid=76561198329721265) Spawned Item: (M18SmokeGrenade_Red)
+2:28:56 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:29:6 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:29:11 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:29:23 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:29:33 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8846.289063, 7.439987, 10242.305664>)
+2:29:54 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:29:57 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8829.291992, 7.389255, 10251.674805>)
+2:29:58 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:30:0 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:30:8 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8842.426758, 7.439985, 10241.830078>)
+2:30:8 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:30:31 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:30:35 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8835.737305, 7.511837, 10246.673828>)
+2:30:35 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:31:40 | "MendeL" (steamid=76561198329721265) deleted object "M18SmokeGrenade_Red" (pos=<8841.685547, 7.477824, 10237.858398>)
+2:31:41 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:31:45 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:32:6 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:32:18 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8838.453125, 10.179654, 10247.023438>)
+2:32:19 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:32:25 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:32:44 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8838.731445, 7.513743, 10243.950195>)
+2:33:30 | Player "[YKZ] Notsniw" (steamId=76561197967151252) disconnected from server.
+2:33:32 | Player "[YKZ] Notsniw" (steamId=76561197967151252) disconnected from server.
+2:33:49 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door_holo)
+2:33:58 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:33:59 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:34:13 | "MendeL" (steamid=76561198329721265) deleted object "dp_door" (pos=<8841.900391, 7.539289, 10238.994141>)
+2:34:20 | "MendeL" (steamid=76561198329721265) deleted object "dp_door_holo" (pos=<8840.537109, 7.445455, 10242.444336>)
+2:34:22 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:34:32 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:34:41 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:34:45 | "MendeL" (steamid=76561198329721265) deleted object "dp_door" (pos=<8837.678711, 10.049866, 10244.863281>)
+2:34:46 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:34:53 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:34:57 | "MendeL" (steamid=76561198329721265) deleted object "dp_door" (pos=<8837.624023, 10.078611, 10244.813477>)
+2:35:4 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:35:9 | "MendeL" (steamid=76561198329721265) deleted object "dp_door" (pos=<8837.728516, 10.064723, 10244.927734>)
+2:35:12 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:35:14 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:35:20 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:35:25 | "MendeL" (steamid=76561198329721265) deleted object "dp_door" (pos=<8837.641602, 10.078611, 10244.827148>)
+2:35:28 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:35:33 | "MendeL" (steamid=76561198329721265) deleted object "dp_door" (pos=<8837.666992, 10.049866, 10244.828125>)
+2:35:36 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:35:43 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:35:48 | "MendeL" (steamid=76561198329721265) deleted object "dp_door" (pos=<8837.653320, 10.078611, 10244.897461>)
+2:35:49 | Player "GLORIA GROOVE" (steamId=76561198836991038) disconnected from server.
+2:35:50 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:35:51 | Player "GLORIA GROOVE" (steamId=76561198836991038) disconnected from server.
+2:35:55 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:35:58 | "MendeL" (steamid=76561198329721265) deleted object "dp_door" (pos=<8837.629883, 10.049866, 10244.795898>)
+2:36:4 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:36:7 | "MendeL" (steamid=76561198329721265) deleted object "dp_door" (pos=<8837.609375, 10.078611, 10244.843750>)
+2:36:9 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:36:11 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:36:13 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:36:14 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:36:15 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:36:15 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:36:20 | "MendeL" (steamid=76561198329721265) deleted object "dp_door" (pos=<8837.612305, 10.570688, 10244.800781>)
+2:36:21 | "MendeL" (steamid=76561198329721265) deleted object "dp_door" (pos=<8837.612305, 10.472273, 10244.800781>)
+2:36:23 | "MendeL" (steamid=76561198329721265) deleted object "dp_door" (pos=<8837.612305, 10.373857, 10244.800781>)
+2:36:27 | "MendeL" (steamid=76561198329721265) deleted object "dp_door" (pos=<8837.612305, 10.275442, 10244.800781>)
+2:36:33 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:36:33 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:36:40 | "MendeL" (steamid=76561198329721265) deleted object "dp_door" (pos=<8837.653320, 10.148281, 10244.800781>)
+2:36:46 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:36:47 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:36:48 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:36:54 | "MendeL" (steamid=76561198329721265) deleted object "dp_door" (pos=<8838.135742, 12.801405, 10244.361328>)
+2:37:0 | "MendeL" (steamid=76561198329721265) deleted object "dp_door" (pos=<8837.622070, 10.078611, 10244.848633>)
+2:37:4 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:37:5 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:37:6 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:37:15 | "MendeL" (steamid=76561198329721265) deleted object "dp_door" (pos=<8837.628906, 10.275442, 10244.848633>)
+2:37:17 | "MendeL" (steamid=76561198329721265) deleted object "dp_door" (pos=<8837.628906, 10.177027, 10244.848633>)
+2:37:28 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:37:29 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_door)
+2:37:32 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:37:38 | "MendeL" (steamid=76561198329721265) deleted object "dp_door" (pos=<8837.654297, 10.078611, 10244.845703>)
+2:37:56 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:38:16 | Player "ApocalipZ" (steamId=76561199082346965) disconnected from server.
+2:38:21 | Player "ApocalipZ" (steamId=76561199082346965) disconnected from server.
+2:38:43 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:38:58 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:39:0 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8840.146484, 7.439902, 10243.175781>)
+2:39:1 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:39:5 | "MendeL" (steamid=76561198329721265) deleted object "dp_door" (pos=<8837.654297, 10.177027, 10244.845703>)
+2:39:18 | "MendeL" (steamid=76561198329721265) Spawned Item: (dp_roof_Kit)
+2:40:5 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:40:23 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:41:1 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:41:3 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8839.687500, 10.185987, 10242.728516>)
+2:41:4 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:41:55 | "MendeL" (steamid=76561198329721265) deleted object "dp_roof" (pos=<8839.144531, 7.440000, 10243.181641>)
+2:45:16 | Player "Duerowww" (steamId=76561198259492425) disconnected from server.
+2:45:58 | Player "Duerowww" (steamId=76561198259492425) connected to server!
+2:46:9 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:46:9 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:46:10 | Player "Duerowww" (steamId=76561198259492425) connected to server!
+2:46:15 | "MendeL" (steamid=76561198329721265) Spawned Item: (Pliers)
+2:46:19 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:46:23 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:46:35 | "MendeL" (steamid=76561198329721265) Spawned Item: (Pliers)
+2:47:0 | Player "[horda]marcelinhho" (steamId=76561198817477406) disconnected from server.
+2:47:3 | Player "[horda]marcelinhho" (steamId=76561198817477406) disconnected from server.
+2:47:28 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:47:31 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8850.502930, 7.472600, 10247.791992>)
+2:47:31 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:47:40 | Player "[horda]marcelinhho" (steamId=76561198817477406) connected to server!
+2:47:51 | Player "[horda]marcelinhho" (steamId=76561198817477406) connected to server!
+2:51:17 | "MendeL" (steamid=76561198329721265) Spawned Item: (HRM_Painted_Barrel_DPM)
+2:52:11 | Player "[YKZ] Emissarius" (steamId=76561198271087379) disconnected from server.
+2:52:12 | "MendeL" (steamid=76561198329721265) Spawned Item: (HRM_Painted_Barrel_DPM)
+2:52:14 | Player "[YKZ] Emissarius" (steamId=76561198271087379) disconnected from server.
+2:52:16 | "MendeL" (steamid=76561198329721265) Spawned Item: (HRM_Painted_Barrel_DPM)
+2:52:33 | "MendeL" (steamid=76561198329721265) deleted object "AdminHatchet" (pos=<8857.053711, 7.500157, 10241.607422>)
+2:52:57 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:53:2 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8856.449219, 7.472600, 10239.508789>)
+2:53:3 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:53:22 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:53:27 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8844.093750, 7.472600, 10256.277344>)
+2:53:28 | "MendeL" (steamid=76561198329721265) toggled freecam
+2:53:47 | Player "[YKZ] Emissarius" (steamId=76561198271087379) connected to server!
+2:53:59 | Player "[YKZ] Emissarius" (steamId=76561198271087379) connected to server!
+2:55:44 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8851.496094, 11.536364, 10243.477539>)
+2:57:40 | "MendeL" (steamid=76561198329721265) teleported to crosshair (pos=<8841.927734, 7.472600, 10252.797852>)
+2:58:10 | Player "[HORDA]MacLovin" (steamId=76561199068236803) disconnected from server.
+2:59:8 | Player "TcheLoco" (steamId=76561198099449370) disconnected from server.
+2:59:8 | Player "tappes" (steamId=76561198990092287) disconnected from server.
+2:59:8 | Player "Josema420" (steamId=76561198278742213) disconnected from server.
+2:59:8 | Player "[YKZ] pedrobala" (steamId=76561198046653521) disconnected from server.
+2:59:8 | Player "ttuker" (steamId=76561198971813376) disconnected from server.
+2:59:8 | Player "[ONE] JAPA" (steamId=76561198161060673) disconnected from server.
+2:59:8 | Player "G A T O" (steamId=76561199207813177) disconnected from server.
+2:59:8 | Player "[HORDA]LUCASBR" (steamId=76561198973828354) disconnected from server.
+2:59:8 | Player "DanielSam" (steamId=76561198867200764) disconnected from server.
+2:59:8 | Player "Biel FxR" (steamId=76561198050836260) disconnected from server.
+2:59:8 | Player "Hacan121" (steamId=76561198345012092) disconnected from server.
+2:59:8 | Player "Kenny" (steamId=76561198044562814) disconnected from server.
+2:59:8 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) disconnected from server.
+2:59:8 | Player "TripaSeca" (steamId=76561198093060507) disconnected from server.
+2:59:8 | Player "ChukenThe3rd" (steamId=76561198134837847) disconnected from server.
+2:59:8 | Player "[HORDA] JHON WICK" (steamId=76561198122075703) disconnected from server.
+2:59:8 | Player "MendeL" (steamId=76561198329721265) disconnected from server.
+2:59:8 | Player "Passo Largo" (steamId=76561199203652654) disconnected from server.
+2:59:8 | Player "[YKZ]-BlackBear" (steamId=76561198343030820) disconnected from server.
+2:59:8 | Player "[ONE] KARABULJHAN" (steamId=76561198100527842) disconnected from server.
+2:59:8 | Player "[horda]marcelinhho" (steamId=76561198817477406) disconnected from server.
+2:59:8 | Player "Duerowww" (steamId=76561198259492425) disconnected from server.
+3:0:9 | Player "[YKZ] Emissarius" (steamId=76561198271087379) disconnected from server.

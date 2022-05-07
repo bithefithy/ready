@@ -1,0 +1,642 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-5-3_0-15-14
+====================================================================================
+0:15:14 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+0:15:14 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+0:15:14 | [PermissionManager] Perm (FreeCamera) has been registered!
+0:15:14 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuItemManager) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuServerManager) has been registered!
+0:15:14 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+0:15:14 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+0:15:14 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+0:15:14 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+0:15:14 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+0:15:14 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+0:15:14 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+0:15:14 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+0:15:14 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+0:15:14 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+0:15:14 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+0:15:14 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+0:15:14 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+0:15:14 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+0:15:14 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+0:15:14 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+0:15:14 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+0:15:14 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+0:15:14 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+0:15:14 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+0:15:14 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+0:15:14 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+0:15:14 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+0:15:14 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+0:15:14 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+0:15:14 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+0:15:14 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+0:15:14 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+0:15:14 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+0:15:14 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+0:15:14 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+0:15:14 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+0:15:14 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuBansManager) has been registered!
+0:15:14 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+0:15:14 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+0:15:14 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+0:15:14 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+0:15:14 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+0:15:14 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+0:15:14 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+0:15:14 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+0:15:14 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+0:15:14 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+0:15:14 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+0:15:14 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+0:15:14 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+0:15:14 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+0:15:14 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+0:15:14 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+0:15:14 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+0:15:14 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+0:15:14 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+0:15:14 | [PermissionManager] Adding Super Admin (76561198253386609)
+0:15:14 | [PermissionManager] Adding Super Admin (76561198950594742)
+0:15:14 | [PermissionManager] Adding Super Admin (76561198329721265)
+0:15:14 | [PermissionManager] Adding Super Admin (76561198140728342)
+0:15:14 | [PermissionManager] Loaded UserGroups.json
+0:15:14 | Building Sets Loaded: 5
+0:15:14 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+0:15:14 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+0:15:14 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+0:15:14 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+0:15:14 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+0:15:14 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+0:15:14 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+0:15:14 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+0:15:14 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+0:15:14 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+0:15:14 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+0:15:14 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+0:15:14 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+0:15:14 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+0:15:14 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+0:15:14 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+0:16:14 | Player "Fuminhu " (steamId=76561198199978915) connected to server!
+0:16:22 | Player "KOREA" (steamId=76561198253386609) connected to server!
+0:16:23 | Player "[EB] pedrobala" (steamId=76561198046653521) connected to server!
+0:16:28 | Player "Fuminhu " (steamId=76561198199978915) connected to server!
+0:16:29 | Player "ACC" (steamId=76561198106291582) connected to server!
+0:16:36 | Player "ACC" (steamId=76561198106291582) connected to server!
+0:16:49 | Player "KOREA" (steamId=76561198253386609) connected to server!
+0:16:57 | "KOREA" (steamid=76561198253386609) toggled godmode
+0:16:58 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:17:3 | Player "Funghi" (steamId=76561199069858485) connected to server!
+0:17:7 | Player "Lop1nho" (steamId=76561198136544409) connected to server!
+0:17:11 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:17:15 | Player "[EB] pedrobala" (steamId=76561198046653521) connected to server!
+0:17:15 | Player "Lop1nho" (steamId=76561198136544409) connected to server!
+0:17:19 | Player "SuperNoia" (steamId=76561198132169694) connected to server!
+0:17:20 | Player "KOREA" (steamId=76561198253386609) disconnected from server.
+0:17:28 | Player "Raemi" (steamId=76561198048467587) connected to server!
+0:17:34 | Player "SuperNoia" (steamId=76561198132169694) connected to server!
+0:17:37 | Player "Funghi" (steamId=76561199069858485) connected to server!
+0:17:39 | Player "Raemi" (steamId=76561198048467587) connected to server!
+0:17:47 | Player "Funghi" (steamId=76561199069858485) disconnected from server.
+0:17:47 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+0:17:50 | Player "SUC0_DE_P1NEU" (steamId=76561198261470581) connected to server!
+0:17:56 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+0:18:30 | Player "MercenarioK2" (steamId=76561198928398072) connected to server!
+0:19:42 | Player "Funghi" (steamId=76561199069858485) connected to server!
+0:20:5 | Player "Funghi" (steamId=76561199069858485) connected to server!
+0:22:48 | Player "[YKZ]-BlackBear" (steamId=76561198343030820) connected to server!
+0:23:1 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) connected to server!
+0:23:3 | Player "[YKZ]-BlackBear" (steamId=76561198343030820) connected to server!
+0:23:10 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) connected to server!
+0:23:52 | Player "HooZz" (steamId=76561198805460683) connected to server!
+0:23:57 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) disconnected from server.
+0:25:55 | Player "joaoob23" (steamId=76561198302337518) connected to server!
+0:26:6 | Player "joaoob23" (steamId=76561198302337518) connected to server!
+0:26:14 | Player "Mbrown" (steamId=76561198834441216) connected to server!
+0:26:35 | Player "Mbrown" (steamId=76561198834441216) connected to server!
+0:26:52 | Player "[HORDA]MacLovin" (steamId=76561199068236803) disconnected from server.
+0:27:43 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) connected to server!
+0:27:44 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+0:27:51 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) connected to server!
+0:27:53 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+0:32:11 | Player "[HORDA] JHON WICK" (steamId=76561198122075703) connected to server!
+0:32:28 | Player "[HORDA] JHON WICK" (steamId=76561198122075703) connected to server!
+0:32:44 | Player "Mbrown" (steamId=76561198834441216) disconnected from server.
+0:34:40 | Player "Mbrown" (steamId=76561198834441216) connected to server!
+0:34:49 | Player "Mbrown" (steamId=76561198834441216) connected to server!
+0:34:49 | Player "[HORDA] zBieL" (steamId=76561198001525812) connected to server!
+0:35:7 | Player "[HORDA] zBieL" (steamId=76561198001525812) connected to server!
+0:35:16 | Player "KOREA" (steamId=76561198253386609) connected to server!
+0:35:35 | Player "KOREA" (steamId=76561198253386609) connected to server!
+0:35:41 | "KOREA" (steamid=76561198253386609) toggled godmode
+0:36:33 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:36:41 | "KOREA" (steamid=76561198253386609) /heal used on: "KOREA" (steamid=76561198253386609)
+0:36:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10070.765625, 9.755234, 12989.470703>)
+0:36:43 | "KOREA" (steamid=76561198253386609) toggled godmode
+0:36:43 | "KOREA" (steamid=76561198253386609) toggled godmode
+0:36:56 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10214.045898, 11.235107, 13461.199219>)
+0:37:10 | "KOREA" (steamid=76561198253386609) /heal used on: "KOREA" (steamid=76561198253386609)
+0:37:10 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10800.028320, 14.534576, 13800.021484>)
+0:37:24 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10948.512695, 27.617088, 13148.560547>)
+0:38:4 | Player "Mbrown" (steamId=76561198834441216) disconnected from server.
+0:38:46 | "KOREA": (steamid=76561198253386609) teleported to (pos=7413.39,0,7424.32)
+0:38:49 | "KOREA": (steamid=76561198253386609) teleported to (pos=7413.39,0,7424.32)
+0:38:51 | "KOREA": (steamid=76561198253386609) teleported to (pos=7413.39,0,7424.32)
+0:38:52 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:38:54 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:39:5 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<7134.051270, 37.244186, 7020.537598>)
+0:39:7 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<7127.970703, 21.048737, 6944.946777>)
+0:39:18 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<7125.853516, 24.885548, 6871.918457>)
+0:40:17 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<7282.364258, 24.817566, 6834.655762>)
+0:41:22 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<7148.035645, 24.889954, 6860.412598>)
+0:41:30 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<7125.856445, 22.135109, 6847.929199>)
+0:42:26 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<7037.983887, 16.592518, 6808.716797>)
+0:42:26 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:42:41 | Player "[horda]marcelinho" (steamId=76561198817477406) connected to server!
+0:42:58 | Player "[horda]marcelinho" (steamId=76561198817477406) connected to server!
+0:43:28 | Player "[YKZ]-Lobato" (steamId=76561198158375860) connected to server!
+0:43:30 | Player "Malcriado" (steamId=76561198376508831) connected to server!
+0:44:40 | Player "[YKZ]-Lobato" (steamId=76561198158375860) connected to server!
+0:45:16 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:45:25 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<7199.385254, 40.468460, 6817.094238>)
+0:45:26 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:51:7 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:51:7 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:51:30 | Player "Boneco " (steamId=76561199225248971) connected to server!
+0:51:36 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:51:48 | Player "Boneco " (steamId=76561199225248971) connected to server!
+0:52:30 | Player "XUXUZINHO" (steamId=76561199083408122) connected to server!
+0:52:46 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9171.225586, 27.110979, 8093.293945>)
+0:53:10 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9375.036133, 36.182770, 7909.304688>)
+0:53:31 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9336.801758, 27.000015, 8213.123047>)
+0:53:34 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9340.272461, 26.999992, 8203.644531>)
+0:54:6 | "KOREA": (steamid=76561198253386609) teleported to (pos=8683.35,0,6683.95)
+0:54:8 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:54:9 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:55:40 | [PermissionManager] Group: (Teste) Permission Level: (0) was created!
+0:57:34 | [PermissionManager] Group: (modded) Permission Level: (0) was created!
+0:58:25 | Player "Passo Largo" (steamId=76561198057660141) connected to server!
+0:58:39 | Player "Passo Largo" (steamId=76561198057660141) connected to server!
+0:58:53 | [PermissionManager] Group: (modded) Settings changed by: "KOREA" (steamid=76561198253386609)
+0:58:57 | Player "Passo Largo" (steamId=76561198057660141) disconnected from server.
+0:59:15 | Player "[HORDA]MacLovin" (steamId=76561199068236803) disconnected from server.
+0:59:17 | Player "[HORDA]MacLovin" (steamId=76561199068236803) disconnected from server.
+0:59:26 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:59:28 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:59:29 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:59:30 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:59:41 | Player "Passo Largo" (steamId=76561198057660141) connected to server!
+0:59:54 | Player "Passo Largo" (steamId=76561198057660141) connected to server!
+1:0:2 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BaseSoloPedro.vpp
+1:0:2 | [BuildingSetManager] Saving & Reloading Building Set:BaseSoloPedro
+1:0:2 | "KOREA" (steamid=76561198253386609) updated building set (BaseSoloPedro)
+1:0:2 | [BuildingSetManager] Deleted file: BaseSoloPedro
+1:0:2 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BaseSoloPedro.vpp
+1:0:23 | [PermissionManager] Group: (modded) Settings changed by: "KOREA" (steamid=76561198253386609)
+1:0:31 | [PermissionManager] Added "Passo Largo" (steamid=76561198057660141) to user group (modded) by: "KOREA" (steamid=76561198253386609)
+1:0:31 | [PermissionManager] Added "[EB] pedrobala" (steamid=76561198046653521) to user group (modded) by: "KOREA" (steamid=76561198253386609)
+1:0:34 | [PermissionManager] Removed (steamid=76561198046653521) from Group: (modded) by: "KOREA" (steamid=76561198253386609)
+1:0:50 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10247.056641, 6.566902, 10706.825195>)
+1:0:50 | "KOREA" (steamid=76561198253386609) toggled freecam
+1:0:53 | Player "KOREA" (steamId=76561198253386609) disconnected from server.
+1:1:18 | Player "Passo Largo" (steamId=76561198057660141) disconnected from server.
+1:2:41 | Player "Passo Largo" (steamId=76561198057660141) connected to server!
+1:2:54 | Player "Passo Largo" (steamId=76561198057660141) connected to server!
+1:5:2 | Player "KOREA" (steamId=76561198253386609) connected to server!
+1:5:22 | Player "KOREA" (steamId=76561198253386609) connected to server!
+1:5:28 | "KOREA" (steamid=76561198253386609) toggled godmode
+1:5:44 | Player "ploodrinny" (steamId=76561198312062387) connected to server!
+1:5:46 | [PermissionManager] Group: (Moderador) Settings changed by: "KOREA" (steamid=76561198253386609)
+1:6:16 | [PermissionManager] Group (modded) was removed!
+1:6:22 | [PermissionManager] Group (Teste) was removed!
+1:6:26 | [PermissionManager] Group (Moderador) was removed!
+1:6:30 | [PermissionManager] Removed (steamid=26561198420222028) from Group: (Admins) by: "KOREA" (steamid=76561198253386609)
+1:6:36 | Player "ploodrinny" (steamId=76561198312062387) connected to server!
+1:6:39 | [PermissionManager] Group: (Admins) Settings changed by: "KOREA" (steamid=76561198253386609)
+1:7:2 | Player "Funghi" (steamId=76561199069858485) disconnected from server.
+1:7:4 | Player "ACC" (steamId=76561198106291582) disconnected from server.
+1:7:46 | Player "ploodrinny" (steamId=76561198312062387) disconnected from server.
+1:8:16 | [PermissionManager] Group: (Admins) Permissions updated by: "KOREA" (steamid=76561198253386609)
+1:8:23 | [PermissionManager] Added "Passo Largo" (steamid=76561198057660141) to user group (Admins) by: "KOREA" (steamid=76561198253386609)
+1:8:38 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7558.781250, 28.019102, 7905.129883>)
+1:8:40 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7559.168945, 28.019102, 7900.115723>)
+1:8:40 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7560.450195, 28.019102, 7894.286133>)
+1:9:9 | Player "Passo Largo" (steamId=76561198057660141) disconnected from server.
+1:9:11 | Player "Passo Largo" (steamId=76561198057660141) disconnected from server.
+1:10:2 | Player "Passo Largo" (steamId=76561198057660141) connected to server!
+1:10:16 | Player "Passo Largo" (steamId=76561198057660141) connected to server!
+1:10:51 | Player "JhouHillo" (steamId=76561198307221831) connected to server!
+1:11:18 | "Passo Largo": (steamid=76561198057660141) teleported to (pos=11798.2,0,6531.86)
+1:11:28 | "Passo Largo" (steamid=76561198057660141) gave godmode to (steamid=76561198057660141)
+1:11:40 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11794.277344, 24.971443, 6525.409180>)
+1:11:40 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11793.536133, 24.972931, 6519.391602>)
+1:11:43 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11801.169922, 27.182304, 6524.788086>)
+1:11:47 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11785.037109, 28.820147, 6534.923828>)
+1:11:50 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11777.845703, 27.486786, 6525.109375>)
+1:11:51 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11775.054688, 28.171940, 6515.234863>)
+1:12:12 | "Passo Largo" (steamid=76561198057660141) toggled freecam
+1:12:15 | [PermissionManager] Group: (Admins) Permissions updated by: "KOREA" (steamid=76561198253386609)
+1:12:19 | "Passo Largo" (steamid=76561198057660141) toggled freecam
+1:12:24 | Player "[ONE}Rick" (steamId=76561198868590548) connected to server!
+1:12:41 | Player "[ONE}Rick" (steamId=76561198868590548) connected to server!
+1:12:47 | [PermissionManager] Group: (Admins) Permissions updated by: "KOREA" (steamid=76561198253386609)
+1:12:54 | "Passo Largo" (steamid=76561198057660141) toggled freecam
+1:13:5 | Player "GabrielDWR" (steamId=76561199012612653) connected to server!
+1:13:17 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+1:13:27 | Player "GabrielDWR" (steamId=76561199012612653) connected to server!
+1:13:27 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+1:14:2 | Player "CRD" (steamId=76561199033852709) connected to server!
+1:14:11 | Player "Vini_300" (steamId=76561198145785923) connected to server!
+1:14:38 | Player "CRD" (steamId=76561199033852709) connected to server!
+1:15:6 | Player "Vini_300" (steamId=76561198145785923) connected to server!
+1:16:48 | Player "Fuminhu " (steamId=76561198199978915) disconnected from server.
+1:17:3 | Player "SuperNoia" (steamId=76561198132169694) disconnected from server.
+1:17:11 | Player "SuperNoia" (steamId=76561198132169694) disconnected from server.
+1:19:22 | Player "Biel FxR" (steamId=76561198050836260) connected to server!
+1:19:37 | Player "Biel FxR" (steamId=76561198050836260) connected to server!
+1:21:3 | "Passo Largo" (steamid=76561198057660141) toggled freecam
+1:21:28 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11790.099609, 28.906639, 6567.604004>)
+1:21:40 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11784.732422, 28.693438, 6541.041016>)
+1:22:54 | Player "CRD" (steamId=76561199033852709) disconnected from server.
+1:23:16 | Player "joaoob23" (steamId=76561198302337518) disconnected from server.
+1:23:41 | Player "CRD" (steamId=76561199033852709) connected to server!
+1:24:0 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10230.416992, 11.333833, 10717.730469>)
+1:24:16 | "KOREA" (steamid=76561198253386609) toggled freecam
+1:24:27 | Player "[EB] GordoEmers" (steamId=76561198260617608) connected to server!
+1:24:48 | Player "[EB] GordoEmers" (steamId=76561198260617608) connected to server!
+1:26:0 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10386.212891, 14.255745, 10624.413086>)
+1:26:2 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10396.338867, 15.332603, 10651.238281>)
+1:26:4 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10388.696289, 15.332603, 10646.534180>)
+1:26:33 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10237.537109, 7.064922, 10717.716797>)
+1:28:28 | Player "ObreD" (steamId=76561198258911731) connected to server!
+1:28:42 | Player "joaoob23" (steamId=76561198302337518) connected to server!
+1:28:54 | Player "ObreD" (steamId=76561198258911731) connected to server!
+1:29:8 | Player "[ONE] KARABULJHAN" (steamId=76561198100527842) connected to server!
+1:30:12 | Player "[ONE] KARABULJHAN" (steamId=76561198100527842) connected to server!
+1:36:11 | Player "GLORIA GROOVE" (steamId=76561199199911358) connected to server!
+1:36:25 | Player "GLORIA GROOVE" (steamId=76561199199911358) connected to server!
+1:36:56 | Player "GLORIA GROOVE" (steamId=76561199199911358) disconnected from server.
+1:37:0 | Player "GLORIA GROOVE" (steamId=76561199199911358) disconnected from server.
+1:37:20 | Player "[ONE] KARABULJHAN" (steamId=76561198100527842) disconnected from server.
+1:37:23 | Player "[ONE] KARABULJHAN" (steamId=76561198100527842) disconnected from server.
+1:38:27 | Player "GLORIA GROOVE" (steamId=76561198836991038) connected to server!
+1:38:40 | Player "[ONE] KARABULJHAN" (steamId=76561198100527842) connected to server!
+1:38:43 | Player "GLORIA GROOVE" (steamId=76561198836991038) connected to server!
+1:38:54 | Player "[ONE] KARABULJHAN" (steamId=76561198100527842) connected to server!
+1:40:17 | Player "Raemi" (steamId=76561198048467587) disconnected from server.
+1:41:51 | Player "[ONE] KARABULJHAN" (steamId=76561198100527842) disconnected from server.
+1:43:3 | Player "[ONE] KARABULJHAN" (steamId=76561198100527842) connected to server!
+1:43:12 | Player "[HORDA]MacLovin" (steamId=76561199068236803) disconnected from server.
+1:43:14 | Player "[HORDA]MacLovin" (steamId=76561199068236803) disconnected from server.
+1:43:15 | Player "[ONE] KARABULJHAN" (steamId=76561198100527842) connected to server!
+1:43:39 | Player "Biel FxR" (steamId=76561198050836260) disconnected from server.
+1:44:13 | Player "KOREA" (steamId=76561198253386609) disconnected from server.
+1:44:14 | Player "KOREA" (steamId=76561198253386609) disconnected from server.
+1:44:34 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11799.681641, 27.558699, 6525.881348>)
+1:44:51 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11784.760742, 28.810442, 6534.882813>)
+1:44:52 | Player "TripaSeca" (steamId=76561198093060507) connected to server!
+1:45:7 | Player "[ONE] KARABULJHAN" (steamId=76561198100527842) disconnected from server.
+1:45:10 | Player "[ONE] KARABULJHAN" (steamId=76561198100527842) disconnected from server.
+1:45:47 | Player "TripaSeca" (steamId=76561198093060507) connected to server!
+1:45:53 | Player "Biel FxR" (steamId=76561198050836260) connected to server!
+1:46:9 | Player "Biel FxR" (steamId=76561198050836260) connected to server!
+1:46:19 | Player "JhouHillo" (steamId=76561198307221831) disconnected from server.
+1:47:28 | Player "Malcriado" (steamId=76561198376508831) disconnected from server.
+1:51:38 | Player "GabrielDWR" (steamId=76561199012612653) disconnected from server.
+1:51:41 | Player "GabrielDWR" (steamId=76561199012612653) disconnected from server.
+2:1:50 | Player "[HORDA] zBieL" (steamId=76561198001525812) disconnected from server.
+2:2:9 | Player "[HORDA] zBieL" (steamId=76561198001525812) disconnected from server.
+2:2:22 | Player "Passo Largo" (steamId=76561198057660141) disconnected from server.
+2:2:27 | Player "Passo Largo" (steamId=76561198057660141) disconnected from server.
+2:7:59 | Player "Rodrigo Boca Br#4768" (steamId=76561198856289994) connected to server!
+2:8:11 | Player "G A T O" (steamId=76561199207813177) connected to server!
+2:8:39 | Player "G A T O" (steamId=76561199207813177) connected to server!
+2:9:45 | Player "Charada" (steamId=76561198034769290) connected to server!
+2:10:1 | Player "Charada" (steamId=76561198034769290) connected to server!
+2:13:7 | Player "Passo Largo" (steamId=76561198057660141) connected to server!
+2:13:18 | Player "Passo Largo" (steamId=76561198057660141) connected to server!
+2:13:36 | "Passo Largo" (steamid=76561198057660141) gave godmode to (steamid=76561198057660141)
+2:14:17 | "Passo Largo": (steamid=76561198057660141) teleported to (pos=10857.4,0,8802.06)
+2:14:25 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<10833.341797, 3.999996, 8813.726563>)
+2:14:27 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<10831.688477, 4.000008, 8805.598633>)
+2:14:27 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<10831.248047, 3.999997, 8804.473633>)
+2:14:29 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<10831.524414, 4.000001, 8795.535156>)
+2:14:29 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<10831.865234, 4.000000, 8782.982422>)
+2:14:31 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<10827.295898, 4.000000, 8764.659180>)
+2:14:31 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<10822.717773, 3.999995, 8753.524414>)
+2:14:31 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<10818.419922, 4.000003, 8740.927734>)
+2:14:32 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<10813.038086, 3.999996, 8728.997070>)
+2:14:32 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<10806.833008, 3.999998, 8717.806641>)
+2:15:4 | Player "Betinho_maluco" (steamId=76561198057627157) connected to server!
+2:15:49 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<10886.122070, 7.727605, 8673.496094>)
+2:15:59 | Player "Betinho_maluco" (steamId=76561198057627157) connected to server!
+2:15:59 | "Passo Largo": (steamid=76561198057660141) teleported to (pos=11789.5,0,6517.98)
+2:16:5 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11782.474609, 27.544325, 6515.978027>)
+2:18:2 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11778.657227, 25.809517, 6522.563477>)
+2:18:4 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11779.043945, 26.720694, 6523.342285>)
+2:18:5 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11789.501953, 24.982990, 6525.195313>)
+2:18:5 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11799.712891, 25.181005, 6527.147461>)
+2:18:6 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11800.783203, 26.508671, 6527.888184>)
+2:18:7 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11798.032227, 24.973898, 6533.663086>)
+2:18:10 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11788.263672, 25.352375, 6534.695801>)
+2:18:11 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11786.006836, 25.331671, 6538.034180>)
+2:18:56 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11788.025391, 26.150505, 6536.450195>)
+2:18:57 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11795.284180, 24.981764, 6540.582520>)
+2:18:57 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11802.399414, 24.997078, 6546.980957>)
+2:18:58 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11802.781250, 26.637341, 6547.306641>)
+2:18:58 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11809.725586, 25.171591, 6558.114746>)
+2:19:4 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11814.511719, 25.907322, 6558.569336>)
+2:19:5 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11814.496094, 26.722292, 6558.286133>)
+2:19:5 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11815.422852, 28.130745, 6558.055664>)
+2:19:6 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11818.524414, 28.994011, 6555.588379>)
+2:19:6 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11822.964844, 28.638798, 6553.391602>)
+2:19:7 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11824.356445, 28.460508, 6553.127930>)
+2:19:7 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11827.312500, 25.162552, 6555.433594>)
+2:19:9 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11827.648438, 26.190245, 6552.371094>)
+2:19:24 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11818.126953, 26.820385, 6564.237305>)
+2:19:25 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11818.319336, 28.426050, 6564.330566>)
+2:19:25 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11831.457031, 25.466726, 6582.920410>)
+2:19:35 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11808.154297, 25.351303, 6563.644531>)
+2:19:35 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11796.269531, 25.255072, 6555.686523>)
+2:19:37 | Player "[YKZ]-BlackBear" (steamId=76561198343030820) disconnected from server.
+2:19:53 | "Passo Largo": (steamid=76561198057660141) teleported to (pos=11396.3,0,7613.27)
+2:19:58 | "Passo Largo": (steamid=76561198057660141) teleported to (pos=11698.7,0,6441.04)
+2:20:7 | Player "[HORDA]LUCASBR" (steamId=76561198973828354) connected to server!
+2:20:9 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11694.653320, 27.759155, 6392.314453>)
+2:20:11 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11697.663086, 28.845911, 6389.332520>)
+2:20:51 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11689.822266, 28.911825, 6461.503418>)
+2:20:51 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11682.840820, 29.416195, 6476.600098>)
+2:20:52 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11673.717773, 30.394079, 6495.631836>)
+2:20:52 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11658.700195, 30.950781, 6525.190430>)
+2:20:52 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11652.307617, 32.134468, 6537.775879>)
+2:20:53 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11644.560547, 33.398670, 6553.417480>)
+2:20:54 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11639.748047, 34.840004, 6556.071289>)
+2:20:55 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11636.572266, 35.567768, 6558.427246>)
+2:20:56 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11635.253906, 34.935558, 6563.976074>)
+2:21:6 | Player "[HORDA]LUCASBR" (steamId=76561198973828354) connected to server!
+2:21:7 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11643.817383, 35.789387, 6574.802734>)
+2:21:7 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11643.139648, 36.914089, 6575.322266>)
+2:21:8 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11643.190430, 36.817070, 6575.283203>)
+2:21:8 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11643.283203, 36.785149, 6575.212402>)
+2:21:9 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11648.336914, 35.069965, 6570.653809>)
+2:23:43 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11658.237305, 35.185284, 6584.264160>)
+2:23:44 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11661.768555, 35.537888, 6595.358398>)
+2:23:44 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11660.311523, 36.046421, 6604.644043>)
+2:23:45 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11663.977539, 36.812344, 6611.737305>)
+2:23:45 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<11667.895508, 37.356247, 6620.583496>)
+2:23:48 | Player "[YKZ]-BlackBear" (steamId=76561198343030820) connected to server!
+2:24:8 | Player "[YKZ]-BlackBear" (steamId=76561198343030820) connected to server!
+2:24:14 | Player "TripaSeca" (steamId=76561198093060507) disconnected from server.
+2:24:16 | Player "Boris Berezin" (steamId=76561198007142594) connected to server!
+2:24:16 | Player "TripaSeca" (steamId=76561198093060507) disconnected from server.
+2:24:56 | Player "Survivor" (steamId=76561198051941930) connected to server!
+2:25:16 | "Passo Largo": (steamid=76561198057660141) teleported to (pos=10232.6,0,6260.96)
+2:25:43 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<10155.288086, 36.035637, 6258.790039>)
+2:25:46 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<10156.212891, 36.037811, 6268.076172>)
+2:25:47 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<10166.821289, 36.027893, 6289.619141>)
+2:25:47 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<10167.124023, 36.229382, 6297.678223>)
+2:26:18 | Player "TripaSeca" (steamId=76561198093060507) connected to server!
+2:26:32 | "Passo Largo": (steamid=76561198057660141) teleported to (pos=8698.93,0,6733.36)
+2:26:40 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<8680.896484, 182.131332, 6736.635254>)
+2:26:40 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<8676.560547, 181.999985, 6720.765137>)
+2:26:46 | Player "TripaSeca" (steamId=76561198093060507) connected to server!
+2:27:27 | "Passo Largo": (steamid=76561198057660141) teleported to (pos=6799.7,0,7503.99)
+2:28:14 | "Passo Largo" (steamid=76561198057660141) toggled freecam
+2:28:22 | "Passo Largo" (steamid=76561198057660141) toggled freecam
+2:28:27 | "Passo Largo" (steamid=76561198057660141) toggled freecam
+2:30:18 | Player "SUC0_DE_P1NEU" (steamId=76561198261470581) disconnected from server.
+2:30:20 | Player "SUC0_DE_P1NEU" (steamId=76561198261470581) disconnected from server.
+2:30:27 | Player "CharlinhoPsico" (steamId=76561198366562144) connected to server!
+2:30:33 | Player "Lop1nho" (steamId=76561198136544409) disconnected from server.
+2:30:35 | Player "HooZz" (steamId=76561198805460683) disconnected from server.
+2:30:37 | Player "Sagara" (steamId=76561198057660620) connected to server!
+2:30:37 | Player "HooZz" (steamId=76561198805460683) disconnected from server.
+2:30:40 | Player "CharlinhoPsico" (steamId=76561198366562144) connected to server!
+2:30:42 | "Passo Largo" (steamid=76561198057660141) toggled freecam
+2:30:47 | "Passo Largo" (steamid=76561198057660141) toggled freecam
+2:30:47 | "Passo Largo" (steamid=76561198057660141) toggled freecam
+2:31:2 | Player "Sagara" (steamId=76561198057660620) connected to server!
+2:31:9 | "Passo Largo": (steamid=76561198057660141) teleported to (pos=7174.02,0,7450.55)
+2:31:12 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7162.238770, 13.455520, 7471.128906>)
+2:31:34 | "Passo Largo": (steamid=76561198057660141) teleported to (pos=7363.2,0,7370.16)
+2:31:37 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7348.955566, 13.616883, 7360.071289>)
+2:31:38 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7349.912109, 13.825026, 7347.514648>)
+2:31:38 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7350.638184, 14.229856, 7332.076660>)
+2:31:39 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7351.515625, 13.806340, 7308.741211>)
+2:31:39 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7351.744141, 14.917630, 7303.265137>)
+2:31:39 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7355.595215, 14.520205, 7280.155762>)
+2:31:39 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7362.027344, 12.962011, 7243.376953>)
+2:31:40 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7363.876465, 13.775440, 7231.435059>)
+2:31:40 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7364.500000, 14.085857, 7226.546875>)
+2:31:42 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7362.532715, 14.787554, 7210.501953>)
+2:31:42 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7361.308105, 14.449244, 7197.167480>)
+2:31:42 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7358.967285, 14.316367, 7184.216797>)
+2:31:43 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7356.350098, 14.294250, 7170.778320>)
+2:31:43 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7355.438477, 15.582531, 7166.198242>)
+2:31:44 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7354.625000, 16.563126, 7162.141113>)
+2:31:45 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7354.672852, 15.835160, 7162.140625>)
+2:31:47 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7354.013184, 15.588255, 7165.887695>)
+2:31:48 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7354.257813, 14.527806, 7166.028320>)
+2:31:48 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7354.352051, 15.836393, 7165.883301>)
+2:31:49 | "Passo Largo" (steamid=76561198057660141) toggled freecam
+2:31:54 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7355.712402, 14.289997, 7155.711426>)
+2:31:56 | "Passo Largo" (steamid=76561198057660141) toggled freecam
+2:31:56 | Player "MenoDuLins" (steamId=76561198057614573) connected to server!
+2:32:4 | "Passo Largo" (steamid=76561198057660141) toggled freecam
+2:32:8 | Player "MenoDuLins" (steamId=76561198057614573) connected to server!
+2:32:11 | Player "[ONE}Rick" (steamId=76561198868590548) disconnected from server.
+2:32:12 | Player "[ONE}Rick" (steamId=76561198868590548) disconnected from server.
+2:32:28 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7359.884277, 18.423916, 7134.520508>)
+2:32:29 | "Passo Largo" (steamid=76561198057660141) toggled freecam
+2:32:55 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7359.238281, 19.160831, 7140.315918>)
+2:33:22 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7346.428223, 18.423916, 7134.335938>)
+2:33:28 | Player "[EB] GordoEmers" (steamId=76561198260617608) disconnected from server.
+2:33:30 | Player "[EB] GordoEmers" (steamId=76561198260617608) disconnected from server.
+2:33:34 | Player "[HORDA] JHON WICK" (steamId=76561198122075703) disconnected from server.
+2:33:47 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7353.243164, 15.264702, 7137.139160>)
+2:33:48 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7353.479980, 14.835649, 7138.486328>)
+2:33:48 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7353.536621, 15.135053, 7138.646973>)
+2:33:48 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7353.647461, 15.808246, 7138.961914>)
+2:33:52 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7345.765137, 17.283607, 7142.404297>)
+2:33:52 | Player "[HORDA] JHON WICK" (steamId=76561198122075703) re-connected to server [canceledLogout]
+2:33:54 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7345.538574, 18.960052, 7142.576172>)
+2:33:55 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7346.015625, 20.222937, 7142.286621>)
+2:33:55 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7346.676758, 21.484997, 7142.133789>)
+2:33:56 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7351.501465, 18.887173, 7144.462891>)
+2:34:6 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7352.689941, 15.207604, 7146.081543>)
+2:34:6 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7353.583008, 14.820474, 7146.048340>)
+2:34:7 | "Passo Largo" (steamid=76561198057660141) toggled freecam
+2:34:16 | "Passo Largo" (steamid=76561198057660141) toggled freecam
+2:34:21 | "Passo Largo": (steamid=76561198057660141) teleported to (pos=7338.57,0,7565.97)
+2:34:25 | "Passo Largo": (steamid=76561198057660141) teleported to (pos=7116.93,0,7594.81)
+2:34:39 | "Passo Largo": (steamid=76561198057660141) teleported to (pos=6591.42,0,7138.88)
+2:35:13 | Player "[HORDA] JHON WICK" (steamId=76561198122075703) disconnected from server.
+2:35:15 | "Passo Largo": (steamid=76561198057660141) teleported to (pos=7555.43,0,7898.42)
+2:35:20 | "Passo Largo" (steamid=76561198057660141) toggled freecam
+2:35:23 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7548.981934, 31.336878, 7895.635742>)
+2:35:24 | "Passo Largo" (steamid=76561198057660141) toggled freecam
+2:35:31 | "Passo Largo" (steamid=76561198057660141) toggled freecam
+2:35:35 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7548.179688, 35.200169, 7900.515625>)
+2:35:36 | "Passo Largo" (steamid=76561198057660141) toggled freecam
+2:36:10 | "Passo Largo": (steamid=76561198057660141) teleported to (pos=6988.6,0,7835.67)
+2:36:16 | "Passo Largo": (steamid=76561198057660141) teleported to (pos=7405.98,0,8681.29)
+2:36:23 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7408.403320, 15.620008, 8685.888672>)
+2:36:23 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7412.694824, 15.619997, 8697.744141>)
+2:36:24 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7408.687988, 15.585520, 8708.652344>)
+2:36:26 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7393.249023, 15.538435, 8705.391602>)
+2:36:28 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7361.605957, 21.013159, 8713.384766>)
+2:37:13 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7370.691406, 15.167933, 8706.715820>)
+2:37:14 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7363.870605, 15.017939, 8695.133789>)
+2:37:15 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7358.815430, 14.922173, 8682.332031>)
+2:37:15 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7351.936035, 14.824670, 8669.955078>)
+2:37:16 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7339.707520, 14.719702, 8663.391602>)
+2:37:16 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7326.731934, 14.588432, 8662.712891>)
+2:37:19 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7305.564941, 14.550030, 8670.295898>)
+2:37:20 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7301.523926, 14.549999, 8681.313477>)
+2:37:21 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7297.260254, 14.504213, 8692.892578>)
+2:37:24 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7263.357910, 14.550001, 8699.875000>)
+2:37:25 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7253.418945, 14.549995, 8694.442383>)
+2:37:25 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7251.105469, 16.023952, 8692.929688>)
+2:37:26 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7238.075195, 14.549985, 8686.466797>)
+2:37:26 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7230.948730, 14.550030, 8682.660156>)
+2:37:27 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7220.708496, 14.361701, 8676.935547>)
+2:37:27 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7177.802246, 6.898167, 8654.086914>)
+2:37:28 | Player "Vini_300" (steamId=76561198145785923) disconnected from server.
+2:37:36 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7178.925781, 8.580053, 8669.275391>)
+2:37:37 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7179.389648, 10.370696, 8677.981445>)
+2:37:37 | Player "Boneco " (steamId=76561199225248971) disconnected from server.
+2:37:37 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7179.954102, 11.920806, 8686.046875>)
+2:37:37 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7182.518066, 11.374064, 8737.242188>)
+2:37:38 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7175.249023, 11.249976, 8747.090820>)
+2:37:44 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7159.337402, 10.891663, 8723.633789>)
+2:37:45 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7155.561523, 11.508928, 8713.618164>)
+2:37:45 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7152.020996, 12.158144, 8704.410156>)
+2:37:45 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7133.569336, 8.309078, 8657.210938>)
+2:37:46 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7132.821777, 9.135939, 8655.280273>)
+2:37:46 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7122.807617, 5.866400, 8619.332031>)
+2:37:46 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7118.898926, 5.755640, 8602.634766>)
+2:37:47 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7114.164551, 5.488866, 8582.903320>)
+2:37:47 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7111.499512, 6.205602, 8572.254883>)
+2:37:47 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7108.577637, 6.997293, 8561.351563>)
+2:37:47 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7103.987793, 7.144167, 8544.284180>)
+2:37:48 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7087.916016, 3.165598, 8483.797852>)
+2:37:48 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7078.743164, 1.410431, 8449.482422>)
+2:37:48 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7073.870117, 1.276529, 8431.198242>)
+2:37:48 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7071.134766, 1.985811, 8420.882813>)
+2:37:48 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7069.200684, 3.170873, 8413.401367>)
+2:37:48 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7069.045898, 4.729602, 8412.969727>)
+2:37:49 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7068.555176, 6.297329, 8412.257813>)
+2:37:49 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7064.462891, 6.663661, 8396.660156>)
+2:37:49 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7064.094727, 7.934402, 8395.569336>)
+2:37:49 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7063.903809, 9.152754, 8395.134766>)
+2:37:49 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7063.522461, 9.735470, 8394.424805>)
+2:37:49 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7052.892578, 5.565073, 8354.088867>)
+2:37:50 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7052.564941, 5.885580, 8353.206055>)
+2:37:50 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7052.085449, 6.171379, 8351.839844>)
+2:37:54 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7042.639648, 1.816397, 8316.977539>)
+2:37:54 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7037.273438, 2.123383, 8302.495117>)
+2:37:54 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7032.083984, 2.764434, 8284.349609>)
+2:37:55 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7026.622559, 2.898673, 8264.989258>)
+2:37:55 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7018.572266, 2.041076, 8235.163086>)
+2:37:55 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7014.410645, 2.213829, 8217.535156>)
+2:37:56 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7011.532227, 2.624397, 8200.480469>)
+2:37:56 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7007.021973, 2.376895, 8176.758301>)
+2:37:57 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7001.065918, 1.510473, 8142.635254>)
+2:37:58 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<7000.146973, 2.947277, 8123.355957>)
+2:37:59 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<6999.302734, 3.235962, 8118.361328>)
+2:37:59 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<6997.187500, 4.141561, 8103.082031>)
+2:37:59 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<6994.985352, 4.803583, 8087.854492>)
+2:38:0 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<6992.454590, 5.253431, 8071.249512>)
+2:38:0 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<6989.661133, 4.930563, 8051.407227>)
+2:38:3 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<6972.901855, 4.380093, 8019.062500>)
+2:38:3 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<6952.270996, 3.419642, 7987.889648>)
+2:38:4 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<6944.333496, 4.293742, 7976.271484>)
+2:38:4 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<6925.155762, 3.594424, 7952.406738>)
+2:38:5 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<6913.415527, 3.646137, 7936.499512>)
+2:38:5 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<6894.870605, 2.833919, 7912.158691>)
+2:38:5 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<6884.689941, 3.084517, 7898.131836>)
+2:38:6 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<6873.947754, 3.840829, 7883.358887>)
+2:38:6 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<6855.109375, 3.698110, 7857.395508>)
+2:38:7 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<6845.163574, 4.578557, 7843.657227>)
+2:38:7 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<6842.979492, 6.178861, 7840.621582>)
+2:38:8 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<6824.875488, 5.711872, 7815.667969>)
+2:38:8 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<6768.885254, 1.879858, 7738.562988>)
+2:38:8 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<6755.819824, 2.220736, 7720.577637>)
+2:38:9 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<6752.598633, 2.129999, 7709.515137>)
+2:38:11 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<6749.856934, 2.129999, 7698.174805>)
+2:38:12 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<6747.383301, 2.130002, 7689.034668>)
+2:38:31 | "Passo Largo": (steamid=76561198057660141) teleported to (pos=8216.06,0,8455.08)
+2:39:40 | "Passo Largo": (steamid=76561198057660141) teleported to (pos=10676.5,0,8296.87)
+2:43:6 | "Passo Largo": (steamid=76561198057660141) teleported to (pos=10396.5,0,8105.72)
+2:43:12 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<10374.236328, 48.050316, 8130.270996>)
+2:43:16 | "Passo Largo" (steamid=76561198057660141) toggled freecam
+2:43:29 | "Passo Largo" (steamid=76561198057660141) toggled freecam
+2:43:33 | "Passo Largo": (steamid=76561198057660141) teleported to (pos=9317.25,0,8064.11)
+2:43:36 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<9297.398438, 28.337759, 8063.111816>)
+2:43:36 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<9277.906250, 27.840443, 8061.824219>)
+2:43:37 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<9261.686523, 27.934240, 8060.939941>)
+2:43:37 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<9245.730469, 28.096987, 8060.041992>)
+2:43:37 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<9229.659180, 28.314905, 8059.189453>)
+2:43:38 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<9213.573242, 28.528099, 8058.313965>)
+2:43:38 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<9196.362305, 28.648859, 8057.367188>)
+2:43:38 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<9179.445313, 28.702522, 8056.465820>)
+2:43:39 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<9162.558594, 28.760408, 8055.510254>)
+2:43:39 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<9138.742188, 28.152454, 8054.235840>)
+2:43:39 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<9112.412109, 27.222717, 8052.763672>)
+2:43:40 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<9094.386719, 27.256456, 8051.774414>)
+2:43:40 | "Passo Largo" (steamid=76561198057660141) teleported to crosshair (pos=<9073.920898, 27.028719, 8050.680176>)
+2:44:0 | Player "Passo Largo" (steamId=76561198057660141) disconnected from server.
+2:46:1 | Player "Rodrigo Boca Br#4768" (steamId=76561198856289994) disconnected from server.
+2:48:12 | Player "XUXUZINHO" (steamId=76561199083408122) disconnected from server.
+2:54:47 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+2:55:3 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+2:56:8 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+2:56:10 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+2:56:59 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+2:57:13 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+2:57:25 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198140728342)
+2:57:26 | "BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+2:57:27 | "BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+2:58:25 | "BRUXO": (steamid=76561198140728342) teleported to (pos=10713.3,0,7943.95)
+2:58:30 | Player "MenoDuLins" (steamId=76561198057614573) disconnected from server.
+2:58:30 | Player "Sagara" (steamId=76561198057660620) disconnected from server.
+2:58:30 | Player "CharlinhoPsico" (steamId=76561198366562144) disconnected from server.
+2:58:30 | Player "TripaSeca" (steamId=76561198093060507) disconnected from server.
+2:58:30 | Player "Boris Berezin" (steamId=76561198007142594) disconnected from server.
+2:58:30 | Player "[YKZ]-BlackBear" (steamId=76561198343030820) disconnected from server.
+2:58:30 | Player "[HORDA]LUCASBR" (steamId=76561198973828354) disconnected from server.
+2:58:30 | Player "Betinho_maluco" (steamId=76561198057627157) disconnected from server.
+2:58:30 | Player "Charada" (steamId=76561198034769290) disconnected from server.
+2:58:30 | Player "G A T O" (steamId=76561199207813177) disconnected from server.
+2:58:30 | Player "GLORIA GROOVE" (steamId=76561198836991038) disconnected from server.
+2:58:30 | Player "Biel FxR" (steamId=76561198050836260) disconnected from server.
+2:58:30 | Player "[EB] pedrobala" (steamId=76561198046653521) disconnected from server.
+2:58:30 | Player "[YKZ]-Lobato" (steamId=76561198158375860) disconnected from server.
+2:58:30 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) disconnected from server.
+2:58:30 | Player "[horda]marcelinho" (steamId=76561198817477406) disconnected from server.
+2:58:30 | Player "ObreD" (steamId=76561198258911731) disconnected from server.
+2:58:30 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.

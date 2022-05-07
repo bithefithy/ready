@@ -1,0 +1,529 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-5-4_19-0-0
+====================================================================================
+19:0:0 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+19:0:0 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+19:0:0 | [PermissionManager] Perm (FreeCamera) has been registered!
+19:0:0 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuItemManager) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuServerManager) has been registered!
+19:0:0 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+19:0:0 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+19:0:0 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+19:0:0 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+19:0:0 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+19:0:0 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+19:0:0 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+19:0:0 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+19:0:0 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+19:0:0 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+19:0:0 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+19:0:0 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+19:0:0 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+19:0:0 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+19:0:0 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+19:0:0 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+19:0:0 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+19:0:0 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+19:0:0 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+19:0:0 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+19:0:0 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+19:0:0 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+19:0:0 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+19:0:0 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+19:0:0 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+19:0:0 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+19:0:0 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+19:0:0 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+19:0:0 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+19:0:0 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+19:0:0 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+19:0:0 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+19:0:0 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuBansManager) has been registered!
+19:0:0 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+19:0:0 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+19:0:0 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+19:0:0 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+19:0:0 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+19:0:0 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+19:0:0 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+19:0:0 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+19:0:0 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+19:0:0 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+19:0:0 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+19:0:0 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+19:0:0 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+19:0:0 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+19:0:0 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+19:0:0 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+19:0:0 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+19:0:0 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+19:0:0 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+19:0:0 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+19:0:0 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+19:0:0 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+19:0:0 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+19:0:0 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+19:0:0 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+19:0:0 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+19:0:0 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+19:0:0 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+19:0:0 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+19:0:0 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+19:0:0 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+19:0:0 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+19:0:0 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+19:0:0 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+19:0:0 | [PermissionManager] Adding Super Admin (76561198253386609)
+19:0:0 | [PermissionManager] Adding Super Admin (76561198950594742)
+19:0:0 | [PermissionManager] Adding Super Admin (76561198329721265)
+19:0:0 | [PermissionManager] Adding Super Admin (76561198140728342)
+19:0:0 | [PermissionManager] Loaded UserGroups.json
+19:0:0 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+19:0:0 | Building Sets Loaded: 5
+19:0:28 | Player "chule" (steamId=76561198345483021) connected to server!
+19:0:43 | Player "chule" (steamId=76561198345483021) connected to server!
+19:0:58 | Player "[YKZ] Felps" (steamId=76561198892779186) connected to server!
+19:1:11 | Player "[YKZ] Felps" (steamId=76561198892779186) connected to server!
+19:1:36 | Player "Betinho_maluco" (steamId=76561198057627157) connected to server!
+19:1:43 | Player "Betinho_maluco" (steamId=76561198057627157) connected to server!
+19:2:40 | Player "chule" (steamId=76561198345483021) disconnected from server.
+19:3:21 | Player "chule" (steamId=76561198345483021) connected to server!
+19:3:31 | Player "chule" (steamId=76561198345483021) connected to server!
+19:4:51 | Player "Funghi" (steamId=76561199069858485) connected to server!
+19:5:12 | Player "Funghi" (steamId=76561199069858485) connected to server!
+19:5:15 | Player "ACC" (steamId=76561198106291582) connected to server!
+19:5:41 | Player "ACC" (steamId=76561198106291582) connected to server!
+19:17:57 | Player "CARAJO" (steamId=76561198081512167) connected to server!
+19:18:46 | Player "CARAJO" (steamId=76561198081512167) connected to server!
+19:30:16 | Player "Betinho_maluco" (steamId=76561198057627157) disconnected from server.
+19:33:36 | Player "Betinho_maluco" (steamId=76561198057627157) connected to server!
+19:33:57 | Player "Betinho_maluco" (steamId=76561198057627157) connected to server!
+19:34:11 | Player "Ladimilson" (steamId=76561198329721265) connected to server!
+19:34:25 | Player "Ladimilson" (steamId=76561198329721265) connected to server!
+19:34:41 | "Ladimilson" (steamid=76561198329721265) toggled godmode
+19:34:50 | "Ladimilson": (steamid=76561198329721265) teleported to (pos=8848.3,0,10245.4)
+19:35:9 | Player "chule" (steamId=76561198345483021) disconnected from server.
+19:35:13 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+19:35:15 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<8842.828125, 7.440007, 10259.635742>)
+19:35:15 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+19:35:36 | "Ladimilson": (steamid=76561198329721265) teleported to (pos=11330.3,0,8442.91)
+19:35:44 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+19:35:48 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<11317.701172, 12.780174, 8442.382813>)
+19:35:49 | Player "chule" (steamId=76561198345483021) connected to server!
+19:35:50 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+19:35:50 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+19:35:59 | Player "chule" (steamId=76561198345483021) connected to server!
+19:37:54 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<11111.307617, 4.000059, 8461.430664>)
+19:40:3 | Player "Betinho_maluco" (steamId=76561198057627157) disconnected from server.
+19:40:6 | Player "Betinho_maluco" (steamId=76561198057627157) disconnected from server.
+19:43:2 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<10642.928711, 4.088987, 8436.082031>)
+19:43:16 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<10693.826172, 4.520103, 8439.229492>)
+19:43:26 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<10682.776367, 4.678017, 8443.890625>)
+19:43:26 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+19:43:41 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+19:43:49 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<10638.649414, 7.336801, 8466.526367>)
+19:43:51 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+19:44:38 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+19:45:6 | Player "chule" (steamId=76561198345483021) disconnected from server.
+19:45:48 | Player "chule" (steamId=76561198345483021) connected to server!
+19:45:58 | Player "chule" (steamId=76561198345483021) connected to server!
+19:47:23 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+19:47:30 | "Ladimilson": (steamid=76561198329721265) teleported to (pos=8849.17,0,10245.9)
+19:49:38 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (dp_plantsbox_Green)
+19:49:38 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (dp_plantsbox_Green)
+19:49:49 | "Ladimilson" (steamid=76561198329721265) deleted object "dp_plantsbox_Green" (pos=<8843.909180, 7.501428, 10255.486328>)
+19:49:55 | "Ladimilson" (steamid=76561198329721265) deleted object "dp_plantsbox_Green" (pos=<8843.719727, 7.501428, 10254.626953>)
+19:50:4 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (dp_box_big_Green)
+19:50:5 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (dp_box_big_Green)
+19:51:21 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+19:51:26 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<8651.861328, 6.915510, 10098.980469>)
+19:51:26 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+19:51:43 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+19:51:55 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<7835.943359, 23.443466, 9621.066406>)
+19:51:56 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+19:51:58 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+19:52:0 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+19:52:10 | "Ladimilson": (steamid=76561198329721265) teleported to (pos=6735.33,0,7853.84)
+19:52:18 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+19:52:19 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+19:52:23 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+19:52:48 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<6655.263672, 4.145706, 6583.186035>)
+19:52:53 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+19:52:55 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+19:52:58 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+19:54:16 | Player "Vini_300" (steamId=76561198145785923) connected to server!
+19:56:10 | Player "feastnathan" (steamId=76561198123804765) connected to server!
+19:56:57 | Player "feastnathan" (steamId=76561198123804765) connected to server!
+19:57:38 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_M65Jacket_CADPAT)
+19:57:39 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_M65Jacket_CCE)
+19:57:40 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_M65Jacket_DigitalFlora)
+19:57:41 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_M65Jacket_DPM)
+19:57:42 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_M65Jacket_ERDLUrban)
+19:57:43 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_M65Jacket_Flecktarn)
+19:57:45 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_M65Jacket_Kamysh)
+19:57:46 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_M65Jacket_Lizard)
+19:57:48 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_M65Jacket_Multicam)
+19:57:49 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_M65Jacket_MulticamAlpine)
+19:57:50 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_M65Jacket_MulticamArid)
+19:57:51 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_M65Jacket_MulticamBlack)
+19:57:52 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_M65Jacket_MulticamTropic)
+19:57:54 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_M65Jacket_PartizanM)
+19:57:55 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_M65Jacket_Scorpion)
+19:57:57 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_M65Jacket_Skol)
+19:58:4 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_M65Jacket_SUMRAK)
+19:58:6 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_M65Jacket_SURPAT)
+19:58:7 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_M65Jacket_TigerStripes)
+19:58:8 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_M65Jacket_VSR)
+19:58:21 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_Barracuda)
+19:58:22 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_CADPAT)
+19:58:23 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_CCE)
+19:58:23 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_DigitalFlora)
+19:58:24 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_DPM)
+19:58:25 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_ERDLUrban)
+19:58:26 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_Flecktarn)
+19:58:28 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_Kamysh)
+19:58:29 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_Lizard)
+19:58:30 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_Multicam)
+19:58:31 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_MulticamAlpine)
+19:58:31 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_MulticamArid)
+19:58:32 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_MulticamBlack)
+19:58:32 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_MulticamBlack)
+19:58:33 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_MulticamTropic)
+19:58:34 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_PartizanM)
+19:58:35 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_Scorpion)
+19:58:36 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_Skol)
+19:58:37 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_SUMRAK)
+19:58:40 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_SURPAT)
+19:58:42 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_TigerStripes)
+19:58:43 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_VSR)
+19:58:57 | "Ladimilson" (steamid=76561198329721265) deleted object "AC_MilitaryBoots_Admin" (pos=<6665.715332, 3.380450, 6559.077637>)
+19:58:59 | "Ladimilson" (steamid=76561198329721265) deleted object "AC_CargoPants_Admin" (pos=<6665.715332, 3.377491, 6559.077637>)
+19:59:0 | "Ladimilson" (steamid=76561198329721265) deleted object "AC_TacticalShirt_Admin" (pos=<6665.715332, 3.377491, 6559.077637>)
+19:59:0 | "Ladimilson" (steamid=76561198329721265) deleted object "AC_TacticalGloves_Admin" (pos=<6665.715332, 3.454001, 6559.077637>)
+19:59:1 | "Ladimilson" (steamid=76561198329721265) deleted object "AC_MilitaryBeret_Admin" (pos=<6665.715332, 3.385836, 6559.077637>)
+19:59:3 | "Ladimilson" (steamid=76561198329721265) deleted object "WoodenStick" (pos=<6665.715332, 3.392590, 6559.077637>)
+19:59:27 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_Barracuda)
+19:59:28 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_CADPAT)
+19:59:29 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_CCE)
+19:59:30 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_DigitalFlora)
+19:59:30 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_DPM)
+19:59:31 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_ERDLUrban)
+19:59:32 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_Flecktarn)
+19:59:33 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_Kamysh)
+19:59:34 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_Lizard)
+19:59:35 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_Multicam)
+19:59:36 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_MulticamAlpine)
+19:59:37 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_MulticamArid)
+19:59:38 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_MulticamBlack)
+19:59:39 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_MulticamTropic)
+19:59:40 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_PartizanM)
+19:59:40 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_PartizanM)
+19:59:41 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_Scorpion)
+19:59:44 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_Skol)
+19:59:45 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_SUMRAK)
+19:59:46 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_SURPAT)
+19:59:47 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_TigerStripes)
+19:59:51 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_CargoPants_VSR)
+19:59:56 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_Barracuda)
+19:59:57 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_CADPAT)
+19:59:58 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_CCE)
+19:59:59 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_DigitalFlora)
+20:0:0 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_DPM)
+20:0:1 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_ERDLUrban)
+20:0:2 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_Flecktarn)
+20:0:3 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_Kamysh)
+20:0:4 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_Lizard)
+20:0:5 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_Multicam)
+20:0:6 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_MulticamAlpine)
+20:0:6 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_MulticamArid)
+20:0:7 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_MulticamArid)
+20:0:8 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_MulticamBlack)
+20:0:8 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_MulticamTropic)
+20:0:8 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_MulticamTropic)
+20:0:9 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_PartizanM)
+20:0:10 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_Scorpion)
+20:0:12 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_Skol)
+20:0:15 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_SUMRAK)
+20:0:16 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_SURPAT)
+20:0:17 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_TigerStripes)
+20:0:19 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BDUJacket_VSR)
+20:0:35 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_CargoPants_Barracuda" (pos=<6671.604004, 3.693128, 6557.654785>)
+20:0:37 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_Barracuda" (pos=<6671.604004, 3.693128, 6557.654785>)
+20:0:57 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_CargoPants_MulticamAlpine" (pos=<6670.339844, 3.507204, 6556.407227>)
+20:0:57 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_MulticamAlpine" (pos=<6670.339844, 3.507204, 6556.407227>)
+20:1:26 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+20:1:29 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+20:1:41 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_Kamysh" (pos=<6670.014648, 3.365211, 6554.718750>)
+20:1:42 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_CargoPants_Kamysh" (pos=<6670.014648, 3.365211, 6554.718750>)
+20:1:54 | Player "[L.B] Santorin" (steamId=76561199069721527) connected to server!
+20:2:10 | Player "Ladimilson" (steamId=76561198329721265) disconnected from server.
+20:2:10 | Player "Ladimilson" (steamId=76561198329721265) disconnected from server.
+20:2:10 | Player "[L.B] Santorin" (steamId=76561199069721527) connected to server!
+20:3:1 | Player "Ladimilson" (steamId=76561198329721265) connected to server!
+20:3:12 | Player "Ladimilson" (steamId=76561198329721265) connected to server!
+20:4:47 | "Ladimilson" (steamid=76561198329721265) toggled godmode
+20:4:54 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_CargoPants_ERDLUrban" (pos=<6667.617188, 3.151148, 6553.698730>)
+20:4:54 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_ERDLUrban" (pos=<6667.617188, 3.151148, 6553.698730>)
+20:5:10 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_SUMRAK" (pos=<6666.673340, 3.104364, 6553.881836>)
+20:5:11 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_CargoPants_SUMRAK" (pos=<6666.673340, 3.104364, 6553.881836>)
+20:9:3 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_Lizard" (pos=<6667.091797, 3.129426, 6553.868164>)
+20:9:6 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_CargoPants_Lizard" (pos=<6667.091797, 3.129387, 6553.867676>)
+20:11:16 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_CargoPants_SURPAT" (pos=<6666.149414, 2.965495, 6552.110840>)
+20:11:18 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_CargoPants_VSR" (pos=<6664.939453, 2.916348, 6552.455566>)
+20:11:21 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_TigerStripes" (pos=<6664.801758, 2.958980, 6553.285645>)
+20:11:25 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_VSR" (pos=<6664.939453, 2.916348, 6552.455566>)
+20:11:26 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_SURPAT" (pos=<6666.149414, 2.965495, 6552.110840>)
+20:11:48 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_MulticamTropic" (pos=<6665.922363, 3.383796, 6558.208984>)
+20:11:50 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_MulticamArid" (pos=<6665.922363, 3.349631, 6558.208984>)
+20:11:53 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_PartizanM" (pos=<6667.132324, 3.654926, 6561.591309>)
+20:11:54 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_Flecktarn" (pos=<6668.026855, 3.735241, 6561.854492>)
+20:11:56 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_Skol" (pos=<6668.404297, 3.716398, 6561.252930>)
+20:11:57 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_CargoPants_Flecktarn" (pos=<6668.028809, 3.735317, 6561.853516>)
+20:11:59 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_CargoPants_PartizanM" (pos=<6667.132324, 3.654926, 6561.591309>)
+20:12:0 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_CargoPants_Skol" (pos=<6668.766113, 3.716395, 6560.920410>)
+20:12:7 | "Ladimilson" (steamid=76561198329721265) toggled godmode
+20:12:10 | "Ladimilson" (steamid=76561198329721265) toggled godmode
+20:12:25 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+20:14:21 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+20:14:47 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (Hell_PlateCarrierVest_DigitalFlora)
+20:14:48 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (Hell_PlateCarrierPouches_DigitalFlora)
+20:14:53 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (Hell_TacticalShirt_DigitalFlora)
+20:14:59 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (Hell_GorkaPants_DigitalFlora)
+20:15:3 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (Hell_BalaclavaMask_DigitalFlora)
+20:15:5 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (Hell_Mich2001Helmet_DigitalFlora)
+20:15:9 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (Hell_TortillaBag_DigitalFlora)
+20:15:20 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (Hell_VX600Belt_DigitalFlora)
+20:15:38 | "Ladimilson" (steamid=76561198329721265) deleted object "Hell_GorkaPants_DigitalFlora" (pos=<6663.594727, 3.096441, 6556.002930>)
+20:15:40 | "Ladimilson" (steamid=76561198329721265) deleted object "Hell_TortillaBag_DigitalFlora" (pos=<6663.594727, 3.163890, 6556.002930>)
+20:15:41 | "Ladimilson" (steamid=76561198329721265) deleted object "Hell_PlateCarrierVest_DigitalFlora" (pos=<6663.594727, 3.061276, 6556.002930>)
+20:15:43 | "Ladimilson" (steamid=76561198329721265) deleted object "Hell_VX600Belt_DigitalFlora" (pos=<6663.594727, 3.162271, 6556.002930>)
+20:15:44 | "Ladimilson" (steamid=76561198329721265) deleted object "Hell_TacticalShirt_DigitalFlora" (pos=<6663.594727, 3.061276, 6556.002930>)
+20:15:46 | "Ladimilson" (steamid=76561198329721265) deleted object "Hell_Mich2001Helmet_DigitalFlora" (pos=<6663.594727, 3.064018, 6556.002930>)
+20:15:47 | "Ladimilson" (steamid=76561198329721265) deleted object "Hell_BalaclavaMask_DigitalFlora" (pos=<6663.594727, 3.145149, 6556.002930>)
+20:15:58 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_VX600Belt_DigitalFlora)
+20:16:1 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_PlateCarrierVest_DigitalFlora)
+20:16:2 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_PlateCarrierPouches_DigitalFlora)
+20:16:5 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_PlateCarrierHolster_DigitalFlora)
+20:16:9 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_TacticalShirt_DigitalFlora)
+20:16:13 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_GorkaPants_DigitalFlora)
+20:16:15 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_BalaclavaMask_DigitalFlora)
+20:16:17 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_Mich2001Helmet_DigitalFlora)
+20:16:21 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (HRM_TortillaBag_DigitalFlora)
+20:18:15 | Player "[YKZ] Felps" (steamId=76561198892779186) disconnected from server.
+20:18:18 | Player "[YKZ] Felps" (steamId=76561198892779186) disconnected from server.
+20:18:33 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+20:18:58 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_MulticamArid" (pos=<6674.101074, 3.817054, 6556.566895>)
+20:19:0 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_CargoPants_MulticamArid" (pos=<6674.755371, 3.894652, 6556.839844>)
+20:20:0 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+20:20:16 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (AC_MilitaryBoots_Admin)
+20:20:17 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (AC_MilitaryBeret_Admin)
+20:20:18 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (AC_CargoPants_Admin)
+20:20:21 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (AC_TacticalShirt_Admin)
+20:20:22 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (AC_TacticalGloves_Admin)
+20:20:23 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (AdminHatchet)
+20:21:8 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_TortillaBag_DigitalFlora" (pos=<6665.659180, 3.169650, 6554.277344>)
+20:21:9 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_GorkaPants_DigitalFlora" (pos=<6665.659180, 3.102201, 6554.277344>)
+20:21:11 | "Ladimilson" (steamid=76561198329721265) deleted object "AC_CargoPants_Admin" (pos=<6665.659180, 3.067037, 6554.277344>)
+20:21:15 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_PlateCarrierVest_DigitalFlora" (pos=<6665.659180, 3.067037, 6554.277344>)
+20:21:15 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_TacticalShirt_DigitalFlora" (pos=<6665.659180, 3.067037, 6554.277344>)
+20:21:17 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_Mich2001Helmet_DigitalFlora" (pos=<6665.659180, 3.069960, 6554.277344>)
+20:21:18 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BalaclavaMask_DigitalFlora" (pos=<6665.659180, 3.152258, 6554.277344>)
+20:21:20 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_VX600Belt_DigitalFlora" (pos=<6665.659180, 3.169641, 6554.277344>)
+20:21:25 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (AC_TacticalShirt_Admin)
+20:21:26 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (AC_CargoPants_Admin)
+20:21:28 | "Ladimilson" (steamid=76561198329721265) Spawned Item: (AC_MilitaryBeret_Admin)
+20:23:19 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+20:23:22 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_CADPAT" (pos=<6671.214844, 3.793587, 6559.447266>)
+20:23:25 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_MulticamTropic" (pos=<6670.892578, 3.664069, 6558.032227>)
+20:23:26 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_CargoPants_CADPAT" (pos=<6670.833008, 3.745494, 6559.252441>)
+20:23:27 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_Scorpion" (pos=<6673.004883, 3.912449, 6558.998047>)
+20:23:28 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_CargoPants_Scorpion" (pos=<6673.406250, 3.898809, 6558.380859>)
+20:23:30 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_Multicam" (pos=<6672.081055, 3.695195, 6557.152832>)
+20:23:31 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_CCE" (pos=<6670.578613, 3.558802, 6556.878418>)
+20:23:33 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_CargoPants_DigitalFlora" (pos=<6671.763672, 3.518297, 6554.979004>)
+20:23:34 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_CargoPants_MulticamBlack" (pos=<6673.717773, 3.642276, 6554.573242>)
+20:23:36 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_DPM" (pos=<6672.647461, 3.474995, 6553.375488>)
+20:23:37 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_CargoPants_Multicam" (pos=<6672.214355, 3.728474, 6557.479492>)
+20:23:39 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_CargoPants_MulticamTropic" (pos=<6670.565430, 3.633254, 6557.956543>)
+20:23:41 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_CargoPants_CCE" (pos=<6670.711914, 3.543294, 6556.508301>)
+20:23:42 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_DigitalFlora" (pos=<6671.789063, 3.549430, 6555.395996>)
+20:23:43 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_BDUJacket_MulticamBlack" (pos=<6673.717773, 3.642276, 6554.573242>)
+20:23:44 | "Ladimilson" (steamid=76561198329721265) deleted object "HRM_CargoPants_DPM" (pos=<6672.647461, 3.474995, 6553.375488>)
+20:23:46 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+20:24:15 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+20:24:18 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+20:24:33 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+20:24:36 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+20:24:38 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+20:24:51 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+20:24:57 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+20:25:3 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+20:25:6 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+20:25:11 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<6666.937500, 7.107140, 6571.019043>)
+20:25:17 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+20:25:21 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+20:25:27 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<6557.597656, 4.414297, 6762.749512>)
+20:25:29 | "Ladimilson" (steamid=76561198329721265) toggled freecam
+20:25:35 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<6602.032715, 5.189735, 6686.603516>)
+20:25:36 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<6601.594238, 5.360781, 6688.063477>)
+20:25:36 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<6601.574219, 5.362912, 6688.097656>)
+20:25:37 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<6601.569336, 5.363371, 6688.104980>)
+20:25:37 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<6601.573242, 5.362814, 6688.098145>)
+20:25:37 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<6601.589355, 5.361084, 6688.069824>)
+20:25:37 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<6601.596680, 5.359860, 6688.056152>)
+20:25:37 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<6601.604492, 5.358822, 6688.041504>)
+20:25:37 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<6601.612793, 5.357791, 6688.027344>)
+20:25:38 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<6601.621094, 5.357131, 6688.013184>)
+20:25:38 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<6601.621094, 5.356947, 6688.013184>)
+20:25:38 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<6601.612305, 5.357810, 6688.027344>)
+20:25:38 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<6601.612793, 5.358059, 6688.027344>)
+20:25:38 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<6601.607910, 5.358151, 6688.034180>)
+20:25:38 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<6601.599121, 5.358975, 6688.048828>)
+20:25:38 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<6601.587402, 5.360505, 6688.069824>)
+20:25:39 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<6601.582031, 5.361436, 6688.080566>)
+20:25:39 | "Ladimilson" (steamid=76561198329721265) teleported to crosshair (pos=<6601.576172, 5.362279, 6688.091309>)
+20:25:43 | Player "Ladimilson" (steamId=76561198329721265) disconnected from server.
+20:25:44 | Player "Ladimilson" (steamId=76561198329721265) disconnected from server.
+20:26:12 | Player "[L.B] Santorin" (steamId=76561199069721527) disconnected from server.
+20:26:15 | Player "[L.B] Santorin" (steamId=76561199069721527) disconnected from server.
+20:29:29 | Player "Licao" (steamId=76561198177924711) connected to server!
+20:30:32 | Player "Licao" (steamId=76561198177924711) connected to server!
+20:38:4 | Player "[L.B] Santorin" (steamId=76561199069721527) connected to server!
+20:38:17 | Player "[L.B] Santorin" (steamId=76561199069721527) connected to server!
+20:45:32 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+20:47:38 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+20:47:42 | Player "[L.B] Santorin" (steamId=76561199069721527) disconnected from server.
+20:47:44 | Player "[L.B] Santorin" (steamId=76561199069721527) disconnected from server.
+20:49:17 | Player "[L.B] Santorin" (steamId=76561199069721527) connected to server!
+20:49:28 | Player "[L.B] Santorin" (steamId=76561199069721527) connected to server!
+20:59:10 | Player "Dandan" (steamId=76561198171926838) connected to server!
+21:0:32 | Player "Dandan" (steamId=76561198171926838) connected to server!
+21:0:59 | Player "DarkFyll" (steamId=76561198972162440) connected to server!
+21:2:28 | Player "[YKZ] chron1c" (steamId=76561198205585613) connected to server!
+21:2:44 | Player "[YKZ] chron1c" (steamId=76561198205585613) connected to server!
+21:6:39 | Player "Funghi" (steamId=76561199069858485) disconnected from server.
+21:7:23 | Player "[YKZ] chron1c" (steamId=76561198205585613) disconnected from server.
+21:7:52 | Player "Funghi" (steamId=76561199069858485) connected to server!
+21:8:2 | Player "Funghi" (steamId=76561199069858485) connected to server!
+21:10:17 | Player "Vini_300" (steamId=76561198145785923) disconnected from server.
+21:10:27 | Player "Vini_300" (steamId=76561198145785923) disconnected from server.
+21:19:4 | Player "Duero" (steamId=76561198259492425) connected to server!
+21:19:16 | Player "[L.B] Santorin" (steamId=76561199069721527) disconnected from server.
+21:19:17 | Player "[L.B] Santorin" (steamId=76561199069721527) disconnected from server.
+21:19:33 | Player "Duero" (steamId=76561198259492425) connected to server!
+21:20:31 | Player "Santorin" (steamId=76561199069721527) connected to server!
+21:20:48 | Player "Santorin" (steamId=76561199069721527) connected to server!
+21:23:54 | Player "DarkFyll" (steamId=76561198972162440) disconnected from server.
+21:24:4 | Player "DarkFyll" (steamId=76561198972162440) disconnected from server.
+21:27:43 | Player "Luisff" (steamId=76561198191554814) connected to server!
+21:27:56 | Player "Luisff" (steamId=76561198191554814) connected to server!
+21:29:30 | Player "Accelerator [BR]" (steamId=76561198156883270) connected to server!
+21:32:37 | Player "Santorin" (steamId=76561199069721527) disconnected from server.
+21:32:38 | Player "Santorin" (steamId=76561199069721527) disconnected from server.
+21:34:1 | Player "Santorin" (steamId=76561199069721527) connected to server!
+21:34:14 | Player "Santorin" (steamId=76561199069721527) connected to server!
+21:35:31 | Player "Galega" (steamId=76561198959103891) connected to server!
+21:37:29 | Player "Galega" (steamId=76561198959103891) connected to server!
+21:42:29 | Player "[HORDA]MacLovin" (steamId=76561199068236803) disconnected from server.
+21:42:31 | Player "[HORDA]MacLovin" (steamId=76561199068236803) disconnected from server.
+21:43:21 | Player "Funghi" (steamId=76561199069858485) disconnected from server.
+21:44:19 | Player "ACC" (steamId=76561198106291582) disconnected from server.
+21:53:11 | Player "[ONE] JAPA" (steamId=76561198161060673) connected to server!
+21:53:32 | Player "[ONE] JAPA" (steamId=76561198161060673) connected to server!
+21:57:46 | Player "Viniguitton" (steamId=76561198070540405) connected to server!
+21:57:50 | Player "David Jr" (steamId=76561198962491605) connected to server!
+21:57:58 | Player "Viniguitton" (steamId=76561198070540405) connected to server!
+21:58:10 | Player "David Jr" (steamId=76561198962491605) connected to server!
+21:58:11 | Player "CHASER?" (steamId=76561198246131158) connected to server!
+21:58:24 | Player "CHASER?" (steamId=76561198246131158) connected to server!
+22:4:44 | Player "feastnathan" (steamId=76561198123804765) disconnected from server.
+22:4:46 | Player "feastnathan" (steamId=76561198123804765) disconnected from server.
+22:5:27 | Player "feastnathan" (steamId=76561198123804765) connected to server!
+22:5:35 | Player "feastnathan" (steamId=76561198123804765) connected to server!
+22:7:56 | Player "Luisff" (steamId=76561198191554814) disconnected from server.
+22:7:57 | Player "Luisff" (steamId=76561198191554814) disconnected from server.
+22:8:12 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+22:9:25 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+22:9:52 | Player "CHASER?" (steamId=76561198246131158) disconnected from server.
+22:17:29 | Player "[ONE] JAPA" (steamId=76561198161060673) disconnected from server.
+22:17:31 | Player "[ONE] JAPA" (steamId=76561198161060673) disconnected from server.
+22:18:54 | Player "Santorin" (steamId=76561199069721527) disconnected from server.
+22:19:14 | Player "Santorin" (steamId=76561199069721527) disconnected from server.
+22:20:15 | Player "CHASER?" (steamId=76561198246131158) connected to server!
+22:20:27 | Player "CHASER?" (steamId=76561198246131158) connected to server!
+22:20:32 | Player "[HORDA]MacLovin" (steamId=76561199068236803) disconnected from server.
+22:20:34 | Player "[HORDA]MacLovin" (steamId=76561199068236803) disconnected from server.
+22:22:28 | Player "Vini_300" (steamId=76561198145785923) connected to server!
+22:23:26 | Player "Vini_300" (steamId=76561198145785923) connected to server!
+22:24:12 | Player "CHASER?" (steamId=76561198246131158) disconnected from server.
+22:27:51 | Player "CHASER?" (steamId=76561198246131158) connected to server!
+22:28:3 | Player "CHASER?" (steamId=76561198246131158) connected to server!
+22:30:5 | Player "[YKZ] Felps" (steamId=76561198892779186) connected to server!
+22:30:23 | Player "[YKZ] chron1c" (steamId=76561198205585613) connected to server!
+22:30:25 | Player "[YKZ] Felps" (steamId=76561198892779186) connected to server!
+22:30:46 | Player "[YKZ] chron1c" (steamId=76561198205585613) connected to server!
+22:32:29 | Player "Lop1nho" (steamId=76561198136544409) connected to server!
+22:33:3 | Player "Lop1nho" (steamId=76561198136544409) connected to server!
+22:33:50 | Player "Bigato" (steamId=76561198192204303) connected to server!
+22:34:4 | Player "Bigato" (steamId=76561198192204303) connected to server!
+22:34:17 | Player "Lop1nho" (steamId=76561198136544409) disconnected from server.
+22:34:20 | Player "Lop1nho" (steamId=76561198136544409) disconnected from server.
+22:35:3 | Player "Duero" (steamId=76561198259492425) disconnected from server.
+22:35:8 | Player "Duero" (steamId=76561198259492425) disconnected from server.
+22:37:31 | Player "SobrinhoSam" (steamId=76561199014145539) connected to server!
+22:37:45 | Player "SobrinhoSam" (steamId=76561199014145539) connected to server!
+22:38:22 | Player "starkcg" (steamId=76561198121484554) connected to server!
+22:39:10 | Player "starkcg" (steamId=76561198121484554) connected to server!
+22:39:18 | Player "Galega" (steamId=76561198959103891) disconnected from server.
+22:40:51 | Player "bLisH" (steamId=76561198970690760) connected to server!
+22:41:7 | Player "bLisH" (steamId=76561198970690760) connected to server!
+22:43:5 | Player "Survivor" (steamId=76561198044627524) connected to server!
+22:43:12 | Player "Duero" (steamId=76561198259492425) connected to server!
+22:43:39 | Player "Duero" (steamId=76561198259492425) connected to server!
+22:44:42 | Player "bistecinha30" (steamId=76561198171642523) connected to server!
+22:45:34 | Player "Duero" (steamId=76561198259492425) disconnected from server.
+22:45:37 | Player "Duero" (steamId=76561198259492425) disconnected from server.
+22:48:20 | Player "bistecinha30" (steamId=76561198171642523) connected to server!
+22:49:18 | Player "David Jr" (steamId=76561198962491605) disconnected from server.
+22:49:22 | Player "David Jr" (steamId=76561198962491605) disconnected from server.
+22:49:43 | Player "CHASER?" (steamId=76561198246131158) disconnected from server.
+22:50:26 | Player "Viniguitton" (steamId=76561198070540405) disconnected from server.
+22:50:57 | Player "Accelerator [BR]" (steamId=76561198156883270) disconnected from server.
+22:54:47 | Player "Accelerator [BR]" (steamId=76561198156883270) connected to server!
+22:55:10 | Player "Licao" (steamId=76561198177924711) disconnected from server.
+22:55:11 | Player "Dandan" (steamId=76561198171926838) disconnected from server.
+22:55:25 | Player "Dandan" (steamId=76561198171926838) disconnected from server.
+22:56:7 | Player "Accelerator [BR]" (steamId=76561198156883270) connected to server!
+22:58:33 | Player "feastnathan" (steamId=76561198123804765) disconnected from server.
+22:58:33 | Player "Vini_300" (steamId=76561198145785923) disconnected from server.
+22:58:33 | Player "chule" (steamId=76561198345483021) disconnected from server.
+22:58:33 | Player "CARAJO" (steamId=76561198081512167) disconnected from server.
+22:58:33 | Player "starkcg" (steamId=76561198121484554) disconnected from server.
+22:58:33 | Player "Bigato" (steamId=76561198192204303) disconnected from server.
+22:58:33 | Player "[YKZ] Felps" (steamId=76561198892779186) disconnected from server.
+22:58:33 | Player "[YKZ] chron1c" (steamId=76561198205585613) disconnected from server.
+22:58:33 | Player "SobrinhoSam" (steamId=76561199014145539) disconnected from server.
+22:58:33 | Player "bLisH" (steamId=76561198970690760) disconnected from server.
+22:58:33 | Player "bistecinha30" (steamId=76561198171642523) disconnected from server.
+22:58:33 | Player "Accelerator [BR]" (steamId=76561198156883270) disconnected from server.

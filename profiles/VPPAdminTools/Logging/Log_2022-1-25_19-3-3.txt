@@ -1,0 +1,551 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-1-25_19-3-3
+====================================================================================
+19:3:3 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+19:3:3 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+19:3:3 | [PermissionManager] Perm (FreeCamera) has been registered!
+19:3:3 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuItemManager) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuServerManager) has been registered!
+19:3:3 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+19:3:3 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+19:3:3 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+19:3:3 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+19:3:3 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+19:3:3 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+19:3:3 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+19:3:3 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+19:3:3 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+19:3:3 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+19:3:3 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+19:3:3 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+19:3:3 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+19:3:3 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+19:3:3 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+19:3:3 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+19:3:3 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+19:3:3 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+19:3:3 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+19:3:3 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+19:3:3 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+19:3:3 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+19:3:3 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+19:3:3 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+19:3:3 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+19:3:3 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+19:3:3 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+19:3:3 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+19:3:3 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+19:3:3 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+19:3:3 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+19:3:3 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+19:3:3 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuBansManager) has been registered!
+19:3:3 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+19:3:3 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+19:3:3 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+19:3:3 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+19:3:3 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+19:3:3 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+19:3:3 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+19:3:3 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+19:3:3 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+19:3:3 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+19:3:3 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+19:3:3 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+19:3:3 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+19:3:3 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+19:3:3 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+19:3:3 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+19:3:3 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+19:3:3 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+19:3:3 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+19:3:3 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+19:3:3 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+19:3:3 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+19:3:3 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+19:3:3 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+19:3:3 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+19:3:3 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+19:3:3 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+19:3:3 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+19:3:3 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+19:3:3 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+19:3:3 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+19:3:3 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+19:3:3 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+19:3:3 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+19:3:3 | [PermissionManager] Adding Super Admin (76561198253386609)
+19:3:3 | [PermissionManager] Adding Super Admin (76561198442072760)
+19:3:3 | [PermissionManager] Loaded UserGroups.json
+19:3:3 | Building Sets Loaded: 0
+19:6:41 | Player "Holandes Voador" (steamId=76561198442072760) connected to server!
+19:7:22 | Player "Holandes Voador" (steamId=76561198442072760) connected to server!
+19:8:13 | Player "Holandes Voador" (steamId=76561198442072760) disconnected from server.
+19:8:50 | Player "Holandes Voador" (steamId=76561198442072760) connected to server!
+19:9:15 | Player "Holandes Voador" (steamId=76561198442072760) connected to server!
+19:9:28 | "Holandes Voador" (steamid=76561198442072760) toggled godmode
+19:9:39 | "Holandes Voador" (steamid=76561198442072760) just updated a health stat on (steamid=76561198442072760)
+19:9:39 | "Holandes Voador" (steamid=76561198442072760) just updated a health stat on (steamid=76561198442072760)
+19:9:40 | "Holandes Voador" (steamid=76561198442072760) just updated a health stat on (steamid=76561198442072760)
+19:9:40 | "Holandes Voador" (steamid=76561198442072760) just updated a health stat on (steamid=76561198442072760)
+19:9:40 | "Holandes Voador" (steamid=76561198442072760) just updated a health stat on (steamid=76561198442072760)
+19:9:49 | "Holandes Voador": (steamid=76561198442072760) teleported to (pos=50.2758,0,15351.9)
+19:9:52 | "Holandes Voador" (steamid=76561198442072760) toggled freecam
+19:9:56 | "Holandes Voador" (steamid=76561198442072760) toggled freecam
+19:9:58 | "Holandes Voador" (steamid=76561198442072760) toggled freecam
+19:9:59 | "Holandes Voador" (steamid=76561198442072760) toggled freecam
+19:10:9 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_M82A3)
+19:10:10 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_Mag_m82a3_10Rnd)
+19:10:11 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_m82a3_Suppr)
+19:10:39 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_l96a1_tactical)
+19:10:40 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_Mag_l96a1_5rnd)
+19:10:40 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_l96a1_Suppr)
+19:10:41 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_l96a1_Suppr)
+19:11:3 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_PKP)
+19:11:4 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_pkp_200Rnd)
+19:11:47 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_TacticalShirt_Pixel)
+19:11:52 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_TacticPants_EMR)
+19:12:14 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_balaclava_pixel)
+19:12:25 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_pbr_helmet)
+19:13:19 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_VSK94)
+19:13:26 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:13:50 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_okp7)
+19:14:43 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_6b45_emr)
+19:15:16 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:15:16 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:15:16 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:15:24 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_SCAR_H_AVTO)
+19:15:29 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_Mag_FAL_40Rnd)
+19:15:49 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_Suppressor_case)
+19:15:57 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (M4_Suppressor)
+19:16:59 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (M68Optic)
+19:17:14 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Flashlight)
+19:17:20 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (UniversalLight)
+19:17:48 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:17:48 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:17:48 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:17:49 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:17:49 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:17:49 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:18:35 | Player "keko" (steamId=76561198817266764) connected to server!
+19:18:52 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:18:52 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:18:52 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:18:52 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:18:52 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:18:52 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:20:0 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:20:0 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:20:0 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:20:0 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:20:0 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:20:0 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:20:1 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+19:20:53 | "Holandes Voador" (steamid=76561198442072760) deleted object "dp_VSK94" (pos=<65.514320, 444.607361, 15358.734375>)
+19:20:59 | "Holandes Voador" (steamid=76561198442072760) toggled godmode
+19:21:7 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_WarBelt_green)
+19:21:21 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_em_pouches_emr)
+19:21:25 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_6b43_pouches_p)
+19:21:29 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_PlateCarrierPouches_Pixel)
+19:22:16 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_door)
+19:22:21 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (AdminHatchet)
+19:23:5 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_door_Kit)
+19:23:30 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (MetalWire)
+19:23:34 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Pliers)
+19:24:2 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_M82A3)
+19:24:2 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_m82a3_Suppr)
+19:24:3 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_Mag_m82a3_10Rnd)
+19:24:8 | "Holandes Voador" (steamid=76561198442072760) healed player (steamid=76561198817266764)
+19:24:10 | "Holandes Voador" (steamid=76561198442072760) gave unlimited ammo to (steamid=76561198817266764)
+19:24:11 | "Holandes Voador" (steamid=76561198442072760) gave godmode to (steamid=76561198817266764)
+19:24:45 | "Holandes Voador" (steamid=76561198442072760) gave godmode to (steamid=76561198817266764)
+19:24:53 | "Holandes Voador" (steamid=76561198442072760) gave godmode to (steamid=76561198817266764)
+19:25:24 | "Holandes Voador" (steamid=76561198442072760) healed player (steamid=76561198442072760)
+19:25:24 | "Holandes Voador" (steamid=76561198442072760) healed player (steamid=76561198442072760)
+19:25:37 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_hilka60)
+19:25:39 | "Holandes Voador" (steamid=76561198442072760) toggled godmode
+19:25:53 | "Holandes Voador" (steamid=76561198442072760) toggled godmode
+19:26:5 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_hilka60)
+19:26:21 | "Holandes Voador" (steamid=76561198442072760) gave godmode to (steamid=76561198817266764)
+19:27:14 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_wall_kit)
+19:27:17 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_roof_Kit)
+19:27:51 | "Holandes Voador" (steamid=76561198442072760) toggled godmode
+19:28:56 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Shovel_Admin)
+19:29:19 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<379.123444, 464.538940, 16404.332031>)
+19:29:32 | "Holandes Voador" (steamid=76561198442072760) deleted object "Shovel_Admin" (pos=<45.710209, 443.370880, 15356.816406>)
+19:29:38 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Hatchet_Admin)
+19:29:49 | "Holandes Voador" (steamid=76561198442072760) deleted object "Hatchet_Admin" (pos=<43.488213, 443.022430, 15355.527344>)
+19:29:52 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Backpack_Admin)
+19:30:6 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Top_Admin)
+19:30:7 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Pants_Admin)
+19:30:30 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Boots_Admin)
+19:30:38 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Head_Admin)
+19:31:0 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Arms_Admin)
+19:32:23 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Hatchback_02)
+19:32:25 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<38.380722, 444.048218, 15349.658203>)
+19:33:50 | Player "keko" (steamId=76561198817266764) disconnected from server.
+19:33:51 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1506.210205, 439.376343, 15374.046875>)
+19:33:52 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1508.441406, 439.442413, 15371.820313>)
+19:33:53 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1507.957153, 439.440460, 15372.783203>)
+19:34:1 | "Holandes Voador" (steamid=76561198442072760) deleted object "Hatchback_02" (pos=<1507.924561, 439.166412, 15372.782227>)
+19:34:2 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1508.589355, 439.198608, 15361.605469>)
+19:34:2 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1508.934692, 439.178436, 15359.493164>)
+19:34:3 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1509.134155, 439.189362, 15358.531250>)
+19:34:3 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1511.455078, 439.256317, 15348.008789>)
+19:34:38 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Hatchback_02_Black)
+19:34:40 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1512.357666, 440.820648, 15345.957031>)
+19:35:0 | "Holandes Voador" (steamid=76561198442072760) deleted object "Hatchback_02_Black" (pos=<1494.277710, 438.260437, 15340.094727>)
+19:35:7 | "Holandes Voador": (steamid=76561198442072760) teleported to (pos=4494.04,0,10152.7)
+19:35:20 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Hatchback_02_Black)
+19:36:21 | Player "keko" (steamId=76561198817266764) connected to server!
+19:37:24 | Player "keko" (steamId=76561198817266764) connected to server!
+19:40:14 | "Holandes Voador" (steamid=76561198442072760) deleted object "SurvivorM_Boris" (pos=<4698.516113, 339.012512, 9807.102539>)
+19:40:19 | "Holandes Voador" (steamid=76561198442072760) deleted object "SurvivorM_Boris" (pos=<4704.563965, 339.012512, 9815.441406>)
+19:40:46 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_NVH)
+19:40:54 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Battery9V)
+19:47:2 | "Holandes Voador" (steamid=76561198442072760) deleted object "Backpack_Admin" (pos=<4703.633789, 339.259888, 9815.310547>)
+19:47:3 | "Holandes Voador" (steamid=76561198442072760) deleted object "Pants_Admin" (pos=<4703.633789, 339.007446, 9815.310547>)
+19:47:5 | "Holandes Voador" (steamid=76561198442072760) deleted object "Top_Admin" (pos=<4703.633789, 339.002167, 9815.310547>)
+19:47:15 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (CivilianSedan)
+19:50:20 | "Holandes Voador" (steamid=76561198442072760) deleted object "CivilianSedan" (pos=<4845.935059, 338.992157, 9602.961914>)
+19:50:25 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Sedan_02)
+19:50:31 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (OffroadHatchback)
+19:52:17 | "Holandes Voador" (steamid=76561198442072760) toggled godmode
+19:52:18 | "Holandes Voador" (steamid=76561198442072760) toggled godmode
+19:52:47 | "Holandes Voador" (steamid=76561198442072760) deleted object "Sedan_02_Door_2_1" (pos=<4062.462891, 339.709717, 10904.046875>)
+19:52:49 | "Holandes Voador" (steamid=76561198442072760) deleted object "Sedan_02" (pos=<4063.212891, 338.919189, 10904.605469>)
+19:52:52 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (OffroadHatchback)
+19:53:7 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4091.697998, 340.494080, 10872.099609>)
+19:53:10 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4116.071289, 339.000000, 10835.125977>)
+19:53:11 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4125.336914, 339.000000, 10821.571289>)
+19:53:11 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4127.499512, 339.000000, 10818.256836>)
+19:53:11 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4132.691406, 339.000031, 10810.881836>)
+19:53:12 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4148.990234, 339.000031, 10785.272461>)
+19:53:13 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4150.951172, 339.000000, 10782.394531>)
+19:53:13 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4155.469238, 339.000000, 10775.029297>)
+19:53:13 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4157.044434, 339.000031, 10772.821289>)
+19:53:13 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4159.666992, 339.000031, 10768.475586>)
+19:53:14 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4162.321289, 338.999969, 10764.390625>)
+19:53:14 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4164.218262, 339.000000, 10761.323242>)
+19:53:14 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4167.776855, 339.000000, 10755.738281>)
+19:53:14 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4170.936523, 339.000000, 10750.783203>)
+19:53:14 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4173.175781, 339.000000, 10747.309570>)
+19:53:15 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4175.607910, 338.999969, 10743.466797>)
+19:53:15 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4178.210938, 339.000000, 10739.455078>)
+19:53:15 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4180.336914, 339.000000, 10736.110352>)
+19:53:15 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4183.908203, 339.000000, 10730.695313>)
+19:53:15 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4185.998535, 339.000000, 10727.429688>)
+19:53:15 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4188.645996, 339.000000, 10723.390625>)
+19:53:16 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4191.343262, 339.000000, 10719.248047>)
+19:53:16 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4195.262695, 339.000000, 10713.226563>)
+19:53:16 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4197.649414, 339.000031, 10709.625000>)
+19:53:16 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4200.162109, 339.000000, 10705.734375>)
+19:53:16 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4201.896484, 339.000031, 10703.096680>)
+19:53:18 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4223.421387, 339.000000, 10667.707031>)
+19:53:18 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4227.103516, 339.000031, 10661.021484>)
+19:53:18 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4230.725586, 339.000031, 10654.484375>)
+19:53:18 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4234.338379, 339.000000, 10647.862305>)
+19:53:19 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4237.109863, 339.000000, 10642.863281>)
+19:53:19 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4239.998535, 338.999969, 10637.624023>)
+19:53:19 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4243.364746, 338.999969, 10631.530273>)
+19:53:19 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4247.289551, 339.000000, 10624.389648>)
+19:53:19 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4250.454590, 338.999969, 10618.757813>)
+19:53:19 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4252.823730, 339.000000, 10614.398438>)
+19:53:20 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4256.230469, 339.000031, 10608.325195>)
+19:53:20 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4260.645508, 339.000000, 10600.356445>)
+19:53:20 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4265.049805, 339.000000, 10592.441406>)
+19:53:20 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4268.051270, 339.000000, 10587.107422>)
+19:53:20 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4271.757324, 339.000000, 10580.465820>)
+19:53:21 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4274.805664, 339.000000, 10575.014648>)
+19:53:21 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4278.899902, 339.000000, 10567.620117>)
+19:53:21 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4282.798828, 339.000000, 10560.728516>)
+19:53:26 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4341.489746, 339.000000, 10462.857422>)
+19:53:26 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4345.303711, 339.000031, 10456.536133>)
+19:53:26 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4347.993164, 339.000031, 10452.056641>)
+19:53:26 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4350.975586, 339.000000, 10447.138672>)
+19:53:26 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4353.093750, 339.000000, 10443.576172>)
+19:53:27 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4355.695801, 339.000000, 10439.244141>)
+19:53:27 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4357.836914, 339.000000, 10435.665039>)
+19:53:27 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4360.373535, 339.000000, 10431.440430>)
+19:53:27 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4362.539063, 339.000000, 10427.830078>)
+19:53:27 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4366.763672, 339.000000, 10420.858398>)
+19:53:27 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4368.762207, 339.000000, 10417.577148>)
+19:53:28 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4372.238770, 339.000031, 10412.327148>)
+19:53:28 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4373.861816, 339.000031, 10409.532227>)
+19:53:28 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4377.129395, 339.000000, 10404.520508>)
+19:53:28 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4381.909180, 339.000031, 10393.676758>)
+19:53:28 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4386.470215, 339.000000, 10385.678711>)
+19:53:28 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4391.598633, 339.000000, 10374.835938>)
+19:53:29 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4397.398438, 338.999969, 10364.914063>)
+19:53:29 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4402.865723, 339.000000, 10355.625977>)
+19:53:29 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4406.617676, 339.000000, 10349.330078>)
+19:53:29 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4410.180664, 339.000000, 10343.286133>)
+19:53:30 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4413.517090, 338.999969, 10337.704102>)
+19:53:30 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4416.292969, 339.000000, 10332.946289>)
+19:53:30 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4420.150879, 339.000000, 10326.460938>)
+19:53:30 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4424.005371, 339.000031, 10319.882813>)
+19:53:30 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4428.051758, 339.000000, 10313.098633>)
+19:53:31 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4430.866211, 339.000000, 10308.326172>)
+19:53:31 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4434.310547, 339.000000, 10302.538086>)
+19:53:31 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4437.011719, 339.000000, 10297.971680>)
+19:53:31 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4441.019043, 339.000000, 10291.247070>)
+19:53:31 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4444.348633, 339.000000, 10285.756836>)
+19:53:31 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4448.137695, 339.000000, 10279.413086>)
+19:53:32 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4451.659180, 339.000000, 10273.582031>)
+19:53:32 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4455.579590, 339.000000, 10267.107422>)
+19:53:32 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4460.379395, 339.000000, 10259.039063>)
+19:53:32 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4463.651855, 338.999969, 10253.654297>)
+19:53:32 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4467.471680, 339.000031, 10246.954102>)
+19:53:33 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4471.844727, 339.000031, 10239.058594>)
+19:53:33 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4475.594727, 339.000000, 10232.843750>)
+19:53:33 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4478.950195, 339.000031, 10226.748047>)
+19:53:33 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4483.657227, 339.000031, 10218.711914>)
+19:53:33 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4486.668457, 339.000000, 10213.493164>)
+19:53:34 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4492.967285, 339.000000, 10202.112305>)
+19:53:34 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4500.222168, 339.000031, 10188.199219>)
+19:53:34 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4504.455078, 339.000031, 10181.480469>)
+19:53:34 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4508.512207, 339.000000, 10173.801758>)
+19:53:34 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4513.499512, 339.000000, 10165.365234>)
+19:53:34 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4518.327637, 339.000000, 10156.965820>)
+19:53:35 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4523.030762, 339.000000, 10148.909180>)
+19:53:35 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4528.225586, 338.999969, 10140.031250>)
+19:53:35 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4531.929688, 339.000000, 10133.641602>)
+19:53:35 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4537.968262, 339.000000, 10123.305664>)
+19:53:36 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4543.238281, 338.999969, 10114.268555>)
+19:53:36 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4548.615234, 339.000000, 10104.942383>)
+19:53:36 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4553.636230, 339.000000, 10096.458008>)
+19:53:36 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4559.379395, 339.000000, 10086.636719>)
+19:53:36 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4563.801270, 338.999969, 10079.319336>)
+19:53:37 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4568.469238, 338.999969, 10071.319336>)
+19:53:37 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4572.490723, 339.000000, 10064.620117>)
+19:53:37 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4576.959961, 339.000000, 10056.970703>)
+19:53:37 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4580.831055, 339.000000, 10050.511719>)
+19:53:37 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4585.859375, 339.000031, 10041.865234>)
+19:53:38 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4590.211914, 339.000031, 10034.369141>)
+19:53:38 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4595.273926, 339.000000, 10025.977539>)
+19:53:38 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4599.325195, 339.000000, 10018.902344>)
+19:53:38 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4605.497070, 339.000000, 10008.633789>)
+19:53:38 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4609.886230, 339.000000, 10001.112305>)
+19:53:38 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4614.187988, 339.000000, 9994.040039>)
+19:53:39 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4618.935547, 339.000000, 9985.988281>)
+19:53:39 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4623.033203, 339.000000, 9979.168945>)
+19:53:39 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4627.076660, 338.999969, 9972.142578>)
+19:53:39 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4633.159180, 338.999969, 9961.767578>)
+19:53:39 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4637.316895, 339.000000, 9954.840820>)
+19:53:40 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4642.954102, 339.000000, 9945.299805>)
+19:53:40 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4647.660156, 339.000000, 9937.699219>)
+19:53:45 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4730.393066, 340.100433, 9810.034180>)
+19:53:45 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4732.752441, 340.064728, 9805.313477>)
+19:53:45 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4736.027832, 339.000000, 9795.642578>)
+19:53:45 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4737.847656, 338.999969, 9791.982422>)
+19:53:46 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4740.982910, 339.000000, 9783.179688>)
+19:54:17 | "Holandes Voador" (steamid=76561198442072760) deleted object "OffroadHatchback" (pos=<4935.308105, 340.160706, 9378.678711>)
+19:54:20 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4924.674316, 336.995667, 9417.046875>)
+19:54:20 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4921.471680, 338.090607, 9424.345703>)
+19:54:36 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4896.248535, 338.987061, 9467.641602>)
+19:54:36 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4891.050781, 338.999969, 9476.364258>)
+19:54:36 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4888.401367, 338.999969, 9481.097656>)
+19:54:38 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (CivilianSedan)
+19:55:37 | "Holandes Voador" (steamid=76561198442072760) gave godmode to (steamid=76561198817266764)
+19:56:21 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (PipeWrench)
+19:56:39 | "Holandes Voador" (steamid=76561198442072760) /refuel used on self.
+19:56:46 | "Holandes Voador" (steamid=76561198442072760) deleted object "CivilianSedan" (pos=<3995.339355, 335.125031, 11058.442383>)
+19:56:49 | "Holandes Voador" (steamid=76561198442072760) deleted object "Hatchback_02_Black" (pos=<4002.755615, 335.052795, 11048.229492>)
+19:57:16 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Truck_01_Covered)
+19:57:20 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Truck_01_Covered_Orange)
+19:59:2 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4167.625977, 357.651367, 11394.780273>)
+19:59:3 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4183.979980, 359.429718, 11414.743164>)
+19:59:4 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4199.396484, 361.048370, 11433.406250>)
+19:59:7 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<4232.385742, 367.646393, 11477.723633>)
+19:59:29 | "Holandes Voador" (steamid=76561198442072760) deleted object "Truck_01_Covered_Orange" (pos=<4252.344238, 373.889099, 11518.810547>)
+19:59:31 | "Holandes Voador" (steamid=76561198442072760) deleted object "Truck_01_Covered" (pos=<4251.998535, 375.573639, 11537.578125>)
+19:59:34 | "Holandes Voador" (steamid=76561198442072760) gave unlimited ammo to (steamid=76561198817266764)
+20:0:5 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_bulbStandAlone)
+20:0:31 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_pocket_watch)
+20:0:43 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_RGOGrenade)
+20:0:59 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_energy_RedBull)
+20:1:0 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_energy_Tornado)
+20:1:1 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_energy_Monster)
+20:1:2 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_energy_Palladium)
+20:1:38 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_TacticPants_EMR)
+20:1:42 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_CargoPants_Pixel)
+20:1:47 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_TacticalShirt_Pixel)
+20:1:49 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_TShirt_Pixel)
+20:2:0 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_axe)
+20:2:8 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_door_holo)
+20:2:22 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_military_big_green)
+20:2:26 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_balaclava_pixel)
+20:2:35 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_pbr_helmet)
+20:2:35 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_mich_new_black)
+20:2:37 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_mich_black)
+20:2:43 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_6b43_pixel_black)
+20:2:48 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_6b45_green)
+20:2:51 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_iotv_ucp)
+20:2:52 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_jpc)
+20:2:53 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_mtv_black)
+20:3:4 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_9A91)
+20:3:4 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_AAC_HB)
+20:3:5 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_AEK971)
+20:3:6 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_AEK971_pixel)
+20:3:7 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_AEK973)
+20:3:8 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_AEK973_pixel)
+20:3:9 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_AK105)
+20:3:10 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_AK12)
+20:3:12 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_APS)
+20:3:14 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_AR15_tan)
+20:3:16 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_VAL)
+20:3:17 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_DDMV4)
+20:3:18 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_HK416)
+20:3:20 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_l96a1_tactical)
+20:3:20 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_M249)
+20:3:22 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_M82A3)
+20:3:23 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_m9)
+20:3:24 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_PKP)
+20:3:25 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_PMT)
+20:3:26 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_PP19V)
+20:3:27 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_RPK)
+20:3:28 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_SCAR_H)
+20:3:29 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_SCAR_H_AVTO)
+20:3:30 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_SOK94)
+20:3:31 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_SR3M)
+20:3:32 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_TT)
+20:3:33 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_VSK94)
+20:3:34 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_vssk)
+20:3:35 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_mag545_45Rnd)
+20:4:12 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_m9)
+20:4:17 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagM9_15Rnd)
+20:4:33 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_cmag_100Rnd)
+20:4:54 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (M4_CarryHandleOptic)
+20:4:54 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (M4_CarryHandleOptic)
+20:4:56 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (M4_OEBttstck)
+20:5:17 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_DDMV4)
+20:5:24 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (M4_OEBttstck)
+20:5:29 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_cmag_100Rnd)
+20:5:40 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (M4_Suppressor)
+20:6:2 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (M68Optic)
+20:6:21 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (M4A1)
+20:6:34 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (M4_PlasticHndgrd)
+20:6:41 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_cmag_100Rnd)
+20:6:52 | "Holandes Voador" (steamid=76561198442072760) gave unlimited ammo to (steamid=76561198442072760)
+20:7:36 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Pants_Admin)
+20:7:36 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Pants_Admin)
+20:7:42 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Top_Admin)
+20:8:39 | "Holandes Voador" (steamid=76561198442072760) toggled freecam
+20:8:59 | "Holandes Voador" (steamid=76561198442072760) deleted objects using ESP
+20:9:6 | "Holandes Voador" (steamid=76561198442072760) deleted objects using ESP
+20:9:12 | "Holandes Voador" (steamid=76561198442072760) deleted objects using ESP
+20:9:19 | "Holandes Voador" (steamid=76561198442072760) deleted objects using ESP
+20:9:26 | "Holandes Voador" (steamid=76561198442072760) deleted objects using ESP
+20:9:30 | "Holandes Voador" (steamid=76561198442072760) deleted objects using ESP
+20:9:37 | "Holandes Voador" (steamid=76561198442072760) deleted objects using ESP
+20:9:44 | "Holandes Voador" (steamid=76561198442072760) deleted objects using ESP
+20:9:49 | "Holandes Voador" (steamid=76561198442072760) deleted objects using ESP
+20:9:52 | "Holandes Voador" (steamid=76561198442072760) deleted objects using ESP
+20:9:59 | "Holandes Voador" (steamid=76561198442072760) deleted objects using ESP
+20:10:0 | "Holandes Voador" (steamid=76561198442072760) toggled freecam
+20:10:38 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_AEK971)
+20:10:39 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_aek_butt)
+20:10:43 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (M4A1)
+20:10:53 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_762x39_45Rnd)
+20:11:0 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_762x39_45Rnd)
+20:11:5 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Mag_AK74_45Rnd)
+20:11:9 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_mag545_45Rnd)
+20:11:57 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_VSK94)
+20:12:4 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+20:12:23 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_VSK94)
+20:12:23 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+20:13:37 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_pk_as)
+20:13:50 | "Holandes Voador" (steamid=76561198442072760) gave unlimited ammo to (steamid=76561198442072760)
+20:14:3 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Ammo_9x39AP)
+20:14:3 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Ammo_9x39AP)
+20:14:51 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_MagVSK_20Rnd)
+20:15:7 | "Holandes Voador" (steamid=76561198442072760) gave godmode to (steamid=76561198817266764)
+20:15:17 | "Holandes Voador" (steamid=76561198442072760) healed player (steamid=76561198817266764)
+20:15:17 | "Holandes Voador" (steamid=76561198442072760) healed player (steamid=76561198817266764)
+20:15:30 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_6b45_emr)
+20:15:43 | "Holandes Voador" (steamid=76561198442072760) healed player (steamid=76561198817266764)
+20:15:44 | "Holandes Voador" (steamid=76561198442072760) healed player (steamid=76561198817266764)
+20:15:57 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_6b45_emr)
+20:16:8 | "Holandes Voador" (steamid=76561198442072760) healed player (steamid=76561198817266764)
+20:16:8 | "Holandes Voador" (steamid=76561198442072760) healed player (steamid=76561198817266764)
+20:16:37 | "Holandes Voador" (steamid=76561198442072760) deleted object "dp_iotv_ucp" (pos=<4269.733887, 375.208801, 11524.274414>)
+20:16:41 | "Holandes Voador" (steamid=76561198442072760) deleted object "Pants_Admin" (pos=<4269.697266, 375.204437, 11524.944336>)
+20:16:43 | "Holandes Voador" (steamid=76561198442072760) deleted object "Top_Admin" (pos=<4269.697266, 375.184113, 11524.944336>)
+20:16:57 | "Holandes Voador" (steamid=76561198442072760) gave godmode to (steamid=76561198817266764)
+20:17:29 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_CargoPants_Pixel)
+20:17:33 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_TacticalShirt_Pixel)
+20:17:44 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_balaclava_pixel)
+20:18:18 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_pbr_helmet)
+20:18:36 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (NVGoggles)
+20:18:40 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (TacticalGoggles)
+20:19:6 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_PlateCarrier_Pixel)
+20:19:7 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_PlateCarrierPouches_Pixel)
+20:19:8 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_PlateCarrierHolster_Pixel)
+20:19:20 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_WarBelt_green)
+20:19:33 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (JungleBoots_Green)
+20:19:36 | "Holandes Voador" (steamid=76561198442072760) toggled godmode
+20:19:42 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (TacticalGloves_Green)
+20:19:46 | "Holandes Voador" (steamid=76561198442072760) toggled godmode
+20:20:29 | Player "Holandes Voador" (steamId=76561198442072760) disconnected from server.
+20:21:39 | Player "Holandes Voador" (steamId=76561198442072760) connected to server!
+20:22:8 | Player "Holandes Voador" (steamId=76561198442072760) connected to server!
+20:22:16 | "Holandes Voador" (steamid=76561198442072760) toggled godmode
+20:22:26 | "Holandes Voador" (steamid=76561198442072760) toggled godmode
+20:22:28 | "Holandes Voador" (steamid=76561198442072760) toggled godmode
+20:22:28 | "Holandes Voador" (steamid=76561198442072760) toggled freecam
+20:22:48 | "Holandes Voador" (steamid=76561198442072760) toggled freecam
+20:23:4 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (SVD)
+20:23:5 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Mag_SVD_10Rnd)
+20:23:35 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (AK101)
+20:23:38 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Mag_AK101_30Rnd)
+20:23:46 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_ak_svd_butt)
+20:24:0 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (AK_Suppressor)
+20:24:7 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (AK_WoodHndgrd)
+20:24:12 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (dp_ak_old_hndgrd)
+20:24:21 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Mag_AK101_30Rnd)
+20:24:21 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Mag_AK101_30Rnd)
+20:24:21 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Mag_AK101_30Rnd)
+20:24:21 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Mag_AK101_30Rnd)
+20:25:53 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Mag_AK101_30Rnd)
+20:25:53 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Mag_AK101_30Rnd)
+20:25:53 | "Holandes Voador" (steamid=76561198442072760) Spawned Item: (Mag_AK101_30Rnd)
+20:26:57 | "Holandes Voador": (steamid=76561198442072760) teleported to (pos=18.7758,0,15345.6)
+20:27:30 | "Holandes Voador": (steamid=76561198442072760) teleported to (pos=1545.84,0,14134.4)
+20:29:53 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1707.811401, 451.729980, 14107.670898>)
+20:29:54 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1701.431641, 451.729980, 14117.297852>)
+20:29:54 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1698.124512, 451.761444, 14122.517578>)
+20:29:54 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1695.428833, 451.729980, 14126.222656>)
+20:29:54 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1692.384766, 451.730011, 14131.272461>)
+20:29:54 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1689.649780, 451.729980, 14135.492188>)
+20:29:55 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1687.315186, 451.730011, 14139.892578>)
+20:29:55 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1684.623535, 451.730011, 14144.350586>)
+20:29:55 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1682.449829, 451.730011, 14149.154297>)
+20:29:55 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1679.730591, 451.730011, 14154.019531>)
+20:29:55 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1674.987305, 451.730011, 14163.588867>)
+20:29:56 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1674.507202, 451.730011, 14164.519531>)
+20:29:56 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1670.270996, 451.730011, 14173.120117>)
+20:29:56 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1669.791504, 451.730011, 14174.053711>)
+20:29:56 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1665.520386, 451.730011, 14182.714844>)
+20:29:56 | "Holandes Voador" (steamid=76561198442072760) teleported to crosshair (pos=<1664.942993, 451.730011, 14183.843750>)
+20:31:46 | Player "Holandes Voador" (steamId=76561198442072760) disconnected from server.
+20:38:50 | Player "keko" (steamId=76561198817266764) disconnected from server.

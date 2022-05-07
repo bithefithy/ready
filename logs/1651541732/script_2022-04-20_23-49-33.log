@@ -1,0 +1,31 @@
+---------------------------------------------
+Log D:\OmegaManager\servers\2\profiles\script_2022-04-20_23-49-33.log started at 20.04. 23:49:34
+
+SCRIPT    (W): @"scripts/1_Core/proto\enwidgets.c,339": Missing script declaration for method 'SliderWidget.SetMinMax'
+SCRIPT    (W): @"scripts/1_Core/proto\enwidgets.c,339": Missing script declaration for method 'SliderWidget.GetStep'
+SCRIPT    (W): @"scripts/1_Core/proto\enwidgets.c,339": Missing script declaration for method 'SliderWidget.SetStep'
+SCRIPT       : Registered 220 temporary action enum(s), UAN==220
+SCRIPT    (W): @"scripts/3_Game/effects\effectsound.c,23": Strong ref to 'AbstractWave' class is not allowed
+SCRIPT    (W): @"scripts/3_Game/entities\object.c,8": Missing script declaration for method 'Object.ConfigGetTextArrayRaw'
+SCRIPT    (W): @"scripts/3_Game/entities\object.c,8": Missing script declaration for method 'Object.GetAllowDamage'
+SCRIPT    (W): @"scripts/3_Game/entities\object.c,8": Missing script declaration for method 'Object.ConfigGetStringRaw'
+SCRIPT    (W): @"scripts/3_Game/gameplay.c,1113": Missing script declaration for method 'OptionsAccess.SetScriptEvents'
+SCRIPT    (W): @"scripts/3_Game/gameplay.c,1113": Missing script declaration for method 'OptionsAccess.GetScriptEvents'
+SCRIPT    (W): @"scripts/3_Game/sound.c,16": Missing script declaration for method 'AbstractSoundScene.GetAudioLevel'
+SCRIPT    (W): @"scripts/3_Game/sound.c,16": Missing script declaration for method 'AbstractSoundScene.GetSilenceThreshold'
+SCRIPT    (W): @"scripts/3_Game/global\game.c,7": Missing script declaration for method 'CGame.ConfigGetTextArrayRaw'
+SCRIPT    (W): @"scripts/3_Game/global\game.c,7": Missing script declaration for method 'CGame.EnableMicCapture'
+SCRIPT    (W): @"scripts/3_Game/global\game.c,7": Missing script declaration for method 'CGame.IsInPartyChat'
+SCRIPT    (W): @"scripts/3_Game/global\game.c,7": Missing script declaration for method 'CGame.IsMicCapturing'
+SCRIPT    (W): @"scripts/3_Game/global\game.c,7": Missing script declaration for method 'CGame.ConfigGetTextRaw'
+SCRIPT    (W): @"scripts/3_Game/inputapi\uainput.c,162": Missing script declaration for method 'UAInputAPI.GetButtonIcon'
+SCRIPT    (W): @"scripts/3_Game/inputapi\uainput.c,162": Missing script declaration for method 'UAInputAPI.DeactivateModificator'
+SCRIPT    (W): @"scripts/3_Game/inputapi\uainput.c,23": Missing script declaration for method 'UAInput.IsLimitConditionActive'
+SCRIPT    (W): @"scripts/3_Game/human.c,14": Missing script declaration for method 'HumanInputController.ResetFreeLookToggle'
+SCRIPT    (W): @"scripts/3_Game/global\errormodulehandler\errormodulehandler.c,26": Missing script declaration for method 'ErrorModuleHandler.GetLastClientMessage'
+SCRIPT    (W): @"scripts/3_Game/global\errormodulehandler\errormodulehandler.c,26": Missing script declaration for method 'ErrorModuleHandler.GetLastServerMessage'
+SCRIPT    (W): @"scripts/3_Game/global\errormodulehandler\errormodulehandler.c,26": Missing script declaration for method 'ErrorModuleHandler.GetLastServerMessageByCode'
+SCRIPT    (W): @"scripts/3_Game/global\errormodulehandler\errormodulehandler.c,26": Missing script declaration for method 'ErrorModuleHandler.GetLastClientMessageByCode'
+SCRIPT    (W): @"scripts/3_Game/vehicles\car.c,59": Missing script declaration for method 'Car.SetEnginePos'
+SCRIPT    (W): @"scripts/3_Game/vehicles\car.c,59": Missing script declaration for method 'Car.GetEnginePos'
+SCRIPT    (E): Can't compile "Game" script module!

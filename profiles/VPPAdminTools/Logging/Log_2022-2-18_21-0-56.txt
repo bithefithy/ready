@@ -1,0 +1,651 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-2-18_21-0-56
+====================================================================================
+21:0:56 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+21:0:56 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+21:0:56 | [PermissionManager] Perm (FreeCamera) has been registered!
+21:0:56 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuItemManager) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuServerManager) has been registered!
+21:0:56 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+21:0:56 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+21:0:56 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+21:0:56 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+21:0:56 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+21:0:56 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+21:0:56 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+21:0:56 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+21:0:56 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+21:0:56 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+21:0:56 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+21:0:56 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+21:0:56 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+21:0:56 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+21:0:56 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+21:0:56 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+21:0:56 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+21:0:56 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+21:0:56 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+21:0:56 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+21:0:56 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+21:0:56 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+21:0:56 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+21:0:56 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+21:0:56 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+21:0:56 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+21:0:56 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+21:0:56 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+21:0:56 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+21:0:56 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+21:0:56 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+21:0:56 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+21:0:56 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuBansManager) has been registered!
+21:0:56 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+21:0:56 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+21:0:56 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+21:0:56 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+21:0:56 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+21:0:56 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+21:0:56 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+21:0:56 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+21:0:56 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+21:0:56 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+21:0:56 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+21:0:56 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+21:0:56 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+21:0:56 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+21:0:56 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+21:0:56 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+21:0:56 | Building Sets Loaded: 1
+21:0:56 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+21:0:56 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+21:0:56 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+21:0:56 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+21:0:56 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+21:0:56 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+21:0:56 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+21:0:56 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+21:0:56 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+21:0:56 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+21:0:56 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+21:0:56 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+21:0:56 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+21:0:56 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+21:0:56 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+21:0:56 | [PermissionManager] Adding Super Admin (76561198253386609)
+21:0:56 | [PermissionManager] Adding Super Admin (76561198442072760)
+21:0:56 | [PermissionManager] Adding Super Admin (76561198950594742)
+21:0:56 | [PermissionManager] Adding Super Admin (76561198329721265)
+21:0:56 | [PermissionManager] Loaded UserGroups.json
+21:0:56 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+21:0:56 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+21:0:56 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+21:2:14 | Player "=FURY=Brunner" (steamId=76561199031638818) connected to server!
+21:2:16 | Player "[TROLHA] Hodag" (steamId=76561198136545685) connected to server!
+21:2:16 | Player "LuN" (steamId=76561198355678780) connected to server!
+21:2:16 | Player "[Mercenarios] MauriLim" (steamId=76561198054045761) connected to server!
+21:2:16 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) connected to server!
+21:2:17 | Player "=FURY=SANTANA 55" (steamId=76561199228878387) connected to server!
+21:2:17 | Player "NoobMaster" (steamId=76561198953587456) connected to server!
+21:2:18 | Player "Snow" (steamId=76561199104246317) connected to server!
+21:2:20 | Player "Havaianos" (steamId=76561198128780952) connected to server!
+21:2:21 | Player "[GURI] Pontaria" (steamId=76561198432710490) connected to server!
+21:2:37 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) connected to server!
+21:2:37 | Player "Snow" (steamId=76561199104246317) connected to server!
+21:2:37 | Player "[Mercenarios] MauriLim" (steamId=76561198054045761) connected to server!
+21:2:37 | Player "=FURY=Brunner" (steamId=76561199031638818) connected to server!
+21:2:37 | Player "=FURY=SANTANA 55" (steamId=76561199228878387) connected to server!
+21:2:41 | Player "[FARM]RIBEIRO" (steamId=76561198998920846) connected to server!
+21:2:42 | Player "vKILLERz" (steamId=76561198849938878) connected to server!
+21:2:43 | Player "[GURI] Pontaria" (steamId=76561198432710490) connected to server!
+21:2:43 | Player "Fantasma FA" (steamId=76561198044029356) connected to server!
+21:2:45 | Player "[FARM]NATO" (steamId=76561199083641388) connected to server!
+21:2:46 | Player "=FURY=InfantiDF" (steamId=76561198283309946) connected to server!
+21:2:46 | Player "=FURY=zCastro" (steamId=76561199027286716) connected to server!
+21:2:49 | Player "[FARM]RIBEIRO" (steamId=76561198998920846) connected to server!
+21:2:50 | Player "LuN" (steamId=76561198355678780) connected to server!
+21:2:50 | Player "[TROLHA] Hodag" (steamId=76561198136545685) connected to server!
+21:2:52 | Player "vKILLERz" (steamId=76561198849938878) connected to server!
+21:2:54 | Player "NoobMaster" (steamId=76561198953587456) connected to server!
+21:2:54 | Player "=FURY=zCastro" (steamId=76561199027286716) connected to server!
+21:2:54 | Player "Havaianos" (steamId=76561198128780952) connected to server!
+21:2:57 | Player "[FARM]NATO" (steamId=76561199083641388) connected to server!
+21:3:8 | Player "=FURY=InfantiDF" (steamId=76561198283309946) connected to server!
+21:3:42 | Player "Fantasma FA" (steamId=76561198044029356) connected to server!
+21:4:42 | Player "sulista " (steamId=76561199058750455) connected to server!
+21:5:24 | Player "sulista " (steamId=76561199058750455) connected to server!
+21:6:12 | Player "FFmartinsFA" (steamId=76561198371557533) connected to server!
+21:6:38 | Player "FFmartinsFA" (steamId=76561198371557533) connected to server!
+21:9:24 | Player "Strike FA" (steamId=76561199048528205) connected to server!
+21:10:22 | Player "Mariano Matador" (steamId=76561199070049294) connected to server!
+21:11:8 | Player "Mariano Matador" (steamId=76561199070049294) connected to server!
+21:11:50 | Player "[CMDs]MrZulu" (steamId=76561198133335010) connected to server!
+21:11:59 | Player "=FURY=CrN" (steamId=76561198100945209) connected to server!
+21:12:2 | Player "=FURY=InfantiDF" (steamId=76561198283309946) disconnected from server.
+21:12:19 | Player "=FURY=CrN" (steamId=76561198100945209) connected to server!
+21:12:58 | Player "[CMDs]MrZulu" (steamId=76561198133335010) connected to server!
+21:13:10 | Player "[Mercenarios] MauriLim" (steamId=76561198054045761) disconnected from server.
+21:13:11 | Player "[Mercenarios] MauriLim" (steamId=76561198054045761) disconnected from server.
+21:13:22 | Player "vKILLERz" (steamId=76561198849938878) disconnected from server.
+21:13:28 | Player "vKILLERz" (steamId=76561198849938878) disconnected from server.
+21:13:28 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) disconnected from server.
+21:13:32 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) disconnected from server.
+21:13:46 | Player "Mariano Matador" (steamId=76561199070049294) disconnected from server.
+21:13:47 | Player "Mariano Matador" (steamId=76561199070049294) disconnected from server.
+21:14:44 | Player "Strike FA" (steamId=76561199048528205) disconnected from server.
+21:15:19 | Player "[FARM] brutus" (steamId=76561198341313286) connected to server!
+21:15:26 | Player "=FURY=zCastro" (steamId=76561199027286716) disconnected from server.
+21:15:28 | Player "=FURY=zCastro" (steamId=76561199027286716) disconnected from server.
+21:16:32 | Player "Grifos" (steamId=76561199140641946) connected to server!
+21:16:58 | Player "Grifos" (steamId=76561199140641946) connected to server!
+21:17:47 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) connected to server!
+21:17:57 | Player "Yuttinho" (steamId=76561198075229801) connected to server!
+21:17:59 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) connected to server!
+21:18:17 | Player "Yuttinho" (steamId=76561198075229801) connected to server!
+21:19:7 | Player "QueiroZ" (steamId=76561198152824675) connected to server!
+21:19:22 | Player "[GURI] Pontaria" (steamId=76561198432710490) disconnected from server.
+21:19:28 | Player "[GURI] Pontaria" (steamId=76561198432710490) disconnected from server.
+21:19:34 | Player "zCastro" (steamId=76561199027286716) connected to server!
+21:19:43 | Player "zCastro" (steamId=76561199027286716) connected to server!
+21:19:44 | Player "[Mercenarios] Rambo" (steamId=76561198375135263) connected to server!
+21:20:3 | Player "[Mercenarios] Rambo" (steamId=76561198375135263) connected to server!
+21:22:43 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) connected to server!
+21:23:8 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) connected to server!
+21:23:9 | Player "vKILLERz" (steamId=76561198849938878) connected to server!
+21:23:18 | Player "vKILLERz" (steamId=76561198849938878) connected to server!
+21:29:10 | Player "Fantasma FA" (steamId=76561198044029356) disconnected from server.
+21:29:12 | Player "Fantasma FA" (steamId=76561198044029356) disconnected from server.
+21:30:15 | Player "[SCD] Coringa" (steamId=76561198133211909) connected to server!
+21:30:36 | Player "[SCD] Coringa" (steamId=76561198133211909) connected to server!
+21:31:20 | Player "Fantasma FA" (steamId=76561198044029356) connected to server!
+21:31:34 | Player "Fantasma FA" (steamId=76561198044029356) connected to server!
+21:34:29 | Player "[SCD] Coringa" (steamId=76561198133211909) disconnected from server.
+21:34:40 | Player "[SCD] Coringa" (steamId=76561198133211909) disconnected from server.
+21:36:29 | Player "[oSGANGACEIROS] Moita Brava" (steamId=76561198031925978) connected to server!
+21:36:52 | Player "[oSGANGACEIROS] Moita Brava" (steamId=76561198031925978) connected to server!
+21:40:4 | Player "MBrown" (steamId=76561198834441216) connected to server!
+21:40:56 | Player "MBrown" (steamId=76561198834441216) connected to server!
+21:41:8 | Player "[GURI]-TinkWink" (steamId=76561198170630445) connected to server!
+21:41:32 | Player "[GURI]-TinkWink" (steamId=76561198170630445) connected to server!
+21:42:25 | Player "General Lee" (steamId=76561198252997365) connected to server!
+21:43:7 | Player "[Mercenarios] MauriLim" (steamId=76561198054045761) connected to server!
+21:43:16 | Player "[Mercenarios] MauriLim" (steamId=76561198054045761) connected to server!
+21:43:24 | Player "General Lee" (steamId=76561198252997365) connected to server!
+21:43:28 | Player "[SCD] Coringa" (steamId=76561198133211909) connected to server!
+21:44:10 | Player "[SCD] Coringa" (steamId=76561198133211909) connected to server!
+21:45:19 | Player "zCastro" (steamId=76561199027286716) disconnected from server.
+21:48:57 | Player "zCastro" (steamId=76561199027286716) connected to server!
+21:49:7 | Player "zCastro" (steamId=76561199027286716) connected to server!
+21:51:14 | Player "Grifos" (steamId=76561199140641946) disconnected from server.
+21:51:16 | Player "Grifos" (steamId=76561199140641946) disconnected from server.
+22:1:22 | Player "MBrown" (steamId=76561198834441216) disconnected from server.
+22:2:8 | Player "FFmartinsFA" (steamId=76561198371557533) disconnected from server.
+22:7:37 | Player "[BTC]Junior" (steamId=76561198112459474) connected to server!
+22:8:28 | Player "[BTC]Junior" (steamId=76561198112459474) connected to server!
+22:8:49 | Player "[BTC]Junior" (steamId=76561198112459474) disconnected from server.
+22:10:55 | Player "[SDC]Pysicol" (steamId=76561198112459474) connected to server!
+22:11:3 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) disconnected from server.
+22:11:51 | Player "[SDC]Pysicol" (steamId=76561198112459474) connected to server!
+22:13:28 | Player "=FURY=SANTANA 55" (steamId=76561199228878387) disconnected from server.
+22:14:34 | Player "[Mercenarios] Chines Angolano" (steamId=76561198128636633) connected to server!
+22:14:57 | Player "[TROLHA] Hodag" (steamId=76561198136545685) disconnected from server.
+22:15:32 | Player "WARDOGS" (steamId=76561199046735504) connected to server!
+22:15:42 | Player "[RNG] Savos" (steamId=76561198299461585) connected to server!
+22:15:51 | Player "WARDOGS" (steamId=76561199046735504) connected to server!
+22:15:58 | Player "[Mercenarios] Chines Angolano" (steamId=76561198128636633) connected to server!
+22:16:9 | Player "[RNG] Savos" (steamId=76561198299461585) connected to server!
+22:17:45 | Player "[LMM]Sargentolmm" (steamId=76561197993431575) connected to server!
+22:17:55 | Player "[LMM]Menor 18" (steamId=76561198802216025) connected to server!
+22:18:4 | Player "[LMM]Menor 18" (steamId=76561198802216025) connected to server!
+22:18:12 | Player "[LMM]Sargentolmm" (steamId=76561197993431575) connected to server!
+22:20:35 | Player "Bulldog" (steamId=76561197994413318) connected to server!
+22:20:55 | Player "Bulldog" (steamId=76561197994413318) connected to server!
+22:22:3 | Player "zCastro" (steamId=76561199027286716) disconnected from server.
+22:22:5 | Player "zCastro" (steamId=76561199027286716) disconnected from server.
+22:23:35 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) connected to server!
+22:23:36 | Player "=FURY=Brunner" (steamId=76561199031638818) disconnected from server.
+22:24:31 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) connected to server!
+22:27:33 | Player "Snow" (steamId=76561199104246317) disconnected from server.
+22:27:40 | Player "Snow" (steamId=76561199104246317) re-connected to server [canceledLogout]
+22:31:46 | Player "Rick Linguisao" (steamId=76561198123446009) connected to server!
+22:34:29 | Player "[RNG] Savos" (steamId=76561198299461585) disconnected from server.
+22:34:47 | Player "Yevgeny Zinichev" (steamId=76561199019252205) connected to server!
+22:34:57 | Player "Menor Infrator" (steamId=76561199002430687) connected to server!
+22:35:17 | Player "Menor Infrator" (steamId=76561199002430687) connected to server!
+22:36:15 | Player "[FARM]NATO" (steamId=76561199083641388) disconnected from server.
+22:36:18 | Player "[FARM]NATO" (steamId=76561199083641388) disconnected from server.
+22:37:34 | Player "ADM-MARK" (steamId=76561198950594742) connected to server!
+22:38:28 | Player "ADM-MARK" (steamId=76561198950594742) connected to server!
+22:38:50 | Player "W" (steamId=76561198245343656) connected to server!
+22:38:52 | Player "Havaianos" (steamId=76561198128780952) disconnected from server.
+22:38:59 | Player "Havaianos" (steamId=76561198128780952) disconnected from server.
+22:39:19 | "ADM-MARK" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+22:40:9 | "ADM-MARK": (steamid=76561198950594742) teleported to (pos=4052.07,0,7821.64)
+22:40:16 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+22:41:17 | "ADM-MARK" (steamid=76561198950594742) healed player (steamid=76561198876185496)
+22:42:55 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:42:55 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+22:42:55 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+22:42:55 | [BuildingSetManager] Deleted file: NewSet
+22:42:55 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:43:28 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:43:28 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+22:43:28 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+22:43:28 | [BuildingSetManager] Deleted file: NewSet
+22:43:28 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:44:17 | Player "[CMDs]MrZulu" (steamId=76561198133335010) disconnected from server.
+22:44:19 | Player "[CMDs]MrZulu" (steamId=76561198133335010) disconnected from server.
+22:44:30 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:44:30 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+22:44:30 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+22:44:30 | [BuildingSetManager] Deleted file: NewSet
+22:44:30 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:44:50 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:44:50 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+22:44:50 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+22:44:50 | [BuildingSetManager] Deleted file: NewSet
+22:44:50 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:45:20 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:45:20 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+22:45:20 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+22:45:20 | [BuildingSetManager] Deleted file: NewSet
+22:45:20 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:45:32 | Player "[FARM]RIBEIRO" (steamId=76561198998920846) disconnected from server.
+22:45:36 | Player "[FARM]RIBEIRO" (steamId=76561198998920846) disconnected from server.
+22:45:38 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:45:38 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+22:45:38 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+22:45:38 | [BuildingSetManager] Deleted file: NewSet
+22:45:38 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:45:50 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:45:50 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+22:45:50 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+22:45:50 | [BuildingSetManager] Deleted file: NewSet
+22:45:50 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:47:13 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:47:13 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+22:47:13 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+22:47:13 | [BuildingSetManager] Deleted file: NewSet
+22:47:13 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:47:24 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:47:24 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+22:47:24 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+22:47:24 | [BuildingSetManager] Deleted file: NewSet
+22:47:24 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:48:2 | "ADM-MARK" (steamid=76561198950594742) deleted building set (NewSet)
+22:48:4 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:48:4 | "ADM-MARK" (steamid=76561198950594742) created new building set (NewSet)
+22:48:7 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:48:7 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+22:48:7 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+22:48:7 | [BuildingSetManager] Deleted file: NewSet
+22:48:7 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:48:33 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:48:33 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+22:48:33 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+22:48:33 | [BuildingSetManager] Deleted file: NewSet
+22:48:33 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:48:53 | Player "MBrown" (steamId=76561198834441216) connected to server!
+22:49:0 | Player "[FARM]NATO" (steamId=76561199083641388) connected to server!
+22:49:10 | Player "[FARM]NATO" (steamId=76561199083641388) connected to server!
+22:49:10 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:49:10 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+22:49:10 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+22:49:10 | [BuildingSetManager] Deleted file: NewSet
+22:49:10 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:49:49 | Player "MBrown" (steamId=76561198834441216) connected to server!
+22:50:33 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:50:33 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+22:50:33 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+22:50:33 | [BuildingSetManager] Deleted file: NewSet
+22:50:33 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:50:42 | Player "Pontaria" (steamId=76561198432710490) connected to server!
+22:51:7 | Player "Pontaria" (steamId=76561198432710490) connected to server!
+22:51:20 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:51:20 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+22:51:20 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+22:51:20 | [BuildingSetManager] Deleted file: NewSet
+22:51:20 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:51:23 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4032.463379, 312.169434, 7839.475098>)
+22:51:24 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+22:51:54 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+22:52:5 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:52:5 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+22:52:5 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+22:52:5 | [BuildingSetManager] Deleted file: NewSet
+22:52:5 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:52:6 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+22:52:10 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) connected to server!
+22:52:39 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) connected to server!
+22:52:50 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+22:54:1 | Player "[LMM]Menor 18" (steamId=76561198802216025) disconnected from server.
+22:54:3 | Player "[LMM]Menor 18" (steamId=76561198802216025) disconnected from server.
+22:54:27 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:54:27 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+22:54:27 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+22:54:27 | [BuildingSetManager] Deleted file: NewSet
+22:54:27 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:54:31 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4042.443604, 298.019806, 7813.562012>)
+22:55:12 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:55:12 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+22:55:12 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+22:55:12 | [BuildingSetManager] Deleted file: NewSet
+22:55:12 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:56:26 | Player "=FURY=Brunner" (steamId=76561199031638818) connected to server!
+22:56:48 | Player "=FURY=Brunner" (steamId=76561199031638818) connected to server!
+22:56:48 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:56:48 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+22:56:48 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+22:56:48 | [BuildingSetManager] Deleted file: NewSet
+22:56:48 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:56:55 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4049.935791, 312.169434, 7814.511719>)
+22:56:56 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+22:57:40 | Player "=FURY=zCastro" (steamId=76561199027286716) connected to server!
+22:57:46 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4034.629883, 296.993896, 7787.663574>)
+22:57:47 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+22:57:49 | Player "=FURY=zCastro" (steamId=76561199027286716) connected to server!
+22:58:11 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:58:11 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+22:58:11 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+22:58:11 | [BuildingSetManager] Deleted file: NewSet
+22:58:11 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:58:43 | Player "<AVG>TaldoTMs" (steamId=76561197963645902) connected to server!
+22:58:52 | Player "[FARM] brutus" (steamId=76561198341313286) disconnected from server.
+22:58:55 | Player "[FARM] brutus" (steamId=76561198341313286) disconnected from server.
+22:59:5 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:59:5 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+22:59:5 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+22:59:5 | [BuildingSetManager] Deleted file: NewSet
+22:59:5 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:59:7 | Player "<AVG>TaldoTMs" (steamId=76561197963645902) connected to server!
+22:59:44 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+22:59:44 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+22:59:44 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+22:59:44 | [BuildingSetManager] Deleted file: NewSet
+22:59:44 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:0:28 | Player "Lampi*o" (steamId=76561199031402791) connected to server!
+23:0:41 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:0:41 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+23:0:41 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+23:0:41 | [BuildingSetManager] Deleted file: NewSet
+23:0:41 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:0:43 | Player "Lampi*o" (steamId=76561199031402791) connected to server!
+23:1:24 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:1:24 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+23:1:24 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+23:1:24 | [BuildingSetManager] Deleted file: NewSet
+23:1:24 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:1:29 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4053.750488, 312.169434, 7815.554688>)
+23:1:30 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+23:2:11 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+23:4:9 | "ADM-MARK" (steamid=76561198950594742) deleted building set (NewSet)
+23:4:13 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4107.314941, 302.107056, 7849.794922>)
+23:4:23 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4238.067871, 307.361969, 7820.602051>)
+23:4:27 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4240.158691, 308.128021, 7820.232422>)
+23:4:28 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4242.655762, 305.253082, 7821.353027>)
+23:4:30 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+23:4:42 | Player "[TROLHA] Hodag" (steamId=76561198136545685) connected to server!
+23:4:51 | Player "[TROLHA] Hodag" (steamId=76561198136545685) connected to server!
+23:5:30 | Player "=FURY=zCastro" (steamId=76561199027286716) disconnected from server.
+23:5:32 | Player "=FURY=zCastro" (steamId=76561199027286716) disconnected from server.
+23:6:20 | Player "marquinho" (steamId=76561198925056081) connected to server!
+23:7:48 | Player "QueiroZ" (steamId=76561198152824675) disconnected from server.
+23:8:25 | Player "=FURY=Brunner" (steamId=76561199031638818) disconnected from server.
+23:10:26 | Player "Bulldog" (steamId=76561197994413318) disconnected from server.
+23:10:30 | Player "Bulldog" (steamId=76561197994413318) disconnected from server.
+23:10:49 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) connected to server!
+23:11:8 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) connected to server!
+23:12:21 | Player "CABOBRANCO" (steamId=76561198057389190) connected to server!
+23:12:27 | Player "[GURI]-BRUXO" (steamId=76561198140728342) connected to server!
+23:12:44 | Player "[GURI]-BRUXO" (steamId=76561198140728342) connected to server!
+23:17:33 | Player "[FARM]NATO" (steamId=76561199083641388) disconnected from server.
+23:17:37 | Player "[FARM]NATO" (steamId=76561199083641388) disconnected from server.
+23:18:9 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+23:18:33 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:18:33 | "ADM-MARK" (steamid=76561198950594742) created new building set (NewSet)
+23:18:55 | Player "[LMM] Menor Toscano" (steamId=76561198133820488) connected to server!
+23:19:18 | Player "[LMM] Menor Toscano" (steamId=76561198133820488) connected to server!
+23:21:50 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:21:50 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+23:21:50 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+23:21:50 | [BuildingSetManager] Deleted file: NewSet
+23:21:50 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:21:53 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4235.200684, 311.764465, 7748.889160>)
+23:21:56 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4235.785156, 314.078644, 7755.839355>)
+23:23:10 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:23:10 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+23:23:10 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+23:23:10 | [BuildingSetManager] Deleted file: NewSet
+23:23:10 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:23:32 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:23:32 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+23:23:32 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+23:23:32 | [BuildingSetManager] Deleted file: NewSet
+23:23:32 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:23:50 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:23:50 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+23:23:50 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+23:23:50 | [BuildingSetManager] Deleted file: NewSet
+23:23:50 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:24:5 | Player "[SDC]pistoleiro" (steamId=76561198046104047) connected to server!
+23:24:16 | Player "[SDC]pistoleiro" (steamId=76561198046104047) connected to server!
+23:24:24 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:24:24 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+23:24:24 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+23:24:24 | [BuildingSetManager] Deleted file: NewSet
+23:24:24 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:24:28 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4243.406738, 313.031616, 7746.715820>)
+23:24:30 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4248.846680, 312.912964, 7742.997559>)
+23:26:6 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:26:6 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+23:26:6 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+23:26:6 | [BuildingSetManager] Deleted file: NewSet
+23:26:6 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:26:9 | Player "Yuttinho" (steamId=76561198075229801) disconnected from server.
+23:26:11 | Player "Yuttinho" (steamId=76561198075229801) disconnected from server.
+23:26:22 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:26:22 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+23:26:22 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+23:26:22 | [BuildingSetManager] Deleted file: NewSet
+23:26:22 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:26:50 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:26:50 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+23:26:50 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+23:26:50 | [BuildingSetManager] Deleted file: NewSet
+23:26:50 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:26:51 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4281.229492, 304.439423, 7765.107422>)
+23:27:0 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4226.071777, 319.947021, 7737.057617>)
+23:27:1 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+23:27:3 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4226.676270, 320.396149, 7736.639648>)
+23:27:7 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4244.955566, 321.458923, 7731.638184>)
+23:27:22 | Player "=FURY= GabyZik4" (steamId=76561198177159459) connected to server!
+23:27:24 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4239.238281, 303.562164, 7756.141113>)
+23:27:37 | Player "W" (steamId=76561198245343656) disconnected from server.
+23:27:42 | Player "[guri]n31t0n" (steamId=76561198046649849) connected to server!
+23:27:45 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4303.236816, 315.209320, 7771.104492>)
+23:27:53 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+23:27:57 | Player "[guri]n31t0n" (steamId=76561198046649849) connected to server!
+23:27:57 | Player "=FURY=InfantiDF" (steamId=76561198283309946) connected to server!
+23:28:7 | Player "=FURY=Brunner" (steamId=76561199031638818) connected to server!
+23:28:7 | Player "W" (steamId=76561198245343656) connected to server!
+23:28:15 | Player "W" (steamId=76561198245343656) connected to server!
+23:28:20 | Player "=FURY=InfantiDF" (steamId=76561198283309946) connected to server!
+23:28:25 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:28:25 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+23:28:25 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+23:28:25 | [BuildingSetManager] Deleted file: NewSet
+23:28:25 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:28:31 | Player "=FURY=Brunner" (steamId=76561199031638818) connected to server!
+23:28:33 | Player "=FURY= GabyZik4" (steamId=76561198177159459) connected to server!
+23:28:59 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:28:59 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+23:28:59 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+23:28:59 | [BuildingSetManager] Deleted file: NewSet
+23:28:59 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:29:20 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) disconnected from server.
+23:29:23 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) disconnected from server.
+23:30:5 | Player "=FURY=CrN" (steamId=76561198100945209) disconnected from server.
+23:30:7 | Player "=FURY=CrN" (steamId=76561198100945209) disconnected from server.
+23:30:17 | Player "[guri]n31t0n" (steamId=76561198046649849) disconnected from server.
+23:30:18 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:30:18 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+23:30:18 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+23:30:18 | [BuildingSetManager] Deleted file: NewSet
+23:30:18 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:30:18 | Player "[guri]n31t0n" (steamId=76561198046649849) disconnected from server.
+23:30:20 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4168.764160, 301.986908, 7785.682617>)
+23:30:21 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+23:30:28 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4181.141602, 304.707642, 7780.760254>)
+23:30:47 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4187.839844, 303.553711, 7799.484375>)
+23:30:47 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4186.749023, 303.564117, 7800.436523>)
+23:30:47 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4186.672852, 303.565033, 7800.510254>)
+23:30:47 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4188.732422, 303.794128, 7804.590820>)
+23:30:47 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4189.441406, 303.901825, 7806.077637>)
+23:30:47 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4189.362793, 303.901093, 7806.123047>)
+23:30:47 | "ADM-MARK" (steamid=76561198950594742) teleported to crosshair (pos=<4189.189453, 303.899170, 7806.217773>)
+23:30:48 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+23:31:2 | Player "[guri]n31t0n" (steamId=76561198046649849) connected to server!
+23:31:18 | Player "[guri]n31t0n" (steamId=76561198046649849) connected to server!
+23:31:31 | Player "=FURY=KABUT" (steamId=76561198877070289) connected to server!
+23:31:59 | Player "=FURY=KABUT" (steamId=76561198877070289) connected to server!
+23:32:38 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:32:38 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+23:32:38 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+23:32:38 | [BuildingSetManager] Deleted file: NewSet
+23:32:38 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:32:54 | Player "CABOBRANCO" (steamId=76561198057389190) disconnected from server.
+23:33:15 | Player "CABOBRANCO" (steamId=76561198057389190) connected to server!
+23:33:39 | Player "CABOBRANCO" (steamId=76561198057389190) connected to server!
+23:33:57 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:33:57 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+23:33:57 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+23:33:57 | [BuildingSetManager] Deleted file: NewSet
+23:33:57 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:34:3 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+23:34:5 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) connected to server!
+23:34:9 | Player "{KMG}-Rockeiro-" (steamId=76561198928581570) connected to server!
+23:34:27 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+23:34:33 | Player "{KMG}-Rockeiro-" (steamId=76561198928581570) connected to server!
+23:34:35 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) connected to server!
+23:35:23 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:35:23 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+23:35:23 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+23:35:23 | [BuildingSetManager] Deleted file: NewSet
+23:35:23 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:36:19 | Player "[SDC]Pysicol" (steamId=76561198112459474) disconnected from server.
+23:36:26 | Player "TcheuS" (steamId=76561198317193038) connected to server!
+23:36:29 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:36:29 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+23:36:29 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+23:36:29 | [BuildingSetManager] Deleted file: NewSet
+23:36:29 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:36:47 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:36:47 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+23:36:47 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+23:36:47 | [BuildingSetManager] Deleted file: NewSet
+23:36:47 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:37:0 | Player "Fantasma FA" (steamId=76561198044029356) disconnected from server.
+23:37:2 | Player "Fantasma FA" (steamId=76561198044029356) disconnected from server.
+23:37:40 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:37:40 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+23:37:40 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+23:37:40 | [BuildingSetManager] Deleted file: NewSet
+23:37:40 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:37:47 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+23:37:54 | [WeatherManager] Send Data Count is 0
+23:37:58 | [Time Manager] Setting Date to 2022/9/21 7:15
+23:39:8 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) connected to server!
+23:39:33 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) connected to server!
+23:39:49 | "ADM-MARK" (steamid=76561198950594742) toggled freecam
+23:43:49 | Player "MBrown" (steamId=76561198834441216) disconnected from server.
+23:45:25 | Player "Lend" (steamId=76561198268537009) connected to server!
+23:45:33 | Player "[guri]n31t0n" (steamId=76561198046649849) disconnected from server.
+23:45:39 | Player "[guri]n31t0n" (steamId=76561198046649849) disconnected from server.
+23:45:54 | Player "[guri]n31t0n" (steamId=76561198046649849) connected to server!
+23:46:2 | Player "[guri]n31t0n" (steamId=76561198046649849) connected to server!
+23:46:25 | Player "TataN" (steamId=76561198967995861) connected to server!
+23:46:34 | Player "Chupino456" (steamId=76561198799175054) connected to server!
+23:46:58 | Player "Survivor" (steamId=76561198084896565) connected to server!
+23:47:17 | Player "Survivor (2)" (steamId=76561199147748224) connected to server!
+23:47:44 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) disconnected from server.
+23:48:40 | Player "Chupino456" (steamId=76561198799175054) disconnected from server.
+23:48:42 | Player "Chupino456" (steamId=76561198799175054) disconnected from server.
+23:49:44 | Player "Survivor (2)" (steamId=76561199147748224) disconnected from server.
+23:49:48 | Player "Survivor (2)" (steamId=76561199147748224) disconnected from server.
+23:49:57 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) connected to server!
+23:50:21 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) connected to server!
+23:50:52 | Player "Mariano Matador" (steamId=76561199070049294) connected to server!
+23:51:48 | Player "Mariano Matador" (steamId=76561199070049294) connected to server!
+23:53:54 | Player "[FURIA]eBrZ1K4" (steamId=76561199105670985) connected to server!
+23:56:29 | Player "[SCD] Coringa" (steamId=76561198133211909) disconnected from server.
+23:57:1 | Player "[LMM]Sargentolmm" (steamId=76561197993431575) disconnected from server.
+23:57:5 | Player "[LMM]Sargentolmm" (steamId=76561197993431575) disconnected from server.
+23:57:11 | Player "[LMM] Menor Toscano" (steamId=76561198133820488) disconnected from server.
+23:58:17 | Player "Yevgeny Zinichev" (steamId=76561199019252205) disconnected from server.
+23:58:23 | Player "Yevgeny Zinichev" (steamId=76561199019252205) disconnected from server.
+23:58:40 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:58:40 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+23:58:40 | "ADM-MARK" (steamid=76561198950594742) updated building set (NewSet)
+23:58:40 | [BuildingSetManager] Deleted file: NewSet
+23:58:40 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+23:59:14 | Player "NoobMaster" (steamId=76561198953587456) disconnected from server.
+23:59:25 | Player "[FURIA]eBrZ1K4" (steamId=76561199105670985) disconnected from server.
+23:59:30 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) disconnected from server.
+23:59:30 | Player "[SDC]pistoleiro" (steamId=76561198046104047) disconnected from server.
+23:59:30 | Player "[guri]n31t0n" (steamId=76561198046649849) disconnected from server.
+23:59:30 | Player "<AVG>TaldoTMs" (steamId=76561197963645902) disconnected from server.
+23:59:30 | Player "Rick Linguisao" (steamId=76561198123446009) disconnected from server.
+23:59:30 | Player "=FURY=InfantiDF" (steamId=76561198283309946) disconnected from server.
+23:59:30 | Player "W" (steamId=76561198245343656) disconnected from server.
+23:59:30 | Player "LuN" (steamId=76561198355678780) disconnected from server.
+23:59:30 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) disconnected from server.
+23:59:30 | Player "General Lee" (steamId=76561198252997365) disconnected from server.
+23:59:30 | Player "[Mercenarios] MauriLim" (steamId=76561198054045761) disconnected from server.
+23:59:30 | Player "Lampi*o" (steamId=76561199031402791) disconnected from server.
+23:59:30 | Player "=FURY=KABUT" (steamId=76561198877070289) disconnected from server.
+23:59:30 | Player "{KMG}-Rockeiro-" (steamId=76561198928581570) disconnected from server.
+23:59:30 | Player "[oSGANGACEIROS] Moita Brava" (steamId=76561198031925978) disconnected from server.
+23:59:30 | Player "Lend" (steamId=76561198268537009) disconnected from server.
+23:59:30 | Player "Mariano Matador" (steamId=76561199070049294) disconnected from server.
+23:59:30 | Player "[Mercenarios] Chines Angolano" (steamId=76561198128636633) disconnected from server.
+23:59:30 | Player "[TROLHA] Hodag" (steamId=76561198136545685) disconnected from server.
+23:59:30 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) disconnected from server.
+23:59:30 | Player "[GURI]-TinkWink" (steamId=76561198170630445) disconnected from server.
+23:59:30 | Player "Snow" (steamId=76561199104246317) disconnected from server.
+23:59:30 | Player "Menor Infrator" (steamId=76561199002430687) disconnected from server.
+23:59:30 | Player "=FURY= GabyZik4" (steamId=76561198177159459) disconnected from server.
+23:59:30 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) disconnected from server.
+23:59:30 | Player "=FURY=Brunner" (steamId=76561199031638818) disconnected from server.
+23:59:30 | Player "[FURIA]eBrZ1K4" (steamId=76561199105670985) disconnected from server.
+23:59:30 | Player "ADM-MARK" (steamId=76561198950594742) disconnected from server.
+23:59:30 | Player "[GURI]-BRUXO" (steamId=76561198140728342) disconnected from server.
+23:59:30 | Player "[Mercenarios] Rambo" (steamId=76561198375135263) disconnected from server.
+23:59:30 | Player "vKILLERz" (steamId=76561198849938878) disconnected from server.
+23:59:30 | Player "WARDOGS" (steamId=76561199046735504) disconnected from server.
+23:59:30 | Player "marquinho" (steamId=76561198925056081) disconnected from server.
+23:59:30 | Player "Pontaria" (steamId=76561198432710490) disconnected from server.
+23:59:30 | Player "TataN" (steamId=76561198967995861) disconnected from server.
+23:59:30 | Player "TcheuS" (steamId=76561198317193038) disconnected from server.
+23:59:30 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) disconnected from server.
+23:59:30 | Player "Survivor" (steamId=76561198084896565) disconnected from server.
+23:59:30 | Player "CABOBRANCO" (steamId=76561198057389190) disconnected from server.

@@ -1,0 +1,118 @@
+
+
+=====================================================================
+== D:\OmegaManager\servers\2\DayZServer_x64.exe
+== ./servers/2/DayZServer_x64.exe -config=serverDZ.cfg.active -port=2502 -profiles=profiles  -adminlog -freezecheck -dologs
+=====================================================================
+Exe timestamp: 2022/04/19 09:16:49
+Current time:  2022/04/20 23:49:31
+
+Version 1.17.154732
+23:49:31.494 String "STR_server_shutdown" listed twice in "Global"
+23:49:31.515 Localization not present: STR_DATE_FORMAT_SHORT
+23:49:31.515 Localization not present: STR_TIME_FORMAT
+23:49:31.515 Localization not present: STR_CONFIG_CONTROLLER_NORMAL_LOOK
+23:49:31.515 Localization not present: STR_CONFIG_CONTROLLER_REVERSED_LOOK
+23:49:31.515 Localization not present: STR_MP_VALIDERROR
+23:49:31.515 Localization not present: STR_MP_CONNECTION_LOOSING
+23:49:31.515 Localization not present: STR_MSG_MP_NO_PASSWORD
+23:49:31.515 Localization not present: STR_MSG_LAUNCH_GAME
+23:49:31.515 Localization not present: STR_LOAD_INIT
+23:49:31.515 Localization not present: STR_LOAD_WORLD
+23:49:31.515 Localization not present: STR_LOAD_GAME
+23:49:31.515 Localization not present: STR_SAVE_GAME
+23:49:31.515 Localization not present: STR_MP_CONNECT
+23:49:31.515 Localization not present: STR_MP_DISCONNECT
+23:49:31.515 Localization not present: STR_MP_CONNECTING
+23:49:31.515 Localization not present: STR_MP_TIMEOUT
+23:49:31.515 Localization not present: STR_DISP_CLIENT_TEXT_EDIT
+23:49:31.515 Localization not present: STR_MP_LOGIN_QUEUE_FULL
+23:49:31.516 Localization not present: STR_DATE_FORMAT_SHORT
+23:49:31.516 Localization not present: STR_TIME_FORMAT
+23:49:31.516 Localization not present: STR_CONFIG_CONTROLLER_NORMAL_LOOK
+23:49:31.516 Localization not present: STR_CONFIG_CONTROLLER_REVERSED_LOOK
+23:49:31.516 Localization not present: STR_MP_VALIDERROR
+23:49:31.516 Localization not present: STR_MP_CONNECTION_LOOSING
+23:49:31.516 Localization not present: STR_MSG_MP_NO_PASSWORD
+23:49:31.516 Localization not present: STR_MSG_LAUNCH_GAME
+23:49:31.516 Localization not present: STR_LOAD_INIT
+23:49:31.516 Localization not present: STR_LOAD_WORLD
+23:49:31.516 Localization not present: STR_LOAD_GAME
+23:49:31.516 Localization not present: STR_SAVE_GAME
+23:49:31.516 Localization not present: STR_MP_CONNECT
+23:49:31.516 Localization not present: STR_MP_DISCONNECT
+23:49:31.516 Localization not present: STR_MP_CONNECTING
+23:49:31.516 Localization not present: STR_MP_TIMEOUT
+23:49:31.516 Localization not present: STR_DISP_CLIENT_TEXT_EDIT
+23:49:31.516 Localization not present: STR_MP_LOGIN_QUEUE_FULL
+23:49:31.536 Initializing stats manager.
+23:49:31.537 Stats config disabled.
+23:49:32.824 Updating base class All->AllVehicles, by DZ\data\config.bin/CfgVehicles/Man/
+23:49:32.824 Updating base class Transport->AllVehicles, by DZ\data\config.bin/CfgVehicles/Air/
+23:49:32.873 Updating base class Name->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/Hill/
+23:49:32.873 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/ViewPoint/
+23:49:32.873 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/RockArea/
+23:49:32.873 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/BorderCrossing/
+23:49:32.873 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationBroadleaf/
+23:49:32.873 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationFir/
+23:49:32.873 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationPalm/
+23:49:32.873 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationVineyard/
+23:49:32.934 Updating base class ->Rifle_Base, by DZ\weapons\firearms\m4\config.bin/cfgWeapons/M4A1_Base/
+23:49:32.934 Updating base class ->M4A1_Base, by DZ\weapons\firearms\m4\config.bin/cfgWeapons/M4A1/
+23:49:33.335 Updating base class Weather->, by DZ\sounds\hpp\config.bin/CfgWorlds/CAWorld/Weather/
+23:49:34.71 ENGINE    (W): No module info used, trying to identify -> 0x42780000
+
+23:49:34.152 SCRIPT    (W): @"scripts/1_Core/proto\enwidgets.c,339": Missing script declaration for method 'SliderWidget.SetMinMax'
+
+23:49:34.152 SCRIPT    (W): @"scripts/1_Core/proto\enwidgets.c,339": Missing script declaration for method 'SliderWidget.GetStep'
+
+23:49:34.152 SCRIPT    (W): @"scripts/1_Core/proto\enwidgets.c,339": Missing script declaration for method 'SliderWidget.SetStep'
+
+23:49:34.156 [Inputs] Loading inputs default "bin/constants.xml"
+23:49:34.158 [Inputs] Loading inputs default "bin/specific.xml"
+23:49:34.159 !!! [Inputs] Improper InputAccess declaration "UALookAroundToggle" :: default set instead
+23:49:34.159 !!! [Inputs] Improper InputAccess declaration "UAVoiceOverNetToggle" :: default set instead
+23:49:34.159 [Inputs] Loading inputs cfg "profiles\Users\Survivor\Server.core.xml"
+23:49:34.159 !!! [Inputs] Cannot read inputs cfg "profiles\Users\Survivor\Server.core.xml", parser error
+23:49:34.159 [Inputs] Loading inputs cfg "bin/core.xml"
+23:49:34.159 !!! [Inputs] Cannot load input preset "user", file does not exist
+23:49:34.160 [Inputs] Exporting inputs cfg "profiles\Users\Survivor\Server.core.xml"
+23:49:34.263 SCRIPT    (W): @"scripts/3_Game/effects\effectsound.c,23": Strong ref to 'AbstractWave' class is not allowed
+
+23:49:34.514 SCRIPT    (W): @"scripts/3_Game/entities\object.c,8": Missing script declaration for method 'Object.ConfigGetTextArrayRaw'
+
+23:49:34.514 SCRIPT    (W): @"scripts/3_Game/entities\object.c,8": Missing script declaration for method 'Object.GetAllowDamage'
+
+23:49:34.514 SCRIPT    (W): @"scripts/3_Game/entities\object.c,8": Missing script declaration for method 'Object.ConfigGetStringRaw'
+
+23:49:34.514 SCRIPT    (W): @"scripts/3_Game/gameplay.c,1113": Missing script declaration for method 'OptionsAccess.SetScriptEvents'
+
+23:49:34.514 SCRIPT    (W): @"scripts/3_Game/gameplay.c,1113": Missing script declaration for method 'OptionsAccess.GetScriptEvents'
+
+23:49:34.514 SCRIPT    (W): @"scripts/3_Game/sound.c,16": Missing script declaration for method 'AbstractSoundScene.GetAudioLevel'
+
+23:49:34.514 SCRIPT    (W): @"scripts/3_Game/sound.c,16": Missing script declaration for method 'AbstractSoundScene.GetSilenceThreshold'
+
+23:49:34.514 SCRIPT    (W): @"scripts/3_Game/global\game.c,7": Missing script declaration for method 'CGame.ConfigGetTextArrayRaw'
+
+23:49:34.514 SCRIPT    (W): @"scripts/3_Game/global\game.c,7": Missing script declaration for method 'CGame.EnableMicCapture'
+
+23:49:34.514 SCRIPT    (W): @"scripts/3_Game/global\game.c,7": Missing script declaration for method 'CGame.IsInPartyChat'
+
+23:49:34.514 SCRIPT    (W): @"scripts/3_Game/global\game.c,7": Missing script declaration for method 'CGame.IsMicCapturing'
+
+23:49:34.514 SCRIPT    (W): @"scripts/3_Game/global\game.c,7": Missing script declaration for method 'CGame.ConfigGetTextRaw'
+
+23:49:34.514 SCRIPT    (W): @"scripts/3_Game/inputapi\uainput.c,162": Missing script declaration for method 'UAInputAPI.GetButtonIcon'
+
+23:49:34.514 SCRIPT    (W): @"scripts/3_Game/inputapi\uainput.c,162": Missing script declaration for method 'UAInputAPI.DeactivateModificator'
+
+23:49:34.514 SCRIPT    (W): @"scripts/3_Game/inputapi\uainput.c,23": Missing script declaration for method 'UAInput.IsLimitConditionActive'
+
+23:49:34.514 SCRIPT    (W): @"scripts/3_Game/human.c,14": Missing script declaration for method 'HumanInputController.ResetFreeLookToggle'
+
+23:49:34.514 SCRIPT    (W): @"scripts/3_Game/global\errormodulehandler\errormodulehandler.c,26": Missing script declaration for method 'ErrorModuleHandler.GetLastClientMessage'
+
+23:49:34.514 SCRIPT    (W): @"scripts/3_Game/global\errormodulehandler\errormodulehandler.c,26": Missing script declaration for method 'ErrorModuleHandler.GetLastServerMessage'
+
+23:49:34.514 SCRIPT    (W): @"scripts/3_Game/global\errormodulehandler\errormodulehandler.c,26": Missing script declaration for method 'ErrorModuleHandler.GetLa

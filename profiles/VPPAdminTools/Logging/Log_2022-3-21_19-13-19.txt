@@ -1,0 +1,758 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-3-21_19-13-19
+====================================================================================
+19:13:19 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+19:13:19 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+19:13:19 | [PermissionManager] Perm (FreeCamera) has been registered!
+19:13:19 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuItemManager) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuServerManager) has been registered!
+19:13:19 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+19:13:19 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+19:13:19 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+19:13:19 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+19:13:19 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+19:13:19 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+19:13:19 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+19:13:19 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+19:13:19 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+19:13:19 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+19:13:19 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+19:13:19 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+19:13:19 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+19:13:19 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+19:13:19 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+19:13:19 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+19:13:19 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+19:13:19 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+19:13:19 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+19:13:19 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+19:13:19 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+19:13:19 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+19:13:19 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+19:13:19 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+19:13:19 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+19:13:19 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+19:13:19 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+19:13:19 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+19:13:19 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+19:13:19 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+19:13:19 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+19:13:19 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+19:13:19 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuBansManager) has been registered!
+19:13:19 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+19:13:19 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+19:13:19 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+19:13:19 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+19:13:19 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+19:13:19 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+19:13:19 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+19:13:19 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+19:13:19 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+19:13:19 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+19:13:19 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+19:13:19 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+19:13:19 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+19:13:19 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+19:13:19 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+19:13:19 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+19:13:19 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+19:13:19 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+19:13:19 | [PermissionManager] Adding Super Admin (76561198253386609)
+19:13:19 | [PermissionManager] Adding Super Admin (76561198950594742)
+19:13:19 | [PermissionManager] Adding Super Admin (76561198329721265)
+19:13:19 | [PermissionManager] Adding Super Admin (76561198140728342)
+19:13:19 | [PermissionManager] Loaded UserGroups.json
+19:13:19 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+19:13:19 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+19:13:19 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+19:13:19 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+19:13:19 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+19:13:19 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+19:13:19 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+19:13:19 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+19:13:19 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+19:13:19 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+19:13:19 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+19:13:19 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+19:13:19 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+19:13:19 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+19:13:19 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+19:13:19 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+19:13:19 | Building Sets Loaded: 0
+19:13:45 | Player "coyot" (steamId=76561198191127093) connected to server!
+19:13:47 | Player "Holmes1" (steamId=76561198382970355) connected to server!
+19:13:47 | Player "NeZla" (steamId=76561198005452537) connected to server!
+19:13:51 | Player "[SEALs] Barret" (steamId=76561199151100648) connected to server!
+19:13:53 | Player "FuckingMendel" (steamId=76561199085302677) connected to server!
+19:14:4 | Player "Holmes1" (steamId=76561198382970355) connected to server!
+19:14:4 | Player "coyot" (steamId=76561198191127093) connected to server!
+19:14:4 | Player "NeZla" (steamId=76561198005452537) connected to server!
+19:14:8 | Player "FuckingMendel" (steamId=76561199085302677) connected to server!
+19:14:10 | Player "Rato" (steamId=76561198836620020) connected to server!
+19:14:11 | Player "[SEALs] Barret" (steamId=76561199151100648) connected to server!
+19:14:12 | Player "J A C K" (steamId=76561198287174208) connected to server!
+19:14:12 | Player "rockerbr" (steamId=76561198032775729) connected to server!
+19:14:15 | Player "Be4STT" (steamId=76561198393547150) connected to server!
+19:14:16 | Player "Trip4Sec4" (steamId=76561198093060507) connected to server!
+19:14:20 | Player "J A C K" (steamId=76561198287174208) connected to server!
+19:14:21 | Player "rockerbr" (steamId=76561198032775729) connected to server!
+19:14:22 | Player "Trip4Sec4" (steamId=76561198093060507) connected to server!
+19:14:23 | Player "mateusna" (steamId=76561198989861938) connected to server!
+19:14:25 | Player "Ampola" (steamId=76561198432710490) connected to server!
+19:14:27 | Player "Rato" (steamId=76561198836620020) connected to server!
+19:14:29 | Player "j o a o z i k a" (steamId=76561198808196159) connected to server!
+19:14:33 | Player "KaioFX" (steamId=76561198140728342) connected to server!
+19:14:34 | Player "Ampola" (steamId=76561198432710490) connected to server!
+19:14:36 | Player "Be4STT" (steamId=76561198393547150) connected to server!
+19:14:38 | Player "Camillo" (steamId=76561198093440944) connected to server!
+19:14:38 | Player "j o a o z i k a" (steamId=76561198808196159) connected to server!
+19:14:40 | Player "[TMT].Skinner" (steamId=76561198860620637) connected to server!
+19:14:43 | Player "mateusna" (steamId=76561198989861938) connected to server!
+19:14:53 | Player "KaioFX" (steamId=76561198140728342) connected to server!
+19:15:23 | Player "[TMT].Skinner" (steamId=76561198860620637) connected to server!
+19:15:36 | Player "JAGUNSO" (steamId=76561198171632279) connected to server!
+19:16:1 | Player "L   U   C   A   S" (steamId=76561199239557795) connected to server!
+19:16:13 | Player "L   U   C   A   S" (steamId=76561199239557795) connected to server!
+19:16:30 | "KaioFX" (steamid=76561198140728342) toggled freecam
+19:16:39 | "KaioFX" (steamid=76561198140728342) teleported to crosshair (pos=<10963.924805, 46.970001, 8679.851563>)
+19:16:40 | "KaioFX" (steamid=76561198140728342) toggled freecam
+19:16:41 | Player "JAGUNSO" (steamId=76561198171632279) connected to server!
+19:16:43 | "KaioFX" (steamid=76561198140728342) toggled freecam
+19:16:46 | "KaioFX" (steamid=76561198140728342) toggled freecam
+19:17:10 | "KaioFX" (steamid=76561198140728342) toggled freecam
+19:17:14 | "KaioFX" (steamid=76561198140728342) teleported to crosshair (pos=<10963.363281, 46.970001, 8679.216797>)
+19:17:15 | "KaioFX" (steamid=76561198140728342) toggled freecam
+19:17:22 | Player "Doc Holliday" (steamId=76561198129876852) connected to server!
+19:17:28 | "KaioFX" (steamid=76561198140728342) toggled freecam
+19:17:31 | "KaioFX" (steamid=76561198140728342) teleported to crosshair (pos=<10955.865234, 46.970001, 8693.870117>)
+19:17:32 | "KaioFX" (steamid=76561198140728342) toggled freecam
+19:17:39 | "KaioFX" (steamid=76561198140728342) teleported to crosshair (pos=<10958.397461, 46.970001, 8692.848633>)
+19:17:44 | Player "Doc Holliday" (steamId=76561198129876852) connected to server!
+19:18:19 | Player "[TKS] Dotto" (steamId=76561197998806565) connected to server!
+19:18:28 | Player "[TKS] Dotto" (steamId=76561197998806565) connected to server!
+19:20:21 | Player "KaioFX" (steamId=76561198140728342) disconnected from server.
+19:23:30 | Player "Kallel" (steamId=76561199083408122) connected to server!
+19:27:25 | Player "Be4STT" (steamId=76561198393547150) disconnected from server.
+19:27:44 | Player "[EM] ToyStory" (steamId=76561198133211909) connected to server!
+19:27:59 | Player "[EM] ToyStory" (steamId=76561198133211909) connected to server!
+19:28:41 | Player "[TMT].Skinner" (steamId=76561198860620637) disconnected from server.
+19:28:56 | Player "mateusna" (steamId=76561198989861938) disconnected from server.
+19:30:39 | Player "Survivor" (steamId=76561198308672671) connected to server!
+19:31:20 | Player "Be4STT" (steamId=76561198393547150) connected to server!
+19:32:11 | Player "Be4STT" (steamId=76561198393547150) connected to server!
+19:34:27 | Player ">M.D.G< Mslukets" (steamId=76561198149322340) connected to server!
+19:35:36 | Player ">M.D.G< Mslukets" (steamId=76561198149322340) connected to server!
+19:36:13 | Player "MC LAN" (steamId=76561198080293845) connected to server!
+19:40:4 | Player "civinius" (steamId=76561198859086815) connected to server!
+19:41:31 | Player "Survivor" (steamId=76561198308672671) disconnected from server.
+19:41:33 | Player "Survivor" (steamId=76561198308672671) disconnected from server.
+19:41:49 | Player "[TKS] Dotto" (steamId=76561197998806565) disconnected from server.
+19:41:57 | Player ">M.D.G< OZIEL" (steamId=76561198973770662) connected to server!
+19:42:41 | Player ">M.D.G< OZIEL" (steamId=76561198973770662) connected to server!
+19:42:50 | Player "!VESGO$" (steamId=76561199038849141) connected to server!
+19:43:45 | Player "PhBase" (steamId=76561198064931383) connected to server!
+19:44:6 | Player "PhBase" (steamId=76561198064931383) connected to server!
+19:44:27 | Player "civinius" (steamId=76561198859086815) connected to server!
+19:45:2 | Player "a key ngg" (steamId=76561198068143571) connected to server!
+19:47:21 | Player "L   U   C   A   S" (steamId=76561199239557795) disconnected from server.
+19:48:27 | Player "Survivor" (steamId=76561198308672671) connected to server!
+19:48:37 | Player "Survivor" (steamId=76561198308672671) connected to server!
+19:49:13 | Player "L   U   C   A   S" (steamId=76561199239557795) connected to server!
+19:49:15 | Player "[EM]Pysicol" (steamId=76561198112459474) connected to server!
+19:49:58 | Player "Survivor" (steamId=76561198308672671) disconnected from server.
+19:50:5 | Player "[EM]Pysicol" (steamId=76561198112459474) connected to server!
+19:50:9 | Player "L   U   C   A   S" (steamId=76561199239557795) connected to server!
+19:50:42 | Player "Survivor" (steamId=76561198308672671) connected to server!
+19:51:28 | Player "j o a o z i k a" (steamId=76561198808196159) disconnected from server.
+19:51:52 | Player "mateusna" (steamId=76561198989861938) connected to server!
+19:52:13 | Player "mateusna" (steamId=76561198989861938) connected to server!
+19:57:40 | Player "Survivor" (steamId=76561198308672671) disconnected from server.
+19:58:46 | Player "coyot" (steamId=76561198191127093) disconnected from server.
+19:58:49 | Player "Trip4Sec4" (steamId=76561198093060507) disconnected from server.
+19:59:19 | Player "-BRK- BozzoBr" (steamId=76561198136852185) connected to server!
+20:0:20 | Player "-BRK- BozzoBr" (steamId=76561198136852185) disconnected from server.
+20:0:21 | Player "-BRK- BozzoBr" (steamId=76561198136852185) disconnected from server.
+20:3:36 | Player "SkyApolloX" (steamId=76561198185469994) connected to server!
+20:3:57 | Player "SkyApolloX" (steamId=76561198185469994) connected to server!
+20:7:10 | Player "SGT. Fahur" (steamId=76561198904178335) connected to server!
+20:9:17 | Player "Camillo" (steamId=76561198093440944) disconnected from server.
+20:9:18 | Player "L   U   C   A   S" (steamId=76561199239557795) disconnected from server.
+20:10:11 | Player "j o a o z i k a" (steamId=76561198808196159) connected to server!
+20:10:25 | Player "j o a o z i k a" (steamId=76561198808196159) connected to server!
+20:13:37 | Player "PhBase" (steamId=76561198064931383) disconnected from server.
+20:15:59 | Player "Holmes1" (steamId=76561198382970355) disconnected from server.
+20:16:1 | Player "Holmes1" (steamId=76561198382970355) disconnected from server.
+20:16:57 | Player "Holmes1" (steamId=76561198382970355) connected to server!
+20:17:15 | Player "Holmes1" (steamId=76561198382970355) connected to server!
+20:17:16 | Player "Leo" (steamId=76561199040895810) connected to server!
+20:18:41 | Player "JAGUNSO" (steamId=76561198171632279) disconnected from server.
+20:19:57 | Player "Leo" (steamId=76561199040895810) disconnected from server.
+20:20:1 | Player "Leo" (steamId=76561199040895810) disconnected from server.
+20:20:6 | Player "JAGUNSO" (steamId=76561198171632279) connected to server!
+20:21:10 | Player "JAGUNSO" (steamId=76561198171632279) connected to server!
+20:22:24 | Player "FuckingMendel" (steamId=76561199085302677) disconnected from server.
+20:22:25 | Player "FuckingMendel" (steamId=76561199085302677) disconnected from server.
+20:24:5 | Player "mateusna" (steamId=76561198989861938) disconnected from server.
+20:27:9 | Player ">M.D.G< OZIEL" (steamId=76561198973770662) disconnected from server.
+20:27:47 | Player "NeZla" (steamId=76561198005452537) disconnected from server.
+20:28:36 | Player "-__-" (steamId=76561198262032545) connected to server!
+20:29:10 | Player "-__-" (steamId=76561198262032545) connected to server!
+20:31:22 | Player "coyot" (steamId=76561198191127093) connected to server!
+20:31:41 | Player "coyot" (steamId=76561198191127093) connected to server!
+20:32:47 | Player "Pipo" (steamId=76561199123625009) connected to server!
+20:33:44 | Player "Pipo" (steamId=76561199123625009) connected to server!
+20:34:14 | Player "coyot" (steamId=76561198191127093) disconnected from server.
+20:37:48 | Player "civinius" (steamId=76561198859086815) disconnected from server.
+20:38:19 | Player "[G.M] DOLAR" (steamId=76561199202648397) connected to server!
+20:38:39 | Player "Pipo" (steamId=76561199123625009) disconnected from server.
+20:38:40 | Player "Pipo" (steamId=76561199123625009) disconnected from server.
+20:40:15 | Player "Rato" (steamId=76561198836620020) disconnected from server.
+20:40:35 | Player "Doc Holliday" (steamId=76561198129876852) disconnected from server.
+20:40:46 | Player "SGT. Fahur" (steamId=76561198904178335) disconnected from server.
+20:40:47 | Player "Caiolpsz" (steamId=76561198091962368) connected to server!
+20:41:30 | Player "SGT. Fahur" (steamId=76561198904178335) connected to server!
+20:41:38 | Player "SGT. Fahur" (steamId=76561198904178335) connected to server!
+20:43:0 | Player ">M.D.G< Mslukets" (steamId=76561198149322340) disconnected from server.
+20:43:2 | Player ">M.D.G< Mslukets" (steamId=76561198149322340) disconnected from server.
+20:43:42 | Player "Caiolpsz" (steamId=76561198091962368) disconnected from server.
+20:49:39 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+20:50:12 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+20:51:30 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:52:28 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:52:49 | "BRUXO" (steamid=76561198140728342) Spawned Item: (AC_TacticalGloves_Admin)
+20:52:49 | "BRUXO" (steamid=76561198140728342) Spawned Item: (AC_TacticalShirt_Admin)
+20:52:50 | "BRUXO" (steamid=76561198140728342) Spawned Item: (AC_CargoPants_Admin)
+20:52:51 | "BRUXO" (steamid=76561198140728342) Spawned Item: (AC_MilitaryBeret_Admin)
+20:52:52 | "BRUXO" (steamid=76561198140728342) Spawned Item: (AC_MilitaryBoots_Admin)
+20:53:6 | "BRUXO" (steamid=76561198140728342) Spawned Item: (AdminHatchet)
+20:53:13 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:53:18 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<11086.694336, 3.681294, 8777.698242>)
+20:53:19 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:53:30 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<11086.721680, 3.709551, 8777.737305>)
+20:53:36 | "BRUXO" (steamid=76561198140728342) deleted object "AdminHatchet" (pos=<11086.694336, 3.694672, 8777.698242>)
+20:53:53 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199151100648)
+20:53:53 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198287174208)
+20:53:53 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198032775729)
+20:53:53 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198432710490)
+20:53:53 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198133211909)
+20:53:53 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198393547150)
+20:53:53 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198080293845)
+20:53:53 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198068143571)
+20:53:53 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198112459474)
+20:53:53 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198185469994)
+20:53:53 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198808196159)
+20:53:53 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198382970355)
+20:53:53 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198171632279)
+20:53:53 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198262032545)
+20:53:53 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198904178335)
+20:53:53 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198140728342)
+20:53:54 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199151100648)
+20:53:54 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198287174208)
+20:53:54 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198032775729)
+20:53:54 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198432710490)
+20:53:54 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198133211909)
+20:53:54 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198393547150)
+20:53:54 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198080293845)
+20:53:54 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198068143571)
+20:53:54 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198112459474)
+20:53:54 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198185469994)
+20:53:54 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198808196159)
+20:53:54 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198382970355)
+20:53:54 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198171632279)
+20:53:54 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198262032545)
+20:53:54 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198904178335)
+20:53:54 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198140728342)
+20:53:55 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199151100648)
+20:53:55 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198287174208)
+20:53:55 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198032775729)
+20:53:55 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198432710490)
+20:53:55 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198133211909)
+20:53:55 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198393547150)
+20:53:55 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198080293845)
+20:53:55 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198068143571)
+20:53:55 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198112459474)
+20:53:55 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198185469994)
+20:53:55 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198808196159)
+20:53:55 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198382970355)
+20:53:55 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198171632279)
+20:53:55 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198262032545)
+20:53:55 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198904178335)
+20:53:55 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198140728342)
+20:53:56 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199151100648)
+20:53:56 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198287174208)
+20:53:56 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198032775729)
+20:53:56 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198432710490)
+20:53:56 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198133211909)
+20:53:57 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198393547150)
+20:53:57 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198080293845)
+20:53:57 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198068143571)
+20:53:57 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198112459474)
+20:53:57 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198185469994)
+20:53:57 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198808196159)
+20:53:57 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198382970355)
+20:53:57 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198171632279)
+20:53:57 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198262032545)
+20:53:57 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198904178335)
+20:53:57 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198140728342)
+20:53:58 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199151100648)
+20:53:58 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198287174208)
+20:53:58 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198032775729)
+20:53:58 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198432710490)
+20:53:58 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198133211909)
+20:53:58 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198393547150)
+20:53:58 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198080293845)
+20:53:58 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198068143571)
+20:53:58 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198112459474)
+20:53:58 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198185469994)
+20:53:58 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198808196159)
+20:53:58 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198382970355)
+20:53:58 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198171632279)
+20:53:58 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198262032545)
+20:53:58 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198904178335)
+20:53:58 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198140728342)
+20:54:16 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198140728342)
+20:54:17 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198140728342)
+20:54:30 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198432710490)
+20:54:37 | "BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+20:54:44 | "BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+20:54:48 | "BRUXO" (steamid=76561198140728342) healed player (steamid=76561198140728342)
+20:54:49 | "BRUXO" (steamid=76561198140728342) healed player (steamid=76561198140728342)
+20:54:53 | "BRUXO" (steamid=76561198140728342) healed player (steamid=76561198140728342)
+20:54:54 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198140728342)
+20:54:55 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198140728342)
+20:55:1 | "BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+20:55:12 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:55:14 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:55:37 | "BRUXO": (steamid=76561198140728342) teleported to (pos=11384.1,0,7073.39)
+20:55:45 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:56:41 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:56:42 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:57:13 | Player "[G.M] DOLAR" (steamId=76561199202648397) connected to server!
+20:57:26 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:57:57 | "BRUXO": (steamid=76561198140728342) teleported to (pos=11307.1,0,12740.5)
+20:58:10 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:59:10 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Animal_CanisLupus_Grey)
+20:59:44 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Animal_CanisLupus_Grey)
+20:59:44 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Animal_CanisLupus_Grey)
+21:0:27 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:0:57 | "BRUXO": (steamid=76561198140728342) teleported to (pos=9049,0,9794.08)
+21:1:1 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:2:19 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:2:25 | "BRUXO": (steamid=76561198140728342) teleported to (pos=7365.28,0,8559.34)
+21:2:30 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:3:34 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Animal_CanisLupus_Grey)
+21:4:46 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Animal_CanisLupus_Grey)
+21:5:43 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<7114.805176, 19.977028, 9077.838867>)
+21:5:46 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:6:50 | "BRUXO": (steamid=76561198140728342) teleported to (pos=9459.87,0,9419.53)
+21:6:53 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:6:59 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<9462.371094, 6.219917, 9399.548828>)
+21:7:1 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:7:6 | Player "Holmes1" (steamId=76561198382970355) disconnected from server.
+21:7:7 | Player "Holmes1" (steamId=76561198382970355) disconnected from server.
+21:8:4 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<9467.208984, 6.990840, 9379.125000>)
+21:10:26 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<9482.241211, 7.944598, 9292.784180>)
+21:11:43 | Player "Ampola" (steamId=76561198432710490) disconnected from server.
+21:11:45 | Player "Ampola" (steamId=76561198432710490) disconnected from server.
+21:11:46 | Player "vladimir putinho!!" (steamId=76561199144319740) connected to server!
+21:12:7 | Player "vladimir putinho!!" (steamId=76561199144319740) connected to server!
+21:12:30 | Player "FLASH 10" (steamId=76561199115574501) connected to server!
+21:12:53 | "BRUXO" (steamid=76561198140728342) Spawned Item: (TrackSuitPants_Black)
+21:12:54 | "BRUXO" (steamid=76561198140728342) Spawned Item: (TrackSuitPants_Black)
+21:12:55 | Player "[G.M.] DMSpan" (steamId=76561198001622323) connected to server!
+21:12:57 | Player "J A C K" (steamId=76561198287174208) disconnected from server.
+21:12:59 | Player "FLASH 10" (steamId=76561199115574501) connected to server!
+21:13:0 | "BRUXO" (steamid=76561198140728342) Spawned Item: (TrackSuitPants_Blue)
+21:13:0 | Player "J A C K" (steamId=76561198287174208) disconnected from server.
+21:13:1 | "BRUXO" (steamid=76561198140728342) Spawned Item: (TrackSuitPants_Blue)
+21:13:3 | "BRUXO" (steamid=76561198140728342) Spawned Item: (TrackSuitPants_Green)
+21:13:4 | "BRUXO" (steamid=76561198140728342) Spawned Item: (TrackSuitPants_Green)
+21:13:6 | "BRUXO" (steamid=76561198140728342) Spawned Item: (TrackSuitPants_Red)
+21:13:7 | "BRUXO" (steamid=76561198140728342) Spawned Item: (TrackSuitPants_Red)
+21:13:9 | "BRUXO" (steamid=76561198140728342) Spawned Item: (TrackSuitPants_LightBlue)
+21:13:10 | "BRUXO" (steamid=76561198140728342) Spawned Item: (TrackSuitPants_LightBlue)
+21:13:12 | "BRUXO" (steamid=76561198140728342) Spawned Item: (TrackSuitJacket_Black)
+21:13:13 | "BRUXO" (steamid=76561198140728342) Spawned Item: (TrackSuitJacket_Black)
+21:13:15 | "BRUXO" (steamid=76561198140728342) Spawned Item: (TrackSuitJacket_Blue)
+21:13:15 | "BRUXO" (steamid=76561198140728342) Spawned Item: (TrackSuitJacket_Blue)
+21:13:18 | "BRUXO" (steamid=76561198140728342) Spawned Item: (TrackSuitJacket_Green)
+21:13:19 | "BRUXO" (steamid=76561198140728342) Spawned Item: (TrackSuitJacket_Green)
+21:13:21 | "BRUXO" (steamid=76561198140728342) Spawned Item: (TrackSuitJacket_LightBlue)
+21:13:22 | "BRUXO" (steamid=76561198140728342) Spawned Item: (TrackSuitJacket_LightBlue)
+21:13:23 | "BRUXO" (steamid=76561198140728342) Spawned Item: (TrackSuitJacket_Red)
+21:13:23 | Player "FLASH 10" (steamId=76561199115574501) disconnected from server.
+21:13:24 | "BRUXO" (steamid=76561198140728342) Spawned Item: (TrackSuitJacket_Red)
+21:13:27 | Player "FLASH 10" (steamId=76561199115574501) disconnected from server.
+21:14:4 | "BRUXO" (steamid=76561198140728342) Spawned Item: (NBCGlovesYellow)
+21:14:4 | "BRUXO" (steamid=76561198140728342) Spawned Item: (NBCGlovesYellow)
+21:14:5 | "BRUXO" (steamid=76561198140728342) Spawned Item: (NBCGlovesYellow)
+21:14:5 | "BRUXO" (steamid=76561198140728342) Spawned Item: (NBCGlovesYellow)
+21:14:5 | "BRUXO" (steamid=76561198140728342) Spawned Item: (NBCGlovesYellow)
+21:14:5 | "BRUXO" (steamid=76561198140728342) Spawned Item: (NBCGlovesYellow)
+21:14:5 | "BRUXO" (steamid=76561198140728342) Spawned Item: (NBCGlovesYellow)
+21:14:5 | "BRUXO" (steamid=76561198140728342) Spawned Item: (NBCGlovesYellow)
+21:14:6 | "BRUXO" (steamid=76561198140728342) Spawned Item: (NBCGlovesYellow)
+21:14:6 | "BRUXO" (steamid=76561198140728342) Spawned Item: (NBCGlovesYellow)
+21:14:6 | "BRUXO" (steamid=76561198140728342) Spawned Item: (NBCGlovesYellow)
+21:14:6 | "BRUXO" (steamid=76561198140728342) Spawned Item: (NBCGlovesYellow)
+21:14:6 | "BRUXO" (steamid=76561198140728342) Spawned Item: (NBCGlovesYellow)
+21:14:6 | "BRUXO" (steamid=76561198140728342) Spawned Item: (NBCGlovesYellow)
+21:14:7 | "BRUXO" (steamid=76561198140728342) Spawned Item: (NBCGlovesYellow)
+21:14:7 | "BRUXO" (steamid=76561198140728342) Spawned Item: (NBCGlovesYellow)
+21:14:7 | "BRUXO" (steamid=76561198140728342) Spawned Item: (NBCGlovesYellow)
+21:14:7 | "BRUXO" (steamid=76561198140728342) Spawned Item: (NBCGlovesYellow)
+21:14:7 | "BRUXO" (steamid=76561198140728342) Spawned Item: (NBCGlovesYellow)
+21:14:7 | "BRUXO" (steamid=76561198140728342) Spawned Item: (NBCGlovesYellow)
+21:14:8 | "BRUXO" (steamid=76561198140728342) Spawned Item: (NBCGlovesYellow)
+21:14:21 | Player "JAGUNSO" (steamId=76561198171632279) disconnected from server.
+21:14:30 | "BRUXO" (steamid=76561198140728342) Spawned Item: (SurgicalGloves_LightBlue)
+21:14:30 | "BRUXO" (steamid=76561198140728342) Spawned Item: (SurgicalGloves_LightBlue)
+21:14:30 | "BRUXO" (steamid=76561198140728342) Spawned Item: (SurgicalGloves_LightBlue)
+21:14:30 | "BRUXO" (steamid=76561198140728342) Spawned Item: (SurgicalGloves_LightBlue)
+21:14:30 | "BRUXO" (steamid=76561198140728342) Spawned Item: (SurgicalGloves_LightBlue)
+21:14:31 | "BRUXO" (steamid=76561198140728342) Spawned Item: (SurgicalGloves_LightBlue)
+21:14:31 | "BRUXO" (steamid=76561198140728342) Spawned Item: (SurgicalGloves_LightBlue)
+21:14:31 | "BRUXO" (steamid=76561198140728342) Spawned Item: (SurgicalGloves_LightBlue)
+21:14:31 | "BRUXO" (steamid=76561198140728342) Spawned Item: (SurgicalGloves_LightBlue)
+21:14:31 | "BRUXO" (steamid=76561198140728342) Spawned Item: (SurgicalGloves_LightBlue)
+21:14:31 | "BRUXO" (steamid=76561198140728342) Spawned Item: (SurgicalGloves_LightBlue)
+21:14:32 | "BRUXO" (steamid=76561198140728342) Spawned Item: (SurgicalGloves_LightBlue)
+21:14:32 | "BRUXO" (steamid=76561198140728342) Spawned Item: (SurgicalGloves_LightBlue)
+21:14:33 | "BRUXO" (steamid=76561198140728342) Spawned Item: (SurgicalGloves_LightBlue)
+21:14:33 | "BRUXO" (steamid=76561198140728342) Spawned Item: (SurgicalGloves_LightBlue)
+21:14:33 | Player "FLASH 10" (steamId=76561199115574501) connected to server!
+21:14:36 | Player "JAGUNSO" (steamId=76561198171632279) connected to server!
+21:14:54 | Player "JAGUNSO" (steamId=76561198171632279) connected to server!
+21:15:1 | Player "memo" (steamId=76561198836671147) connected to server!
+21:15:6 | Player "FLASH 10" (steamId=76561199115574501) connected to server!
+21:15:46 | "BRUXO" (steamid=76561198140728342) Spawned Item: (GorkaHelmet)
+21:15:46 | "BRUXO" (steamid=76561198140728342) Spawned Item: (GorkaHelmet)
+21:15:46 | "BRUXO" (steamid=76561198140728342) Spawned Item: (GorkaHelmet)
+21:15:46 | "BRUXO" (steamid=76561198140728342) Spawned Item: (GorkaHelmet)
+21:15:46 | "BRUXO" (steamid=76561198140728342) Spawned Item: (GorkaHelmet)
+21:15:47 | "BRUXO" (steamid=76561198140728342) Spawned Item: (GorkaHelmet)
+21:15:47 | "BRUXO" (steamid=76561198140728342) Spawned Item: (GorkaHelmet)
+21:15:47 | "BRUXO" (steamid=76561198140728342) Spawned Item: (GorkaHelmet)
+21:15:47 | "BRUXO" (steamid=76561198140728342) Spawned Item: (GorkaHelmet)
+21:15:47 | "BRUXO" (steamid=76561198140728342) Spawned Item: (GorkaHelmet)
+21:15:47 | "BRUXO" (steamid=76561198140728342) Spawned Item: (GorkaHelmet)
+21:15:47 | "BRUXO" (steamid=76561198140728342) Spawned Item: (GorkaHelmet)
+21:15:48 | "BRUXO" (steamid=76561198140728342) Spawned Item: (GorkaHelmet)
+21:15:48 | "BRUXO" (steamid=76561198140728342) Spawned Item: (GorkaHelmet)
+21:16:43 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrier_winter)
+21:16:44 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrier_winter)
+21:16:44 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrier_winter)
+21:16:44 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrier_winter)
+21:16:44 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrier_winter)
+21:16:45 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrier_winter)
+21:16:45 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrier_winter)
+21:16:45 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrier_winter)
+21:16:45 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrier_winter)
+21:16:45 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrier_winter)
+21:16:45 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrier_winter)
+21:16:46 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrier_winter)
+21:16:46 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrier_winter)
+21:17:34 | Player "j o a o z i k a" (steamId=76561198808196159) disconnected from server.
+21:17:36 | Player "j o a o z i k a" (steamId=76561198808196159) disconnected from server.
+21:18:23 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Izh43Shotgun)
+21:18:23 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Izh43Shotgun)
+21:18:24 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Izh43Shotgun)
+21:18:25 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Izh43Shotgun)
+21:18:26 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Izh43Shotgun)
+21:18:26 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Izh43Shotgun)
+21:18:26 | Player "JAGUNSO" (steamId=76561198171632279) disconnected from server.
+21:18:27 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Izh43Shotgun)
+21:18:28 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Izh43Shotgun)
+21:18:29 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Izh43Shotgun)
+21:18:29 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Izh43Shotgun)
+21:21:1 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Breezy_Boost220_Titanium)
+21:21:1 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Breezy_Boost220_Titanium)
+21:21:1 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Breezy_Boost220_Titanium)
+21:21:1 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Breezy_Boost220_Titanium)
+21:21:2 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Breezy_Boost220_Titanium)
+21:21:2 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Breezy_Boost220_Titanium)
+21:21:2 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Breezy_Boost220_Titanium)
+21:21:2 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Breezy_Boost220_Titanium)
+21:21:2 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Breezy_Boost220_Titanium)
+21:21:2 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Breezy_Boost220_Titanium)
+21:21:3 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Breezy_Boost220_Titanium)
+21:21:3 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Breezy_Boost220_Titanium)
+21:21:3 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Breezy_Boost220_Titanium)
+21:21:3 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Breezy_Boost220_Titanium)
+21:21:3 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Breezy_Boost220_Titanium)
+21:21:19 | "BRUXO" (steamid=76561198140728342) Spawned Item: (MountainBag_Red)
+21:21:19 | "BRUXO" (steamid=76561198140728342) Spawned Item: (MountainBag_Red)
+21:21:44 | Player "Saggaell" (steamId=76561198255597827) connected to server!
+21:22:0 | "BRUXO" (steamid=76561198140728342) deleted object "MountainBag_Red" (pos=<9481.300781, 8.419949, 9314.572266>)
+21:22:4 | "BRUXO" (steamid=76561198140728342) deleted object "NBCGlovesYellow" (pos=<9480.894531, 7.721256, 9313.817383>)
+21:22:7 | Player "Saggaell" (steamId=76561198255597827) connected to server!
+21:22:24 | Player "JAGUNSO" (steamId=76561198171632279) connected to server!
+21:22:37 | Player "JAGUNSO" (steamId=76561198171632279) connected to server!
+21:22:46 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:46 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:47 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:47 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:47 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:47 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:47 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:47 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:48 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:48 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:48 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:48 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:48 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:48 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:49 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:49 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:49 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:49 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:49 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:49 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:50 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:50 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:50 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:50 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:50 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:50 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:51 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:51 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:51 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:51 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:51 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:51 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:52 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:52 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:52 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:52 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:52 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:53 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:53 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaRubberSlug)
+21:22:54 | Player "Survivor" (steamId=76561198149226610) connected to server!
+21:23:22 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<9470.681641, 7.174339, 9373.815430>)
+21:23:44 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Ammo_12gaBeanbag)
+21:24:37 | "BRUXO": (steamid=76561198140728342) teleported to (pos=11374.6,0,7046.78)
+21:24:40 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:24:51 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:26:7 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+21:26:9 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+21:29:24 | Player "Guilhares" (steamId=76561198282922402) connected to server!
+21:29:48 | Player "Guilhares" (steamId=76561198282922402) connected to server!
+21:29:55 | Player "MurielGyn" (steamId=76561198205887559) connected to server!
+21:30:9 | Player "MurielGyn" (steamId=76561198205887559) connected to server!
+21:32:51 | Player "FLASH 10" (steamId=76561199115574501) disconnected from server.
+21:38:17 | Player "vladimir putinho!!" (steamId=76561199144319740) disconnected from server.
+21:38:20 | Player "Brathos" (steamId=76561198028024595) connected to server!
+21:38:52 | Player "Saggaell" (steamId=76561198255597827) disconnected from server.
+21:43:54 | Player "Brathos" (steamId=76561198028024595) disconnected from server.
+21:43:55 | Player "Brathos" (steamId=76561198028024595) disconnected from server.
+21:46:41 | Player "[EM] ToyStory" (steamId=76561198133211909) disconnected from server.
+21:46:44 | Player "[EM] ToyStory" (steamId=76561198133211909) disconnected from server.
+21:48:22 | Player "[G.M] MMeD" (steamId=76561198009014860) connected to server!
+21:49:7 | Player "P.R.E.C.A.T.A" (steamId=76561199185539421) connected to server!
+21:50:10 | Player "P.R.E.C.A.T.A" (steamId=76561199185539421) connected to server!
+21:50:17 | Player "PhBase" (steamId=76561198064931383) connected to server!
+21:50:18 | Player "FumyJoga" (steamId=76561198180559194) connected to server!
+21:50:22 | Player "!Lufee AntiVanilleiro" (steamId=76561198870299606) connected to server!
+21:50:45 | Player "FumyJoga" (steamId=76561198180559194) connected to server!
+21:50:46 | Player "!Lufee AntiVanilleiro" (steamId=76561198870299606) connected to server!
+21:51:16 | Player "rockerbr" (steamId=76561198032775729) disconnected from server.
+21:51:30 | Player "SUSSYMAN" (steamId=76561199033657063) connected to server!
+21:52:3 | Player "[G.M] MMeD" (steamId=76561198009014860) disconnected from server.
+21:52:16 | Player "Teixeira" (steamId=76561198378144200) connected to server!
+21:52:18 | Player "SUSSYMAN" (steamId=76561199033657063) connected to server!
+21:52:33 | Player "Teixeira" (steamId=76561198378144200) connected to server!
+21:53:8 | Player "memo" (steamId=76561198836671147) disconnected from server.
+21:53:10 | Player "memo" (steamId=76561198836671147) disconnected from server.
+21:53:26 | Player "PhBase" (steamId=76561198064931383) disconnected from server.
+21:53:28 | Player "PhBase" (steamId=76561198064931383) disconnected from server.
+21:53:49 | Player "malaka" (steamId=76561198048353128) connected to server!
+21:54:14 | Player "SUSSYBOY" (steamId=76561197971566260) connected to server!
+21:54:30 | Player "malaka" (steamId=76561198048353128) connected to server!
+21:56:44 | Player "MurielGyn" (steamId=76561198205887559) disconnected from server.
+21:56:45 | Player "MurielGyn" (steamId=76561198205887559) disconnected from server.
+21:56:59 | Player "MurielGyn" (steamId=76561198205887559) connected to server!
+21:57:8 | Player "MurielGyn" (steamId=76561198205887559) connected to server!
+21:57:32 | Player "[SEALs] Barret" (steamId=76561199151100648) disconnected from server.
+21:58:6 | Player "LUIZ" (steamId=76561198129322623) connected to server!
+21:58:39 | Player "LUIZ" (steamId=76561198129322623) connected to server!
+21:59:35 | Player "abzu" (steamId=76561198882824508) connected to server!
+22:0:13 | Player "a key ngg" (steamId=76561198068143571) disconnected from server.
+22:0:16 | Player "a key ngg" (steamId=76561198068143571) disconnected from server.
+22:0:25 | Player "JohnKetamine Jr." (steamId=76561198140605281) connected to server!
+22:0:42 | Player "JohnKetamine Jr." (steamId=76561198140605281) connected to server!
+22:2:14 | Player "ursssinhocarrinho" (steamId=76561198046104047) connected to server!
+22:2:26 | Player "ursssinhocarrinho" (steamId=76561198046104047) connected to server!
+22:3:24 | Player "MC LAN" (steamId=76561198080293845) disconnected from server.
+22:3:26 | Player "MC LAN" (steamId=76561198080293845) disconnected from server.
+22:3:45 | Player "FumyJoga" (steamId=76561198180559194) disconnected from server.
+22:5:33 | Player "[TEC] Kadinho" (steamId=76561198971655942) connected to server!
+22:5:57 | Player "[TEC] Kadinho" (steamId=76561198971655942) connected to server!
+22:6:22 | Player "FumyJoga" (steamId=76561198180559194) connected to server!
+22:6:28 | Player "[TEC] Kadinho" (steamId=76561198971655942) disconnected from server.
+22:6:30 | Player "-__-" (steamId=76561198262032545) disconnected from server.
+22:6:53 | Player "[TEC]TROPAcwb" (steamId=76561198852436626) connected to server!
+22:7:1 | Player "FumyJoga" (steamId=76561198180559194) connected to server!
+22:7:14 | Player "[TEC]TROPAcwb" (steamId=76561198852436626) connected to server!
+22:7:15 | Player "-__-" (steamId=76561198262032545) connected to server!
+22:7:31 | Player "ursssinhocarrinho" (steamId=76561198046104047) disconnected from server.
+22:7:32 | Player "ursssinhocarrinho" (steamId=76561198046104047) disconnected from server.
+22:7:33 | Player "-__-" (steamId=76561198262032545) connected to server!
+22:7:54 | Player "[EM]Pysicol" (steamId=76561198112459474) disconnected from server.
+22:7:58 | Player "a key ngg" (steamId=76561198068143571) connected to server!
+22:7:58 | Player "[TEC] Kadinho" (steamId=76561198971655942) connected to server!
+22:8:4 | Player "-__-" (steamId=76561198262032545) disconnected from server.
+22:8:23 | Player "a key ngg" (steamId=76561198068143571) connected to server!
+22:8:23 | Player "[TEC] Kadinho" (steamId=76561198971655942) connected to server!
+22:8:47 | Player "-__-" (steamId=76561198262032545) connected to server!
+22:8:57 | Player "mateusna" (steamId=76561198989861938) connected to server!
+22:9:18 | Player "-__-" (steamId=76561198262032545) connected to server!
+22:9:44 | Player "Tio Ruim" (steamId=76561199160341599) connected to server!
+22:10:31 | Player "Tio Ruim" (steamId=76561199160341599) connected to server!
+22:12:39 | Player "!Not AntiVanilleiro" (steamId=76561198159596435) connected to server!
+22:12:55 | Player "!Not AntiVanilleiro" (steamId=76561198159596435) connected to server!
+22:13:37 | Player "Tio Ruim" (steamId=76561199160341599) disconnected from server.
+22:13:42 | Player "Tio Ruim" (steamId=76561199160341599) disconnected from server.
+22:15:45 | Player "j o a o z i k a" (steamId=76561198808196159) connected to server!
+22:16:9 | Player "j o a o z i k a" (steamId=76561198808196159) connected to server!
+22:16:58 | Player "JAGUNSO" (steamId=76561198171632279) disconnected from server.
+22:21:13 | Player "ABUSADO" (steamId=76561199206622650) connected to server!
+22:21:27 | Player "ABUSADO" (steamId=76561199206622650) connected to server!
+22:21:41 | Player "Katsuo" (steamId=76561198153841520) connected to server!
+22:22:3 | Player "Katsuo" (steamId=76561198153841520) connected to server!
+22:23:43 | Player "[EM] ToyStory" (steamId=76561198133211909) connected to server!
+22:24:4 | Player "[EM] ToyStory" (steamId=76561198133211909) connected to server!
+22:26:5 | Player "[EM]Pysicol" (steamId=76561198112459474) connected to server!
+22:26:9 | Player "Survivor" (steamId=76561198079054148) connected to server!
+22:26:14 | Player "[EM]Pysicol" (steamId=76561198112459474) connected to server!
+22:28:20 | Player "FLASH 10" (steamId=76561199115574501) connected to server!
+22:28:44 | Player "FLASH 10" (steamId=76561199115574501) connected to server!
+22:29:23 | Player "a key ngg" (steamId=76561198068143571) disconnected from server.
+22:29:24 | Player "a key ngg" (steamId=76561198068143571) disconnected from server.
+22:29:39 | Player "Katsuo" (steamId=76561198153841520) disconnected from server.
+22:31:41 | Player "SGT. Fahur" (steamId=76561198904178335) disconnected from server.
+22:32:9 | Player "SGT. Fahur" (steamId=76561198904178335) connected to server!
+22:32:19 | Player "SGT. Fahur" (steamId=76561198904178335) connected to server!
+22:33:31 | Player "P.R.E.C.A.T.A" (steamId=76561199185539421) disconnected from server.
+22:35:44 | Player "SGT. Fahur" (steamId=76561198904178335) disconnected from server.
+22:36:52 | Player "TcheLoco" (steamId=76561198099449370) connected to server!
+22:37:3 | Player "FNSant" (steamId=76561198068776158) connected to server!
+22:37:13 | Player "SGT. Fahur" (steamId=76561198904178335) connected to server!
+22:37:23 | Player "FNSant" (steamId=76561198068776158) connected to server!
+22:37:29 | Player "SGT. Fahur" (steamId=76561198904178335) connected to server!
+22:38:5 | Player "L   U   C   A   S" (steamId=76561199239557795) connected to server!
+22:39:49 | Player "L   U   C   A   S" (steamId=76561199239557795) connected to server!
+22:40:1 | Player "Biel SN" (steamId=76561198050836260) connected to server!
+22:40:14 | Player "Biel SN" (steamId=76561198050836260) connected to server!
+22:40:17 | Player "Lyez" (steamId=76561198220681545) connected to server!
+22:40:46 | Player "memo" (steamId=76561198836671147) connected to server!
+22:41:51 | Player "memo" (steamId=76561198836671147) connected to server!
+22:44:50 | Player "mira" (steamId=76561198956475247) connected to server!
+22:46:10 | Player "mira" (steamId=76561198956475247) connected to server!
+22:46:12 | Player "Camillo" (steamId=76561198093440944) connected to server!
+22:46:39 | Player "Survivor" (steamId=76561198079054148) disconnected from server.
+22:46:43 | Player "Survivor" (steamId=76561198079054148) disconnected from server.
+22:46:49 | Player "Camillo" (steamId=76561198093440944) connected to server!
+22:47:17 | Player "mira" (steamId=76561198956475247) disconnected from server.
+22:47:44 | Player "Uchiha_Hinaro" (steamId=76561198864613856) connected to server!
+22:48:6 | Player "Survivor" (steamId=76561198079054148) connected to server!
+22:48:24 | Player "Survivor" (steamId=76561198079054148) connected to server!
+22:49:19 | Player "Uchiha_Hinaro" (steamId=76561198864613856) connected to server!
+22:54:7 | Player "-__-" (steamId=76561198262032545) disconnected from server.
+22:54:9 | Player "-__-" (steamId=76561198262032545) disconnected from server.
+22:54:16 | Player "[G.M] DOLAR" (steamId=76561199202648397) disconnected from server.
+22:54:19 | Player "Bandeira" (steamId=76561199043260886) connected to server!
+22:54:34 | Player "Bandeira" (steamId=76561199043260886) connected to server!
+22:55:23 | Player "Delzinho" (steamId=76561198371259321) connected to server!
+22:57:44 | Player "[TMT].Skinner" (steamId=76561198860620637) connected to server!
+22:59:35 | Player "rockerbr" (steamId=76561198032775729) connected to server!
+22:59:45 | Player "rockerbr" (steamId=76561198032775729) connected to server!
+23:3:10 | Player "mateusna" (steamId=76561198989861938) disconnected from server.
+23:3:12 | Player "mateusna" (steamId=76561198989861938) disconnected from server.
+23:5:5 | Player "..Fakiiiii" (steamId=76561198120394503) connected to server!
+23:5:28 | Player "TP-LINK" (steamId=76561198815235590) connected to server!
+23:5:35 | Player "*BlackBear*" (steamId=76561198343030820) connected to server!
+23:6:4 | Player "*BlackBear*" (steamId=76561198343030820) connected to server!
+23:6:26 | Player "JohnKetamine Jr." (steamId=76561198140605281) disconnected from server.
+23:6:31 | Player "abzu" (steamId=76561198882824508) disconnected from server.
+23:6:33 | Player "abzu" (steamId=76561198882824508) disconnected from server.
+23:7:28 | Player "*BlackBear*" (steamId=76561198343030820) disconnected from server.
+23:7:30 | Player "*BlackBear*" (steamId=76561198343030820) disconnected from server.
+23:7:51 | Player "Teixeira" (steamId=76561198378144200) disconnected from server.
+23:7:52 | Player "Teixeira" (steamId=76561198378144200) disconnected from server.
+23:7:54 | Player "ABUSADO" (steamId=76561199206622650) disconnected from server.
+23:8:31 | Player "FLASH 10" (steamId=76561199115574501) disconnected from server.
+23:9:11 | Player "Hruotegar" (steamId=76561198046558677) connected to server!
+23:9:21 | Player "[YAKUZA]-BlackBear" (steamId=76561198343030820) connected to server!
+23:9:30 | Player "Hruotegar" (steamId=76561198046558677) connected to server!
+23:9:50 | Player "[YAKUZA]-BlackBear" (steamId=76561198343030820) connected to server!
+23:10:54 | Player "SkyApolloX" (steamId=76561198185469994) disconnected from server.
+23:10:58 | Player "SkyApolloX" (steamId=76561198185469994) disconnected from server.
+23:12:30 | Player "SkyApolloX" (steamId=76561198185469994) connected to server!
+23:12:46 | Player "Biel SN" (steamId=76561198050836260) disconnected from server.
+23:12:48 | Player "Biel SN" (steamId=76561198050836260) disconnected from server.
+23:13:17 | Player "Biel SN" (steamId=76561198050836260) connected to server!
+23:13:25 | Player "Biel SN" (steamId=76561198050836260) connected to server!
+23:15:20 | Player "SkyApolloX" (steamId=76561198185469994) connected to server!
+23:15:33 | Player "Camillo" (steamId=76561198093440944) disconnected from server.
+23:15:37 | Player "Camillo" (steamId=76561198093440944) disconnected from server.
+23:16:7 | Player "L   U   C   A   S" (steamId=76561199239557795) disconnected from server.
+23:17:1 | Player "Bandeira" (steamId=76561199043260886) disconnected from server.
+23:17:34 | Player "L   U   C   A   S" (steamId=76561199239557795) connected to server!
+23:17:46 | Player "L   U   C   A   S" (steamId=76561199239557795) connected to server!
+23:18:0 | Player "SGT. Fahur" (steamId=76561198904178335) disconnected from server.
+23:18:44 | Player "[COMANF] Baioni17" (steamId=76561199113743949) connected to server!
+23:19:34 | Player "Lyez" (steamId=76561198220681545) disconnected from server.
+23:21:53 | Player "FLASH 10" (steamId=76561199115574501) connected to server!
+23:22:18 | Player "FLASH 10" (steamId=76561199115574501) connected to server!
+23:22:22 | Player "Camillo" (steamId=76561198093440944) connected to server!
+23:22:54 | Player "Camillo" (steamId=76561198093440944) connected to server!
+23:22:56 | Player "TcheLoco" (steamId=76561198099449370) disconnected from server.
+23:25:26 | Player "SEBAS" (steamId=76561199233144713) connected to server!
+23:26:2 | Player "SEBAS" (steamId=76561199233144713) connected to server!
+23:26:53 | Player "SEBAS" (steamId=76561199233144713) disconnected from server.
+23:30:57 | Player "Camillo" (steamId=76561198093440944) disconnected from server.
+23:31:10 | Player "[COMANF] Baioni17" (steamId=76561199113743949) disconnected from server.
+23:31:32 | Player "L   U   C   A   S" (steamId=76561199239557795) disconnected from server.
+23:31:32 | Player "FLASH 10" (steamId=76561199115574501) disconnected from server.
+23:31:32 | Player "rockerbr" (steamId=76561198032775729) disconnected from server.
+23:31:32 | Player "Biel SN" (steamId=76561198050836260) disconnected from server.
+23:31:32 | Player "[EM] ToyStory" (steamId=76561198133211909) disconnected from server.
+23:31:32 | Player "TP-LINK" (steamId=76561198815235590) disconnected from server.
+23:31:32 | Player "SkyApolloX" (steamId=76561198185469994) disconnected from server.
+23:31:32 | Player "!VESGO$" (steamId=76561199038849141) disconnected from server.
+23:31:32 | Player "malaka" (steamId=76561198048353128) disconnected from server.
+23:31:32 | Player "LUIZ" (steamId=76561198129322623) disconnected from server.
+23:31:32 | Player "[EM]Pysicol" (steamId=76561198112459474) disconnected from server.
+23:31:32 | Player "..Fakiiiii" (steamId=76561198120394503) disconnected from server.
+23:31:32 | Player "!Lufee AntiVanilleiro" (steamId=76561198870299606) disconnected from server.
+23:31:32 | Player "j o a o z i k a" (steamId=76561198808196159) disconnected from server.
+23:31:32 | Player "[TEC] Kadinho" (steamId=76561198971655942) disconnected from server.
+23:31:32 | Player "Delzinho" (steamId=76561198371259321) disconnected from server.
+23:31:32 | Player "[TEC]TROPAcwb" (steamId=76561198852436626) disconnected from server.
+23:31:32 | Player "[YAKUZA]-BlackBear" (steamId=76561198343030820) disconnected from server.
+23:31:32 | Player "Be4STT" (steamId=76561198393547150) disconnected from server.
+23:31:32 | Player "[TMT].Skinner" (steamId=76561198860620637) disconnected from server.
+23:31:32 | Player "Uchiha_Hinaro" (steamId=76561198864613856) disconnected from server.
+23:31:32 | Player "!Not AntiVanilleiro" (steamId=76561198159596435) disconnected from server.
+23:31:32 | Player "Hruotegar" (steamId=76561198046558677) disconnected from server.

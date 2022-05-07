@@ -1,0 +1,857 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-3-15_15-0-47
+====================================================================================
+15:0:47 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+15:0:47 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+15:0:47 | [PermissionManager] Perm (FreeCamera) has been registered!
+15:0:47 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuItemManager) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuServerManager) has been registered!
+15:0:47 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+15:0:47 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+15:0:47 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+15:0:47 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+15:0:47 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+15:0:47 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+15:0:47 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+15:0:47 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+15:0:47 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+15:0:47 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+15:0:47 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+15:0:47 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+15:0:47 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+15:0:47 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+15:0:47 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+15:0:47 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+15:0:47 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+15:0:47 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+15:0:47 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+15:0:47 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+15:0:47 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+15:0:47 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+15:0:47 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+15:0:47 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+15:0:47 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+15:0:47 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+15:0:47 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+15:0:47 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+15:0:47 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+15:0:47 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+15:0:47 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+15:0:47 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+15:0:47 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuBansManager) has been registered!
+15:0:47 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+15:0:47 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+15:0:47 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+15:0:47 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+15:0:47 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+15:0:47 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+15:0:47 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+15:0:47 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+15:0:47 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+15:0:47 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+15:0:47 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+15:0:47 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+15:0:47 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+15:0:47 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+15:0:47 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+15:0:47 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+15:0:48 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+15:0:48 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+15:0:48 | [PermissionManager] Adding Super Admin (76561198253386609)
+15:0:48 | [PermissionManager] Adding Super Admin (76561198950594742)
+15:0:48 | [PermissionManager] Adding Super Admin (76561198329721265)
+15:0:48 | [PermissionManager] Adding Super Admin (76561198140728342)
+15:0:48 | [PermissionManager] Loaded UserGroups.json
+15:0:48 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+15:0:48 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+15:0:48 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+15:0:48 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+15:0:48 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+15:0:48 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+15:0:48 | [PermissionManager] Perm (Chat:NamalskRunEvent) has been registered!
+15:0:48 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+15:0:48 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+15:0:48 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+15:0:48 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+15:0:48 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+15:0:48 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+15:0:48 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+15:0:48 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+15:0:48 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+15:0:48 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+15:0:48 | Building Sets Loaded: 2
+15:1:24 | Player "ursssinhocarrinho" (steamId=76561198046104047) connected to server!
+15:1:24 | Player "Toy Story" (steamId=76561198133211909) connected to server!
+15:1:50 | Player "ursssinhocarrinho" (steamId=76561198046104047) connected to server!
+15:1:50 | Player "Toy Story" (steamId=76561198133211909) connected to server!
+15:2:1 | Player "Survivor" (steamId=76561199005243701) connected to server!
+15:2:13 | Player "Survivor" (steamId=76561199005243701) connected to server!
+15:4:29 | Player "Vereckei" (steamId=76561198064931383) connected to server!
+15:4:35 | Player "CarlGOD!" (steamId=76561198391430561) connected to server!
+15:4:50 | Player "CarlGOD!" (steamId=76561198391430561) connected to server!
+15:5:9 | Player "Vereckei" (steamId=76561198064931383) connected to server!
+15:6:32 | Player "Osbovs" (steamId=76561198853813343) connected to server!
+15:7:59 | Player "Osbovs" (steamId=76561198853813343) connected to server!
+15:9:17 | Player "Delta-9" (steamId=76561198334164830) connected to server!
+15:9:38 | Player "Delta-9" (steamId=76561198334164830) connected to server!
+15:14:9 | Player "Delta-9" (steamId=76561198334164830) disconnected from server.
+15:25:26 | Player "guego" (steamId=76561198108583638) connected to server!
+15:26:24 | Player "guego" (steamId=76561198108583638) connected to server!
+15:28:29 | Player "Toy Story" (steamId=76561198133211909) disconnected from server.
+15:28:31 | Player "Toy Story" (steamId=76561198133211909) disconnected from server.
+15:50:50 | Player "Osbovs" (steamId=76561198853813343) disconnected from server.
+15:50:52 | Player "Osbovs" (steamId=76561198853813343) disconnected from server.
+15:59:40 | Player "Texaco" (steamId=76561198389486307) connected to server!
+16:0:24 | Player "Texaco" (steamId=76561198389486307) connected to server!
+16:17:9 | Player "Mano Ovelha" (steamId=76561198102755135) connected to server!
+16:17:57 | Player "Mano Ovelha" (steamId=76561198102755135) connected to server!
+16:21:24 | Player "ursssinhocarrinho" (steamId=76561198046104047) disconnected from server.
+16:22:46 | Player "Mano Ovelha" (steamId=76561198102755135) disconnected from server.
+16:28:24 | Player "xnxx" (steamId=76561199075317144) connected to server!
+16:28:45 | Player "xnxx" (steamId=76561199075317144) connected to server!
+16:34:51 | Player "Cory" (steamId=76561198274496779) connected to server!
+16:40:17 | Player "guego" (steamId=76561198108583638) disconnected from server.
+16:45:31 | Player "Texaco" (steamId=76561198389486307) disconnected from server.
+16:49:50 | Player "Vereckei" (steamId=76561198064931383) disconnected from server.
+16:50:6 | Player "Cory" (steamId=76561198274496779) connected to server!
+16:51:4 | Player "UneveN" (steamId=76561198000688001) connected to server!
+17:2:50 | Player "HAZARD" (steamId=76561198103820259) connected to server!
+17:3:46 | Player "HAZARD" (steamId=76561198103820259) connected to server!
+17:6:11 | Player "Sparrow" (steamId=76561198119207436) connected to server!
+17:6:40 | Player "Cory" (steamId=76561198274496779) disconnected from server.
+17:6:41 | Player "Sparrow" (steamId=76561198119207436) connected to server!
+17:10:33 | Player "Cory" (steamId=76561198274496779) connected to server!
+17:10:51 | Player "Cory" (steamId=76561198274496779) connected to server!
+17:11:33 | Player "DSDiego" (steamId=76561198258939419) connected to server!
+17:11:48 | Player "DSDiego" (steamId=76561198258939419) connected to server!
+17:12:23 | Player "xnxx" (steamId=76561199075317144) disconnected from server.
+17:16:47 | Player "ursssinhocarrinho" (steamId=76561198046104047) connected to server!
+17:16:57 | Player "ursssinhocarrinho" (steamId=76561198046104047) connected to server!
+17:17:23 | Player "ursssinhocarrinho" (steamId=76561198046104047) disconnected from server.
+17:17:24 | Player "ursssinhocarrinho" (steamId=76561198046104047) disconnected from server.
+17:19:48 | Player "Solotov" (steamId=76561198817266764) connected to server!
+17:20:9 | Player "Survivor" (steamId=76561198164892097) connected to server!
+17:20:20 | Player "Solotov" (steamId=76561198817266764) connected to server!
+17:20:24 | Player "Survivor" (steamId=76561198164892097) connected to server!
+17:21:39 | Player "Vitor Reis" (steamId=76561198085261420) connected to server!
+17:21:57 | Player "Vitor Reis" (steamId=76561198085261420) connected to server!
+17:22:59 | Player "Solotov" (steamId=76561198817266764) disconnected from server.
+17:23:6 | Player "Vereckei" (steamId=76561198064931383) connected to server!
+17:24:4 | Player "Vereckei" (steamId=76561198064931383) connected to server!
+17:26:0 | Player "UneveN" (steamId=76561198000688001) disconnected from server.
+17:26:2 | Player "UneveN" (steamId=76561198000688001) disconnected from server.
+17:27:22 | Player "Solotov" (steamId=76561198817266764) connected to server!
+17:27:30 | Player "Carambolas MatReis" (steamId=76561198442072760) connected to server!
+17:27:48 | Player "Solotov" (steamId=76561198817266764) connected to server!
+17:27:52 | Player "Carambolas MatReis" (steamId=76561198442072760) connected to server!
+17:31:47 | Player "-BrauM" (steamId=76561198360836547) connected to server!
+17:37:38 | Player "CarlGOD!" (steamId=76561198391430561) disconnected from server.
+17:47:48 | Player "Solotov" (steamId=76561198817266764) disconnected from server.
+17:49:33 | Player "Survivor" (steamId=76561198164892097) disconnected from server.
+17:49:35 | Player "Survivor" (steamId=76561198164892097) disconnected from server.
+17:50:39 | Player "Cory" (steamId=76561198274496779) disconnected from server.
+17:50:41 | Player "Cory" (steamId=76561198274496779) disconnected from server.
+17:52:36 | Player "fmo" (steamId=76561198064381047) connected to server!
+17:52:53 | Player "Texaco" (steamId=76561198389486307) connected to server!
+17:53:13 | Player "Texaco" (steamId=76561198389486307) connected to server!
+17:53:59 | Player "Solotov" (steamId=76561198817266764) connected to server!
+17:54:6 | Player "Sparrow" (steamId=76561198119207436) disconnected from server.
+17:54:17 | Player "-BrauM" (steamId=76561198360836547) disconnected from server.
+17:54:35 | Player "Solotov" (steamId=76561198817266764) connected to server!
+17:55:20 | Player "KBRA" (steamId=76561198358544551) connected to server!
+17:56:5 | Player "HAZARD" (steamId=76561198103820259) disconnected from server.
+17:58:20 | Player "KBRA" (steamId=76561198358544551) connected to server!
+18:8:44 | Player "Texaco" (steamId=76561198389486307) disconnected from server.
+18:12:18 | Player "Survivor" (steamId=76561199027336117) connected to server!
+18:19:15 | Player "Malafaier" (steamId=76561198145331046) connected to server!
+18:21:2 | Player "[KoB] DaffodilCave" (steamId=76561198243969402) connected to server!
+18:31:38 | Player "Bibi Griffo" (steamId=76561198177159459) connected to server!
+18:31:50 | Player "Bibi Griffo" (steamId=76561198177159459) connected to server!
+18:33:4 | Player "xnxx" (steamId=76561199075317144) connected to server!
+18:33:22 | Player "xnxx" (steamId=76561199075317144) connected to server!
+18:36:2 | Player "Emme White" (steamId=76561199031638818) connected to server!
+18:36:19 | Player "Emme White" (steamId=76561199031638818) connected to server!
+18:38:4 | Player "RECRUTA BISONHO" (steamId=76561199228878387) connected to server!
+18:38:22 | Player "RECRUTA BISONHO" (steamId=76561199228878387) connected to server!
+18:39:54 | Player "karl46" (steamId=76561198431808269) connected to server!
+18:40:53 | Player "karl46" (steamId=76561198431808269) connected to server!
+18:43:25 | Player "[0800]Dark Cletus" (steamId=76561198853239972) connected to server!
+18:44:17 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+18:44:37 | Player "[0800]Dark Cletus" (steamId=76561198853239972) connected to server!
+18:44:38 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+18:53:21 | Player "Cacks" (steamId=76561199112476499) connected to server!
+18:53:33 | Player "Cacks" (steamId=76561199112476499) connected to server!
+18:53:50 | Player "C E L E B R I M B O R" (steamId=76561198114043394) disconnected from server.
+18:54:18 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+18:54:27 | Player "Cory" (steamId=76561198274496779) connected to server!
+18:54:34 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+18:54:51 | Player "Cory" (steamId=76561198274496779) connected to server!
+19:6:22 | Player "Emme White" (steamId=76561199031638818) disconnected from server.
+19:6:38 | Player "Emme White" (steamId=76561199031638818) connected to server!
+19:6:49 | Player "Emme White" (steamId=76561199031638818) connected to server!
+19:8:16 | Player "Solotov" (steamId=76561198817266764) disconnected from server.
+19:8:18 | Player "Solotov" (steamId=76561198817266764) disconnected from server.
+19:9:14 | Player "KBRA" (steamId=76561198358544551) disconnected from server.
+19:9:16 | Player "KBRA" (steamId=76561198358544551) disconnected from server.
+19:12:27 | Player "Solotov" (steamId=76561198817266764) connected to server!
+19:12:46 | Player "Malafaier" (steamId=76561198145331046) disconnected from server.
+19:12:47 | Player "Malafaier" (steamId=76561198145331046) disconnected from server.
+19:13:10 | Player "Solotov" (steamId=76561198817266764) connected to server!
+19:15:39 | Player "ALFAA" (steamId=76561199071067007) connected to server!
+19:17:11 | Player "ALFAA" (steamId=76561199071067007) connected to server!
+19:21:30 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) connected to server!
+19:22:23 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) connected to server!
+19:25:5 | Player "Vitor Reis" (steamId=76561198085261420) disconnected from server.
+19:25:8 | Player "Vitor Reis" (steamId=76561198085261420) disconnected from server.
+19:33:50 | Player "Cory" (steamId=76561198274496779) disconnected from server.
+19:33:52 | Player "Cory" (steamId=76561198274496779) disconnected from server.
+19:35:35 | Player "karl46" (steamId=76561198431808269) disconnected from server.
+19:37:49 | Player "Vitor Reis" (steamId=76561198085261420) connected to server!
+19:37:59 | Player "Vitor Reis" (steamId=76561198085261420) connected to server!
+19:41:29 | Player "Emme White" (steamId=76561199031638818) disconnected from server.
+19:42:43 | Player "Emme White" (steamId=76561199031638818) connected to server!
+19:43:5 | Player "Emme White" (steamId=76561199031638818) connected to server!
+19:46:57 | Player "Bibi Griffo" (steamId=76561198177159459) disconnected from server.
+19:47:13 | Player "Bibi Griffo" (steamId=76561198177159459) connected to server!
+19:47:26 | Player "Bibi Griffo" (steamId=76561198177159459) connected to server!
+19:51:21 | Player "HAZARD" (steamId=76561198103820259) connected to server!
+19:52:12 | Player "HAZARD" (steamId=76561198103820259) connected to server!
+19:54:18 | Player "Cacks" (steamId=76561199112476499) disconnected from server.
+19:56:52 | Player "Solotov" (steamId=76561198817266764) disconnected from server.
+19:59:15 | Player "Bibi Griffo" (steamId=76561198177159459) disconnected from server.
+19:59:17 | Player "Bibi Griffo" (steamId=76561198177159459) disconnected from server.
+19:59:28 | Player "Bibi Griffo" (steamId=76561198177159459) connected to server!
+19:59:40 | Player "Bibi Griffo" (steamId=76561198177159459) connected to server!
+20:1:9 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+20:1:40 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+20:2:44 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198140728342)
+20:2:45 | "BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+20:5:43 | "BRUXO": (steamid=76561198140728342) teleported to (pos=3514.47,0,7801.52)
+20:5:48 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:6:59 | Player "Emme White" (steamId=76561199031638818) disconnected from server.
+20:8:42 | Player "xnxx" (steamId=76561199075317144) disconnected from server.
+20:8:58 | Player "xnxx" (steamId=76561199075317144) connected to server!
+20:9:25 | Player "xnxx" (steamId=76561199075317144) connected to server!
+20:10:36 | Player "ALFAA" (steamId=76561199071067007) disconnected from server.
+20:10:39 | Player "ALFAA" (steamId=76561199071067007) disconnected from server.
+20:10:59 | Player "Juice Filipis Valita" (steamId=76561198329721265) connected to server!
+20:11:13 | Player "Juice Filipis Valita" (steamId=76561198329721265) connected to server!
+20:11:39 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3817.207275, 62.364895, 7472.142090>)
+20:14:22 | "Juice Filipis Valita" (steamid=76561198329721265) Spawned Item: (dp_Mag_l96a1_5rnd)
+20:14:23 | "Juice Filipis Valita" (steamid=76561198329721265) Spawned Item: (dp_Mag_l96a1_5rnd)
+20:14:31 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:14:34 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6583.422852, 42.490662, 11085.619141>)
+20:14:35 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:15:41 | "Juice Filipis Valita": (steamid=76561198329721265) teleported to (pos=3999.09,0,7538.5)
+20:15:54 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:15:57 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:15:58 | Player "HAZARD" (steamId=76561198103820259) disconnected from server.
+20:16:0 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:16:0 | Player "HAZARD" (steamId=76561198103820259) disconnected from server.
+20:16:23 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:16:25 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:16:36 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3656.952393, 183.643768, 8010.333496>)
+20:16:37 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:16:38 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:16:42 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:16:44 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:18:42 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3999.524902, 72.337555, 7392.393066>)
+20:19:6 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) disconnected from server.
+20:19:7 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:19:12 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:19:43 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3501.476318, 182.869339, 7868.845215>)
+20:19:43 | Player "-Nine-" (steamId=76561198105682587) connected to server!
+20:19:44 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:20:1 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3825.383057, 54.682465, 7465.674316>)
+20:20:2 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:20:4 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:20:5 | Player "-Nine-" (steamId=76561198105682587) connected to server!
+20:20:7 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:20:12 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) connected to server!
+20:20:24 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:20:25 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3504.489990, 175.413040, 7904.904785>)
+20:20:26 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3519.764404, 176.866318, 7921.260742>)
+20:20:27 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3526.690430, 178.483459, 7928.735840>)
+20:20:27 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3530.032227, 179.590576, 7930.949219>)
+20:20:27 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3533.272949, 180.674301, 7932.432129>)
+20:20:28 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3535.968018, 181.772522, 7932.895508>)
+20:20:31 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:20:37 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:20:42 | Player "Batima" (steamId=76561198035822737) connected to server!
+20:20:43 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4091.300293, 165.788651, 7125.056152>)
+20:20:45 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:20:55 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) connected to server!
+20:20:59 | Player "Batima" (steamId=76561198035822737) connected to server!
+20:21:7 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:21:27 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:21:28 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:21:32 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:21:34 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:21:37 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:21:40 | Player "Luuuuh?" (steamId=76561198996314346) connected to server!
+20:21:44 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:21:52 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:22:33 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:22:40 | Player "Luuuuh?" (steamId=76561198996314346) connected to server!
+20:22:48 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:22:55 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3583.352295, 178.527466, 7986.022949>)
+20:22:56 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:23:4 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:23:42 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:23:46 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:23:53 | Player "C E L E B R I M B O R" (steamId=76561198114043394) disconnected from server.
+20:23:54 | Player "C E L E B R I M B O R" (steamId=76561198114043394) disconnected from server.
+20:24:4 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:24:9 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:24:15 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3661.735107, 179.188171, 7979.836426>)
+20:24:15 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:24:20 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:24:31 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3844.581055, 53.000008, 7470.500977>)
+20:24:32 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:24:33 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3641.708496, 78.220001, 7497.033691>)
+20:24:33 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:24:56 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:24:58 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:25:1 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:25:3 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3920.504639, 110.656990, 7223.729980>)
+20:25:4 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:25:5 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:25:14 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:25:17 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:25:19 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3660.439697, 75.550682, 7495.933105>)
+20:25:19 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3697.234131, 66.316734, 7491.097168>)
+20:25:19 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3698.232422, 67.888039, 7491.259277>)
+20:25:20 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3728.972168, 57.088593, 7482.253418>)
+20:25:20 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3732.620850, 57.773804, 7481.656250>)
+20:25:20 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3745.082764, 55.395668, 7478.958008>)
+20:25:21 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3752.421631, 54.756058, 7477.522461>)
+20:25:21 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3758.572754, 54.489601, 7476.319336>)
+20:25:21 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3764.962402, 54.265419, 7475.101074>)
+20:25:21 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3771.135498, 54.180836, 7473.250977>)
+20:25:21 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3777.403564, 54.076599, 7471.284180>)
+20:25:22 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3783.903564, 53.852524, 7468.475586>)
+20:25:22 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3790.759521, 53.442955, 7465.012695>)
+20:25:22 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3797.353271, 53.105858, 7461.636719>)
+20:25:23 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:25:26 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3836.205811, 58.513466, 7364.088379>)
+20:25:26 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:25:40 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:25:46 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3640.688965, 78.220009, 7498.116699>)
+20:25:46 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:25:50 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:25:57 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:26:0 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:26:6 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3796.959473, 81.468079, 7250.963379>)
+20:26:7 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:26:15 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:26:30 | Player "Yoshimura" (steamId=76561198985547730) connected to server!
+20:26:31 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3190.206787, 121.818405, 7507.972656>)
+20:26:32 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:26:32 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:26:34 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:27:2 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:27:15 | Player "Vereckei" (steamId=76561198064931383) disconnected from server.
+20:28:57 | Player "[CMDs] chinafxp" (steamId=76561198855460040) connected to server!
+20:29:13 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:29:14 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:29:39 | Player "[CMDs] chinafxp" (steamId=76561198855460040) connected to server!
+20:30:35 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3561.074219, 179.067398, 7973.285156>)
+20:30:36 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:30:51 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3833.745117, 56.965202, 7460.851563>)
+20:31:0 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3556.405273, 180.251572, 7958.997070>)
+20:31:2 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3554.482910, 181.218063, 7948.175781>)
+20:31:2 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3552.057373, 181.887924, 7935.995605>)
+20:31:2 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3501.347168, 129.571884, 7537.320801>)
+20:31:3 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3501.121582, 119.376648, 7512.839844>)
+20:31:3 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:31:7 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:31:14 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:31:19 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3834.268066, 54.808372, 7463.409180>)
+20:31:19 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:31:21 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:31:27 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:31:53 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:31:57 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<3842.873291, 63.029911, 7462.974609>)
+20:31:59 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:32:55 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3942.290283, 9.370636, 9964.347656>)
+20:32:58 | "Juice Filipis Valita": (steamid=76561198329721265) teleported to (pos=5971.26,0,8737.3)
+20:32:59 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:32:59 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:33:3 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:33:4 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:33:12 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<5804.551758, 65.484680, 8641.026367>)
+20:33:12 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:33:22 | Player "Yoshimura" (steamId=76561198985547730) disconnected from server.
+20:33:48 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:33:52 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:36:7 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:36:21 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:36:27 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<5809.665527, 51.079544, 8727.047852>)
+20:36:30 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<5762.080078, 51.791542, 8736.293945>)
+20:36:31 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:36:42 | "Juice Filipis Valita": (steamid=76561198329721265) teleported to (pos=3896.72,0,7412.16)
+20:36:44 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<1284.416992, 2.290443, 11810.809570>)
+20:36:44 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:36:45 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:37:3 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:37:5 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:37:33 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:37:34 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:37:55 | Player "fmo" (steamId=76561198064381047) disconnected from server.
+20:37:56 | Player "fmo" (steamId=76561198064381047) disconnected from server.
+20:38:31 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:38:40 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:38:48 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:38:57 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:39:2 | Player "fmo" (steamId=76561198064381047) connected to server!
+20:41:25 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:41:25 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:41:29 | "Juice Filipis Valita": (steamid=76561198329721265) teleported to (pos=6562.32,0,11062)
+20:41:34 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<1255.088867, 20.975492, 11800.192383>)
+20:41:34 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:41:35 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:41:35 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:41:40 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:41:43 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6579.842285, 42.493931, 11080.808594>)
+20:41:43 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:41:46 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+20:41:57 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+20:42:48 | "BRUXO": (steamid=76561198140728342) teleported to (pos=6579.67,0,11081.3)
+20:42:52 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:42:54 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:42:56 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:43:7 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6576.818359, 42.496696, 11081.088867>)
+20:43:8 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:43:19 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "dp_roof" (pos=<6581.734375, 42.492203, 11091.698242>)
+20:43:32 | Player "[FARM]Lancastel" (steamId=76561199103114870) connected to server!
+20:43:39 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:43:52 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6734.923828, 58.076431, 11382.121094>)
+20:43:54 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:44:43 | "Juice Filipis Valita" (steamid=76561198329721265) Spawned Item: (WatchtowerKit)
+20:46:16 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:46:21 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6736.811035, 58.074974, 11377.982422>)
+20:46:23 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6736.621582, 58.075119, 11377.108398>)
+20:46:25 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6736.625000, 58.075119, 11377.112305>)
+20:46:26 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:46:35 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:46:42 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6668.585449, 34.162609, 11263.986328>)
+20:46:43 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:46:52 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:47:0 | Player "Batima" (steamId=76561198035822737) disconnected from server.
+20:47:1 | Player "Batima" (steamId=76561198035822737) disconnected from server.
+20:47:2 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6797.327637, 34.167130, 11306.745117>)
+20:47:3 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:47:20 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:47:27 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6664.084473, 34.167522, 11253.363281>)
+20:47:28 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:47:36 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:47:49 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6763.243652, 15.824742, 11299.302734>)
+20:47:49 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:47:55 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:48:4 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6572.596191, 42.500553, 11086.500977>)
+20:48:5 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:48:19 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:48:23 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6597.938965, 42.559170, 11227.549805>)
+20:48:25 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:48:40 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+20:48:41 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+20:48:44 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6578.569824, 47.637608, 11085.135742>)
+20:49:35 | Player "HAZARD" (steamId=76561198103820259) connected to server!
+20:49:35 | Player "Carambolas MatReis" (steamId=76561198442072760) disconnected from server.
+20:49:54 | Player "-Nine-" (steamId=76561198105682587) disconnected from server.
+20:49:57 | Player "-Nine-" (steamId=76561198105682587) disconnected from server.
+20:50:45 | Player "HAZARD" (steamId=76561198103820259) connected to server!
+20:51:16 | Player "[CMDs] chinafxp" (steamId=76561198855460040) disconnected from server.
+20:52:15 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "Watchtower" (pos=<6579.079590, 47.788048, 11087.315430>)
+20:53:20 | Player "-Nine-" (steamId=76561198105682587) connected to server!
+20:53:45 | Player "-Nine-" (steamId=76561198105682587) connected to server!
+20:54:57 | "Juice Filipis Valita" (steamid=76561198329721265) Spawned Item: (FenceKit)
+20:54:57 | "Juice Filipis Valita" (steamid=76561198329721265) Spawned Item: (FenceKit)
+20:55:18 | Player "Niko" (steamId=76561198311278343) connected to server!
+20:55:43 | Player "Niko" (steamId=76561198311278343) connected to server!
+20:57:12 | Player "Niko" (steamId=76561198311278343) disconnected from server.
+20:57:18 | "Juice Filipis Valita": (steamid=76561198329721265) teleported to (pos=3890.02,0,7395.99)
+20:57:21 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:57:25 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:57:31 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:57:46 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+20:58:0 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:58:3 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:58:10 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+20:58:18 | "BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+20:58:21 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:58:34 | "Juice Filipis Valita": (steamid=76561198329721265) teleported to (pos=6580.02,0,11130.1)
+20:58:35 | "BRUXO": (steamid=76561198140728342) teleported to (pos=3825.6,0,7385.21)
+20:58:35 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+20:58:40 | "BRUXO" (steamid=76561198140728342) toggled freecam
+20:58:46 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6583.761719, 42.490353, 11086.302734>)
+20:58:46 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:1:0 | Player "ZDipironaZ" (steamId=76561198988564915) connected to server!
+21:1:20 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4996.744141, 54.081879, 8549.233398>)
+21:1:24 | Player "ZDipironaZ" (steamId=76561198988564915) connected to server!
+21:1:37 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5045.692871, 59.780159, 8086.000000>)
+21:1:47 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:1:53 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:2:10 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5113.673340, 40.017895, 8171.376465>)
+21:2:13 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:2:42 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:2:54 | Player "Carambolas MatReis" (steamId=76561198442072760) connected to server!
+21:3:4 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6600.566406, 42.488052, 11102.319336>)
+21:3:7 | Player "[FARM]Lancastel" (steamId=76561199103114870) disconnected from server.
+21:3:9 | Player "[FARM]Lancastel" (steamId=76561199103114870) disconnected from server.
+21:3:16 | Player "Niko" (steamId=76561198311278343) connected to server!
+21:3:18 | Player "Carambolas MatReis" (steamId=76561198442072760) connected to server!
+21:3:37 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:3:45 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5012.999512, 39.214245, 8156.077148>)
+21:3:46 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:4:33 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:4:36 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6579.207520, 50.581833, 11087.914063>)
+21:4:37 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:4:47 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4933.572266, 55.660973, 8045.909180>)
+21:4:48 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:4:54 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:5:3 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4987.793457, 105.372520, 8013.849609>)
+21:5:3 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:5:5 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:5:7 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:5:10 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:5:15 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4978.373535, 71.859665, 7964.183105>)
+21:5:16 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:5:30 | Player "ALFAA" (steamId=76561199071067007) connected to server!
+21:5:33 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:5:37 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4910.207031, 58.278473, 7931.412598>)
+21:5:37 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:5:49 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:6:0 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4811.632324, 71.781258, 8030.963867>)
+21:6:1 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:6:2 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:6:10 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:6:14 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:6:22 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4932.190430, 39.792084, 8129.126465>)
+21:6:34 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4964.796875, 49.408836, 8050.401855>)
+21:6:46 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:6:49 | Player "ALFAA" (steamId=76561199071067007) connected to server!
+21:6:52 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5104.949707, 50.086243, 8039.903809>)
+21:6:52 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:6:57 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:7:9 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4996.325684, 48.248081, 8078.544434>)
+21:7:9 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:7:22 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6579.272949, 45.048111, 11090.033203>)
+21:7:22 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:7:32 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:7:37 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4947.541016, 60.593689, 7926.499512>)
+21:7:38 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:7:42 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:7:49 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4352.142578, 96.145859, 8082.243164>)
+21:7:51 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:8:2 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:8:11 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4233.783203, 71.640884, 8168.770996>)
+21:8:13 | Player "[KoB] DaffodilCave" (steamId=76561198243969402) disconnected from server.
+21:8:13 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:8:18 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6591.022949, 42.482994, 11063.247070>)
+21:8:31 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6585.368652, 42.488884, 11088.594727>)
+21:9:10 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:9:13 | "Juice Filipis Valita": (steamid=76561198329721265) teleported to (pos=6288.47,0,9185.06)
+21:9:22 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4258.286621, 100.937523, 8050.249023>)
+21:9:22 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:9:29 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:9:40 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6274.160645, 39.508919, 9205.252930>)
+21:9:41 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:10:1 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:10:11 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6296.081055, 21.433285, 9261.670898>)
+21:10:11 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6293.325684, 21.209108, 9291.995117>)
+21:10:11 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6291.464355, 21.656517, 9311.780273>)
+21:10:12 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6289.187500, 21.098392, 9342.938477>)
+21:10:12 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6287.927734, 21.143686, 9366.444336>)
+21:10:14 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4143.871094, 78.287956, 8059.355957>)
+21:10:24 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4127.613770, 76.390564, 7982.626953>)
+21:10:32 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:10:39 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6284.333496, 20.941910, 9392.250977>)
+21:10:40 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6291.542969, 20.975721, 9384.147461>)
+21:10:40 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6293.430664, 21.035923, 9375.637695>)
+21:10:42 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6275.160156, 21.112740, 9359.291992>)
+21:10:42 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6258.022949, 21.026279, 9354.103516>)
+21:10:44 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6245.190430, 21.022299, 9353.371094>)
+21:10:45 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6204.752930, 21.035217, 9338.477539>)
+21:10:46 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6193.197266, 20.523359, 9333.941406>)
+21:10:53 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:10:57 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6200.040039, 21.020130, 9335.336914>)
+21:10:57 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6212.603516, 21.032654, 9335.737305>)
+21:11:4 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4195.254883, 74.518929, 8001.194824>)
+21:11:5 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:11:37 | "Juice Filipis Valita": (steamid=76561198329721265) teleported to (pos=6557.59,0,11106.2)
+21:11:39 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:11:44 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:11:51 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6580.724609, 42.493126, 11082.469727>)
+21:11:52 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:12:0 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4432.658691, 79.005585, 8077.708984>)
+21:12:13 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4166.689941, 385.122192, 6665.250488>)
+21:12:22 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4163.874023, 376.302246, 6716.428711>)
+21:12:23 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:13:5 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6578.595703, 47.618183, 11088.708008>)
+21:13:53 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) disconnected from server.
+21:14:28 | Player "[0800]Dark Cletus" (steamId=76561198853239972) disconnected from server.
+21:14:33 | Player "[0800]Dark Cletus" (steamId=76561198853239972) disconnected from server.
+21:15:8 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:15:21 | Player "ZDipironaZ" (steamId=76561198988564915) disconnected from server.
+21:15:28 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4196.005371, 390.682983, 6616.860352>)
+21:15:29 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:15:46 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:15:54 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4975.381348, 46.869125, 6610.289063>)
+21:15:57 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:16:4 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:16:22 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4976.563965, 37.264458, 6630.709961>)
+21:16:34 | "BRUXO": (steamid=76561198140728342) teleported to (pos=5112.4,0,6561.08)
+21:16:34 | "BRUXO": (steamid=76561198140728342) teleported to (pos=5112.4,0,6561.08)
+21:16:37 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:16:38 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:16:43 | Player "[0800]Dark Cletus" (steamId=76561198853239972) connected to server!
+21:16:47 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5046.578613, 47.250885, 6561.004883>)
+21:16:48 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:16:58 | "Juice Filipis Valita" (steamid=76561198329721265) Spawned Item: (dp_gunrackKit)
+21:16:58 | "Juice Filipis Valita" (steamid=76561198329721265) Spawned Item: (dp_gunrackKit)
+21:16:58 | "Juice Filipis Valita" (steamid=76561198329721265) Spawned Item: (dp_gunrackKit)
+21:16:59 | "Juice Filipis Valita" (steamid=76561198329721265) Spawned Item: (dp_gunrackKit)
+21:16:59 | "Juice Filipis Valita" (steamid=76561198329721265) Spawned Item: (dp_gunrackKit)
+21:17:47 | Player "[0800]Dark Cletus" (steamId=76561198853239972) connected to server!
+21:17:54 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:18:0 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5005.954590, 47.580452, 6625.236816>)
+21:18:2 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:18:9 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:18:14 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5009.898438, 42.100517, 6631.476074>)
+21:18:15 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:18:23 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:18:25 | "Juice Filipis Valita": (steamid=76561198329721265) teleported to (pos=4751.5,0,8492.68)
+21:18:26 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5152.010254, 95.749611, 6753.873047>)
+21:18:29 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<4734.514648, 87.803398, 8491.369141>)
+21:18:46 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:18:48 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6583.366211, 42.490715, 11084.999023>)
+21:18:50 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:18:57 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<4833.809082, 74.485641, 8398.556641>)
+21:18:58 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:19:1 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:19:2 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:19:16 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:19:21 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<4938.455078, 53.311718, 8370.425781>)
+21:19:22 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:19:36 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:19:40 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6067.838867, 59.760399, 11110.873047>)
+21:19:42 | "BRUXO" (steamid=76561198140728342) toggled freecam
+21:19:49 | "BRUXO": (steamid=76561198140728342) teleported to (pos=226.566,0,10508.8)
+21:19:52 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:20:18 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:20:22 | "BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198329721265)
+21:20:27 | "Juice Filipis Valita" (steamid=76561198329721265) toggled godmode
+21:20:28 | "Juice Filipis Valita" (steamid=76561198329721265) toggled godmode
+21:20:31 | "BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+21:20:59 | Player "[CMDs] chinafxp" (steamId=76561198855460040) connected to server!
+21:21:0 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_6b23_pixel)
+21:21:5 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_6b43_pixel)
+21:21:6 | Player "mercenario" (steamId=76561198987093122) connected to server!
+21:21:8 | "Juice Filipis Valita" (steamid=76561198329721265) Spawned Item: (M4_Suppressor)
+21:21:9 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_6b45_ColorBase)
+21:21:10 | Player "[CMDs] chinafxp" (steamId=76561198855460040) connected to server!
+21:21:12 | "Juice Filipis Valita" (steamid=76561198329721265) Spawned Item: (M4A1)
+21:21:21 | Player "guego" (steamId=76561198108583638) connected to server!
+21:21:23 | "Juice Filipis Valita" (steamid=76561198329721265) Spawned Item: (dp_cmag_100Rnd)
+21:21:31 | Player "mercenario" (steamId=76561198987093122) connected to server!
+21:21:33 | "Juice Filipis Valita" (steamid=76561198329721265) Spawned Item: (ACOGOptic_6x)
+21:21:37 | "BRUXO" (steamid=76561198140728342) Spawned Item: (FAL)
+21:21:39 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Fal_FoldingBttstck)
+21:21:43 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Mag_FAL_20Rnd)
+21:21:44 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Mag_FAL_20Rnd)
+21:21:44 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Mag_FAL_20Rnd)
+21:21:44 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Mag_FAL_20Rnd)
+21:21:44 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Mag_FAL_20Rnd)
+21:21:46 | Player "[CMDs] Boca" (steamId=76561198061748681) connected to server!
+21:21:46 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_Mag_FAL_40Rnd)
+21:21:46 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_Mag_FAL_40Rnd)
+21:21:46 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_Mag_FAL_40Rnd)
+21:21:46 | "Juice Filipis Valita" (steamid=76561198329721265) toggled godmode
+21:21:46 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_Mag_FAL_40Rnd)
+21:21:47 | "Juice Filipis Valita" (steamid=76561198329721265) toggled godmode
+21:22:2 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<222.141907, 3.171944, 10531.106445>)
+21:22:16 | Player "guego" (steamId=76561198108583638) connected to server!
+21:22:18 | Player "[CMDs]MrZulu" (steamId=76561198133335010) connected to server!
+21:23:59 | "BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+21:24:8 | Player "Vitor Reis" (steamId=76561198085261420) disconnected from server.
+21:24:11 | Player "Vitor Reis" (steamId=76561198085261420) disconnected from server.
+21:24:14 | "BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+21:24:17 | "Juice Filipis Valita" (steamid=76561198329721265) gave godmode to (steamid=76561198140728342)
+21:24:20 | "Juice Filipis Valita" (steamid=76561198329721265) gave godmode to (steamid=76561198140728342)
+21:24:40 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<227.842117, 3.249957, 10501.677734>)
+21:25:22 | "Juice Filipis Valita" (steamid=76561198329721265) healed player (steamid=76561198329721265)
+21:25:40 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<218.251785, 3.651741, 10526.351563>)
+21:25:54 | "Juice Filipis Valita" (steamid=76561198329721265) healed player (steamid=76561198329721265)
+21:26:3 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<221.724564, 3.960083, 10520.448242>)
+21:26:14 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "dp_6b23_pixel" (pos=<230.756317, 3.150217, 10505.219727>)
+21:26:15 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "dp_6b45_ColorBase" (pos=<231.085541, 3.151623, 10504.403320>)
+21:26:21 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "QuiltedJacket_Green_Black_civ" (pos=<230.709641, 3.160687, 10504.441406>)
+21:26:22 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "Breezy_Boost220_Ultimatum" (pos=<230.709641, 3.180849, 10504.441406>)
+21:26:23 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "NBCPantsblack" (pos=<230.709641, 3.151185, 10504.441406>)
+21:26:24 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "ZmijovkaCap_Red" (pos=<230.709641, 3.296995, 10504.441406>)
+21:26:25 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "LeatherGloves_Beige" (pos=<230.709641, 3.150105, 10504.441406>)
+21:26:26 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "dp_buff_black" (pos=<230.709641, 3.286544, 10504.441406>)
+21:26:38 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "Pliers" (pos=<230.492477, 3.163613, 10504.794922>)
+21:26:39 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "Pliers" (pos=<230.492477, 3.163613, 10504.794922>)
+21:26:39 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "Pliers" (pos=<230.492477, 3.163559, 10504.794922>)
+21:26:40 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "dp_window_sheild_kit" (pos=<230.492477, 3.214750, 10504.794922>)
+21:26:41 | Player "Niko" (steamId=76561198311278343) connected to server!
+21:26:41 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "dp_wall_big_Kit" (pos=<230.492477, 3.214750, 10504.794922>)
+21:26:42 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "dp_wall_kit" (pos=<230.492477, 3.214750, 10504.794922>)
+21:26:43 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "dp_wall_kit" (pos=<230.492477, 3.214750, 10504.794922>)
+21:26:43 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "dp_wall_kit" (pos=<230.492477, 3.214750, 10504.794922>)
+21:26:44 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "dp_wall_kit" (pos=<230.492477, 3.214750, 10504.794922>)
+21:26:45 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "dp_wall_kit" (pos=<230.492477, 3.190034, 10504.794922>)
+21:26:46 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "dp_wall_kit" (pos=<230.492477, 3.190034, 10504.794922>)
+21:26:47 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "dp_wall_kit" (pos=<230.492477, 3.190034, 10504.794922>)
+21:26:48 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "dp_wall_kit" (pos=<230.492477, 3.190034, 10504.794922>)
+21:26:50 | "Juice Filipis Valita" (steamid=76561198329721265) deleted object "DisinfectantAlcohol" (pos=<230.492477, 3.244370, 10504.794922>)
+21:26:52 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<225.967422, 3.713665, 10509.011719>)
+21:27:0 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) connected to server!
+21:27:6 | Player "[CMDs]MrZulu" (steamId=76561198133335010) connected to server!
+21:27:12 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+21:27:13 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+21:27:27 | "Juice Filipis Valita": (steamid=76561198329721265) teleported to (pos=6563.11,0,11111.5)
+21:27:29 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:27:35 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6575.532715, 42.497871, 11081.468750>)
+21:27:36 | "Juice Filipis Valita" (steamid=76561198329721265) toggled freecam
+21:28:10 | "Juice Filipis Valita" (steamid=76561198329721265) teleported to crosshair (pos=<6583.520996, 42.487167, 11083.269531>)
+21:28:19 | Player "Juice Filipis Valita" (steamId=76561198329721265) disconnected from server.
+21:29:14 | Player "Carambolas MatReis" (steamId=76561198442072760) disconnected from server.
+21:29:56 | Player "Niko" (steamId=76561198311278343) disconnected from server.
+21:31:48 | Player "Carambolas MatReis" (steamId=76561198442072760) connected to server!
+21:32:17 | Player "Carambolas MatReis" (steamId=76561198442072760) connected to server!
+21:32:35 | Player "[CMDs] Boca" (steamId=76561198061748681) connected to server!
+21:34:14 | Player "Toy Story" (steamId=76561198133211909) connected to server!
+21:34:40 | Player "Toy Story" (steamId=76561198133211909) connected to server!
+21:35:21 | Player "RECRUTA BISONHO" (steamId=76561199228878387) disconnected from server.
+21:35:52 | Player "C E L E B R I M B O R" (steamId=76561198114043394) disconnected from server.
+21:36:2 | Player "mercenario" (steamId=76561198987093122) disconnected from server.
+21:36:35 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+21:36:35 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) connected to server!
+21:36:50 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+21:36:52 | Player "Niko" (steamId=76561198311278343) connected to server!
+21:37:10 | Player "Niko" (steamId=76561198311278343) connected to server!
+21:39:10 | Player "[0800]Dark Cletus" (steamId=76561198853239972) disconnected from server.
+21:39:12 | Player "[0800]Dark Cletus" (steamId=76561198853239972) disconnected from server.
+21:40:4 | Player "ursssinhocarrinho" (steamId=76561198046104047) connected to server!
+21:40:21 | Player "ursssinhocarrinho" (steamId=76561198046104047) connected to server!
+21:41:5 | Player "Toucinho" (steamId=76561198136706340) connected to server!
+21:41:15 | Player "Toucinho" (steamId=76561198136706340) connected to server!
+21:44:5 | Player "[0800]Dark Cletus" (steamId=76561198853239972) connected to server!
+21:45:17 | Player "[0800]Dark Cletus" (steamId=76561198853239972) connected to server!
+21:47:14 | Player "Survivor" (steamId=76561199221601930) connected to server!
+21:47:24 | Player "tommyshelb" (steamId=76561199067918618) connected to server!
+21:47:41 | Player "tommyshelb" (steamId=76561199067918618) connected to server!
+21:52:11 | Player "pinaFPS" (steamId=76561199076864276) connected to server!
+21:53:45 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) connected to server!
+21:54:16 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) connected to server!
+21:57:4 | Player "crxlive" (steamId=76561198822937755) connected to server!
+21:57:20 | Player "crxlive" (steamId=76561198822937755) connected to server!
+21:57:35 | Player "crxlive" (steamId=76561198822937755) disconnected from server.
+21:57:41 | Player "mercenario" (steamId=76561198987093122) connected to server!
+21:58:3 | Player "mercenario" (steamId=76561198987093122) connected to server!
+22:0:8 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) disconnected from server.
+22:0:10 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) disconnected from server.
+22:0:28 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) connected to server!
+22:0:35 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) connected to server!
+22:1:3 | Player "pinaFPS" (steamId=76561199076864276) disconnected from server.
+22:1:6 | Player "pinaFPS" (steamId=76561199076864276) disconnected from server.
+22:1:38 | Player "Luuuuh?" (steamId=76561198996314346) disconnected from server.
+22:2:5 | Player "xnxx" (steamId=76561199075317144) disconnected from server.
+22:2:6 | Player "xnxx" (steamId=76561199075317144) disconnected from server.
+22:2:53 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) disconnected from server.
+22:2:54 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) disconnected from server.
+22:4:0 | Player "Toucinho" (steamId=76561198136706340) disconnected from server.
+22:4:17 | Player "Bibi Griffo" (steamId=76561198177159459) disconnected from server.
+22:5:23 | Player "ursssinhocarrinho" (steamId=76561198046104047) disconnected from server.
+22:5:24 | Player "ursssinhocarrinho" (steamId=76561198046104047) disconnected from server.
+22:5:33 | Player "ursssinhocarrinho" (steamId=76561198046104047) connected to server!
+22:5:49 | Player "DSDiego" (steamId=76561198258939419) disconnected from server.
+22:5:52 | Player "DSDiego" (steamId=76561198258939419) disconnected from server.
+22:9:8 | Player "Alti" (steamId=76561199235859883) connected to server!
+22:9:23 | Player "Alti" (steamId=76561199235859883) connected to server!
+22:10:8 | Player "ursssinhocarrinho" (steamId=76561198046104047) connected to server!
+22:11:32 | Player "mercenario" (steamId=76561198987093122) disconnected from server.
+22:13:20 | Player "Emme White" (steamId=76561199031638818) connected to server!
+22:13:31 | Player "Emme White" (steamId=76561199031638818) connected to server!
+22:16:1 | Player "mercenario" (steamId=76561198987093122) connected to server!
+22:16:15 | Player "mercenario" (steamId=76561198987093122) connected to server!
+22:16:23 | Player "tommyshelb" (steamId=76561199067918618) disconnected from server.
+22:16:25 | Player "tommyshelb" (steamId=76561199067918618) disconnected from server.
+22:17:52 | Player "Tiff" (steamId=76561199223797584) connected to server!
+22:19:47 | Player "Emme White" (steamId=76561199031638818) disconnected from server.
+22:26:25 | Player "[0800]Dark Cletus" (steamId=76561198853239972) disconnected from server.
+22:27:44 | Player "+_+" (steamId=76561198870299606) connected to server!
+22:31:37 | Player "[CMDs] Boca" (steamId=76561198061748681) disconnected from server.
+22:31:40 | Player "[CMDs] Boca" (steamId=76561198061748681) disconnected from server.
+22:32:44 | Player "Texaco" (steamId=76561198389486307) connected to server!
+22:33:37 | Player "Texaco" (steamId=76561198389486307) connected to server!
+22:34:29 | Player "ursssinhocarrinho" (steamId=76561198046104047) disconnected from server.
+22:34:35 | Player "Toy Story" (steamId=76561198133211909) disconnected from server.
+22:37:12 | Player "rogerio635" (steamId=76561198114278091) connected to server!
+22:37:28 | Player "rogerio635" (steamId=76561198114278091) connected to server!
+22:39:33 | Player "ALFAA" (steamId=76561199071067007) disconnected from server.
+22:39:56 | Player "ALFAA" (steamId=76561199071067007) connected to server!
+22:40:12 | Player "ALFAA" (steamId=76561199071067007) connected to server!
+22:40:22 | Player "CABOBRANCO" (steamId=76561198057389190) connected to server!
+22:41:7 | Player "CABOBRANCO" (steamId=76561198057389190) connected to server!
+22:46:22 | Player "Delta-9" (steamId=76561198334164830) connected to server!
+22:47:6 | Player "Delta-9" (steamId=76561198334164830) connected to server!
+22:50:34 | Player "[KoB] DaffodilCave" (steamId=76561198243969402) connected to server!
+22:52:3 | Player "[KoB] DaffodilCave" (steamId=76561198243969402) connected to server!
+22:52:36 | Player "CABOBRANCO" (steamId=76561198057389190) disconnected from server.
+22:52:38 | Player "CABOBRANCO" (steamId=76561198057389190) disconnected from server.
+22:52:58 | Player "Tiff" (steamId=76561199223797584) disconnected from server.
+22:53:0 | Player "Tiff" (steamId=76561199223797584) disconnected from server.
+22:53:12 | Player "Tiff" (steamId=76561199223797584) connected to server!
+22:53:38 | Player "Tiff" (steamId=76561199223797584) connected to server!
+22:54:48 | Player "Survivor" (steamId=76561199221601930) disconnected from server.
+22:54:50 | Player "Survivor" (steamId=76561199221601930) disconnected from server.
+22:55:52 | Player "Alti" (steamId=76561199235859883) disconnected from server.
+22:56:17 | Player "Alti" (steamId=76561199235859883) connected to server!
+22:56:31 | Player "Alti" (steamId=76561199235859883) connected to server!
+22:56:32 | Player "+_+" (steamId=76561198870299606) disconnected from server.
+22:58:57 | Player "DSDiego" (steamId=76561198258939419) connected to server!
+22:58:58 | Player "Dioo" (steamId=76561198084409322) connected to server!
+22:59:16 | Player "DSDiego" (steamId=76561198258939419) connected to server!
+23:2:45 | Player "[CMDs] chinafxp" (steamId=76561198855460040) disconnected from server.
+23:2:45 | Player "[CMDs]MrZulu" (steamId=76561198133335010) disconnected from server.
+23:2:45 | Player "-Nine-" (steamId=76561198105682587) disconnected from server.
+23:2:45 | Player "guego" (steamId=76561198108583638) disconnected from server.
+23:2:45 | Player "C E L E B R I M B O R" (steamId=76561198114043394) disconnected from server.
+23:2:45 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) disconnected from server.
+23:2:45 | Player "Carambolas MatReis" (steamId=76561198442072760) disconnected from server.
+23:2:45 | Player "ALFAA" (steamId=76561199071067007) disconnected from server.
+23:2:45 | Player "rogerio635" (steamId=76561198114278091) disconnected from server.
+23:2:45 | Player "Niko" (steamId=76561198311278343) disconnected from server.
+23:2:45 | Player "mercenario" (steamId=76561198987093122) disconnected from server.
+23:2:45 | Player "Texaco" (steamId=76561198389486307) disconnected from server.
+23:2:45 | Player "Delta-9" (steamId=76561198334164830) disconnected from server.
+23:2:45 | Player "Dioo" (steamId=76561198084409322) disconnected from server.
+23:2:45 | Player "[KoB] DaffodilCave" (steamId=76561198243969402) disconnected from server.
+23:2:45 | Player "Alti" (steamId=76561199235859883) disconnected from server.
+23:2:45 | Player "Tiff" (steamId=76561199223797584) disconnected from server.
+23:2:45 | Player "DSDiego" (steamId=76561198258939419) disconnected from server.

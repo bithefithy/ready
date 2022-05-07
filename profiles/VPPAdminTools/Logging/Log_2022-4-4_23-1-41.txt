@@ -1,0 +1,1194 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-4-4_23-1-41
+====================================================================================
+23:1:41 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+23:1:41 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+23:1:41 | [PermissionManager] Perm (FreeCamera) has been registered!
+23:1:41 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuItemManager) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuServerManager) has been registered!
+23:1:41 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+23:1:41 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+23:1:41 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+23:1:41 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+23:1:41 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+23:1:41 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+23:1:41 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+23:1:41 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+23:1:41 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+23:1:41 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+23:1:41 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+23:1:41 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+23:1:41 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+23:1:41 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+23:1:41 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+23:1:41 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+23:1:41 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+23:1:41 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+23:1:41 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+23:1:41 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+23:1:41 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+23:1:41 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+23:1:41 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+23:1:41 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+23:1:41 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+23:1:41 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+23:1:41 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+23:1:41 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+23:1:41 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+23:1:41 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+23:1:41 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+23:1:41 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+23:1:41 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuBansManager) has been registered!
+23:1:41 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+23:1:41 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+23:1:41 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+23:1:41 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+23:1:41 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+23:1:41 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+23:1:41 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+23:1:41 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+23:1:41 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+23:1:41 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+23:1:41 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+23:1:41 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+23:1:41 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+23:1:41 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+23:1:41 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+23:1:41 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+23:1:41 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+23:1:41 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+23:1:41 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+23:1:41 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+23:1:41 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+23:1:41 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+23:1:41 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+23:1:41 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+23:1:41 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+23:1:41 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+23:1:41 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+23:1:41 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+23:1:41 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+23:1:41 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+23:1:41 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+23:1:41 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+23:1:41 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+23:1:41 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+23:1:41 | [PermissionManager] Adding Super Admin (76561198253386609)
+23:1:41 | [PermissionManager] Adding Super Admin (76561198950594742)
+23:1:41 | [PermissionManager] Adding Super Admin (76561198329721265)
+23:1:41 | [PermissionManager] Adding Super Admin (76561198140728342)
+23:1:41 | [PermissionManager] Loaded UserGroups.json
+23:1:41 | Building Sets Loaded: 1
+23:2:6 | Player "M 3 N D 1 G 0" (steamId=76561197989930295) connected to server!
+23:2:7 | Player "Vizinho" (steamId=76561198129206612) connected to server!
+23:2:8 | Player "[DY] FROZEN " (steamId=76561198161060673) connected to server!
+23:2:8 | Player "[LGBTQIA+] C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+23:2:8 | Player "Andreft" (steamId=76561198141325952) connected to server!
+23:2:8 | Player "[Mercenarios]Aguimaro" (steamId=76561198408987315) connected to server!
+23:2:9 | Player "Fred$rico" (steamId=76561198116552585) connected to server!
+23:2:9 | Player "[LF] =_= TETE" (steamId=76561198129409870) connected to server!
+23:2:9 | Player "[hd]marcelinho" (steamId=76561198817477406) connected to server!
+23:2:11 | Player "P 3 S A D 3 L O" (steamId=76561198277384503) connected to server!
+23:2:19 | Player "[LGBTQIA+] C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+23:2:19 | Player "M 3 N D 1 G 0" (steamId=76561197989930295) connected to server!
+23:2:19 | Player "[Mercenarios]Aguimaro" (steamId=76561198408987315) connected to server!
+23:2:19 | Player "Andreft" (steamId=76561198141325952) connected to server!
+23:2:19 | Player "[hd]marcelinho" (steamId=76561198817477406) connected to server!
+23:2:19 | Player "[LF] =_= TETE" (steamId=76561198129409870) connected to server!
+23:2:19 | Player "[DY] FROZEN " (steamId=76561198161060673) connected to server!
+23:2:22 | Player "Crebim" (steamId=76561198390572206) connected to server!
+23:2:23 | Player "P 3 S A D 3 L O" (steamId=76561198277384503) connected to server!
+23:2:23 | Player "Vinny" (steamId=76561198076886965) connected to server!
+23:2:24 | Player "faisca " (steamId=76561198963172042) connected to server!
+23:2:24 | Player "FELIZARDO" (steamId=76561199090866217) connected to server!
+23:2:25 | Player "!TALIBAN57_NTC" (steamId=76561198153920981) connected to server!
+23:2:25 | Player "Luanzinhooo" (steamId=76561198352162786) connected to server!
+23:2:25 | Player "TcheLoco" (steamId=76561198099449370) connected to server!
+23:2:26 | Player "[LB]KAS" (steamId=76561199202697738) connected to server!
+23:2:29 | Player "KOREA" (steamId=76561198253386609) connected to server!
+23:2:34 | Player "TcheLoco" (steamId=76561198099449370) connected to server!
+23:2:35 | Player "!TALIBAN57_NTC" (steamId=76561198153920981) connected to server!
+23:2:35 | Player "Vinny" (steamId=76561198076886965) connected to server!
+23:2:35 | Player "Vizinho" (steamId=76561198129206612) connected to server!
+23:2:35 | Player "Crebim" (steamId=76561198390572206) connected to server!
+23:2:37 | Player "Luanzinhooo" (steamId=76561198352162786) connected to server!
+23:2:39 | Player "faisca " (steamId=76561198963172042) connected to server!
+23:2:39 | Player "Estaker" (steamId=76561199105536103) connected to server!
+23:2:39 | Player "SpocK" (steamId=76561198084137191) connected to server!
+23:2:41 | Player "TripaSeca" (steamId=76561198093060507) connected to server!
+23:2:41 | Player ":carousel_horse: " (steamId=76561199241533579) connected to server!
+23:2:42 | Player "[LB]KAS" (steamId=76561199202697738) connected to server!
+23:2:46 | Player "Cheesie" (steamId=76561198113600698) connected to server!
+23:2:48 | Player "[Mercenarios]Aguimaro" (steamId=76561198408987315) disconnected from server.
+23:2:52 | Player "KOREA" (steamId=76561198253386609) connected to server!
+23:2:54 | Player "Mat*reis Atropela Randola" (steamId=76561198442072760) connected to server!
+23:2:55 | Player "SpocK" (steamId=76561198084137191) connected to server!
+23:2:55 | Player "Gui" (steamId=76561198306757012) connected to server!
+23:2:56 | Player "Estaker" (steamId=76561199105536103) connected to server!
+23:2:56 | Player "Cheesie" (steamId=76561198113600698) connected to server!
+23:2:58 | Player "Biel SN" (steamId=76561198050836260) connected to server!
+23:3:9 | Player "TripaSeca" (steamId=76561198093060507) connected to server!
+23:3:13 | Player ":carousel_horse: " (steamId=76561199241533579) connected to server!
+23:3:15 | "KOREA" (steamid=76561198253386609) toggled godmode
+23:3:16 | Player "[AL-QAEDA]eDu" (steamId=76561198842726554) connected to server!
+23:3:21 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:3:22 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:3:26 | Player "Biel SN" (steamId=76561198050836260) connected to server!
+23:3:39 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:3:40 | Player "Mat*reis Atropela Randola" (steamId=76561198442072760) connected to server!
+23:3:41 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) connected to server!
+23:3:44 | Player "[AL-QAEDA]eDu" (steamId=76561198842726554) connected to server!
+23:3:46 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<8784.605469, 61.239899, 11424.646484>)
+23:3:47 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) connected to server!
+23:3:48 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:3:51 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) connected to server!
+23:3:58 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) connected to server!
+23:4:8 | Player "RUSSO" (steamId=76561199151608044) connected to server!
+23:4:26 | Player "Aguimaro" (steamId=76561198408987315) connected to server!
+23:4:33 | Player "RUSSO" (steamId=76561199151608044) connected to server!
+23:4:36 | Player "[CSM] !Many" (steamId=76561198996676933) connected to server!
+23:4:42 | Player "McMillan [eW]" (steamId=76561199141850356) connected to server!
+23:4:50 | Player "[CSM] !Many" (steamId=76561198996676933) connected to server!
+23:5:33 | Player "Leovicenza" (steamId=76561198210338391) connected to server!
+23:5:37 | Player "Aguimaro" (steamId=76561198408987315) connected to server!
+23:6:10 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:6:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<8682.755859, 8.103409, 10102.231445>)
+23:6:24 | Player "Vizinho" (steamId=76561198129206612) disconnected from server.
+23:6:29 | Player "Vizinho" (steamId=76561198129206612) disconnected from server.
+23:6:30 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:6:31 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:6:51 | Player "Leovicenza" (steamId=76561198210338391) connected to server!
+23:7:34 | Player "PatCanha" (steamId=76561198998771097) connected to server!
+23:7:47 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:8:1 | Player "[CSM] Erthal-;-" (steamId=76561198058375936) connected to server!
+23:8:11 | Player "Muquifo" (steamId=76561198810388133) connected to server!
+23:8:13 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10190.787109, 8.215175, 9168.537109>)
+23:8:13 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10182.846680, 8.499467, 9157.515625>)
+23:8:13 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10170.750000, 7.663762, 9140.698242>)
+23:8:13 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10170.678711, 7.671037, 9140.606445>)
+23:8:13 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10170.622070, 7.676907, 9140.536133>)
+23:8:13 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10170.568359, 7.682034, 9140.467773>)
+23:8:13 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10170.506836, 7.687927, 9140.387695>)
+23:8:13 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10169.586914, 7.671161, 9139.118164>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10166.914063, 7.689025, 9135.405273>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10164.888672, 8.014013, 9132.593750>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10164.791992, 8.014644, 9132.484375>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10164.646484, 8.014502, 9132.305664>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10164.361328, 8.012575, 9131.936523>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10163.283203, 8.082542, 9130.470703>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10161.178711, 8.292506, 9127.587891>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10160.285156, 8.546762, 9126.400391>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10160.246094, 8.557509, 9126.487305>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10160.213867, 8.566637, 9126.563477>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10160.178711, 8.576077, 9126.703125>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10160.156250, 8.582363, 9126.789063>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10158.579102, 8.754998, 9125.002930>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10157.056641, 8.917215, 9123.249023>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10156.069336, 9.025259, 9122.469727>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10155.168945, 9.122450, 9121.892578>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10154.372070, 9.208178, 9121.341797>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10153.651367, 9.287484, 9120.845703>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10153.520508, 9.300172, 9120.838867>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10153.429688, 9.309015, 9120.833984>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10156.393555, 10.177345, 9122.829102>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10155.983398, 10.396763, 9122.293945>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10150.667969, 9.635456, 9118.291992>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10150.147461, 10.031286, 9118.045898>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10150.040039, 10.208749, 9117.982422>)
+23:8:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10154.096680, 11.168055, 9120.964844>)
+23:8:15 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10149.708984, 9.842838, 9112.418945>)
+23:8:15 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10148.436523, 11.174230, 9109.813477>)
+23:8:15 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10140.939453, 9.929671, 9097.190430>)
+23:8:15 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10140.985352, 9.945627, 9097.383789>)
+23:8:15 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10141.056641, 9.960648, 9097.580078>)
+23:8:15 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10141.129883, 9.973576, 9097.756836>)
+23:8:15 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10141.221680, 9.987169, 9097.950195>)
+23:8:15 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10140.871094, 9.958726, 9097.455078>)
+23:8:15 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10137.599609, 9.620249, 9092.467773>)
+23:8:15 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10134.907227, 9.345201, 9088.375000>)
+23:8:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10134.885742, 9.353551, 9088.436523>)
+23:8:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10134.863281, 9.363597, 9088.509766>)
+23:8:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10134.983398, 9.381847, 9088.754883>)
+23:8:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10135.125000, 9.402941, 9089.034180>)
+23:8:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10133.296875, 9.238625, 9086.294922>)
+23:8:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10130.729492, 9.088607, 9082.416016>)
+23:8:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10129.769531, 9.055930, 9081.073242>)
+23:8:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10129.917969, 9.075623, 9081.431641>)
+23:8:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10130.097656, 9.088543, 9081.753906>)
+23:8:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10130.112305, 9.089972, 9081.785156>)
+23:8:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10128.172852, 9.029087, 9078.902344>)
+23:8:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10128.687500, 9.995087, 9079.775391>)
+23:8:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10128.657227, 10.129692, 9079.725586>)
+23:8:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10127.393555, 10.153864, 9077.886719>)
+23:8:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10127.274414, 10.565280, 9077.751953>)
+23:8:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10127.956055, 11.317762, 9078.782227>)
+23:8:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10127.019531, 11.368280, 9077.428711>)
+23:8:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10119.581055, 8.978190, 9067.549805>)
+23:8:35 | Player "[CSM] Erthal-;-" (steamId=76561198058375936) connected to server!
+23:8:53 | Player "GaiaMen" (steamId=76561199207813177) connected to server!
+23:8:57 | Player "Gui" (steamId=76561198306757012) connected to server!
+23:9:16 | Player "GaiaMen" (steamId=76561199207813177) connected to server!
+23:9:24 | Player "[CSM] Erthal-;-" (steamId=76561198058375936) disconnected from server.
+23:9:32 | "KOREA" (steamid=76561198253386609) deleted object "Land_Shed_M4" (pos=<10118.890625, 8.985571, 9066.934570>)
+23:10:7 | Player "[CSM] Erthal-;-" (steamId=76561198058375936) connected to server!
+23:10:10 | "KOREA" (steamid=76561198253386609) deleted object "PlateCarrierVest" (pos=<10122.877930, 8.836655, 9068.811523>)
+23:10:20 | Player "CarlGOD!" (steamId=76561198391430561) connected to server!
+23:10:22 | Player "FELIZARDO" (steamId=76561199090866217) connected to server!
+23:10:29 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:10:30 | Player "[CSM] Erthal-;-" (steamId=76561198058375936) connected to server!
+23:10:36 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<8867.382813, 36.220440, 11367.831055>)
+23:10:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<8875.458984, 38.568974, 11377.636719>)
+23:10:42 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:11:1 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:11:4 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<8870.263672, 28.158085, 11370.553711>)
+23:11:5 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:11:6 | Player "NegoPreto017" (steamId=76561199206711909) connected to server!
+23:11:6 | Player "P-A-I  subarux" (steamId=76561199163733858) connected to server!
+23:11:12 | Player "Estaker" (steamId=76561199105536103) disconnected from server.
+23:11:23 | Player "P-A-I  subarux" (steamId=76561199163733858) connected to server!
+23:11:30 | Player "Estaker" (steamId=76561199105536103) connected to server!
+23:11:40 | Player "Estaker" (steamId=76561199105536103) connected to server!
+23:11:41 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:11:42 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:12:1 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) disconnected from server.
+23:12:1 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:12:5 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) disconnected from server.
+23:12:5 | Player "NegoPreto017" (steamId=76561199206711909) connected to server!
+23:12:33 | Player "P.A.I Dejair" (steamId=76561198359060113) connected to server!
+23:12:52 | Player "[AL-QAEDA]eDu" (steamId=76561198842726554) disconnected from server.
+23:12:56 | Player "P.A.I Dejair" (steamId=76561198359060113) connected to server!
+23:12:57 | Player "[AL-QAEDA]eDu" (steamId=76561198842726554) disconnected from server.
+23:13:40 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:13:46 | Player "faisca " (steamId=76561198963172042) disconnected from server.
+23:14:0 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:14:4 | Player "faisca " (steamId=76561198963172042) connected to server!
+23:14:10 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:14:14 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:14:19 | Player "faisca " (steamId=76561198963172042) connected to server!
+23:15:6 | Player "[MNC] Nublack" (steamId=76561199033193586) connected to server!
+23:15:26 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:15:30 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:15:43 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10347.231445, 37.074921, 7277.823242>)
+23:15:59 | "KOREA" (steamid=76561198253386609) updated building set (Bunker Solo)
+23:15:59 | [BuildingSetManager] Deleted file: Bunker Solo
+23:15:59 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Bunker Solo.vpp
+23:16:20 | Player "[MNC] Guaipeca" (steamId=76561198082814042) connected to server!
+23:17:10 | Player "Aguimaro" (steamId=76561198408987315) disconnected from server.
+23:18:19 | "KOREA": (steamid=76561198253386609) teleported to (pos=on nae)
+23:18:20 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:18:23 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:18:26 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:18:35 | Player "JaponesDoPirocoptero" (steamId=76561198247375848) connected to server!
+23:18:46 | Player "JaponesDoPirocoptero" (steamId=76561198247375848) connected to server!
+23:18:53 | "KOREA": (steamid=76561198253386609) teleported to (pos=on na)
+23:18:56 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:19:3 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9692.342773, 1.968037, 15103.765625>)
+23:19:3 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:19:17 | Player "TcheLoco" (steamId=76561198099449370) disconnected from server.
+23:20:28 | Player "RUSSO" (steamId=76561199151608044) disconnected from server.
+23:21:8 | Player "Seifert" (steamId=76561198265346370) connected to server!
+23:21:28 | Player "snZ" (steamId=76561198237000930) connected to server!
+23:21:31 | Player "Seifert" (steamId=76561198265346370) connected to server!
+23:21:44 | Player "snZ" (steamId=76561198237000930) connected to server!
+23:21:44 | Player "Recruta" (steamId=76561199018999780) connected to server!
+23:21:48 | Player "Nascimento" (steamId=76561198122303420) connected to server!
+23:21:58 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:22:4 | Player "Recruta" (steamId=76561199018999780) connected to server!
+23:22:13 | Player "Gui" (steamId=76561198306757012) disconnected from server.
+23:22:22 | Player "Nascimento" (steamId=76561198122303420) connected to server!
+23:22:29 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:22:31 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:22:44 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10256.731445, 3.764564, 10145.158203>)
+23:24:51 | Player "[DY] FROZEN " (steamId=76561198161060673) disconnected from server.
+23:24:52 | Player "[DY] FROZEN " (steamId=76561198161060673) disconnected from server.
+23:25:32 | Player "Leovicenza" (steamId=76561198210338391) disconnected from server.
+23:25:40 | Player "FELIZARDO" (steamId=76561199090866217) disconnected from server.
+23:25:45 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:26:4 | Player "Leovicenza" (steamId=76561198210338391) connected to server!
+23:26:24 | Player "Nascimento" (steamId=76561198122303420) disconnected from server.
+23:26:27 | Player "Nascimento" (steamId=76561198122303420) disconnected from server.
+23:26:28 | Player "FELIZARDO" (steamId=76561199090866217) connected to server!
+23:26:28 | Player "Leovicenza" (steamId=76561198210338391) connected to server!
+23:27:16 | Player "Seifert" (steamId=76561198265346370) disconnected from server.
+23:27:18 | Player "Seifert" (steamId=76561198265346370) disconnected from server.
+23:27:44 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) connected to server!
+23:29:54 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:30:1 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9748.251953, 49.347889, 6420.510742>)
+23:30:5 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9869.996094, 48.194500, 6377.784180>)
+23:30:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10323.820313, 38.330421, 7227.679199>)
+23:30:18 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10338.425781, 37.678661, 7246.326172>)
+23:30:20 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:30:20 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:30:40 | "KOREA" (steamid=76561198253386609) deleted building set (Bunker Solo)
+23:30:41 | Player "FBI17" (steamId=76561199221965397) connected to server!
+23:30:48 | Player "SACRA" (steamId=76561199102711894) connected to server!
+23:30:58 | Player "FBI17" (steamId=76561199221965397) connected to server!
+23:31:34 | Player "Estaker" (steamId=76561199105536103) disconnected from server.
+23:31:46 | Player "P-A-I  subarux" (steamId=76561199163733858) disconnected from server.
+23:31:51 | Player "P-A-I  subarux" (steamId=76561199163733858) disconnected from server.
+23:32:4 | Player "BAPTISTA" (steamId=76561198999847854) connected to server!
+23:32:10 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+23:32:10 | "KOREA" (steamid=76561198253386609) created new building set (BasevIP)
+23:32:18 | Player "BAPTISTA" (steamId=76561198999847854) connected to server!
+23:32:18 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:32:21 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:32:24 | Player "P.A.I Dejair" (steamId=76561198359060113) disconnected from server.
+23:32:26 | Player "P.A.I Dejair" (steamId=76561198359060113) disconnected from server.
+23:32:36 | Player "PeidoDeEgua" (steamId=76561198184909257) connected to server!
+23:32:54 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:32:57 | Player "Luanzinhooo" (steamId=76561198352162786) disconnected from server.
+23:32:57 | Player "Estaker" (steamId=76561199105536103) connected to server!
+23:32:58 | Player "Luanzinhooo" (steamId=76561198352162786) disconnected from server.
+23:33:6 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) connected to server!
+23:33:7 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:33:8 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:33:10 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:33:20 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9781.315430, 49.008202, 6385.121582>)
+23:33:28 | Player "SACRA" (steamId=76561199102711894) disconnected from server.
+23:33:37 | Player "Estaker" (steamId=76561199105536103) connected to server!
+23:34:6 | Player "PeidoDeEgua" (steamId=76561198184909257) connected to server!
+23:34:9 | Player "Niinja" (steamId=76561198044559709) connected to server!
+23:34:31 | Player "Niinja" (steamId=76561198044559709) connected to server!
+23:34:45 | Player "M 3 N D 1 G 0" (steamId=76561197989930295) disconnected from server.
+23:34:48 | Player "M 3 N D 1 G 0" (steamId=76561197989930295) disconnected from server.
+23:35:7 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+23:35:7 | [BuildingSetManager] Saving & Reloading Building Set:BasevIP
+23:35:7 | "KOREA" (steamid=76561198253386609) updated building set (BasevIP)
+23:35:7 | [BuildingSetManager] Deleted file: BasevIP
+23:35:7 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+23:35:39 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+23:35:39 | [BuildingSetManager] Saving & Reloading Building Set:BasevIP
+23:35:40 | "KOREA" (steamid=76561198253386609) updated building set (BasevIP)
+23:35:40 | [BuildingSetManager] Deleted file: BasevIP
+23:35:40 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+23:36:23 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+23:36:23 | [BuildingSetManager] Saving & Reloading Building Set:BasevIP
+23:36:23 | "KOREA" (steamid=76561198253386609) updated building set (BasevIP)
+23:36:23 | [BuildingSetManager] Deleted file: BasevIP
+23:36:23 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+23:37:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9721.339844, 47.183247, 6440.387207>)
+23:37:16 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:37:26 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:37:31 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+23:37:31 | [BuildingSetManager] Saving & Reloading Building Set:BasevIP
+23:37:31 | "KOREA" (steamid=76561198253386609) updated building set (BasevIP)
+23:37:31 | [BuildingSetManager] Deleted file: BasevIP
+23:37:31 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+23:38:7 | Player "mateusna" (steamId=76561198989861938) connected to server!
+23:38:33 | Player "mateusna" (steamId=76561198989861938) connected to server!
+23:38:55 | Player "Andreft" (steamId=76561198141325952) disconnected from server.
+23:40:1 | Player "Daryl" (steamId=76561198994588833) connected to server!
+23:40:13 | Player "MELIANTE" (steamId=76561198081387626) connected to server!
+23:40:40 | Player "Priori Gamer" (steamId=76561198051427035) connected to server!
+23:40:44 | Player "Fred$rico" (steamId=76561198116552585) disconnected from server.
+23:40:57 | Player "Daryl" (steamId=76561198994588833) connected to server!
+23:41:17 | Player "Operguer" (steamId=76561198031245537) connected to server!
+23:41:36 | Player "Operguer" (steamId=76561198031245537) connected to server!
+23:42:10 | Player "Priori Gamer" (steamId=76561198051427035) connected to server!
+23:42:22 | Player "[YAKUZA]-BlackBear" (steamId=76561198343030820) connected to server!
+23:42:36 | Player "Daryl" (steamId=76561198994588833) disconnected from server.
+23:42:40 | Player "Priori Gamer" (steamId=76561198051427035) disconnected from server.
+23:42:44 | Player "[YAKUZA]-BlackBear" (steamId=76561198343030820) connected to server!
+23:43:23 | Player "Vinny" (steamId=76561198076886965) disconnected from server.
+23:43:25 | Player "Vinny" (steamId=76561198076886965) disconnected from server.
+23:43:35 | Player "Survivor" (steamId=76561199031794199) connected to server!
+23:43:39 | Player "Bigato" (steamId=76561198192204303) connected to server!
+23:44:8 | Player "Bigato" (steamId=76561198192204303) connected to server!
+23:44:41 | Player "Cheesie" (steamId=76561198113600698) disconnected from server.
+23:45:9 | Player "Einsen" (steamId=76561198103936746) connected to server!
+23:45:28 | Player "Einsen" (steamId=76561198103936746) connected to server!
+23:46:18 | Player "GaiaMen" (steamId=76561199207813177) disconnected from server.
+23:46:52 | Player "A-ha." (steamId=76561198302800717) connected to server!
+23:47:30 | Player "Leovicenza" (steamId=76561198210338391) disconnected from server.
+23:47:34 | Player "Leovicenza" (steamId=76561198210338391) disconnected from server.
+23:48:35 | Player "Henne" (steamId=76561198134091570) connected to server!
+23:49:31 | Player "Henne" (steamId=76561198134091570) connected to server!
+23:49:59 | Player "Priori Gamer" (steamId=76561198051427035) connected to server!
+23:50:18 | Player "Priori Gamer" (steamId=76561198051427035) connected to server!
+23:50:23 | Player "G NO PEITO" (steamId=76561199123625009) connected to server!
+23:50:51 | Player "Daryl" (steamId=76561198994588833) connected to server!
+23:51:24 | Player "G NO PEITO" (steamId=76561199123625009) connected to server!
+23:51:25 | Player "Daryl" (steamId=76561198994588833) connected to server!
+23:52:50 | Player "[NG] Foxy the Pirate" (steamId=76561199108732707) connected to server!
+23:53:24 | Player "ZettGT" (steamId=76561198388825783) connected to server!
+23:55:9 | Player "Daryl" (steamId=76561198994588833) disconnected from server.
+23:55:14 | Player "Henne" (steamId=76561198134091570) disconnected from server.
+23:55:19 | Player "Henne" (steamId=76561198134091570) disconnected from server.
+23:55:22 | Player "Daryl" (steamId=76561198994588833) connected to server!
+23:55:32 | Player "WellCwB" (steamId=76561198859572965) connected to server!
+23:55:38 | Player "Daryl" (steamId=76561198994588833) connected to server!
+23:55:50 | Player "WellCwB" (steamId=76561198859572965) connected to server!
+23:55:54 | Player "Apollo" (steamId=76561198068717174) connected to server!
+23:56:12 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9717.239258, 47.036415, 6441.583008>)
+23:56:13 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:56:24 | Player "Apollo" (steamId=76561198068717174) connected to server!
+23:56:31 | Player "COMUNISTA SAFADO" (steamId=76561198061076633) connected to server!
+23:56:34 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+23:56:34 | [BuildingSetManager] Saving & Reloading Building Set:BasevIP
+23:56:34 | "KOREA" (steamid=76561198253386609) updated building set (BasevIP)
+23:56:34 | [BuildingSetManager] Deleted file: BasevIP
+23:56:34 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+23:56:35 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:56:37 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:56:47 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:57:17 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9716.160156, 46.993088, 6437.756348>)
+23:57:17 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:57:26 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+23:57:26 | [BuildingSetManager] Saving & Reloading Building Set:BasevIP
+23:57:26 | "KOREA" (steamid=76561198253386609) updated building set (BasevIP)
+23:57:26 | [BuildingSetManager] Deleted file: BasevIP
+23:57:26 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+23:57:36 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:57:45 | Player "Dexter" (steamId=76561198963295390) connected to server!
+23:57:49 | Player "[LB]KAS" (steamId=76561199202697738) disconnected from server.
+23:57:51 | Player "[LB]KAS" (steamId=76561199202697738) disconnected from server.
+23:58:12 | Player "Dexter" (steamId=76561198963295390) connected to server!
+23:58:30 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9720.904297, 47.172756, 6439.037598>)
+23:58:31 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:58:44 | Player "Leovicenza" (steamId=76561198210338391) connected to server!
+23:58:46 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:58:55 | Player "Leovicenza" (steamId=76561198210338391) connected to server!
+23:59:18 | Player "Osuwari" (steamId=76561198109216339) connected to server!
+23:59:37 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+23:59:37 | [BuildingSetManager] Saving & Reloading Building Set:BasevIP
+23:59:37 | "KOREA" (steamid=76561198253386609) updated building set (BasevIP)
+23:59:37 | [BuildingSetManager] Deleted file: BasevIP
+23:59:37 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+23:59:38 | Player "bistecinha30" (steamId=76561198171642523) connected to server!
+23:59:50 | Player "Osuwari" (steamId=76561198109216339) connected to server!
+0:0:2 | Player "MaasteR" (steamId=76561198133611345) connected to server!
+0:0:23 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:0:23 | [BuildingSetManager] Saving & Reloading Building Set:BasevIP
+0:0:23 | "KOREA" (steamid=76561198253386609) updated building set (BasevIP)
+0:0:23 | [BuildingSetManager] Deleted file: BasevIP
+0:0:23 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:0:41 | Player "FBI17" (steamId=76561199221965397) disconnected from server.
+0:0:43 | Player "FBI17" (steamId=76561199221965397) disconnected from server.
+0:0:57 | Player "COMUNISTA SAFADO" (steamId=76561198061076633) connected to server!
+0:1:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9725.151367, 47.358452, 6441.323730>)
+0:1:16 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:1:20 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:1:20 | [BuildingSetManager] Saving & Reloading Building Set:BasevIP
+0:1:20 | "KOREA" (steamid=76561198253386609) updated building set (BasevIP)
+0:1:20 | [BuildingSetManager] Deleted file: BasevIP
+0:1:20 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:1:35 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:1:35 | [BuildingSetManager] Saving & Reloading Building Set:BasevIP
+0:1:35 | "KOREA" (steamid=76561198253386609) updated building set (BasevIP)
+0:1:35 | [BuildingSetManager] Deleted file: BasevIP
+0:1:35 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:1:59 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:1:59 | [BuildingSetManager] Saving & Reloading Building Set:BasevIP
+0:1:59 | "KOREA" (steamid=76561198253386609) updated building set (BasevIP)
+0:1:59 | [BuildingSetManager] Deleted file: BasevIP
+0:1:59 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:2:1 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:2:2 | Player "TcheLoco" (steamId=76561198099449370) connected to server!
+0:2:3 | Player "[MWS] O tal do matador online" (steamId=76561198143888901) connected to server!
+0:2:3 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9723.298828, 47.297745, 6449.480957>)
+0:2:3 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:2:11 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:2:19 | Player "TcheLoco" (steamId=76561198099449370) connected to server!
+0:2:22 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:2:22 | [BuildingSetManager] Saving & Reloading Building Set:BasevIP
+0:2:22 | "KOREA" (steamid=76561198253386609) updated building set (BasevIP)
+0:2:22 | [BuildingSetManager] Deleted file: BasevIP
+0:2:22 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:2:30 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:2:30 | [BuildingSetManager] Saving & Reloading Building Set:BasevIP
+0:2:30 | "KOREA" (steamid=76561198253386609) updated building set (BasevIP)
+0:2:30 | [BuildingSetManager] Deleted file: BasevIP
+0:2:30 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:2:31 | Player "Mat*reis Atropela Randola" (steamId=76561198442072760) disconnected from server.
+0:2:32 | Player "Mat*reis Atropela Randola" (steamId=76561198442072760) disconnected from server.
+0:2:46 | Player "!TALIBAN57_NTC" (steamId=76561198153920981) disconnected from server.
+0:2:51 | Player "[MWS] O tal do matador online" (steamId=76561198143888901) connected to server!
+0:3:10 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+0:3:14 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:3:14 | [BuildingSetManager] Saving & Reloading Building Set:BasevIP
+0:3:14 | "KOREA" (steamid=76561198253386609) updated building set (BasevIP)
+0:3:14 | [BuildingSetManager] Deleted file: BasevIP
+0:3:14 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:3:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9722.772461, 47.264626, 6438.570801>)
+0:3:16 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:3:31 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:3:40 | Player "Daryl" (steamId=76561198994588833) disconnected from server.
+0:3:42 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+0:3:42 | Player "Daryl" (steamId=76561198994588833) disconnected from server.
+0:3:46 | Player "Scofield" (steamId=76561199029569459) connected to server!
+0:4:1 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198140728342)
+0:4:2 | "BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+0:4:41 | Player "FBI17" (steamId=76561199221965397) connected to server!
+0:4:48 | Player "FBI17" (steamId=76561199221965397) connected to server!
+0:5:8 | Player "Daryl" (steamId=76561198994588833) connected to server!
+0:5:36 | Player "DanielSam" (steamId=76561198867200764) connected to server!
+0:5:58 | Player "DanielSam" (steamId=76561198867200764) connected to server!
+0:6:22 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:6:22 | [BuildingSetManager] Saving & Reloading Building Set:BasevIP
+0:6:22 | "KOREA" (steamid=76561198253386609) updated building set (BasevIP)
+0:6:22 | [BuildingSetManager] Deleted file: BasevIP
+0:6:22 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:6:22 | Player "Daryl" (steamId=76561198994588833) disconnected from server.
+0:6:23 | Player "[hd]marcelinho" (steamId=76561198817477406) disconnected from server.
+0:6:26 | Player "[hd]marcelinho" (steamId=76561198817477406) re-connected to server [canceledLogout]
+0:6:44 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) disconnected from server.
+0:6:46 | Player "Otaldopotas" (steamId=76561198280715944) connected to server!
+0:7:5 | Player "[hd]marcelinho" (steamId=76561198817477406) disconnected from server.
+0:7:8 | Player "[hd]marcelinho" (steamId=76561198817477406) disconnected from server.
+0:7:12 | Player "Daryl" (steamId=76561198994588833) connected to server!
+0:7:21 | Player "Mat*reis Atropela Randola" (steamId=76561198442072760) connected to server!
+0:7:25 | Player "Otaldopotas" (steamId=76561198280715944) connected to server!
+0:7:25 | Player "Daryl" (steamId=76561198994588833) connected to server!
+0:8:9 | Player "[AL-QAEDA]eDu" (steamId=76561198842726554) connected to server!
+0:8:10 | Player "Mat*reis Atropela Randola" (steamId=76561198442072760) connected to server!
+0:8:22 | Player "Mat*reis Atropela Randola" (steamId=76561198442072760) disconnected from server.
+0:8:39 | Player "[AL-QAEDA]eDu" (steamId=76561198842726554) connected to server!
+0:8:58 | Player "[NG] Foxy the Pirate" (steamId=76561199108732707) disconnected from server.
+0:9:0 | Player "[NG] Foxy the Pirate" (steamId=76561199108732707) disconnected from server.
+0:9:3 | Player "coyot-solitario" (steamId=76561198191127093) connected to server!
+0:9:23 | Player "Mat*reis Atropela Randola" (steamId=76561198442072760) connected to server!
+0:9:28 | Player "Passo Largo" (steamId=76561198057660141) connected to server!
+0:9:46 | Player "Passo Largo" (steamId=76561198057660141) connected to server!
+0:10:9 | Player "Mat*reis Atropela Randola" (steamId=76561198442072760) connected to server!
+0:10:12 | Player "Kenne" (steamId=76561199162256124) connected to server!
+0:10:31 | Player "Kenne" (steamId=76561199162256124) connected to server!
+0:10:31 | Player "Daryl" (steamId=76561198994588833) disconnected from server.
+0:10:57 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<9737.760742, 58.294140, 6447.296875>)
+0:10:58 | Player "GaiaMen" (steamId=76561199207813177) connected to server!
+0:11:3 | Player "Daryl" (steamId=76561198994588833) connected to server!
+0:11:10 | Player "Mat*reis Atropela Randola" (steamId=76561198442072760) disconnected from server.
+0:11:36 | Player "GaiaMen" (steamId=76561199207813177) connected to server!
+0:12:10 | Player "Mat*reis Atropela Randola" (steamId=76561198442072760) connected to server!
+0:12:44 | "BRUXO": (steamid=76561198140728342) teleported to (pos=9904.16,0,11768.3)
+0:13:9 | Player "Mat*reis Atropela Randola" (steamId=76561198442072760) connected to server!
+0:13:37 | Player "[BNVS]xupyra" (steamId=76561198258911731) connected to server!
+0:14:5 | Player "[BNVS]xupyra" (steamId=76561198258911731) connected to server!
+0:14:14 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<9731.737305, 48.721813, 6438.868652>)
+0:14:42 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:14:42 | [BuildingSetManager] Saving & Reloading Building Set:BasevIP
+0:14:42 | "KOREA" (steamid=76561198253386609) updated building set (BasevIP)
+0:14:42 | [BuildingSetManager] Deleted file: BasevIP
+0:14:42 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:14:55 | Player "=G3= DedeziN" (steamId=76561199217687395) connected to server!
+0:15:14 | Player "=G3= DedeziN" (steamId=76561199217687395) connected to server!
+0:15:23 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:15:23 | [BuildingSetManager] Saving & Reloading Building Set:BasevIP
+0:15:23 | "KOREA" (steamid=76561198253386609) updated building set (BasevIP)
+0:15:23 | [BuildingSetManager] Deleted file: BasevIP
+0:15:23 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:15:45 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<9775.190430, 49.256336, 6371.278809>)
+0:16:2 | "BRUXO" (steamid=76561198140728342) toggled freecam
+0:16:43 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:16:43 | [BuildingSetManager] Saving & Reloading Building Set:BasevIP
+0:16:43 | "KOREA" (steamid=76561198253386609) updated building set (BasevIP)
+0:16:43 | [BuildingSetManager] Deleted file: BasevIP
+0:16:43 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:17:20 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/teste1.vpp
+0:17:20 | "BRUXO" (steamid=76561198140728342) created new building set (teste1)
+0:17:51 | Player "Vitin da Meiota" (steamId=76561198282006222) connected to server!
+0:18:34 | "BRUXO" (steamid=76561198140728342) toggled freecam
+0:18:39 | "BRUXO" (steamid=76561198140728342) toggled freecam
+0:18:44 | "BRUXO" (steamid=76561198140728342) toggled freecam
+0:18:45 | "BRUXO" (steamid=76561198140728342) toggled freecam
+0:18:46 | Player "[hd]marcelinho" (steamId=76561198817477406) connected to server!
+0:18:46 | Player "Biel SN" (steamId=76561198050836260) disconnected from server.
+0:18:54 | Player "Mat*reis Atropela Randola" (steamId=76561198442072760) disconnected from server.
+0:18:58 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/teste1.vpp
+0:18:58 | [BuildingSetManager] Saving & Reloading Building Set:teste1
+0:18:58 | "BRUXO" (steamid=76561198140728342) updated building set (teste1)
+0:18:58 | [BuildingSetManager] Deleted file: teste1
+0:18:58 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/teste1.vpp
+0:19:1 | Player "[hd]marcelinho" (steamId=76561198817477406) connected to server!
+0:19:58 | Player "[MNC] Guaipeca" (steamId=76561198082814042) disconnected from server.
+0:20:26 | Player "[MNC] Guaipeca" (steamId=76561198082814042) connected to server!
+0:20:37 | Player "[MNC] Guaipeca" (steamId=76561198082814042) connected to server!
+0:21:6 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/teste1.vpp
+0:21:6 | [BuildingSetManager] Saving & Reloading Building Set:teste1
+0:21:6 | "BRUXO" (steamid=76561198140728342) updated building set (teste1)
+0:21:6 | [BuildingSetManager] Deleted file: teste1
+0:21:6 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/teste1.vpp
+0:21:48 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/teste1.vpp
+0:21:48 | [BuildingSetManager] Saving & Reloading Building Set:teste1
+0:21:48 | "BRUXO" (steamid=76561198140728342) updated building set (teste1)
+0:21:48 | [BuildingSetManager] Deleted file: teste1
+0:21:48 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/teste1.vpp
+0:21:51 | Player "Pratiado" (steamId=76561199082760304) connected to server!
+0:21:55 | Player "[OTW] 50tonsdetoba" (steamId=76561198263584061) connected to server!
+0:22:23 | Player "[MNC] Nublack" (steamId=76561199033193586) disconnected from server.
+0:22:34 | Player "[MNC] Nublack" (steamId=76561199033193586) connected to server!
+0:22:37 | Player "Leovicenza" (steamId=76561198210338391) disconnected from server.
+0:22:41 | Player "Pratiado" (steamId=76561199082760304) connected to server!
+0:23:31 | Player "Leovicenza" (steamId=76561198210338391) connected to server!
+0:23:49 | Player "Leovicenza" (steamId=76561198210338391) connected to server!
+0:24:52 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:24:52 | [BuildingSetManager] Saving & Reloading Building Set:BasevIP
+0:24:52 | "KOREA" (steamid=76561198253386609) updated building set (BasevIP)
+0:24:52 | [BuildingSetManager] Deleted file: BasevIP
+0:24:52 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:24:57 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/teste1.vpp
+0:24:57 | [BuildingSetManager] Saving & Reloading Building Set:teste1
+0:24:57 | "BRUXO" (steamid=76561198140728342) updated building set (teste1)
+0:24:57 | [BuildingSetManager] Deleted file: teste1
+0:24:57 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/teste1.vpp
+0:25:17 | Player "Passo Largo" (steamId=76561198057660141) disconnected from server.
+0:25:18 | Player "Passo Largo" (steamId=76561198057660141) disconnected from server.
+0:27:12 | Player "FELIZARDO" (steamId=76561199090866217) connected to server!
+0:27:15 | Player "[LGBTQIA+] C E L E B R I M B O R" (steamId=76561198114043394) disconnected from server.
+0:27:21 | Player "coyot-solitario" (steamId=76561198191127093) connected to server!
+0:27:53 | Player "Fred$rico" (steamId=76561198116552585) connected to server!
+0:28:10 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9873.985352, 49.403492, 6407.187988>)
+0:28:13 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:28:13 | [BuildingSetManager] Saving & Reloading Building Set:BasevIP
+0:28:13 | "KOREA" (steamid=76561198253386609) updated building set (BasevIP)
+0:28:13 | [BuildingSetManager] Deleted file: BasevIP
+0:28:13 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:28:14 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:28:17 | Player "Fred$rico" (steamId=76561198116552585) connected to server!
+0:28:33 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:28:33 | [BuildingSetManager] Saving & Reloading Building Set:BasevIP
+0:28:33 | "KOREA" (steamid=76561198253386609) updated building set (BasevIP)
+0:28:33 | [BuildingSetManager] Deleted file: BasevIP
+0:28:33 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/BasevIP.vpp
+0:28:35 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:28:36 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:28:40 | Player "FELIZARDO" (steamId=76561199090866217) disconnected from server.
+0:28:45 | Player "GaiaMen" (steamId=76561199207813177) disconnected from server.
+0:28:56 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:29:11 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/teste1.vpp
+0:29:11 | [BuildingSetManager] Saving & Reloading Building Set:teste1
+0:29:11 | "BRUXO" (steamid=76561198140728342) updated building set (teste1)
+0:29:11 | [BuildingSetManager] Deleted file: teste1
+0:29:11 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/teste1.vpp
+0:29:26 | Player "Kenne" (steamId=76561199162256124) disconnected from server.
+0:29:58 | Player "neufxt" (steamId=76561199174328521) connected to server!
+0:30:6 | Player "mateusna" (steamId=76561198989861938) disconnected from server.
+0:30:20 | "BRUXO" (steamid=76561198140728342) deleted building set (teste1)
+0:30:27 | "BRUXO" (steamid=76561198140728342) toggled freecam
+0:30:33 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<9843.221680, 45.398834, 6350.436523>)
+0:30:34 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9774.301758, 49.468254, 6397.280273>)
+0:31:3 | Player "Aguimaro" (steamId=76561198408987315) connected to server!
+0:31:28 | "BRUXO" (steamid=76561198140728342) toggled freecam
+0:31:36 | Player "Peter" (steamId=76561198407983008) connected to server!
+0:31:42 | Player "FELIZARDO" (steamId=76561199090866217) connected to server!
+0:32:8 | Player "Aguimaro" (steamId=76561198408987315) connected to server!
+0:32:10 | Player "Osuwari" (steamId=76561198109216339) disconnected from server.
+0:32:23 | Player "FELIZARDO" (steamId=76561199090866217) connected to server!
+0:32:24 | "KOREA" (steamid=76561198253386609) deleted building set (BasevIP)
+0:32:30 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:32:30 | "KOREA" (steamid=76561198253386609) created new building set (NewSet)
+0:32:56 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:32:56 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+0:32:56 | "KOREA" (steamid=76561198253386609) updated building set (NewSet)
+0:32:56 | [BuildingSetManager] Deleted file: NewSet
+0:32:56 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:33:27 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:33:27 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+0:33:27 | "KOREA" (steamid=76561198253386609) updated building set (NewSet)
+0:33:27 | [BuildingSetManager] Deleted file: NewSet
+0:33:27 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:33:35 | Player "FELIZARDO" (steamId=76561199090866217) disconnected from server.
+0:33:39 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:33:39 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+0:33:39 | "KOREA" (steamid=76561198253386609) updated building set (NewSet)
+0:33:39 | [BuildingSetManager] Deleted file: NewSet
+0:33:39 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:33:46 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:33:46 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+0:33:46 | "KOREA" (steamid=76561198253386609) updated building set (NewSet)
+0:33:46 | [BuildingSetManager] Deleted file: NewSet
+0:33:46 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:34:3 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) connected to server!
+0:34:6 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9781.180664, 49.608772, 6401.995117>)
+0:34:6 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:34:16 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) connected to server!
+0:34:25 | Player "FELIZARDO" (steamId=76561199090866217) connected to server!
+0:34:55 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/ttttt.vpp
+0:34:55 | "BRUXO" (steamid=76561198140728342) created new building set (ttttt)
+0:35:11 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9797.473633, 49.229328, 6398.588379>)
+0:35:13 | "KOREA" (steamid=76561198253386609) toggled godmode
+0:35:14 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:35:16 | "KOREA" (steamid=76561198253386609) toggled godmode
+0:35:21 | "KOREA" (steamid=76561198253386609) deleted building set (NewSet)
+0:35:27 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9860.461914, 46.633003, 6328.807129>)
+0:35:27 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:35:47 | Player "FELIZARDO" (steamId=76561199090866217) connected to server!
+0:35:53 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/ttttt.vpp
+0:35:53 | [BuildingSetManager] Saving & Reloading Building Set:ttttt
+0:35:53 | "BRUXO" (steamid=76561198140728342) updated building set (ttttt)
+0:35:53 | [BuildingSetManager] Deleted file: ttttt
+0:35:53 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/ttttt.vpp
+0:35:57 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:36:0 | Player "McMillan [eW]" (steamId=76561199141850356) disconnected from server.
+0:36:4 | Player "McMillan [eW]" (steamId=76561199141850356) disconnected from server.
+0:36:28 | Player "[YAKUZA]-BlackBear" (steamId=76561198343030820) disconnected from server.
+0:36:40 | Player "[NEBU] yGauchoTv" (steamId=76561198141956652) connected to server!
+0:36:43 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/ttttt.vpp
+0:36:43 | [BuildingSetManager] Saving & Reloading Building Set:ttttt
+0:36:43 | "BRUXO" (steamid=76561198140728342) updated building set (ttttt)
+0:36:43 | [BuildingSetManager] Deleted file: ttttt
+0:36:43 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/ttttt.vpp
+0:36:45 | Player "mateusna" (steamId=76561198989861938) connected to server!
+0:36:47 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9904.767578, 49.782978, 6433.550781>)
+0:36:47 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:37:7 | Player "BAPTISTA" (steamId=76561198999847854) disconnected from server.
+0:37:8 | Player "mateusna" (steamId=76561198989861938) connected to server!
+0:37:10 | Player "BAPTISTA" (steamId=76561198999847854) disconnected from server.
+0:37:11 | Player "[NEBU] yGauchoTv" (steamId=76561198141956652) connected to server!
+0:38:34 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:38:39 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<9937.799805, 52.024967, 6349.791016>)
+0:39:5 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/ttttt.vpp
+0:39:5 | [BuildingSetManager] Saving & Reloading Building Set:ttttt
+0:39:5 | "BRUXO" (steamid=76561198140728342) updated building set (ttttt)
+0:39:5 | [BuildingSetManager] Deleted file: ttttt
+0:39:5 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/ttttt.vpp
+0:39:18 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9906.030273, 50.497440, 6411.464844>)
+0:39:20 | Player "-2s." (steamId=76561198256926954) connected to server!
+0:39:21 | Player "Kenne" (steamId=76561199162256124) connected to server!
+0:39:34 | Player "Muriel" (steamId=76561198205887559) connected to server!
+0:39:51 | Player "Muriel" (steamId=76561198205887559) connected to server!
+0:40:11 | Player "Muriel" (steamId=76561198205887559) disconnected from server.
+0:40:12 | Player "Muriel" (steamId=76561198205887559) disconnected from server.
+0:40:48 | Player "Muriel" (steamId=76561198205887559) connected to server!
+0:41:5 | Player "Muriel" (steamId=76561198205887559) connected to server!
+0:41:17 | Player "TROPAcwb" (steamId=76561198852436626) connected to server!
+0:41:41 | Player "TROPAcwb" (steamId=76561198852436626) connected to server!
+0:41:47 | Player "neufxt" (steamId=76561199174328521) disconnected from server.
+0:42:11 | Player ":carousel_horse: " (steamId=76561199241533579) disconnected from server.
+0:42:11 | Player "NegoPreto017" (steamId=76561199206711909) disconnected from server.
+0:42:12 | Player ":carousel_horse: " (steamId=76561199241533579) disconnected from server.
+0:44:44 | Player "Kenne" (steamId=76561199162256124) connected to server!
+0:45:9 | Player "PeidoDeEgua" (steamId=76561198184909257) disconnected from server.
+0:45:28 | "BRUXO" (steamid=76561198140728342) deleted building set (ttttt)
+0:45:37 | "BRUXO" (steamid=76561198140728342) toggled freecam
+0:45:42 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<9921.740234, 51.080757, 6380.600586>)
+0:45:43 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<9914.722656, 50.831890, 6395.212402>)
+0:48:37 | Player "-SNIPER_ALISSON_" (steamId=76561198303483742) connected to server!
+0:49:7 | Player "Pratiado" (steamId=76561199082760304) disconnected from server.
+0:49:10 | Player "-SNIPER_ALISSON_" (steamId=76561198303483742) connected to server!
+0:49:13 | Player "Pratiado" (steamId=76561199082760304) disconnected from server.
+0:49:46 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) disconnected from server.
+0:49:50 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) disconnected from server.
+0:49:51 | Player "BAPTISTA" (steamId=76561198999847854) connected to server!
+0:50:20 | Player "BAPTISTA" (steamId=76561198999847854) connected to server!
+0:50:35 | Player "FELIZARDO" (steamId=76561199090866217) disconnected from server.
+0:51:17 | Player "falcon" (steamId=76561198430962819) connected to server!
+0:51:19 | Player "!TALIBAN57_NTC" (steamId=76561198153920981) connected to server!
+0:51:35 | Player "falcon" (steamId=76561198430962819) connected to server!
+0:51:36 | Player "!TALIBAN57_NTC" (steamId=76561198153920981) connected to server!
+0:52:2 | Player "elchukaa" (steamId=76561198308802289) connected to server!
+0:52:25 | Player "FELIZARDO" (steamId=76561199090866217) connected to server!
+0:53:59 | Player "FELIZARDO" (steamId=76561199090866217) connected to server!
+0:54:56 | Player "[G.M.] RONALDO" (steamId=76561197981004098) connected to server!
+0:55:27 | Player "[G.M.] RONALDO" (steamId=76561197981004098) connected to server!
+0:55:36 | Player "falcon" (steamId=76561198430962819) disconnected from server.
+0:55:41 | Player "Dropjuni" (steamId=76561198249642472) connected to server!
+0:56:1 | Player "-SNIPER_ALISSON_" (steamId=76561198303483742) disconnected from server.
+0:56:45 | Player "Dropjuni" (steamId=76561198249642472) connected to server!
+0:57:36 | Player "-SNIPER_ALISSON_" (steamId=76561198303483742) connected to server!
+0:58:4 | Player "-SNIPER_ALISSON_" (steamId=76561198303483742) connected to server!
+0:58:17 | Player "Espinoza" (steamId=76561199111555702) connected to server!
+0:58:21 | Player "CPT-R" (steamId=76561198456404142) connected to server!
+0:58:35 | Player "Espinoza" (steamId=76561199111555702) connected to server!
+0:59:23 | Player "CPT-R" (steamId=76561198456404142) connected to server!
+0:59:25 | Player "PatCanha" (steamId=76561198998771097) disconnected from server.
+1:3:32 | Player "Luzbelito" (steamId=76561198428246117) connected to server!
+1:4:21 | Player "KOREA" (steamId=76561198253386609) disconnected from server.
+1:4:23 | Player "KOREA" (steamId=76561198253386609) disconnected from server.
+1:4:49 | "BRUXO" (steamid=76561198140728342) toggled freecam
+1:5:0 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<9838.989258, 41.236832, 6934.317383>)
+1:5:1 | "BRUXO" (steamid=76561198140728342) toggled freecam
+1:5:7 | "BRUXO" (steamid=76561198140728342) toggled freecam
+1:5:12 | Player "coyot-solitario" (steamId=76561198191127093) disconnected from server.
+1:5:19 | Player "[NEBU] yGauchoTv" (steamId=76561198141956652) disconnected from server.
+1:5:21 | Player "[NEBU] yGauchoTv" (steamId=76561198141956652) disconnected from server.
+1:5:30 | "BRUXO" (steamid=76561198140728342) toggled freecam
+1:7:11 | Player "McMillan [eW]" (steamId=76561199141850356) connected to server!
+1:7:22 | Player "McMillan [eW]" (steamId=76561199141850356) connected to server!
+1:7:30 | Player "Jaques" (steamId=76561198329721265) connected to server!
+1:7:48 | Player "Jaques" (steamId=76561198329721265) connected to server!
+1:8:1 | "Jaques" (steamid=76561198329721265) toggled godmode
+1:8:25 | "Jaques" (steamid=76561198329721265) just updated a health stat on (steamid=76561198329721265)
+1:8:34 | Player "Henrico12" (steamId=76561198093808330) connected to server!
+1:8:34 | Player "[YAKUZA]-BlackBear" (steamId=76561198343030820) connected to server!
+1:8:48 | Player "Notsniw" (steamId=76561197967151252) connected to server!
+1:8:50 | Player "Henrico12" (steamId=76561198093808330) connected to server!
+1:8:54 | Player "[YAKUZA]-BlackBear" (steamId=76561198343030820) connected to server!
+1:9:10 | Player "Notsniw" (steamId=76561197967151252) connected to server!
+1:9:17 | Player "A-ha." (steamId=76561198302800717) disconnected from server.
+1:9:20 | Player "Tannahasi" (steamId=76561198055205508) connected to server!
+1:9:26 | Player "JaponesDoPirocoptero" (steamId=76561198247375848) disconnected from server.
+1:9:43 | Player "COMUNISTA SAFADO" (steamId=76561198061076633) disconnected from server.
+1:10:17 | "BRUXO": (steamid=76561198140728342) teleported to (pos=10882.6,0,8758.31)
+1:10:20 | "BRUXO" (steamid=76561198140728342) toggled freecam
+1:10:23 | "BRUXO" (steamid=76561198140728342) toggled freecam
+1:10:25 | "BRUXO" (steamid=76561198140728342) toggled freecam
+1:10:26 | "BRUXO" (steamid=76561198140728342) toggled freecam
+1:10:26 | "BRUXO" (steamid=76561198140728342) toggled freecam
+1:10:28 | "BRUXO" (steamid=76561198140728342) toggled freecam
+1:10:28 | [WeatherManager] Send Data Count is 0
+1:10:33 | "BRUXO" (steamid=76561198140728342) toggled freecam
+1:10:37 | [Time Manager] Setting Date to 2022/9/29 4:38
+1:10:48 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<10958.857422, 46.970001, 8692.275391>)
+1:10:49 | "BRUXO" (steamid=76561198140728342) toggled freecam
+1:10:52 | Player "[CSM] Erthal-;-" (steamId=76561198058375936) disconnected from server.
+1:11:10 | [WeatherManager] Send Data Count is 0
+1:11:14 | [Time Manager] Setting Date to 2022/9/29 23:14
+1:11:34 | Player "Leovicenza" (steamId=76561198210338391) disconnected from server.
+1:11:58 | Player "[CSM] Erthal-;-" (steamId=76561198058375936) connected to server!
+1:12:22 | Player "[CSM] Erthal-;-" (steamId=76561198058375936) connected to server!
+1:12:22 | Player "Leovicenza" (steamId=76561198210338391) connected to server!
+1:12:23 | Player "Urso Sovi*tico" (steamId=76561198388966751) connected to server!
+1:12:47 | Player "MaasteR" (steamId=76561198133611345) disconnected from server.
+1:12:49 | Player "Leovicenza" (steamId=76561198210338391) connected to server!
+1:13:22 | Player "=G3= L.REIS" (steamId=76561197965313777) connected to server!
+1:13:38 | Player "=G3= L.REIS" (steamId=76561197965313777) connected to server!
+1:14:14 | "Jaques": (steamid=76561198329721265) teleported to (pos=11066.8,0,8225.19)
+1:14:41 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:14:44 | Player "Virusito 53" (steamId=76561198823437394) connected to server!
+1:14:48 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<11342.460938, 23.170134, 8343.927734>)
+1:14:49 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:15:1 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:15:13 | Player "Estaker" (steamId=76561199105536103) disconnected from server.
+1:15:14 | Player "Estaker" (steamId=76561199105536103) disconnected from server.
+1:15:25 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:15:27 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:15:33 | Player "Estaker" (steamId=76561199105536103) connected to server!
+1:15:42 | Player "Estaker" (steamId=76561199105536103) connected to server!
+1:17:4 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:17:38 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:18:11 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:18:13 | "BRUXO" (steamid=76561198140728342) toggled freecam
+1:18:19 | "BRUXO" (steamid=76561198140728342) toggled freecam
+1:18:40 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:18:44 | Player "Henrico12" (steamId=76561198093808330) disconnected from server.
+1:19:0 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:19:2 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:19:37 | Player "Henrico12" (steamId=76561198093808330) connected to server!
+1:19:55 | Player "Henrico12" (steamId=76561198093808330) connected to server!
+1:19:57 | Player "Apollo" (steamId=76561198068717174) disconnected from server.
+1:20:11 | Player "[hd]marcelinho" (steamId=76561198817477406) disconnected from server.
+1:20:15 | Player "[hd]marcelinho" (steamId=76561198817477406) disconnected from server.
+1:20:23 | Player "ZettGT" (steamId=76561198388825783) disconnected from server.
+1:21:23 | Player "Apollo" (steamId=76561198068717174) connected to server!
+1:21:30 | Player "Bigato" (steamId=76561198192204303) disconnected from server.
+1:21:31 | Player "Bigato" (steamId=76561198192204303) disconnected from server.
+1:21:49 | Player "Apollo" (steamId=76561198068717174) connected to server!
+1:22:50 | "BRUXO" (steamid=76561198140728342) toggled freecam
+1:22:54 | Player "!TALIBAN57_NTC" (steamId=76561198153920981) disconnected from server.
+1:22:56 | Player "!TALIBAN57_NTC" (steamId=76561198153920981) disconnected from server.
+1:22:59 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:23:1 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<9735.078125, 8.114198, 9293.617188>)
+1:23:4 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<9733.003906, 8.114198, 9291.504883>)
+1:23:6 | "BRUXO" (steamid=76561198140728342) toggled freecam
+1:23:7 | Player "G NO PEITO" (steamId=76561199123625009) disconnected from server.
+1:23:9 | Player "G NO PEITO" (steamId=76561199123625009) disconnected from server.
+1:23:13 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+1:23:13 | Player "Operguer" (steamId=76561198031245537) disconnected from server.
+1:23:13 | Player "!TALIBAN57_NTC" (steamId=76561198153920981) connected to server!
+1:23:15 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+1:23:16 | "Jaques": (steamid=76561198329721265) teleported to (pos=8789.64,0,11236.1)
+1:23:21 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:23:25 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:23:26 | Player "Leozao" (steamId=76561198068181404) connected to server!
+1:23:27 | Player "!TALIBAN57_NTC" (steamId=76561198153920981) connected to server!
+1:23:31 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:23:42 | Player "Aguimaro" (steamId=76561198408987315) disconnected from server.
+1:24:2 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8875.678711, 39.257309, 11375.484375>)
+1:24:3 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:24:16 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:24:19 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8876.663086, 39.669319, 11379.452148>)
+1:24:19 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:24:25 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8877.541992, 35.211014, 11384.424805>)
+1:24:26 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:24:28 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8877.519531, 40.083694, 11389.634766>)
+1:24:28 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:24:29 | Player "Leozao" (steamId=76561198068181404) connected to server!
+1:24:33 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8877.331055, 39.716751, 11384.486328>)
+1:24:39 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8877.018555, 38.121674, 11376.763672>)
+1:24:40 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8877.190430, 38.904587, 11381.980469>)
+1:24:41 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8877.475586, 39.857140, 11386.811523>)
+1:24:45 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8871.571289, 41.928001, 11400.814453>)
+1:24:47 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8876.927734, 38.244133, 11412.052734>)
+1:24:48 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8878.588867, 39.719391, 11412.745117>)
+1:24:51 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8877.283203, 39.877071, 11390.788086>)
+1:24:58 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8871.866211, 40.879974, 11402.317383>)
+1:25:0 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8874.112305, 40.181412, 11395.900391>)
+1:25:10 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8877.104492, 38.034981, 11381.071289>)
+1:25:10 | Player "[CSM] !Many" (steamId=76561198996676933) disconnected from server.
+1:25:11 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8877.840820, 38.062160, 11393.020508>)
+1:25:13 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:25:16 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8876.911133, 39.502468, 11381.449219>)
+1:25:17 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:25:22 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8875.559570, 39.143169, 11373.860352>)
+1:25:26 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8876.289063, 38.986992, 11376.797852>)
+1:25:27 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8875.765625, 39.362823, 11374.807617>)
+1:25:30 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8878.270508, 40.068504, 11370.014648>)
+1:25:38 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8875.555664, 37.043030, 11373.504883>)
+1:25:41 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8978.529297, 642.766541, 12281.740234>)
+1:25:42 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:25:47 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:25:48 | "Jaques": (steamid=76561198329721265) teleported to (pos=8768.36,0,11388.6)
+1:25:51 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:25:55 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8778.704102, 41.565571, 11408.961914>)
+1:25:55 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:25:55 | Player "=G3= wellbert" (steamId=76561198914685824) connected to server!
+1:25:59 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:25:59 | Player "Chacal" (steamId=76561199083408122) connected to server!
+1:26:3 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8876.343750, 39.462685, 11382.415039>)
+1:26:3 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:26:12 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:26:14 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8876.791016, 39.488663, 11381.121094>)
+1:26:14 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:26:18 | Player "Jaques" (steamId=76561198329721265) disconnected from server.
+1:26:18 | Player "Jaques" (steamId=76561198329721265) re-connected to server [canceledLogout]
+1:26:20 | Player "Chacal" (steamId=76561199083408122) connected to server!
+1:26:30 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:26:35 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8829.181641, 29.555237, 11391.925781>)
+1:26:35 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:26:43 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8790.881836, 41.112148, 11421.396484>)
+1:26:47 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:26:49 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:26:51 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:27:2 | Player "=G3= wellbert" (steamId=76561198914685824) connected to server!
+1:27:2 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:27:8 | "Jaques": (steamid=76561198329721265) teleported to (pos=10335.2,0,12579.5)
+1:27:11 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:27:31 | Player "SantosR" (steamId=76561198269382940) connected to server!
+1:27:38 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:27:43 | "Jaques": (steamid=76561198329721265) teleported to (pos=10129,0,10730.3)
+1:27:47 | Player "TetaMucha" (steamId=76561198253386609) connected to server!
+1:27:47 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:27:59 | Player "TetaMucha" (steamId=76561198253386609) connected to server!
+1:28:4 | Player "SantosR" (steamId=76561198269382940) connected to server!
+1:28:21 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<10275.048828, 6.104971, 10471.433594>)
+1:28:23 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:28:25 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:28:32 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:28:33 | Player "bistecinha30" (steamId=76561198171642523) disconnected from server.
+1:28:35 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:29:23 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<10281.913086, 2.784216, 9601.815430>)
+1:29:27 | Player "ANOMALIC" (steamId=76561199083033045) connected to server!
+1:29:32 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:29:33 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:29:42 | Player "ANOMALIC" (steamId=76561199083033045) connected to server!
+1:29:57 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:30:13 | "Jaques": (steamid=76561198329721265) teleported to (pos=8152.32,0,8513.45)
+1:30:17 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:30:24 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8124.286133, 237.627472, 8427.621094>)
+1:30:25 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:30:31 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:30:38 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8173.302734, 211.063889, 8459.995117>)
+1:30:38 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:31:10 | Player "[horda]marcelinho" (steamId=76561198817477406) connected to server!
+1:31:21 | "Jaques": (steamid=76561198329721265) teleported to (pos=7975.58,0,9462.23)
+1:31:26 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:31:29 | Player "[horda]marcelinho" (steamId=76561198817477406) connected to server!
+1:32:11 | Player "[LF] =_= TETE" (steamId=76561198129409870) disconnected from server.
+1:32:14 | Player "[LF] =_= TETE" (steamId=76561198129409870) disconnected from server.
+1:32:50 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:33:4 | Player "Virusito 53" (steamId=76561198823437394) disconnected from server.
+1:33:8 | "Jaques": (steamid=76561198329721265) teleported to (pos=10600.4,0,8457.69)
+1:33:10 | Player "FBI17" (steamId=76561199221965397) disconnected from server.
+1:33:12 | Player "FBI17" (steamId=76561199221965397) disconnected from server.
+1:33:14 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:33:34 | Player "Virusito 53" (steamId=76561198823437394) connected to server!
+1:33:56 | Player "Virusito 53" (steamId=76561198823437394) connected to server!
+1:33:59 | Player "Chacal" (steamId=76561199083408122) disconnected from server.
+1:34:13 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:34:33 | "Jaques": (steamid=76561198329721265) teleported to (pos=10342.5,0,10297.5)
+1:34:37 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:34:38 | Player "P 3 S A D 3 L O" (steamId=76561198277384503) disconnected from server.
+1:34:43 | Player "=G3= CHUPO NO SIGILO " (steamId=76561199037080751) connected to server!
+1:35:3 | Player "=G3= CHUPO NO SIGILO " (steamId=76561199037080751) connected to server!
+1:35:11 | Player "Bigato" (steamId=76561198192204303) connected to server!
+1:35:16 | Player "SantosR" (steamId=76561198269382940) disconnected from server.
+1:35:18 | Player "SantosR" (steamId=76561198269382940) disconnected from server.
+1:35:29 | Player "Bigato" (steamId=76561198192204303) connected to server!
+1:35:29 | Player "!TALIBAN57_NTC" (steamId=76561198153920981) disconnected from server.
+1:35:54 | Player "TetaMucha" (steamId=76561198253386609) disconnected from server.
+1:36:6 | Player "Chacal" (steamId=76561199083408122) connected to server!
+1:36:7 | Player "Kenne" (steamId=76561199162256124) disconnected from server.
+1:36:26 | Player "Chacal" (steamId=76561199083408122) connected to server!
+1:36:28 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:36:36 | Player "Chacal" (steamId=76561199083408122) disconnected from server.
+1:36:37 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:36:39 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:36:44 | Player "TetaMucha" (steamId=76561198253386609) connected to server!
+1:36:49 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:37:5 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:37:27 | Player "Chacal" (steamId=76561199083408122) connected to server!
+1:37:37 | Player "Kenne" (steamId=76561199162256124) connected to server!
+1:37:38 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:37:45 | Player "Kenne" (steamId=76561199162256124) connected to server!
+1:37:48 | Player "Chacal" (steamId=76561199083408122) connected to server!
+1:38:15 | Player "Recruta" (steamId=76561199018999780) disconnected from server.
+1:38:17 | Player "TetaMucha" (steamId=76561198253386609) connected to server!
+1:38:21 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:38:23 | Player "Recruta" (steamId=76561199018999780) disconnected from server.
+1:38:29 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:38:45 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:38:51 | "Jaques": (steamid=76561198329721265) teleported to (pos=8809.75,0,11421.4)
+1:38:55 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:38:56 | Player "McMillan [eW]" (steamId=76561199141850356) disconnected from server.
+1:39:28 | "Jaques" (steamid=76561198329721265) toggled freecam
+1:39:32 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8791.864258, 43.769180, 11422.285156>)
+1:39:37 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8817.368164, 29.668556, 11400.551758>)
+1:39:42 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8791.752930, 41.337063, 11420.758789>)
+1:40:49 | "Jaques" (steamid=76561198329721265) teleported to crosshair (pos=<8790.910156, 50.673985, 11425.463867>)
+1:41:9 | Player "Recruta" (steamId=76561199018999780) connected to server!
+1:41:28 | Player "Recruta" (steamId=76561199018999780) connected to server!
+1:43:24 | "Jaques": (steamid=76561198329721265) teleported to (pos=9428.29,0,5874.01)
+1:43:38 | Player "{DVS} Chuleta" (steamId=76561198103223060) connected to server!
+1:43:42 | Player "Jaques" (steamId=76561198329721265) disconnected from server.
+1:43:44 | Player "Jaques" (steamId=76561198329721265) disconnected from server.
+1:44:42 | Player "!TALIBAN57_NTC" (steamId=76561198153920981) connected to server!
+1:44:46 | Player "[CSM] !Many" (steamId=76561198996676933) connected to server!
+1:44:59 | Player "!TALIBAN57_NTC" (steamId=76561198153920981) connected to server!
+1:45:9 | Player "Tannahasi" (steamId=76561198055205508) disconnected from server.
+1:45:10 | Player "Tannahasi" (steamId=76561198055205508) disconnected from server.
+1:45:16 | Player "[CSM] !Many" (steamId=76561198996676933) connected to server!
+1:45:37 | Player "{DVS} Chuleta" (steamId=76561198103223060) connected to server!
+1:45:44 | Player "SantosR" (steamId=76561198269382940) connected to server!
+1:45:59 | Player "SantosR" (steamId=76561198269382940) connected to server!
+1:46:19 | Player "Titio Sam" (steamId=76561199014145539) connected to server!
+1:46:38 | Player "{DVS} SenpaiZ1" (steamId=76561198806693973) connected to server!
+1:46:46 | Player "Titio Sam" (steamId=76561199014145539) connected to server!
+1:46:55 | Player "DanielSam" (steamId=76561198867200764) disconnected from server.
+1:47:3 | Player "DanielSam" (steamId=76561198867200764) connected to server!
+1:47:11 | Player "[MWS] O tal do matador online" (steamId=76561198143888901) disconnected from server.
+1:47:12 | Player "SantosR" (steamId=76561198269382940) disconnected from server.
+1:47:12 | Player "[MWS] O tal do matador online" (steamId=76561198143888901) disconnected from server.
+1:47:14 | Player "Otaldopotas" (steamId=76561198280715944) disconnected from server.
+1:47:14 | Player "SantosR" (steamId=76561198269382940) disconnected from server.
+1:47:20 | Player "Otaldopotas" (steamId=76561198280715944) disconnected from server.
+1:47:24 | Player "{DVS} SenpaiZ1" (steamId=76561198806693973) connected to server!
+1:47:53 | Player "Vitin da Meiota" (steamId=76561198282006222) disconnected from server.
+1:47:54 | Player "Vitin da Meiota" (steamId=76561198282006222) disconnected from server.
+1:47:56 | Player "Muriel" (steamId=76561198205887559) disconnected from server.
+1:47:57 | Player "Muriel" (steamId=76561198205887559) disconnected from server.
+1:48:14 | Player "Virusito 53" (steamId=76561198823437394) disconnected from server.
+1:48:17 | Player "Virusito 53" (steamId=76561198823437394) disconnected from server.
+1:48:56 | Player "Virusito 53" (steamId=76561198823437394) connected to server!
+1:49:53 | Player "TetaMucha" (steamId=76561198253386609) disconnected from server.
+1:49:55 | Player "TetaMucha" (steamId=76561198253386609) disconnected from server.
+1:49:58 | Player "Titio Sam" (steamId=76561199014145539) disconnected from server.
+1:50:27 | Player "TetaMucha" (steamId=76561198253386609) connected to server!
+1:50:40 | Player "TetaMucha" (steamId=76561198253386609) connected to server!
+1:50:59 | [WeatherManager] Send Data Count is 0
+1:52:37 | Player "Titio Sam" (steamId=76561199014145539) connected to server!
+1:52:52 | Player "Titio Sam" (steamId=76561199014145539) connected to server!
+1:53:43 | Player "TROPAcwb" (steamId=76561198852436626) disconnected from server.
+1:55:5 | Player "Daryl" (steamId=76561198994588833) connected to server!
+1:59:9 | Player "Urso Sovi*tico" (steamId=76561198388966751) disconnected from server.
+1:59:15 | Player "Urso Sovi*tico" (steamId=76561198388966751) disconnected from server.
+2:0:21 | Player "CPT-R" (steamId=76561198456404142) disconnected from server.
+2:0:23 | Player "CPT-R" (steamId=76561198456404142) disconnected from server.
+2:1:21 | Player "Fred$rico" (steamId=76561198116552585) disconnected from server.
+2:4:28 | Player "[YAKUZA]-BlackBear" (steamId=76561198343030820) disconnected from server.
+2:6:1 | Player "Muriel" (steamId=76561198205887559) connected to server!
+2:6:17 | Player "Muriel" (steamId=76561198205887559) connected to server!
+2:6:41 | Player "Rodrigo Boca Br#4768" (steamId=76561198856289994) connected to server!
+2:8:47 | Player "GRSsrx" (steamId=76561198083394897) connected to server!
+2:10:34 | Player "yDead??" (steamId=76561198115306226) connected to server!
+2:13:28 | Player "DanielSam" (steamId=76561198867200764) disconnected from server.
+2:16:5 | Player "zany" (steamId=76561198412332550) connected to server!
+2:16:22 | Player "zany" (steamId=76561198412332550) connected to server!
+2:16:37 | Player "Peter" (steamId=76561198407983008) disconnected from server.
+2:17:11 | Player "Muquifo" (steamId=76561198810388133) disconnected from server.
+2:17:23 | Player "Espinoza" (steamId=76561199111555702) disconnected from server.
+2:18:41 | Player "Peter" (steamId=76561198407983008) connected to server!
+2:21:48 | Player "{DVS} Chuleta" (steamId=76561198103223060) disconnected from server.
+2:21:51 | Player "{DVS} Chuleta" (steamId=76561198103223060) disconnected from server.
+2:25:6 | Player "redbird" (steamId=76561198119602582) connected to server!
+2:28:27 | Player "redbird" (steamId=76561198119602582) connected to server!
+2:36:19 | Player "PS" (steamId=76561198442374913) connected to server!
+2:36:39 | Player "[DY] FROZEN " (steamId=76561198161060673) connected to server!
+2:36:52 | Player "[DY] FROZEN " (steamId=76561198161060673) connected to server!
+2:36:54 | Player "Okleyon" (steamId=76561198148360760) connected to server!
+2:37:41 | Player "Okleyon" (steamId=76561198148360760) connected to server!
+2:41:0 | Player "[DY] FROZEN " (steamId=76561198161060673) disconnected from server.
+2:41:1 | Player "[DY] FROZEN " (steamId=76561198161060673) disconnected from server.
+2:41:31 | Player "Survivor" (steamId=76561198034118279) connected to server!
+2:43:24 | Player "Peter" (steamId=76561198407983008) connected to server!
+2:43:50 | Player "Andreft" (steamId=76561198141325952) connected to server!
+2:44:7 | Player "DarguZ" (steamId=76561198062736641) connected to server!
+2:44:10 | Player "Andreft" (steamId=76561198141325952) connected to server!
+2:44:21 | Player "Notsniw" (steamId=76561197967151252) disconnected from server.
+2:44:23 | Player "Notsniw" (steamId=76561197967151252) disconnected from server.
+2:45:10 | Player "bearjp" (steamId=76561198164210494) connected to server!
+2:47:27 | Player "HT PINADOR" (steamId=76561198309584610) connected to server!
+2:48:7 | Player "HT PINADOR" (steamId=76561198309584610) connected to server!
+2:48:42 | Player "=G3= DedeziN" (steamId=76561199217687395) disconnected from server.
+2:48:43 | Player "=G3= DedeziN" (steamId=76561199217687395) disconnected from server.
+2:50:16 | Player "zany" (steamId=76561198412332550) disconnected from server.
+2:50:52 | Player "Recruta" (steamId=76561199018999780) disconnected from server.
+2:51:1 | Player "Peter" (steamId=76561198407983008) disconnected from server.
+2:51:4 | Player "Peter" (steamId=76561198407983008) disconnected from server.
+2:53:5 | Player "agabOpravo6" (steamId=76561198285888363) connected to server!
+2:53:24 | Player "agabOpravo6" (steamId=76561198285888363) connected to server!
+2:54:38 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) disconnected from server.
+2:54:39 | Player "[MNC] Guaipeca" (steamId=76561198082814042) disconnected from server.
+2:54:43 | Player "[MNC] Guaipeca" (steamId=76561198082814042) disconnected from server.
+2:54:50 | Player "Soft Porn" (steamId=76561198047309186) connected to server!
+2:54:57 | Player "Priori Gamer" (steamId=76561198051427035) disconnected from server.
+2:55:5 | Player "[horda]marcelinho" (steamId=76561198817477406) disconnected from server.
+2:55:11 | Player "[horda]marcelinho" (steamId=76561198817477406) disconnected from server.
+2:55:49 | Player "-SNIPER_ALISSON_" (steamId=76561198303483742) disconnected from server.
+2:57:6 | Player "Henrico12" (steamId=76561198093808330) disconnected from server.
+2:57:8 | Player "Henrico12" (steamId=76561198093808330) disconnected from server.
+2:57:12 | Player "TcheLoco" (steamId=76561198099449370) disconnected from server.
+2:57:14 | Player "TcheLoco" (steamId=76561198099449370) disconnected from server.
+2:57:18 | Player "snZ" (steamId=76561198237000930) disconnected from server.
+2:58:22 | Player "HT PINADOR" (steamId=76561198309584610) disconnected from server.
+2:58:22 | Player "Estaker" (steamId=76561199105536103) disconnected from server.
+2:58:22 | Player "DarguZ" (steamId=76561198062736641) disconnected from server.
+2:58:22 | Player "nickk" (steamId=76561198034118279) disconnected from server.
+2:58:22 | Player "Einsen" (steamId=76561198103936746) disconnected from server.
+2:58:22 | Player "Andreft" (steamId=76561198141325952) disconnected from server.
+2:58:22 | Player "FELIZARDO" (steamId=76561199090866217) disconnected from server.
+2:58:22 | Player "Okleyon" (steamId=76561198148360760) disconnected from server.
+2:58:22 | Player "mateusna" (steamId=76561198989861938) disconnected from server.
+2:58:22 | Player "agabOpravo6" (steamId=76561198285888363) disconnected from server.
+2:58:22 | Player "[CSM] !Many" (steamId=76561198996676933) disconnected from server.
+2:58:22 | Player "Muriel" (steamId=76561198205887559) disconnected from server.
+2:58:22 | Player "faisca " (steamId=76561198963172042) disconnected from server.
+2:58:22 | Player "SpocK" (steamId=76561198084137191) disconnected from server.
+2:58:22 | Player "{DVS} SenpaiZ1" (steamId=76561198806693973) disconnected from server.
+2:58:22 | Player "Chacal" (steamId=76561199083408122) disconnected from server.
+2:58:22 | Player "GRSsrx" (steamId=76561198083394897) disconnected from server.
+2:58:22 | Player "=G3= CHUPO NO SIGILO " (steamId=76561199037080751) disconnected from server.
+2:58:22 | Player "Titio Sam" (steamId=76561199014145539) disconnected from server.
+2:58:22 | Player "redbird" (steamId=76561198119602582) disconnected from server.
+2:58:22 | Player "PS" (steamId=76561198442374913) disconnected from server.
+2:58:22 | Player "TetaMucha" (steamId=76561198253386609) disconnected from server.
+2:58:22 | Player "!TALIBAN57_NTC" (steamId=76561198153920981) disconnected from server.
+2:58:22 | Player "MELIANTE" (steamId=76561198081387626) disconnected from server.
+2:58:22 | Player "Bigato" (steamId=76561198192204303) disconnected from server.
+2:58:22 | Player "Kenne" (steamId=76561199162256124) disconnected from server.
+2:58:22 | Player "ANOMALIC" (steamId=76561199083033045) disconnected from server.
+2:58:22 | Player "Leozao" (steamId=76561198068181404) disconnected from server.
+2:58:22 | Player "WellCwB" (steamId=76561198859572965) disconnected from server.
+2:58:22 | Player "Luzbelito" (steamId=76561198428246117) disconnected from server.
+2:58:22 | Player "[G.M.] RONALDO" (steamId=76561197981004098) disconnected from server.
+2:58:22 | Player "[BNVS]xupyra" (steamId=76561198258911731) disconnected from server.

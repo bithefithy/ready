@@ -1,0 +1,1023 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-2-13_15-1-25
+====================================================================================
+15:1:25 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+15:1:25 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+15:1:25 | [PermissionManager] Perm (FreeCamera) has been registered!
+15:1:25 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuItemManager) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuServerManager) has been registered!
+15:1:25 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+15:1:25 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+15:1:25 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+15:1:25 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+15:1:25 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+15:1:25 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+15:1:25 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+15:1:25 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+15:1:25 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+15:1:25 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+15:1:25 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+15:1:25 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+15:1:25 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+15:1:25 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+15:1:25 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+15:1:25 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+15:1:25 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+15:1:25 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+15:1:25 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+15:1:25 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+15:1:25 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+15:1:25 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+15:1:25 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+15:1:25 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+15:1:25 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+15:1:25 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+15:1:25 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+15:1:25 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+15:1:25 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+15:1:25 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+15:1:25 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+15:1:25 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+15:1:25 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuBansManager) has been registered!
+15:1:25 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+15:1:25 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+15:1:25 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+15:1:25 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+15:1:25 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+15:1:25 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+15:1:25 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+15:1:25 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+15:1:25 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+15:1:25 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+15:1:25 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+15:1:25 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+15:1:25 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+15:1:25 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+15:1:25 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+15:1:25 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+15:1:25 | [PermissionManager] Adding Super Admin (76561198253386609)
+15:1:25 | [PermissionManager] Adding Super Admin (76561198442072760)
+15:1:25 | [PermissionManager] Adding Super Admin (76561198950594742)
+15:1:25 | [PermissionManager] Adding Super Admin (76561198329721265)
+15:1:25 | [PermissionManager] Loaded UserGroups.json
+15:1:25 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+15:1:25 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+15:1:25 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+15:1:25 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+15:1:25 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+15:1:25 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+15:1:25 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+15:1:25 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+15:1:25 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+15:1:25 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+15:1:25 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+15:1:25 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+15:1:25 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+15:1:25 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+15:1:25 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+15:1:25 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+15:1:25 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+15:1:25 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+15:1:25 | Building Sets Loaded: 2
+15:2:24 | Player "[LMM]Sargentolmm" (steamId=76561197993431575) connected to server!
+15:2:24 | Player "ATIRADOR" (steamId=76561199101972011) connected to server!
+15:2:24 | Player "NoobMaster" (steamId=76561198953587456) connected to server!
+15:2:24 | Player "SANTANA" (steamId=76561199228878387) connected to server!
+15:2:24 | Player "MBrown" (steamId=76561198834441216) connected to server!
+15:2:25 | Player "[LMM] Menor Costelinha" (steamId=76561198070585796) connected to server!
+15:2:26 | Player "[Mercenarios] Rambo" (steamId=76561198375135263) connected to server!
+15:2:26 | Player "Baka182" (steamId=76561198283309946) connected to server!
+15:2:29 | Player "[LMM]rogerin bala fina" (steamId=76561197999736796) connected to server!
+15:2:30 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) connected to server!
+15:2:43 | Player "MBrown" (steamId=76561198834441216) connected to server!
+15:2:43 | Player "ATIRADOR" (steamId=76561199101972011) connected to server!
+15:2:43 | Player "[LMM] Menor Costelinha" (steamId=76561198070585796) connected to server!
+15:2:43 | Player "[LMM]Sargentolmm" (steamId=76561197993431575) connected to server!
+15:2:43 | Player "SANTANA" (steamId=76561199228878387) connected to server!
+15:2:43 | Player "[Mercenarios] Rambo" (steamId=76561198375135263) connected to server!
+15:2:46 | Player "[Mercenarios] Paje" (steamId=76561198199599815) connected to server!
+15:2:48 | Player "FURUNCULO" (steamId=76561198977442855) connected to server!
+15:2:50 | Player "[LMM]rogerin bala fina" (steamId=76561197999736796) connected to server!
+15:2:50 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) connected to server!
+15:2:50 | Player "[G.M] DOLAR" (steamId=76561199202648397) connected to server!
+15:2:50 | Player "marquinho" (steamId=76561198925056081) connected to server!
+15:2:52 | Player "[oSGANGACEIROS] Moita Brava" (steamId=76561198031925978) connected to server!
+15:2:52 | Player "<CN>TMs" (steamId=76561197963645902) connected to server!
+15:2:58 | Player "FURUNCULO" (steamId=76561198977442855) connected to server!
+15:2:58 | Player "marquinho" (steamId=76561198925056081) connected to server!
+15:3:0 | Player "[G.M] DOLAR" (steamId=76561199202648397) connected to server!
+15:3:0 | Player "a1dry" (steamId=76561197996112973) connected to server!
+15:3:0 | Player "Baka182" (steamId=76561198283309946) connected to server!
+15:3:1 | Player "Spiritox" (steamId=76561197996288265) connected to server!
+15:3:2 | Player "NoobMaster" (steamId=76561198953587456) connected to server!
+15:3:5 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) connected to server!
+15:3:8 | Player "<CN>TMs" (steamId=76561197963645902) connected to server!
+15:3:13 | Player "[oSGANGACEIROS] Moita Brava" (steamId=76561198031925978) connected to server!
+15:3:16 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) connected to server!
+15:3:18 | Player "a1dry" (steamId=76561197996112973) connected to server!
+15:3:19 | Player "Spiritox" (steamId=76561197996288265) connected to server!
+15:3:33 | Player "[Mercenarios] Paje" (steamId=76561198199599815) connected to server!
+15:5:31 | Player "[mercenarios] striker" (steamId=76561198801415744) connected to server!
+15:5:35 | Player "ADM MARK" (steamId=76561198950594742) connected to server!
+15:6:31 | Player "AVG // STARK" (steamId=76561198133211909) connected to server!
+15:6:32 | Player "ADM MARK" (steamId=76561198950594742) connected to server!
+15:6:41 | Player "AVG // STARK" (steamId=76561198133211909) connected to server!
+15:7:5 | Player "[mercenarios] striker" (steamId=76561198801415744) connected to server!
+15:7:46 | "ADM MARK": (steamid=76561198950594742) teleported to (pos=3734.17,0,6003)
+15:8:8 | "ADM MARK" (steamid=76561198950594742) toggled freecam
+15:9:44 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Green Mountain.vpp
+15:9:44 | [BuildingSetManager] Saving & Reloading Building Set:Green Mountain
+15:9:44 | "ADM MARK" (steamid=76561198950594742) updated building set (Green Mountain)
+15:9:44 | [BuildingSetManager] Deleted file: Green Mountain
+15:9:44 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Green Mountain.vpp
+15:10:36 | Player "Jack" (steamId=76561199217192999) connected to server!
+15:11:0 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3703.096191, 402.344910, 6007.668457>)
+15:11:2 | "ADM MARK" (steamid=76561198950594742) toggled freecam
+15:11:15 | "ADM MARK" (steamid=76561198950594742) toggled freecam
+15:11:20 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3708.929688, 435.556458, 5985.344238>)
+15:11:25 | "ADM MARK" (steamid=76561198950594742) toggled freecam
+15:11:26 | "ADM MARK" (steamid=76561198950594742) toggled freecam
+15:11:34 | Player "Jack" (steamId=76561199217192999) connected to server!
+15:12:35 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Green Mountain.vpp
+15:12:35 | [BuildingSetManager] Saving & Reloading Building Set:Green Mountain
+15:12:35 | "ADM MARK" (steamid=76561198950594742) updated building set (Green Mountain)
+15:12:35 | [BuildingSetManager] Deleted file: Green Mountain
+15:12:35 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Green Mountain.vpp
+15:13:29 | "ADM MARK" (steamid=76561198950594742) toggled freecam
+15:13:46 | "ADM MARK" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+15:15:16 | "ADM MARK" (steamid=76561198950594742) toggled freecam
+15:15:25 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3589.326172, 14.296277, 2161.340332>)
+15:15:35 | Player "SANTANA" (steamId=76561199228878387) disconnected from server.
+15:15:39 | Player "[CMDs]MrZulu" (steamId=76561198133335010) connected to server!
+15:16:33 | Player "[CMDs]MrZulu" (steamId=76561198133335010) connected to server!
+15:16:35 | Player "Lampi*o" (steamId=76561199031402791) connected to server!
+15:16:43 | Player "Lampi*o" (steamId=76561199031402791) connected to server!
+15:16:46 | "ADM MARK" (steamid=76561198950594742) toggled freecam
+15:16:59 | Player "wololo" (steamId=76561197991155980) connected to server!
+15:17:11 | "ADM MARK": (steamid=76561198950594742) teleported to (pos=2697.87,0,3287.32)
+15:17:19 | "ADM MARK" (steamid=76561198950594742) toggled freecam
+15:17:20 | Player "wololo" (steamId=76561197991155980) connected to server!
+15:17:52 | "ADM MARK" (steamid=76561198950594742) toggled freecam
+15:18:16 | "ADM MARK": (steamid=76561198950594742) teleported to (pos=3727.77,0,6009.52)
+15:18:21 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3716.145020, 402.000000, 6002.611328>)
+15:18:21 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3711.176025, 402.000000, 5998.767578>)
+15:19:34 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Green Mountain.vpp
+15:19:34 | [BuildingSetManager] Saving & Reloading Building Set:Green Mountain
+15:19:34 | "ADM MARK" (steamid=76561198950594742) updated building set (Green Mountain)
+15:19:34 | [BuildingSetManager] Deleted file: Green Mountain
+15:19:34 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Green Mountain.vpp
+15:20:51 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Green Mountain.vpp
+15:20:51 | [BuildingSetManager] Saving & Reloading Building Set:Green Mountain
+15:20:51 | "ADM MARK" (steamid=76561198950594742) updated building set (Green Mountain)
+15:20:51 | [BuildingSetManager] Deleted file: Green Mountain
+15:20:51 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Green Mountain.vpp
+15:20:53 | Player "Lampi*o" (steamId=76561199031402791) disconnected from server.
+15:21:3 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Green Mountain.vpp
+15:21:3 | [BuildingSetManager] Saving & Reloading Building Set:Green Mountain
+15:21:3 | "ADM MARK" (steamid=76561198950594742) updated building set (Green Mountain)
+15:21:3 | [BuildingSetManager] Deleted file: Green Mountain
+15:21:3 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Green Mountain.vpp
+15:21:33 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Green Mountain.vpp
+15:21:33 | [BuildingSetManager] Saving & Reloading Building Set:Green Mountain
+15:21:33 | "ADM MARK" (steamid=76561198950594742) updated building set (Green Mountain)
+15:21:33 | [BuildingSetManager] Deleted file: Green Mountain
+15:21:33 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Green Mountain.vpp
+15:21:50 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Green Mountain.vpp
+15:21:50 | [BuildingSetManager] Saving & Reloading Building Set:Green Mountain
+15:21:50 | "ADM MARK" (steamid=76561198950594742) updated building set (Green Mountain)
+15:21:50 | [BuildingSetManager] Deleted file: Green Mountain
+15:21:50 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Green Mountain.vpp
+15:21:59 | Player "G.a.b.i.r.u" (steamId=76561198982226615) connected to server!
+15:22:19 | Player "G.a.b.i.r.u" (steamId=76561198982226615) connected to server!
+15:22:39 | Player "[C.Q.C] C.o.b.r.a mamba-negra" (steamId=76561199026833124) connected to server!
+15:22:52 | Player "[C.Q.C] C.o.b.r.a mamba-negra" (steamId=76561199026833124) connected to server!
+15:23:7 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Green Mountain.vpp
+15:23:7 | [BuildingSetManager] Saving & Reloading Building Set:Green Mountain
+15:23:7 | "ADM MARK" (steamid=76561198950594742) updated building set (Green Mountain)
+15:23:7 | [BuildingSetManager] Deleted file: Green Mountain
+15:23:7 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Green Mountain.vpp
+15:26:59 | Player "<CN>TMs" (steamId=76561197963645902) disconnected from server.
+15:27:7 | Player "ATIRADOR" (steamId=76561199101972011) disconnected from server.
+15:27:12 | Player "ATIRADOR" (steamId=76561199101972011) disconnected from server.
+15:27:42 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3690.736328, 410.405304, 5983.289551>)
+15:27:43 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3688.460693, 410.018250, 5989.538574>)
+15:27:43 | Player "ATIRADOR" (steamId=76561199101972011) connected to server!
+15:27:45 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3688.322510, 406.262329, 5992.881348>)
+15:27:46 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3686.905029, 410.890869, 5993.810059>)
+15:27:52 | Player "ATIRADOR" (steamId=76561199101972011) connected to server!
+15:29:48 | Player "[G.M] Pasquali" (steamId=76561198263485273) connected to server!
+15:30:12 | Player "[G.M] Pasquali" (steamId=76561198263485273) connected to server!
+15:31:16 | Player "GabyZik4" (steamId=76561198177159459) connected to server!
+15:33:1 | Player "[G.M] DOLAR" (steamId=76561199202648397) disconnected from server.
+15:33:2 | Player "FURUNCULO" (steamId=76561198977442855) disconnected from server.
+15:34:49 | Player "G.a.b.i.r.u" (steamId=76561198982226615) disconnected from server.
+15:34:51 | Player "G.a.b.i.r.u" (steamId=76561198982226615) disconnected from server.
+15:36:13 | Player "Yevgeny Zinichev" (steamId=76561199019252205) connected to server!
+15:36:22 | Player "<CN>TMs" (steamId=76561197963645902) connected to server!
+15:36:31 | Player "<CN>TMs" (steamId=76561197963645902) connected to server!
+15:36:35 | Player "Yevgeny Zinichev" (steamId=76561199019252205) connected to server!
+15:36:48 | Player "Spiritox" (steamId=76561197996288265) disconnected from server.
+15:36:52 | Player "Spiritox" (steamId=76561197996288265) disconnected from server.
+15:36:53 | Player "G.a.b.i.r.u" (steamId=76561198982226615) connected to server!
+15:37:6 | Player "G.a.b.i.r.u" (steamId=76561198982226615) connected to server!
+15:37:52 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+15:38:20 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+15:38:55 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3707.382568, 422.303284, 5985.068848>)
+15:38:56 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3707.546143, 427.316101, 5985.481445>)
+15:38:57 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3707.990479, 434.698090, 5986.377441>)
+15:38:59 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3710.310547, 444.156006, 5986.857422>)
+15:39:1 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3711.788818, 445.274231, 5988.019531>)
+15:39:2 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3713.068604, 444.457489, 5989.093750>)
+15:39:7 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3716.879639, 444.890045, 5988.955566>)
+15:39:11 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3716.186279, 444.457489, 5989.878418>)
+15:39:24 | "ADM MARK" (steamid=76561198950594742) toggled freecam
+15:39:24 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+15:39:35 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3715.041992, 475.166229, 5988.199707>)
+15:39:37 | "ADM MARK" (steamid=76561198950594742) toggled freecam
+15:39:50 | "ADM MARK" (steamid=76561198950594742) toggled freecam
+15:39:53 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3716.585693, 434.733734, 5992.651855>)
+15:40:12 | "ADM MARK" (steamid=76561198950594742) toggled freecam
+15:40:13 | "ADM MARK" (steamid=76561198950594742) toggled freecam
+15:40:27 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3718.570801, 422.761658, 5988.458984>)
+15:40:29 | "ADM MARK" (steamid=76561198950594742) toggled freecam
+15:40:29 | Player "[LMM]rogerin bala fina" (steamId=76561197999736796) disconnected from server.
+15:40:44 | Player "[LMM]Sargentolmm" (steamId=76561197993431575) disconnected from server.
+15:40:51 | Player "[LMM]Sargentolmm" (steamId=76561197993431575) disconnected from server.
+15:41:12 | "ADM MARK" (steamid=76561198950594742) toggled freecam
+15:42:41 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+15:42:46 | "ADM MARK" (steamid=76561198950594742) toggled freecam
+15:42:59 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+15:44:8 | Player "ADM MARK" (steamId=76561198950594742) disconnected from server.
+15:44:9 | Player "ADM MARK" (steamId=76561198950594742) re-connected to server [canceledLogout]
+15:44:9 | Player "ADM MARK" (steamId=76561198950594742) re-connected to server [canceledLogout]
+15:44:12 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3695.889160, 402.000000, 5967.361816>)
+15:44:13 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3688.855469, 402.000000, 5963.952637>)
+15:44:14 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<3684.818604, 402.000000, 5968.834473>)
+15:44:16 | Player "ADM MARK" (steamId=76561198950594742) disconnected from server.
+15:44:26 | Player "ADM MARK" (steamId=76561198950594742) disconnected from server.
+15:46:10 | Player "~ES~ TinkWink" (steamId=76561198170630445) connected to server!
+15:46:36 | Player "~ES~ TinkWink" (steamId=76561198170630445) connected to server!
+15:47:35 | Player "RickCrimes" (steamId=76561198372129770) connected to server!
+15:47:37 | Player "GabyZik4" (steamId=76561198177159459) disconnected from server.
+15:47:58 | Player "[LMM] Menor Costelinha" (steamId=76561198070585796) disconnected from server.
+15:47:59 | Player "[LMM] Menor Costelinha" (steamId=76561198070585796) disconnected from server.
+15:51:45 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+15:52:33 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+15:52:56 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+15:53:22 | Player "[SSR] DiegoViniX" (steamId=76561198026082612) connected to server!
+15:54:33 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+15:55:5 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+15:55:27 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+15:57:48 | Player "GabyZik4" (steamId=76561198177159459) connected to server!
+15:57:55 | Player "GabyZik4" (steamId=76561198177159459) connected to server!
+15:58:13 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+15:58:14 | Player "GabyZik4" (steamId=76561198177159459) disconnected from server.
+15:58:27 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) disconnected from server.
+15:58:29 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) disconnected from server.
+15:58:40 | Player "[SSR] DiegoViniX" (steamId=76561198026082612) disconnected from server.
+15:58:43 | Player "[SSR] DiegoViniX" (steamId=76561198026082612) disconnected from server.
+16:0:24 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+16:0:51 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+16:1:41 | Player "Jubileu " (steamId=76561198050629420) connected to server!
+16:2:50 | Player "FURUNCULO" (steamId=76561198977442855) connected to server!
+16:2:58 | Player "FURUNCULO" (steamId=76561198977442855) connected to server!
+16:3:19 | Player "[G.M] DOLAR" (steamId=76561199202648397) connected to server!
+16:3:28 | Player "[G.M] DOLAR" (steamId=76561199202648397) connected to server!
+16:4:4 | Player "[G.M.] DMSpan" (steamId=76561198001622323) connected to server!
+16:4:23 | Player "[G.M.] DMSpan" (steamId=76561198001622323) connected to server!
+16:4:39 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) connected to server!
+16:4:47 | Player "NoobMaster" (steamId=76561198953587456) disconnected from server.
+16:4:50 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) connected to server!
+16:6:48 | Player "[CMDs]MrZulu" (steamId=76561198133335010) disconnected from server.
+16:8:2 | Player "ATIRADOR" (steamId=76561199101972011) disconnected from server.
+16:8:21 | Player "NoobMaster" (steamId=76561198953587456) connected to server!
+16:8:55 | Player "NoobMaster" (steamId=76561198953587456) connected to server!
+16:9:28 | Player "Dorflex" (steamId=76561198216322876) connected to server!
+16:11:38 | Player "[G.M.] DMSpan" (steamId=76561198001622323) disconnected from server.
+16:11:45 | Player "[G.M.] DMSpan" (steamId=76561198001622323) disconnected from server.
+16:12:32 | Player "marquinho" (steamId=76561198925056081) disconnected from server.
+16:12:34 | Player "marquinho" (steamId=76561198925056081) disconnected from server.
+16:12:38 | Player "NINO" (steamId=76561199066707109) connected to server!
+16:15:16 | Player "ATIRADOR" (steamId=76561199101972011) connected to server!
+16:15:21 | Player "[oSGANGACEIROS] Moita Brava" (steamId=76561198031925978) disconnected from server.
+16:15:25 | Player "ATIRADOR" (steamId=76561199101972011) connected to server!
+16:18:0 | Player "<CN>TMs" (steamId=76561197963645902) disconnected from server.
+16:18:2 | Player "<CN>TMs" (steamId=76561197963645902) disconnected from server.
+16:18:16 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) disconnected from server.
+16:18:19 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) disconnected from server.
+16:18:48 | Player "MBrown" (steamId=76561198834441216) disconnected from server.
+16:18:51 | Player "MBrown" (steamId=76561198834441216) disconnected from server.
+16:22:17 | Player "marquinho" (steamId=76561198925056081) connected to server!
+16:22:24 | Player "marquinho" (steamId=76561198925056081) connected to server!
+16:25:52 | Player "marquinho" (steamId=76561198925056081) disconnected from server.
+16:25:55 | Player "marquinho" (steamId=76561198925056081) disconnected from server.
+16:26:2 | Player "Baka182" (steamId=76561198283309946) disconnected from server.
+16:26:13 | Player "[G.M.] DMSpan" (steamId=76561198001622323) connected to server!
+16:26:22 | Player "[G.M.] DMSpan" (steamId=76561198001622323) connected to server!
+16:26:44 | Player "ATIRADOR" (steamId=76561199101972011) disconnected from server.
+16:26:59 | Player "[oSGANGACEIROS] Moita Brava" (steamId=76561198031925978) connected to server!
+16:27:17 | Player "[oSGANGACEIROS] Moita Brava" (steamId=76561198031925978) connected to server!
+16:27:36 | Player "<CN>TMs" (steamId=76561197963645902) connected to server!
+16:28:5 | Player "[RNG] malvadao" (steamId=76561199204902427) connected to server!
+16:28:8 | Player "<CN>TMs" (steamId=76561197963645902) connected to server!
+16:28:21 | Player "Spiritox" (steamId=76561197996288265) connected to server!
+16:28:23 | Player "HF_d+" (steamId=76561198169386030) connected to server!
+16:28:25 | Player "[RNG] malvadao" (steamId=76561199204902427) connected to server!
+16:28:39 | Player "Spiritox" (steamId=76561197996288265) connected to server!
+16:28:51 | Player "HF_d+" (steamId=76561198169386030) connected to server!
+16:29:17 | Player "FURUNCULO" (steamId=76561198977442855) disconnected from server.
+16:29:19 | Player "FURUNCULO" (steamId=76561198977442855) disconnected from server.
+16:30:13 | Player "MS_Dinamyte" (steamId=76561198866694473) connected to server!
+16:30:32 | Player "FURUNCULO" (steamId=76561198977442855) connected to server!
+16:30:58 | Player "Survivor" (steamId=76561199137762115) connected to server!
+16:31:2 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) connected to server!
+16:31:13 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) connected to server!
+16:32:20 | Player "marquinho" (steamId=76561198925056081) connected to server!
+16:32:23 | Player "MS_Dinamyte" (steamId=76561198866694473) connected to server!
+16:32:29 | Player "marquinho" (steamId=76561198925056081) connected to server!
+16:33:24 | Player "FURUNCULO" (steamId=76561198977442855) connected to server!
+16:34:23 | Player "Survivor" (steamId=76561199137762115) disconnected from server.
+16:34:25 | Player "Survivor" (steamId=76561199137762115) disconnected from server.
+16:34:30 | Player "GabyZik4" (steamId=76561198177159459) connected to server!
+16:35:37 | Player "GabyZik4" (steamId=76561198177159459) connected to server!
+16:36:4 | Player "Survivor" (steamId=76561198964160359) connected to server!
+16:36:28 | Player "[GRM]JubZ" (steamId=76561199046503868) connected to server!
+16:36:43 | Player "[GRM]JubZ" (steamId=76561199046503868) connected to server!
+16:37:53 | Player "Survivor (2)" (steamId=76561199137762115) connected to server!
+16:38:0 | Player "Survivor (2)" (steamId=76561199137762115) connected to server!
+16:44:6 | Player "zCastro" (steamId=76561199027286716) connected to server!
+16:44:23 | Player "zCastro" (steamId=76561199027286716) connected to server!
+16:48:21 | Player "Survivor" (steamId=76561198964160359) disconnected from server.
+16:48:24 | Player "Survivor" (steamId=76561198964160359) disconnected from server.
+16:48:55 | Player "AVG // STARK" (steamId=76561198133211909) disconnected from server.
+16:48:58 | Player "AVG // STARK" (steamId=76561198133211909) disconnected from server.
+16:49:24 | Player "Jack" (steamId=76561199217192999) disconnected from server.
+16:50:24 | Player "RickCrimes" (steamId=76561198372129770) disconnected from server.
+16:50:35 | Player "G.a.b.i.r.u" (steamId=76561198982226615) disconnected from server.
+16:53:27 | Player "~ES~ TinkWink" (steamId=76561198170630445) disconnected from server.
+16:53:32 | Player "~ES~ TinkWink" (steamId=76561198170630445) disconnected from server.
+16:53:52 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+16:53:54 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+16:54:21 | Player "Survivor (2)" (steamId=76561199137762115) disconnected from server.
+16:54:26 | Player "Survivor (2)" (steamId=76561199137762115) disconnected from server.
+16:59:3 | Player "NINO" (steamId=76561199066707109) disconnected from server.
+16:59:3 | Player "Mr.S" (steamId=76561198110560568) connected to server!
+16:59:31 | Player "FURUNCULO" (steamId=76561198977442855) disconnected from server.
+17:0:14 | Player "FURUNCULO" (steamId=76561198977442855) connected to server!
+17:0:22 | Player "FURUNCULO" (steamId=76561198977442855) connected to server!
+17:0:27 | Player "Jubileu " (steamId=76561198050629420) disconnected from server.
+17:0:34 | Player "Survivor" (steamId=76561199174181969) connected to server!
+17:0:40 | Player "GabyZik4" (steamId=76561198177159459) disconnected from server.
+17:1:25 | Player "[Mercenarios] Rambo" (steamId=76561198375135263) disconnected from server.
+17:1:28 | Player "[Mercenarios] Rambo" (steamId=76561198375135263) disconnected from server.
+17:1:50 | Player "[Mercenarios] Rambo" (steamId=76561198375135263) connected to server!
+17:1:59 | Player "[Mercenarios] Rambo" (steamId=76561198375135263) connected to server!
+17:5:8 | Player "Dereguede" (steamId=76561198934345150) connected to server!
+17:6:4 | Player "[G.M] Pasquali" (steamId=76561198263485273) disconnected from server.
+17:8:56 | Player "[GRM]JubZ" (steamId=76561199046503868) disconnected from server.
+17:8:58 | Player "[GRM]JubZ" (steamId=76561199046503868) disconnected from server.
+17:8:59 | Player "zCastro" (steamId=76561199027286716) disconnected from server.
+17:11:20 | Player "[C.Q.C] C.o.b.r.a mamba-negra" (steamId=76561199026833124) disconnected from server.
+17:11:22 | Player "[C.Q.C] C.o.b.r.a mamba-negra" (steamId=76561199026833124) disconnected from server.
+17:11:27 | Player "a1dry" (steamId=76561197996112973) disconnected from server.
+17:11:29 | Player "a1dry" (steamId=76561197996112973) re-connected to server [canceledLogout]
+17:11:51 | Player "a1dry" (steamId=76561197996112973) disconnected from server.
+17:11:58 | Player "[C.Q.C] C.o.b.r.a mamba-negra" (steamId=76561199026833124) connected to server!
+17:12:16 | Player "a1dry" (steamId=76561197996112973) connected to server!
+17:12:19 | Player "[C.Q.C] C.o.b.r.a mamba-negra" (steamId=76561199026833124) connected to server!
+17:12:25 | Player "a1dry" (steamId=76561197996112973) connected to server!
+17:13:24 | Player "KOREA" (steamId=76561198253386609) connected to server!
+17:13:51 | Player "Charlestones" (steamId=76561198333840694) connected to server!
+17:14:3 | Player "Charlestones" (steamId=76561198333840694) connected to server!
+17:14:14 | Player "MBrown" (steamId=76561198834441216) connected to server!
+17:14:21 | Player "MBrown" (steamId=76561198834441216) connected to server!
+17:14:30 | Player "KOREA" (steamId=76561198253386609) connected to server!
+17:14:53 | "KOREA" (steamid=76561198253386609) toggled godmode
+17:15:14 | "KOREA" (steamid=76561198253386609) deleted object "GrozaOptic" (pos=<10116.828125, 149.792648, 13457.840820>)
+17:15:21 | "KOREA" (steamid=76561198253386609) deleted object "Hacksaw" (pos=<10117.744141, 149.888382, 13458.233398>)
+17:15:41 | Player "Mr.S" (steamId=76561198110560568) disconnected from server.
+17:15:57 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<8457.133789, 363.415863, 6657.140625>)
+17:16:11 | "KOREA" (steamid=76561198253386609) toggled freecam
+17:16:13 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<8452.081055, 360.121124, 6659.045898>)
+17:16:15 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<8451.809570, 360.118744, 6658.791504>)
+17:16:15 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<8451.551758, 360.094177, 6656.162109>)
+17:16:19 | "KOREA" (steamid=76561198253386609) toggled freecam
+17:18:22 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenStick)
+17:18:23 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenStick)
+17:18:23 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenStick)
+17:18:23 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenStick)
+17:18:23 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenStick)
+17:18:23 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenStick)
+17:18:23 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenStick)
+17:18:27 | "KOREA" (steamid=76561198253386609) Spawned Item: (Rope)
+17:18:27 | "KOREA" (steamid=76561198253386609) Spawned Item: (Rope)
+17:18:28 | "KOREA" (steamid=76561198253386609) Spawned Item: (Rope)
+17:18:28 | "KOREA" (steamid=76561198253386609) Spawned Item: (Rope)
+17:18:33 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenStick)
+17:18:33 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenStick)
+17:18:33 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenStick)
+17:18:33 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenStick)
+17:18:33 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenStick)
+17:20:41 | "KOREA" (steamid=76561198253386609) Spawned Item: (AdminHatchet)
+17:21:21 | Player "Dereguede" (steamId=76561198934345150) disconnected from server.
+17:21:24 | Player "Dereguede" (steamId=76561198934345150) disconnected from server.
+17:22:12 | Player "FURUNCULO" (steamId=76561198977442855) disconnected from server.
+17:22:25 | "KOREA" (steamid=76561198253386609) deleted object "dp_wall" (pos=<8457.976563, 359.766632, 6666.385254>)
+17:22:40 | Player "FURUNCULO" (steamId=76561198977442855) connected to server!
+17:22:47 | Player "FURUNCULO" (steamId=76561198977442855) connected to server!
+17:23:11 | "KOREA" (steamid=76561198253386609) Spawned Item: (dp_roof_Kit)
+17:23:18 | "KOREA" (steamid=76561198253386609) Spawned Item: (dp_door_Kit)
+17:23:24 | "KOREA" (steamid=76561198253386609) Spawned Item: (dp_window_sheild_kit)
+17:24:6 | Player "Dereguede" (steamId=76561198934345150) connected to server!
+17:25:4 | Player "SrMenma" (steamId=76561199036544004) connected to server!
+17:25:27 | Player "Dereguede" (steamId=76561198934345150) connected to server!
+17:25:41 | "KOREA" (steamid=76561198253386609) deleted objects using ESP
+17:25:48 | Player "[KGB]COVEIRO" (steamId=76561199091851158) connected to server!
+17:25:57 | Player "SrMenma" (steamId=76561199036544004) connected to server!
+17:26:42 | Player "[KGB]COVEIRO" (steamId=76561199091851158) connected to server!
+17:29:18 | Player "[mercenarios] striker" (steamId=76561198801415744) disconnected from server.
+17:29:22 | Player "[oSGANGACEIROS] Moita Brava" (steamId=76561198031925978) disconnected from server.
+17:30:34 | "KOREA" (steamid=76561198253386609) Spawned Item: (SparkPlug)
+17:30:34 | "KOREA" (steamid=76561198253386609) Spawned Item: (SparkPlug)
+17:30:57 | "KOREA" (steamid=76561198253386609) toggled godmode
+17:30:57 | "KOREA" (steamid=76561198253386609) toggled freecam
+17:30:59 | "KOREA" (steamid=76561198253386609) toggled freecam
+17:31:0 | "KOREA" (steamid=76561198253386609) toggled godmode
+17:31:12 | Player "~ES~ TinkWink" (steamId=76561198170630445) connected to server!
+17:31:17 | "KOREA" (steamid=76561198253386609) toggled freecam
+17:31:21 | Player "~ES~ TinkWink" (steamId=76561198170630445) connected to server!
+17:31:21 | "KOREA" (steamid=76561198253386609) toggled freecam
+17:31:34 | Player "[oSGANGACEIROS] Moita Brava" (steamId=76561198031925978) connected to server!
+17:31:57 | Player "[oSGANGACEIROS] Moita Brava" (steamId=76561198031925978) connected to server!
+17:34:13 | Player "chonux" (steamId=76561198287072198) connected to server!
+17:34:23 | Player "KOREA" (steamId=76561198253386609) disconnected from server.
+17:34:24 | Player "KOREA" (steamId=76561198253386609) disconnected from server.
+17:34:27 | Player "chonux" (steamId=76561198287072198) connected to server!
+17:35:51 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+17:36:13 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+17:37:22 | Player "MBrown" (steamId=76561198834441216) disconnected from server.
+17:39:57 | Player "SANTANA" (steamId=76561199228878387) connected to server!
+17:41:26 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) disconnected from server.
+17:41:30 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) disconnected from server.
+17:41:58 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) connected to server!
+17:42:10 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) connected to server!
+17:50:46 | Player "[oSGANGACEIROS] Moita Brava" (steamId=76561198031925978) disconnected from server.
+17:51:27 | Player "yuyo" (steamId=76561198062758154) connected to server!
+17:51:43 | Player "[G.M]LUIS" (steamId=76561199232377127) connected to server!
+17:51:50 | Player "yuyo" (steamId=76561198062758154) connected to server!
+17:52:19 | Player "[mercenarios] striker" (steamId=76561198801415744) connected to server!
+17:52:29 | Player "[G.M]LUIS" (steamId=76561199232377127) connected to server!
+17:52:31 | Player "[mercenarios] striker" (steamId=76561198801415744) connected to server!
+17:52:34 | Player "<CN>TMs" (steamId=76561197963645902) disconnected from server.
+17:52:37 | Player "<CN>TMs" (steamId=76561197963645902) disconnected from server.
+17:53:38 | Player "Lampi*o" (steamId=76561199031402791) connected to server!
+17:53:38 | Player "[G.M]LUIS" (steamId=76561199232377127) disconnected from server.
+17:53:53 | Player "Lampi*o" (steamId=76561199031402791) connected to server!
+17:54:7 | Player "[oSGANGACEIROS] Moita Brava" (steamId=76561198031925978) connected to server!
+17:54:29 | Player "[oSGANGACEIROS] Moita Brava" (steamId=76561198031925978) connected to server!
+17:56:7 | Player "[GRM] OTG" (steamId=76561198438824008) connected to server!
+17:56:9 | Player "[G.M]LUIS" (steamId=76561199232377127) connected to server!
+17:56:58 | Player "[GRM] OTG" (steamId=76561198438824008) connected to server!
+17:56:59 | Player "[G.M]LUIS" (steamId=76561199232377127) connected to server!
+17:57:50 | Player "Noopyck [LEG] " (steamId=76561199211841089) connected to server!
+17:58:4 | Player "Noopyck [LEG] " (steamId=76561199211841089) connected to server!
+18:0:43 | Player "Dereguede" (steamId=76561198934345150) disconnected from server.
+18:0:45 | Player "Dereguede" (steamId=76561198934345150) disconnected from server.
+18:1:12 | Player "zCastro" (steamId=76561199027286716) connected to server!
+18:1:20 | Player "zCastro" (steamId=76561199027286716) connected to server!
+18:2:15 | Player "[Mercenarios] Paje" (steamId=76561198199599815) disconnected from server.
+18:2:19 | Player "[Mercenarios] Paje" (steamId=76561198199599815) disconnected from server.
+18:2:54 | Player "ADM Firewall" (steamId=76561198329721265) connected to server!
+18:3:11 | Player "ADM Firewall" (steamId=76561198329721265) connected to server!
+18:3:34 | "ADM Firewall" (steamid=76561198329721265) healed player (steamid=76561198329721265)
+18:3:36 | "ADM Firewall" (steamid=76561198329721265) gave godmode to (steamid=76561198329721265)
+18:3:42 | Player "wololo" (steamId=76561197991155980) disconnected from server.
+18:4:20 | Player "[RNG] malvadao" (steamId=76561199204902427) disconnected from server.
+18:4:22 | Player "[RNG] malvadao" (steamId=76561199204902427) disconnected from server.
+18:4:43 | Player "[RNG] malvadao" (steamId=76561199204902427) connected to server!
+18:4:51 | Player "[RNG] malvadao" (steamId=76561199204902427) connected to server!
+18:4:55 | Player "[C.Q.C] C.o.b.r.a mamba-negra" (steamId=76561199026833124) disconnected from server.
+18:4:57 | Player "[C.Q.C] C.o.b.r.a mamba-negra" (steamId=76561199026833124) disconnected from server.
+18:5:17 | Player "[C.Q.C] C.o.b.r.a mamba-negra" (steamId=76561199026833124) connected to server!
+18:5:25 | Player "[C.Q.C] C.o.b.r.a mamba-negra" (steamId=76561199026833124) connected to server!
+18:5:32 | Player "Strike FA" (steamId=76561199048528205) connected to server!
+18:5:36 | Player "[G.M] Pasquali" (steamId=76561198263485273) connected to server!
+18:5:53 | Player "Strike FA" (steamId=76561199048528205) connected to server!
+18:5:58 | Player "[G.M] Pasquali" (steamId=76561198263485273) connected to server!
+18:7:2 | "ADM Firewall": (steamid=76561198329721265) teleported to (pos=1491.69,0,3752.97)
+18:7:7 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:7:38 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:8:21 | "ADM Firewall": (steamid=76561198329721265) teleported to (pos=6245.86,0,4700.01)
+18:8:44 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:9:12 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:9:20 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) disconnected from server.
+18:9:24 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) disconnected from server.
+18:9:30 | "ADM Firewall": (steamid=76561198329721265) teleported to (pos=6590.08,0,6833.46)
+18:9:33 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:9:49 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:9:52 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:9:59 | Player "GabyZik4" (steamId=76561198177159459) connected to server!
+18:10:11 | Player "cRn" (steamId=76561198100945209) connected to server!
+18:10:17 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:10:20 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:10:31 | Player "chonux" (steamId=76561198287072198) disconnected from server.
+18:10:35 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:10:38 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:10:40 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:10:41 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:11:20 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:11:36 | Player "chonux" (steamId=76561198287072198) connected to server!
+18:11:52 | Player "chonux" (steamId=76561198287072198) connected to server!
+18:12:59 | "ADM Firewall": (steamid=76561198329721265) teleported to (pos=6351.36,0,7898.99)
+18:13:3 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:13:44 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:13:45 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:14:18 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:14:25 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:16:47 | Player "KOREA" (steamId=76561198253386609) connected to server!
+18:16:49 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:16:58 | Player "ADM MARK" (steamId=76561198950594742) connected to server!
+18:16:59 | "ADM Firewall": (steamid=76561198329721265) teleported to (pos=4998.45,0,6512.47)
+18:17:5 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:17:32 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:17:35 | "ADM Firewall": (steamid=76561198329721265) teleported to (pos=4689.42,0,6606.78)
+18:17:38 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:17:39 | Player "FURUNCULO" (steamId=76561198977442855) disconnected from server.
+18:17:47 | Player "KOREA" (steamId=76561198253386609) connected to server!
+18:18:0 | Player "ADM MARK" (steamId=76561198950594742) connected to server!
+18:18:7 | "KOREA" (steamid=76561198253386609) toggled godmode
+18:18:14 | "KOREA" (steamid=76561198253386609) toggled freecam
+18:18:54 | "KOREA": (steamid=76561198253386609) teleported to (pos=6539.43,0,5595.24)
+18:18:57 | "KOREA" (steamid=76561198253386609) toggled freecam
+18:18:59 | "KOREA" (steamid=76561198253386609) toggled freecam
+18:19:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<6553.101074, 412.454529, 5599.554199>)
+18:19:15 | Player "~ES~ TinkWink" (steamId=76561198170630445) disconnected from server.
+18:19:15 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<6553.135742, 412.454529, 5599.162598>)
+18:19:17 | Player "~ES~ TinkWink" (steamId=76561198170630445) disconnected from server.
+18:19:28 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<6553.499023, 412.454529, 5599.960938>)
+18:19:28 | "KOREA" (steamid=76561198253386609) toggled freecam
+18:19:30 | "KOREA" (steamid=76561198253386609) toggled freecam
+18:19:31 | "KOREA" (steamid=76561198253386609) toggled freecam
+18:19:52 | "KOREA" (steamid=76561198253386609) Spawned Item: (AC_TacticalGloves_Admin)
+18:19:53 | "KOREA" (steamid=76561198253386609) Spawned Item: (AC_TacticalShirt_Admin)
+18:19:53 | "KOREA" (steamid=76561198253386609) Spawned Item: (AC_TacticalShirt_Admin)
+18:19:54 | "KOREA" (steamid=76561198253386609) Spawned Item: (AC_CargoPants_Admin)
+18:19:55 | "KOREA" (steamid=76561198253386609) Spawned Item: (AC_MilitaryBeret_Admin)
+18:19:55 | "KOREA" (steamid=76561198253386609) Spawned Item: (AC_MilitaryBeret_Admin)
+18:19:56 | "KOREA" (steamid=76561198253386609) Spawned Item: (AC_MilitaryBoots_Admin)
+18:20:25 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_shelf_materials_Kit)
+18:20:28 | "KOREA" (steamid=76561198253386609) deleted object "AthleticShoes_Black" (pos=<6554.833008, 412.455811, 5598.441895>)
+18:20:29 | Player "zCastro" (steamId=76561199027286716) disconnected from server.
+18:20:29 | "KOREA" (steamid=76561198253386609) deleted object "TrackSuitJacket_Black" (pos=<6554.888672, 412.456696, 5598.445313>)
+18:20:30 | Player "zCastro" (steamId=76561199027286716) disconnected from server.
+18:20:31 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_workbench_Kit)
+18:20:31 | "KOREA" (steamid=76561198253386609) deleted object "TrackSuitPants_Black" (pos=<6554.888672, 412.456696, 5598.445313>)
+18:20:32 | "KOREA" (steamid=76561198253386609) deleted object "AC_MilitaryBeret_Admin" (pos=<6554.833008, 412.462952, 5598.441895>)
+18:20:33 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_workbench_Kit)
+18:20:36 | "KOREA" (steamid=76561198253386609) deleted object "AC_TacticalShirt_Admin" (pos=<6555.655762, 412.456696, 5599.015625>)
+18:20:36 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_shelf_materials_Kit)
+18:21:13 | Player "FURUNCULO" (steamId=76561198977442855) connected to server!
+18:21:14 | "ADM MARK" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+18:21:20 | Player "FURUNCULO" (steamId=76561198977442855) connected to server!
+18:21:28 | "KOREA" (steamid=76561198253386609) Spawned Item: (TerritoryFlagKit)
+18:21:50 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:21:53 | "ADM Firewall": (steamid=76561198329721265) teleported to (pos=6530.94,0,5507.85)
+18:22:2 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:22:15 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<6555.341309, 412.454529, 5598.221680>)
+18:22:31 | "KOREA" (steamid=76561198253386609) Spawned Item: (Flag_Bohemia)
+18:22:40 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:23:12 | "KOREA" (steamid=76561198253386609) Spawned Item: (dp_wall_kit)
+18:23:13 | "ADM Firewall" (steamid=76561198329721265) teleported to crosshair (pos=<6546.728027, 368.464294, 5528.896484>)
+18:23:14 | "ADM Firewall" (steamid=76561198329721265) teleported to crosshair (pos=<6552.107910, 374.413574, 5537.206543>)
+18:23:15 | "ADM Firewall" (steamid=76561198329721265) teleported to crosshair (pos=<6559.374023, 382.284698, 5556.459473>)
+18:23:18 | "KOREA" (steamid=76561198253386609) Spawned Item: (dp_door_Kit)
+18:23:21 | "ADM Firewall" (steamid=76561198329721265) teleported to crosshair (pos=<6556.547363, 391.835968, 5587.212402>)
+18:23:31 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:23:42 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:23:43 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:23:43 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:23:43 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:23:43 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:23:43 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:23:43 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:23:44 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:23:49 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:24:2 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:3 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:3 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:3 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:3 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:3 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:3 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:15 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:15 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:15 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:15 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:15 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:15 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:24 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:24 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:25 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:25 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:25 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:25 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:25 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:25 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:25 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:25 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:48 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:48 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:48 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:48 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:48 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:56 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:56 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:56 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:24:56 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenLog)
+18:25:16 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_PileOfLogs)
+18:25:21 | "ADM MARK" (steamid=76561198950594742) deleted object "dp_PileOfLogs" (pos=<6554.772949, 412.461395, 5602.881836>)
+18:25:25 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_PileOfLogs)
+18:25:27 | "ADM MARK" (steamid=76561198950594742) deleted object "dp_PileOfLogs" (pos=<6554.330566, 412.461395, 5602.272461>)
+18:25:33 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_PileOfLogs)
+18:25:34 | "ADM MARK" (steamid=76561198950594742) deleted object "dp_PileOfLogs" (pos=<6554.138184, 412.461395, 5602.200684>)
+18:25:36 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_PileOfLogs)
+18:25:38 | "ADM MARK" (steamid=76561198950594742) deleted object "dp_PileOfLogs" (pos=<6554.967773, 412.461395, 5602.654785>)
+18:25:40 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_PileOfLogs)
+18:25:42 | "ADM MARK" (steamid=76561198950594742) deleted object "dp_PileOfLogs" (pos=<6553.372070, 412.461395, 5601.983398>)
+18:25:44 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_PileOfLogs)
+18:25:47 | "ADM MARK" (steamid=76561198950594742) deleted object "dp_PileOfLogs" (pos=<6555.435059, 413.961273, 5603.210449>)
+18:25:49 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_PileOfLogs)
+18:25:50 | "ADM MARK" (steamid=76561198950594742) deleted object "dp_PileOfLogs" (pos=<6554.538086, 412.461395, 5602.535645>)
+18:25:59 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (MetalPlate)
+18:25:59 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (MetalPlate)
+18:26:0 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (MetalPlate)
+18:26:0 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (MetalPlate)
+18:26:0 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (MetalPlate)
+18:26:0 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (MetalPlate)
+18:26:0 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (MetalPlate)
+18:26:1 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (MetalPlate)
+18:26:1 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (MetalPlate)
+18:26:42 | "KOREA" (steamid=76561198253386609) toggled freecam
+18:26:48 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<6555.828613, 397.409332, 5598.158691>)
+18:26:48 | "KOREA" (steamid=76561198253386609) toggled freecam
+18:27:0 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Nail)
+18:27:0 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Nail)
+18:27:0 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Nail)
+18:27:0 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Nail)
+18:27:1 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Nail)
+18:27:1 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Nail)
+18:27:1 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Nail)
+18:27:1 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Nail)
+18:27:1 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Nail)
+18:27:1 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Nail)
+18:27:2 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Nail)
+18:27:22 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Nail)
+18:27:22 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Nail)
+18:27:22 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Nail)
+18:27:22 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Nail)
+18:27:22 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Nail)
+18:27:22 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Nail)
+18:27:23 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Nail)
+18:27:23 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Nail)
+18:27:38 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Nail)
+18:27:49 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenPlank)
+18:27:49 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenPlank)
+18:27:49 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenPlank)
+18:27:49 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenPlank)
+18:27:49 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenPlank)
+18:27:49 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenPlank)
+18:27:50 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenPlank)
+18:27:50 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenPlank)
+18:27:50 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenPlank)
+18:27:50 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenPlank)
+18:27:50 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenPlank)
+18:27:50 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenPlank)
+18:27:50 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenPlank)
+18:27:50 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenPlank)
+18:27:51 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenPlank)
+18:27:51 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenPlank)
+18:27:51 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenPlank)
+18:27:51 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenPlank)
+18:27:51 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenPlank)
+18:28:28 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenCrate)
+18:28:28 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenCrate)
+18:28:29 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenCrate)
+18:28:29 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenCrate)
+18:28:41 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenCrate)
+18:28:41 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodenCrate)
+18:28:58 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Hammer)
+18:28:58 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Hammer)
+18:28:58 | "ADM Firewall" (steamid=76561198329721265) Spawned Item: (CodeLock)
+18:28:59 | "ADM Firewall" (steamid=76561198329721265) Spawned Item: (CodeLock)
+18:29:0 | "ADM Firewall" (steamid=76561198329721265) Spawned Item: (CodeLock)
+18:29:0 | "ADM Firewall" (steamid=76561198329721265) Spawned Item: (CodeLock)
+18:29:0 | "ADM Firewall" (steamid=76561198329721265) Spawned Item: (CodeLock)
+18:29:0 | "ADM Firewall" (steamid=76561198329721265) Spawned Item: (CodeLock)
+18:29:0 | "ADM Firewall" (steamid=76561198329721265) Spawned Item: (CodeLock)
+18:29:2 | "ADM Firewall" (steamid=76561198329721265) Spawned Item: (CodeLock)
+18:29:16 | Player "[Mercenarios] Paje" (steamId=76561198199599815) connected to server!
+18:29:19 | "ADM Firewall" (steamid=76561198329721265) teleported to crosshair (pos=<6553.016602, 392.746826, 5598.886719>)
+18:29:20 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Shovel)
+18:29:27 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (FieldShovel)
+18:29:31 | Player "MBrown" (steamId=76561198834441216) connected to server!
+18:29:33 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (FieldShovel)
+18:29:46 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Hatchet)
+18:29:46 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Hatchet)
+18:29:46 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Hatchet)
+18:29:46 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Hatchet)
+18:29:46 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Hatchet)
+18:30:15 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Pliers)
+18:30:16 | Player "[Mercenarios] Paje" (steamId=76561198199599815) connected to server!
+18:30:21 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Pliers)
+18:30:30 | Player "MBrown" (steamId=76561198834441216) connected to server!
+18:30:40 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (PortableGasLamp)
+18:30:45 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (PortableGasLamp)
+18:30:55 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Hacksaw)
+18:30:55 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Hacksaw)
+18:30:55 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Hacksaw)
+18:31:4 | Player "GabyZik4" (steamId=76561198177159459) connected to server!
+18:31:17 | Player "Strike FA" (steamId=76561199048528205) disconnected from server.
+18:31:19 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (HandSaw)
+18:31:24 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (HandSaw)
+18:31:26 | "ADM Firewall" (steamid=76561198329721265) teleported to crosshair (pos=<6551.173340, 409.056915, 5593.616211>)
+18:31:29 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:31:30 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:31:46 | Player "Dereguede" (steamId=76561198934345150) connected to server!
+18:32:13 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodAxe)
+18:32:19 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WoodAxe)
+18:32:19 | "KOREA" (steamid=76561198253386609) deleted objects using ESP
+18:32:30 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_PileOfMetal)
+18:32:32 | Player "Dereguede" (steamId=76561198934345150) connected to server!
+18:32:33 | "ADM MARK" (steamid=76561198950594742) deleted object "dp_PileOfMetal" (pos=<6553.168457, 412.461395, 5602.689453>)
+18:32:40 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_PileOfMetal)
+18:32:42 | "ADM MARK" (steamid=76561198950594742) deleted object "dp_PileOfMetal" (pos=<6555.291016, 412.461395, 5602.376465>)
+18:32:44 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_PileOfMetal)
+18:32:45 | "ADM MARK" (steamid=76561198950594742) deleted object "dp_PileOfMetal" (pos=<6555.119141, 412.461395, 5602.213867>)
+18:32:48 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_PileOfMetal)
+18:32:50 | "ADM MARK" (steamid=76561198950594742) deleted object "dp_PileOfMetal" (pos=<6554.533691, 412.461395, 5602.795898>)
+18:32:52 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_PileOfMetal)
+18:32:54 | "ADM MARK" (steamid=76561198950594742) deleted object "dp_PileOfMetal" (pos=<6554.489746, 412.461395, 5602.297363>)
+18:32:58 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_PileOfMetal)
+18:34:24 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (PileOfWoodenPlanks)
+18:34:27 | "ADM MARK" (steamid=76561198950594742) deleted object "PileOfWoodenPlanks" (pos=<6550.962402, 412.452698, 5602.953613>)
+18:34:29 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (PileOfWoodenPlanks)
+18:34:31 | "ADM MARK" (steamid=76561198950594742) deleted object "PileOfWoodenPlanks" (pos=<6550.760254, 412.452698, 5603.034668>)
+18:34:33 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (PileOfWoodenPlanks)
+18:34:35 | "ADM MARK" (steamid=76561198950594742) deleted object "PileOfWoodenPlanks" (pos=<6551.350098, 412.452698, 5602.753418>)
+18:34:36 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (PileOfWoodenPlanks)
+18:34:37 | "ADM MARK" (steamid=76561198950594742) deleted object "PileOfWoodenPlanks" (pos=<6551.274414, 412.452698, 5602.596191>)
+18:34:39 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (PileOfWoodenPlanks)
+18:34:43 | "ADM MARK" (steamid=76561198950594742) deleted object "PileOfWoodenPlanks" (pos=<6550.611328, 412.452698, 5603.077637>)
+18:35:6 | "KOREA" (steamid=76561198253386609) toggled freecam
+18:35:13 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<6548.046387, 392.800201, 5597.028320>)
+18:35:15 | "KOREA" (steamid=76561198253386609) toggled freecam
+18:36:9 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CodeLock)
+18:36:9 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CodeLock)
+18:36:9 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CodeLock)
+18:36:26 | Player "MS_Dinamyte" (steamId=76561198866694473) disconnected from server.
+18:36:28 | "KOREA" (steamid=76561198253386609) Spawned Item: (Hacksaw)
+18:36:29 | Player "MS_Dinamyte" (steamId=76561198866694473) disconnected from server.
+18:36:36 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<6551.173340, 409.056915, 5593.616211>)
+18:36:55 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CodeLock)
+18:36:55 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CodeLock)
+18:36:55 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CodeLock)
+18:37:6 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CodeLock)
+18:37:6 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CodeLock)
+18:37:6 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CodeLock)
+18:37:6 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CodeLock)
+18:37:6 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CodeLock)
+18:37:25 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_wall_kit)
+18:37:25 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_wall_kit)
+18:37:25 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_wall_kit)
+18:37:25 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_wall_kit)
+18:37:25 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_wall_kit)
+18:37:25 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_wall_kit)
+18:37:26 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_wall_kit)
+18:37:26 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_wall_kit)
+18:37:26 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_wall_kit)
+18:37:26 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_wall_kit)
+18:37:26 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_wall_kit)
+18:37:52 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_roof_Kit)
+18:37:52 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_roof_Kit)
+18:37:52 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_roof_Kit)
+18:37:52 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_roof_Kit)
+18:37:53 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_roof_Kit)
+18:37:53 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_roof_Kit)
+18:37:53 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_roof_Kit)
+18:37:53 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_roof_Kit)
+18:37:53 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_roof_Kit)
+18:37:53 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_roof_Kit)
+18:37:53 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_roof_Kit)
+18:37:54 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_roof_Kit)
+18:37:54 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_roof_Kit)
+18:38:35 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/evento.vpp
+18:38:35 | "ADM MARK" (steamid=76561198950594742) created new building set (evento)
+18:38:50 | Player "Noopyck [LEG] " (steamId=76561199211841089) disconnected from server.
+18:38:53 | Player "Noopyck [LEG] " (steamId=76561199211841089) disconnected from server.
+18:38:57 | "ADM MARK" (steamid=76561198950594742) toggled freecam
+18:39:35 | [WeatherManager] Send Data Count is 0
+18:39:40 | Player "[C.Q.C] C.o.b.r.a mamba-negra" (steamId=76561199026833124) disconnected from server.
+18:39:45 | Player "[C.Q.C] C.o.b.r.a mamba-negra" (steamId=76561199026833124) disconnected from server.
+18:39:54 | [Time Manager] Setting Date to 2022/9/21 7:57
+18:39:56 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/evento.vpp
+18:39:56 | [BuildingSetManager] Saving & Reloading Building Set:evento
+18:39:56 | "ADM MARK" (steamid=76561198950594742) updated building set (evento)
+18:39:56 | [BuildingSetManager] Deleted file: evento
+18:39:56 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/evento.vpp
+18:39:57 | Player "HF_d+" (steamId=76561198169386030) disconnected from server.
+18:40:2 | Player "HF_d+" (steamId=76561198169386030) disconnected from server.
+18:40:23 | "ADM MARK" (steamid=76561198950594742) deleted building set (evento)
+18:40:27 | "ADM MARK" (steamid=76561198950594742) toggled freecam
+18:40:58 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (PileOfWoodenPlanks)
+18:41:2 | "ADM MARK" (steamid=76561198950594742) deleted object "PileOfWoodenPlanks" (pos=<6551.547852, 412.452698, 5602.735840>)
+18:41:5 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (PileOfWoodenPlanks)
+18:41:7 | "ADM MARK" (steamid=76561198950594742) deleted object "PileOfWoodenPlanks" (pos=<6551.424316, 412.452698, 5602.743164>)
+18:41:9 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (PileOfWoodenPlanks)
+18:41:10 | "ADM MARK" (steamid=76561198950594742) deleted object "PileOfWoodenPlanks" (pos=<6551.310059, 412.452698, 5603.100586>)
+18:41:12 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (PileOfWoodenPlanks)
+18:41:13 | "ADM MARK" (steamid=76561198950594742) deleted object "PileOfWoodenPlanks" (pos=<6551.241699, 412.452698, 5602.916016>)
+18:41:14 | Player "[KGB]COVEIRO" (steamId=76561199091851158) disconnected from server.
+18:41:16 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (PileOfWoodenPlanks)
+18:41:19 | "ADM MARK" (steamid=76561198950594742) deleted object "PileOfWoodenPlanks" (pos=<6552.080078, 412.452698, 5601.883789>)
+18:41:22 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (PileOfWoodenPlanks)
+18:41:24 | "ADM MARK" (steamid=76561198950594742) deleted object "PileOfWoodenPlanks" (pos=<6551.571777, 412.452698, 5602.392090>)
+18:41:28 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (PileOfWoodenPlanks)
+18:41:41 | "ADM MARK" (steamid=76561198950594742) deleted object "PileOfWoodenPlanks" (pos=<6551.852051, 412.452698, 5603.014160>)
+18:41:43 | "ADM MARK" (steamid=76561198950594742) deleted object "TerritoryFlag" (pos=<6553.694336, 412.454529, 5598.631836>)
+18:41:45 | "ADM MARK" (steamid=76561198950594742) deleted object "dp_PileOfMetal" (pos=<6554.932129, 412.461395, 5602.457520>)
+18:41:54 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (TerritoryFlagKit)
+18:42:25 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (AdminHatchet)
+18:42:26 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (AdminHatchet)
+18:43:10 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Flag_Bohemia)
+18:43:38 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Pliers)
+18:43:38 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Pliers)
+18:44:6 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (HandSaw)
+18:44:6 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (HandSaw)
+18:44:18 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Hammer)
+18:44:18 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Hammer)
+18:45:2 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<6555.713379, 412.454529, 5597.297363>)
+18:45:7 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<6556.088379, 412.454529, 5599.297363>)
+18:45:12 | Player "Dereguede" (steamId=76561198934345150) disconnected from server.
+18:45:12 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_door_Kit)
+18:45:13 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_door_Kit)
+18:45:13 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_door_Kit)
+18:45:13 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_door_Kit)
+18:45:13 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_door_Kit)
+18:45:13 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_door_Kit)
+18:45:13 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_door_Kit)
+18:45:13 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_door_Kit)
+18:45:14 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_door_Kit)
+18:45:14 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_door_Kit)
+18:45:14 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_door_Kit)
+18:45:14 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_door_Kit)
+18:45:14 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_door_Kit)
+18:45:41 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WatchtowerKit)
+18:45:41 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WatchtowerKit)
+18:45:41 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WatchtowerKit)
+18:45:41 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WatchtowerKit)
+18:45:42 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WatchtowerKit)
+18:45:42 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WatchtowerKit)
+18:45:42 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WatchtowerKit)
+18:45:42 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (WatchtowerKit)
+18:45:43 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (FenceKit)
+18:45:43 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (FenceKit)
+18:45:44 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (FenceKit)
+18:45:44 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (FenceKit)
+18:45:44 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (FenceKit)
+18:45:44 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (FenceKit)
+18:45:44 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (FenceKit)
+18:46:38 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_waterbarrel_kit)
+18:47:1 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (M_Kit_Shelf)
+18:47:2 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (M_Kit_WorkBenchTable)
+18:47:45 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CarBattery)
+18:47:45 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CarBattery)
+18:47:45 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CarBattery)
+18:47:46 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CarBattery)
+18:47:46 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CarBattery)
+18:47:46 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CarBattery)
+18:47:46 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CarBattery)
+18:48:5 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (TruckBattery)
+18:48:5 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (TruckBattery)
+18:48:17 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CarRadiator)
+18:48:17 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CarRadiator)
+18:48:17 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CarRadiator)
+18:48:17 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CarRadiator)
+18:48:17 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CarRadiator)
+18:48:17 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CarRadiator)
+18:48:21 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CarRadiator)
+18:48:21 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CarRadiator)
+18:48:21 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CarRadiator)
+18:48:31 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CarRadiator)
+18:48:31 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CarRadiator)
+18:48:31 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CarRadiator)
+18:48:31 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CarRadiator)
+18:48:40 | Player "chonux" (steamId=76561198287072198) disconnected from server.
+18:48:50 | "ADM MARK" (steamid=76561198950594742) deleted object "CarRadiator" (pos=<6553.638184, 412.473053, 5602.040527>)
+18:48:51 | "ADM MARK" (steamid=76561198950594742) deleted object "CarBattery" (pos=<6553.638184, 412.461182, 5602.040527>)
+18:48:52 | "ADM MARK" (steamid=76561198950594742) deleted object "CarRadiator" (pos=<6553.638184, 412.473053, 5602.040527>)
+18:48:52 | "ADM MARK" (steamid=76561198950594742) deleted object "CarRadiator" (pos=<6553.638184, 412.473053, 5602.040527>)
+18:48:53 | "ADM MARK" (steamid=76561198950594742) deleted object "CarRadiator" (pos=<6553.638184, 412.473053, 5602.040527>)
+18:48:54 | "ADM MARK" (steamid=76561198950594742) deleted object "CarRadiator" (pos=<6553.638184, 412.473053, 5602.040527>)
+18:48:55 | "ADM MARK" (steamid=76561198950594742) deleted object "CarRadiator" (pos=<6553.638184, 412.473053, 5602.040527>)
+18:48:59 | "ADM MARK" (steamid=76561198950594742) deleted object "CarRadiator" (pos=<6553.638184, 412.473053, 5602.040527>)
+18:49:0 | "ADM MARK" (steamid=76561198950594742) deleted object "CarRadiator" (pos=<6553.638184, 412.473053, 5602.040527>)
+18:49:1 | "ADM MARK" (steamid=76561198950594742) deleted object "CarRadiator" (pos=<6553.638184, 412.473053, 5602.040527>)
+18:49:12 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (SparkPlug)
+18:49:12 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (SparkPlug)
+18:49:12 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (SparkPlug)
+18:49:12 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (SparkPlug)
+18:49:12 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (SparkPlug)
+18:49:13 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (SparkPlug)
+18:49:13 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (SparkPlug)
+18:49:29 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (SparkPlug)
+18:49:45 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (PowerGenerator)
+18:50:5 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (SparkPlug)
+18:50:46 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (HatchbackWheel)
+18:50:47 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CivSedanWheel)
+18:50:49 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Hatchback_02_Wheel)
+18:50:50 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Sedan_02_Wheel)
+18:50:53 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Truck_01_Wheel)
+18:50:54 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Truck_01_WheelDouble)
+18:51:24 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Truck_01_Wheel)
+18:51:41 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CanisterGasoline)
+18:51:41 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (CanisterGasoline)
+18:52:12 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<6555.873047, 413.336823, 5604.159180>)
+18:52:18 | Player "FURUNCULO" (steamId=76561198977442855) disconnected from server.
+18:52:21 | "ADM MARK" (steamid=76561198950594742) deleted object "M_WorkBenchTable" (pos=<6555.021484, 412.454529, 5597.862305>)
+18:52:52 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_mangal_kit)
+18:52:52 | Player "FURUNCULO" (steamId=76561198977442855) connected to server!
+18:53:0 | Player "FURUNCULO" (steamId=76561198977442855) connected to server!
+18:53:19 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (M_Kit_Gas_Stove)
+18:53:35 | Player "Snow" (steamId=76561199104246317) connected to server!
+18:53:59 | Player "Snow" (steamId=76561199104246317) connected to server!
+18:54:6 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (BatteryCharger)
+18:54:8 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (BatteryCharger)
+18:54:8 | Player "GabyZik4" (steamId=76561198177159459) disconnected from server.
+18:55:9 | Player "[C.Q.C] C.o.b.r.a mamba-negra" (steamId=76561199026833124) connected to server!
+18:55:16 | Player "General Lee" (steamId=76561198252997365) connected to server!
+18:55:18 | Player "[C.Q.C] C.o.b.r.a mamba-negra" (steamId=76561199026833124) connected to server!
+18:55:21 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (dp_mangal_kit)
+18:55:36 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Battery9V)
+18:55:36 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Battery9V)
+18:55:36 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Battery9V)
+18:55:37 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Battery9V)
+18:55:37 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Battery9V)
+18:55:37 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Battery9V)
+18:55:57 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Battery9V)
+18:55:58 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Battery9V)
+18:55:58 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Battery9V)
+18:55:58 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Battery9V)
+18:55:58 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Battery9V)
+18:55:58 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (Battery9V)
+18:56:10 | Player "Fleckz171" (steamId=76561199196150916) connected to server!
+18:56:18 | Player "General Lee" (steamId=76561198252997365) connected to server!
+18:56:23 | Player "yuyo" (steamId=76561198062758154) disconnected from server.
+18:56:38 | "ADM MARK" (steamid=76561198950594742) Spawned Item: (ZmbM_HandymanNormal_Green)
+18:56:52 | "ADM MARK" (steamid=76561198950594742) deleted object "ZmbM_HandymanNormal_Green" (pos=<6550.433105, 412.479218, 5602.485352>)
+18:57:16 | Player "Fleckz171" (steamId=76561199196150916) connected to server!
+18:57:45 | Player "thiagown" (steamId=76561198827691631) connected to server!
+18:58:3 | Player "thiagown" (steamId=76561198827691631) connected to server!
+18:58:19 | Player "SANTANA" (steamId=76561199228878387) connected to server!
+18:58:49 | "ADM Firewall": (steamid=76561198329721265) teleported to (pos=7381.69,0,4881.53)
+18:58:52 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<6533.445801, 395.923462, 5577.061035>)
+18:58:55 | "ADM Firewall": (steamid=76561198329721265) teleported to (pos=7456.79,0,4320.28)
+18:59:5 | Player "a1dry" (steamId=76561197996112973) disconnected from server.
+18:59:7 | Player "Spiritox" (steamId=76561197996288265) disconnected from server.
+18:59:37 | "ADM Firewall": (steamid=76561198329721265) teleported to (pos=6694.21,0,5177.92)
+18:59:38 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<6543.377930, 391.220520, 5595.227539>)
+18:59:39 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:59:39 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<6544.677734, 392.225922, 5597.162598>)
+18:59:39 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:59:41 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+18:59:57 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+19:0:2 | Player "Charlestones" (steamId=76561198333840694) disconnected from server.
+19:0:4 | Player "Charlestones" (steamId=76561198333840694) disconnected from server.
+19:0:5 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+19:0:18 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<6538.323242, 396.522736, 5581.989258>)
+19:0:31 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<6548.289063, 412.449707, 5591.527832>)
+19:0:32 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<6548.257324, 411.096252, 5592.217285>)
+19:0:36 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<6538.964355, 396.719696, 5581.995605>)
+19:0:37 | "ADM Firewall" (steamid=76561198329721265) toggled freecam
+19:0:38 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<6548.301270, 412.748657, 5591.266602>)
+19:0:39 | "ADM MARK" (steamid=76561198950594742) teleported to crosshair (pos=<6553.023438, 412.454529, 5596.749023>)

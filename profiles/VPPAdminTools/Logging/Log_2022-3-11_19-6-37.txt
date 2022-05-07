@@ -1,0 +1,1973 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-3-11_19-6-37
+====================================================================================
+19:6:37 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+19:6:37 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+19:6:37 | [PermissionManager] Perm (FreeCamera) has been registered!
+19:6:37 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuItemManager) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuServerManager) has been registered!
+19:6:37 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+19:6:37 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+19:6:37 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+19:6:37 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+19:6:37 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+19:6:37 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+19:6:37 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+19:6:37 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+19:6:37 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+19:6:37 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+19:6:37 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+19:6:37 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+19:6:37 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+19:6:37 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+19:6:37 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+19:6:37 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+19:6:37 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+19:6:37 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+19:6:37 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+19:6:37 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+19:6:37 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+19:6:37 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+19:6:37 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+19:6:37 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+19:6:37 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+19:6:37 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+19:6:37 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+19:6:37 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+19:6:37 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+19:6:37 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+19:6:37 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+19:6:37 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+19:6:37 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuBansManager) has been registered!
+19:6:37 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+19:6:37 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+19:6:37 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+19:6:37 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+19:6:37 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+19:6:37 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+19:6:37 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+19:6:37 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+19:6:37 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+19:6:37 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+19:6:37 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+19:6:37 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+19:6:37 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+19:6:37 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+19:6:37 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+19:6:37 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+19:6:37 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+19:6:37 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+19:6:37 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+19:6:38 | [PermissionManager] Adding Super Admin (76561198253386609)
+19:6:38 | [PermissionManager] Adding Super Admin (76561198442072760)
+19:6:38 | [PermissionManager] Adding Super Admin (76561198950594742)
+19:6:38 | [PermissionManager] Adding Super Admin (76561198329721265)
+19:6:38 | [PermissionManager] Adding Super Admin (76561198140728342)
+19:6:38 | [PermissionManager] Loaded UserGroups.json
+19:6:38 | Building Sets Loaded: 1
+19:6:38 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+19:6:38 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+19:6:38 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+19:6:38 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+19:6:38 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+19:6:38 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+19:6:38 | [PermissionManager] Perm (Chat:NamalskRunEvent) has been registered!
+19:6:38 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+19:6:38 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+19:6:38 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+19:6:38 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+19:6:38 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+19:6:38 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+19:6:38 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+19:6:38 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+19:6:38 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+19:7:10 | Player "PqZiN^" (steamId=76561198060674477) connected to server!
+19:7:10 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+19:7:11 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) connected to server!
+19:7:12 | Player "Sparrow" (steamId=76561198119207436) connected to server!
+19:7:29 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) connected to server!
+19:7:29 | Player "Sparrow" (steamId=76561198119207436) connected to server!
+19:7:30 | Player "PqZiN^" (steamId=76561198060674477) connected to server!
+19:7:31 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+19:7:38 | Player "ATOMIC" (steamId=76561198140728342) connected to server!
+19:7:45 | Player "ATOMIC" (steamId=76561198140728342) connected to server!
+19:7:54 | "ATOMIC" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+19:8:8 | Player "Brunner" (steamId=76561199031638818) connected to server!
+19:8:9 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) connected to server!
+19:8:16 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) connected to server!
+19:8:18 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+19:8:22 | Player "Brunner" (steamId=76561199031638818) connected to server!
+19:8:26 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+19:10:7 | Player "Xapatin" (steamId=76561198162086696) connected to server!
+19:10:17 | Player "Xapatin" (steamId=76561198162086696) connected to server!
+19:10:44 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) disconnected from server.
+19:10:45 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) disconnected from server.
+19:11:8 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+19:11:41 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+19:11:54 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:11:57 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7657.063477, 14.481046, 5775.039063>)
+19:11:58 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:12:44 | Player "ATOMIC" (steamId=76561198140728342) disconnected from server.
+19:12:45 | Player "ATOMIC" (steamId=76561198140728342) disconnected from server.
+19:14:16 | Player "ATOMIC" (steamId=76561198140728342) connected to server!
+19:14:35 | Player "ATOMIC" (steamId=76561198140728342) connected to server!
+19:15:12 | "ATOMIC" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+19:15:50 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+19:18:19 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:18:27 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7658.914551, 10.212496, 5769.757813>)
+19:18:27 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:19:22 | "ATOMIC" (steamid=76561198140728342) just updated a health stat on (steamid=76561198177159459)
+19:19:23 | "ATOMIC" (steamid=76561198140728342) just updated a health stat on (steamid=76561198177159459)
+19:22:12 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:22:18 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7729.408691, 15.399527, 5759.644531>)
+19:22:19 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:22:24 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7728.164551, 9.294168, 5766.012695>)
+19:22:49 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:22:59 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7727.624512, 15.411163, 5759.525879>)
+19:23:1 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:24:3 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_wall_big_Kit)
+19:24:31 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_wall_kit)
+19:24:31 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_wall_kit)
+19:25:26 | Player "Sparrow" (steamId=76561198119207436) disconnected from server.
+19:25:27 | Player "Sparrow" (steamId=76561198119207436) disconnected from server.
+19:25:39 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7727.124512, 15.375776, 5757.435059>)
+19:26:8 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (FenceKit)
+19:26:17 | Player "PqZiN^" (steamId=76561198060674477) disconnected from server.
+19:31:12 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Pliers)
+19:31:12 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Pliers)
+19:31:12 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Pliers)
+19:31:36 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:31:46 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7731.264160, 14.745767, 5760.810059>)
+19:31:48 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:31:56 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:32:1 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7729.925293, 14.816736, 5763.040527>)
+19:32:2 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:33:49 | Player "=FURY=InfantiDF" (steamId=76561198283309946) connected to server!
+19:34:49 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7720.074707, 12.013898, 5775.449219>)
+19:36:35 | Player "Brunner" (steamId=76561199031638818) disconnected from server.
+19:38:49 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:39:29 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:42:9 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_door_Kit)
+19:42:9 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_door_Kit)
+19:42:10 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_door_Kit)
+19:49:21 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+19:50:12 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (FenceKit)
+19:50:13 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (FenceKit)
+19:50:14 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (FenceKit)
+19:50:44 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) disconnected from server.
+19:50:46 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+19:51:33 | "ATOMIC": (steamid=76561198140728342) teleported to (pos=8914.85,0,11349.3)
+19:51:44 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:51:52 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<8972.229492, 2.000031, 11038.617188>)
+19:51:54 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:56:39 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+19:58:56 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:59:1 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7724.728027, 7.686889, 5828.239258>)
+19:59:1 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:0:25 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:0:31 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7710.770020, 14.488221, 5832.776855>)
+20:0:32 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:4:4 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+20:4:37 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7892.915039, 0.299117, 5809.776855>)
+20:6:20 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:6:25 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7709.195801, 32.383469, 5796.620605>)
+20:6:26 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:6:41 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7710.119141, 32.383469, 5798.151367>)
+20:6:41 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7711.111816, 32.383469, 5797.476074>)
+20:6:41 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7711.111816, 32.383469, 5797.476074>)
+20:6:41 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7711.111816, 32.383469, 5797.476074>)
+20:6:41 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7711.111816, 32.383469, 5797.476074>)
+20:6:41 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7711.111816, 32.383469, 5797.476074>)
+20:6:41 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7711.111816, 32.383469, 5797.476074>)
+20:6:41 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7711.111816, 32.383469, 5797.476074>)
+20:6:41 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7711.627441, 32.383469, 5797.291504>)
+20:6:41 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7712.192383, 32.383469, 5797.090332>)
+20:6:41 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7712.219238, 32.383469, 5797.081055>)
+20:6:41 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7712.219238, 32.383469, 5797.081055>)
+20:6:41 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7712.219238, 32.383469, 5797.081055>)
+20:6:41 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7712.219238, 32.383469, 5797.081055>)
+20:6:41 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7712.210938, 32.383469, 5797.055176>)
+20:6:41 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7712.179688, 32.383469, 5796.958984>)
+20:6:41 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7712.148926, 32.383469, 5796.862793>)
+20:6:46 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:6:53 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7725.862305, 7.230887, 5831.242188>)
+20:6:53 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:9:41 | Player "Brunner" (steamId=76561199031638818) connected to server!
+20:9:48 | Player "Brunner" (steamId=76561199031638818) connected to server!
+20:9:54 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (CodeLock)
+20:9:55 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (CodeLock)
+20:9:56 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (CodeLock)
+20:9:56 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (CodeLock)
+20:9:57 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (CodeLock)
+20:10:33 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_window_sheild_kit)
+20:10:43 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:10:51 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7704.373047, 14.096431, 5833.211914>)
+20:10:52 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:10:59 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:11:11 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7721.267578, 9.442987, 5816.125488>)
+20:11:12 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:11:36 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:11:40 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7725.365234, 14.010872, 5827.324707>)
+20:11:41 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:11:58 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_wall_kit)
+20:12:0 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_wall_kit)
+20:12:43 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (FenceKit)
+20:12:44 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (FenceKit)
+20:12:44 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (FenceKit)
+20:12:57 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:13:3 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7725.782715, 14.258735, 5826.804199>)
+20:13:4 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:13:44 | Player "Texaco" (steamId=76561198389486307) connected to server!
+20:13:55 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:14:0 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:14:2 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:14:8 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7723.187500, 13.255529, 5827.510742>)
+20:14:9 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:14:56 | Player "Texaco" (steamId=76561198389486307) connected to server!
+20:15:57 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:16:5 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7708.813477, 11.891197, 5813.453613>)
+20:16:6 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:16:15 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (FenceKit)
+20:16:16 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (FenceKit)
+20:16:16 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (FenceKit)
+20:16:24 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:16:31 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7713.776855, 14.836940, 5830.358887>)
+20:16:32 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:17:13 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:17:18 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7708.179688, 14.664312, 5831.651855>)
+20:17:19 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:19:11 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:19:15 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7703.719727, 14.003519, 5832.789551>)
+20:19:16 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:20:26 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7708.691895, 11.270654, 5817.408691>)
+20:20:36 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:20:40 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7657.720215, 14.480555, 5775.843750>)
+20:20:41 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:20:59 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (FenceKit)
+20:22:23 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:22:40 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:22:47 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:22:50 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7663.416992, 10.995353, 5768.277832>)
+20:22:51 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:23:44 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:23:49 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7660.552246, 10.388582, 5776.671875>)
+20:23:50 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:27:41 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7688.290039, 13.564142, 5790.975098>)
+20:27:42 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7699.763184, 12.175336, 5804.781250>)
+20:30:49 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_window_sheild_kit)
+20:31:30 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_roof_Kit)
+20:31:45 | "ATOMIC": (steamid=76561198140728342) teleported to (pos=9154.95,0,11027)
+20:31:49 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:31:55 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<8935.978516, 5.706506, 11007.594727>)
+20:31:56 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+20:33:1 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+20:33:36 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+20:33:49 | Player "Texaco" (steamId=76561198389486307) disconnected from server.
+20:33:51 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+20:33:58 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+20:34:3 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+20:34:7 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+20:34:10 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+20:34:13 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+20:34:16 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+20:34:19 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+20:34:22 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+20:34:26 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+20:34:56 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+20:35:1 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+20:35:5 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+20:35:9 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+20:35:13 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+20:35:20 | "ATOMIC" (steamid=76561198140728342) toggled godmode
+20:35:21 | "ATOMIC" (steamid=76561198140728342) toggled godmode
+20:35:38 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+20:35:47 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+20:36:48 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) disconnected from server.
+20:37:4 | Player "Alti" (steamId=76561199235859883) connected to server!
+20:37:8 | Player "ATOMIC" (steamId=76561198140728342) disconnected from server.
+20:37:16 | Player "Alti" (steamId=76561199235859883) connected to server!
+20:37:47 | Player "ATOMIC" (steamId=76561198140728342) connected to server!
+20:38:5 | Player "ATOMIC" (steamId=76561198140728342) connected to server!
+20:38:34 | "ATOMIC" (steamid=76561198140728342) just updated a health stat on (steamid=76561198140728342)
+20:38:35 | "ATOMIC" (steamid=76561198140728342) just updated a health stat on (steamid=76561198140728342)
+20:38:36 | "ATOMIC" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+20:38:59 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_box_big_Green)
+20:39:0 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_box_big_Green)
+20:39:0 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_box_big_Green)
+20:39:2 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_box_big_Olive)
+20:39:3 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_box_big_Olive)
+20:39:3 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_box_big_Olive)
+20:39:16 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7706.854004, 12.675765, 5798.068848>)
+20:39:21 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_mangal_kit)
+20:39:22 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_mangal_kit)
+20:39:23 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_mangal_kit)
+20:39:31 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_trashcan_black)
+20:40:52 | Player "ATOMIC" (steamId=76561198140728342) disconnected from server.
+20:41:36 | Player "ATOMIC" (steamId=76561198140728342) connected to server!
+20:41:45 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) connected to server!
+20:41:52 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) connected to server!
+20:41:55 | Player "ATOMIC" (steamId=76561198140728342) connected to server!
+20:42:4 | "ATOMIC" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+20:42:46 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Barrel_Red)
+20:42:51 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Barrel_Green)
+20:42:53 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Barrel_Blue)
+20:42:55 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Barrel_Yellow)
+20:42:59 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Barrel_Yellow)
+20:43:0 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Barrel_Red)
+20:43:1 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Barrel_Blue)
+20:43:2 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Barrel_Green)
+20:43:11 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_waterbarrel_kit)
+20:43:29 | Player "Brunner" (steamId=76561199031638818) disconnected from server.
+20:46:37 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_guncabinetKit)
+20:46:48 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_guncabinetKit)
+20:46:49 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_guncabinetKit)
+20:47:16 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_weapons_stand_Kit)
+20:47:17 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_weapons_stand_Kit)
+20:47:18 | Player "=FURY=SANTANA" (steamId=76561199228878387) connected to server!
+20:47:29 | Player "=FURY=SANTANA" (steamId=76561199228878387) connected to server!
+20:47:33 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_locker_greenKit)
+20:47:53 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_metcabinet_Kit)
+20:48:9 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_metcabinet_Kit)
+20:48:12 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_metcabinet_Kit)
+20:48:13 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_metcabinet_Kit)
+20:48:13 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_metcabinet_Kit)
+20:48:28 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_weapons_stand_Kit)
+20:48:29 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_weapons_stand_Kit)
+20:48:30 | Player "=FURY=zCastro" (steamId=76561199027286716) connected to server!
+20:48:38 | Player "=FURY=zCastro" (steamId=76561199027286716) connected to server!
+20:49:21 | Player "ATOMIC" (steamId=76561198140728342) disconnected from server.
+20:50:22 | Player "ATOMIC" (steamId=76561198140728342) connected to server!
+20:50:39 | Player "ATOMIC" (steamId=76561198140728342) connected to server!
+20:51:22 | Player "ATOMIC" (steamId=76561198140728342) disconnected from server.
+20:51:59 | Player "ATOMIC" (steamId=76561198140728342) connected to server!
+20:52:18 | Player "ATOMIC" (steamId=76561198140728342) connected to server!
+20:54:27 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (LargeTent)
+20:54:28 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (LargeTent)
+20:54:29 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (LargeTent)
+20:54:52 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (CarTent)
+20:54:53 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (CarTent)
+20:54:54 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (CarTent)
+20:54:55 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (CarTent)
+20:55:40 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (VitaminBottle)
+20:55:40 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (VitaminBottle)
+20:55:41 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (VitaminBottle)
+20:55:41 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (VitaminBottle)
+20:55:41 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (VitaminBottle)
+20:55:42 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (VitaminBottle)
+20:55:51 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (TetracyclineAntibiotics)
+20:55:52 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (TetracyclineAntibiotics)
+20:55:52 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (TetracyclineAntibiotics)
+20:55:52 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (TetracyclineAntibiotics)
+20:55:52 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (TetracyclineAntibiotics)
+20:55:52 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (TetracyclineAntibiotics)
+20:56:22 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_m_katana)
+20:56:23 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_m_katana)
+20:56:24 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_m_katana)
+20:56:24 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_m_katana)
+20:56:24 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_m_katana)
+20:56:24 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_m_katana)
+20:57:11 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7708.227539, 30.384706, 5792.549805>)
+20:57:21 | Player "[CMDs]Chefe" (steamId=76561198349620379) connected to server!
+20:57:31 | "ATOMIC" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+20:58:31 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_door_Kit)
+20:58:37 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (CodeLock)
+20:58:38 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (CodeLock)
+20:59:56 | "ATOMIC": (steamid=76561198140728342) teleported to (pos=6579.05,0,11083.8)
+21:2:12 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:2:17 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<6674.280762, 35.418777, 10959.769531>)
+21:2:18 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:2:46 | "ATOMIC": (steamid=76561198140728342) teleported to (pos=8342.83,0,10659.5)
+21:2:47 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:3:2 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<8925.881836, 2.000000, 11029.306641>)
+21:3:6 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<8850.687500, 2.176655, 11014.958984>)
+21:3:13 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<9270.938477, 2.000004, 11507.290039>)
+21:3:24 | Player "[CMDs]Chefe" (steamId=76561198349620379) connected to server!
+21:3:32 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<8844.921875, 3.456619, 11637.481445>)
+21:3:50 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<8137.957520, 18.283661, 11391.272461>)
+21:3:53 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:3:56 | Player "TeoScout" (steamId=76561198870672564) connected to server!
+21:4:23 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:5:8 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<8469.322266, 19.682858, 10754.737305>)
+21:5:12 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:5:15 | Player "TeoScout" (steamId=76561198870672564) connected to server!
+21:5:15 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:5:18 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<8470.518555, 17.088491, 10753.849609>)
+21:5:19 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:5:24 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:5:40 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<8733.009766, 13.289738, 10762.583984>)
+21:5:41 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:6:5 | Player "TeoScout" (steamId=76561198870672564) disconnected from server.
+21:6:7 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:6:20 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<9036.907227, 9.356823, 10167.086914>)
+21:6:22 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:6:43 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:7:26 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<8163.918457, 15.207895, 10662.428711>)
+21:7:28 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:7:37 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:7:44 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<8167.148438, 31.486813, 10651.959961>)
+21:7:45 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:8:2 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:8:19 | Player "Texaco" (steamId=76561198389486307) connected to server!
+21:8:24 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7299.704590, 45.480000, 10546.799805>)
+21:8:26 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:8:36 | Player "Texaco" (steamId=76561198389486307) connected to server!
+21:9:43 | "ATOMIC": (steamid=76561198140728342) teleported to (pos=7147.68,0,7244.35)
+21:10:0 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:10:30 | Player "Brunner" (steamId=76561199031638818) connected to server!
+21:10:38 | Player "Brunner" (steamId=76561199031638818) connected to server!
+21:10:48 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7245.411621, 142.575623, 6563.123047>)
+21:11:15 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<6074.583984, 9.315704, 6662.426270>)
+21:12:10 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<4824.593750, 82.053848, 7771.109863>)
+21:12:16 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+21:12:38 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+21:13:56 | "ATOMIC": (steamid=76561198140728342) teleported to (pos=7662.39,0,5739.92)
+21:13:59 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:14:0 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:15:58 | Player "[CMDs]MrZulu" (steamId=76561198133335010) connected to server!
+21:15:59 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:16:6 | "ATOMIC": (steamid=76561198140728342) teleported to (pos=9072.82,0,11088.8)
+21:16:8 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:16:17 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<8985.305664, 2.000053, 11034.586914>)
+21:16:18 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:17:56 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) connected to server!
+21:18:2 | Player "[CMDs]MrZulu" (steamId=76561198133335010) connected to server!
+21:18:12 | "ATOMIC" (steamid=76561198140728342) deleted objects using ESP
+21:18:30 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:18:44 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<8910.544922, 9.053482, 10476.802734>)
+21:18:58 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) connected to server!
+21:19:12 | Player "NINTEXfc" (steamId=76561199119866456) connected to server!
+21:19:54 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:19:56 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:20:7 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<8731.373047, 13.369854, 10761.909180>)
+21:20:8 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:20:20 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:20:28 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<8469.526367, 17.121517, 10753.285156>)
+21:20:29 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:22:37 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:22:42 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7949.808594, 36.721275, 10679.313477>)
+21:22:43 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+21:22:46 | Player "ATOMIC" (steamId=76561198140728342) disconnected from server.
+21:22:47 | Player "ATOMIC" (steamId=76561198140728342) disconnected from server.
+21:24:28 | Player "NINTEXfc" (steamId=76561199119866456) disconnected from server.
+21:24:45 | Player "Carambolas" (steamId=76561198442072760) disconnected from server.
+21:30:1 | Player "Xapatin" (steamId=76561198162086696) disconnected from server.
+21:31:14 | Player "Xapatin" (steamId=76561198162086696) connected to server!
+21:31:45 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+21:32:2 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+21:32:16 | Player "Xapatin" (steamId=76561198162086696) connected to server!
+21:36:45 | Player "[FARM]RIBEIRO" (steamId=76561198998920846) connected to server!
+21:37:8 | Player "Tiao do Gas" (steamId=76561198268117934) connected to server!
+21:45:44 | Player "[FARM]RIBEIRO" (steamId=76561198998920846) disconnected from server.
+21:47:57 | Player "[CMDs]MrZulu" (steamId=76561198133335010) disconnected from server.
+21:48:50 | Player "C E L E B R I M B O R" (steamId=76561198114043394) disconnected from server.
+21:50:18 | Player "Alti" (steamId=76561199235859883) disconnected from server.
+21:50:19 | Player "Alti" (steamId=76561199235859883) disconnected from server.
+21:53:37 | Player "Tiao do Gas" (steamId=76561198268117934) disconnected from server.
+21:53:40 | Player "Tiao do Gas" (steamId=76561198268117934) disconnected from server.
+21:54:3 | Player "SNK" (steamId=76561198101707046) connected to server!
+22:2:16 | Player "Brunner" (steamId=76561199031638818) disconnected from server.
+22:4:49 | Player "[G.O.L.E] KOYOTE" (steamId=76561198964690468) connected to server!
+22:5:4 | Player "[G.O.L.E] KOYOTE" (steamId=76561198964690468) connected to server!
+22:6:27 | Player "Carambolas" (steamId=76561198442072760) disconnected from server.
+22:8:9 | Player "Alti" (steamId=76561199235859883) connected to server!
+22:8:22 | Player "Alti" (steamId=76561199235859883) connected to server!
+22:8:46 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+22:9:4 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+22:9:34 | "Carambolas" (steamid=76561198442072760) Spawned Item: (HuntingOptic)
+22:9:34 | "Carambolas" (steamid=76561198442072760) Spawned Item: (HuntingOptic)
+22:9:57 | "Carambolas" (steamid=76561198442072760) Spawned Item: (M65Jacket_Black)
+22:10:9 | Player "U T R O N" (steamId=76561198314418555) connected to server!
+22:10:26 | Player "U T R O N" (steamId=76561198314418555) connected to server!
+22:11:6 | Player "Sobrevivente" (steamId=76561198329721265) connected to server!
+22:11:20 | Player "Survivor" (steamId=76561198218554995) connected to server!
+22:11:29 | Player "Survivor" (steamId=76561198218554995) connected to server!
+22:12:47 | "Sobrevivente" (steamid=76561198329721265) toggled godmode
+22:12:50 | "Carambolas" (steamid=76561198442072760) Spawned Item: (BalaclavaMask_Black)
+22:13:29 | "Sobrevivente": (steamid=76561198329721265) teleported to (pos=2328.66,0,8373.71)
+22:13:32 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:13:36 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:13:42 | "Carambolas" (steamid=76561198442072760) Spawned Item: (AdminHatchet)
+22:13:47 | "Carambolas" (steamid=76561198442072760) Spawned Item: (FenceKit)
+22:13:50 | Player "Carvoeiro" (steamId=76561198866716185) connected to server!
+22:13:52 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:13:56 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<2199.797363, 2.000004, 8969.500977>)
+22:14:0 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:14:6 | "Sobrevivente": (steamid=76561198329721265) teleported to (pos=1374.27,0,11606.3)
+22:14:8 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:14:13 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1281.788330, 4.895518, 11773.708008>)
+22:14:14 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:14:26 | Player "Zeca" (steamId=76561198159284026) connected to server!
+22:15:49 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:15:53 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1272.755615, 2.709614, 11824.395508>)
+22:15:53 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:16:4 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:16:13 | "Sobrevivente" (steamid=76561198329721265) deleted object "Land_Container_1Aoh" (pos=<1269.199951, 3.543800, 11817.900391>)
+22:16:14 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:16:29 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1239.372925, 2.246958, 11830.520508>)
+22:16:42 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:16:54 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1203.323853, 2.582929, 11857.265625>)
+22:16:58 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1198.179810, 2.531175, 11849.432617>)
+22:16:58 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:17:0 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:17:25 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:17:26 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:17:39 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1218.901489, 2.708428, 11860.002930>)
+22:17:40 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:17:42 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:17:51 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1198.437134, 2.531183, 11849.804688>)
+22:17:51 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:18:8 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:18:25 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1230.239136, 2.631917, 11828.921875>)
+22:18:26 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:18:30 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:18:39 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1274.720581, 2.733773, 11824.754883>)
+22:18:39 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:18:42 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:18:54 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1278.525024, 2.662010, 11805.541016>)
+22:18:54 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:18:59 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:19:2 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:19:3 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:19:6 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:19:17 | "Carambolas" (steamid=76561198442072760) healed player (steamid=76561198442072760)
+22:19:29 | "Carambolas" (steamid=76561198442072760) Spawned Item: (FenceKit)
+22:19:32 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:19:41 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1258.670776, 11.862361, 11797.408203>)
+22:19:42 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:19:59 | "Sobrevivente" (steamid=76561198329721265) just updated a health stat on (steamid=76561198329721265)
+22:20:4 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:20:10 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1250.799438, 6.687843, 11804.486328>)
+22:20:10 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:20:15 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:20:21 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1253.259033, 20.975491, 11799.772461>)
+22:20:21 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:20:48 | "Sobrevivente" (steamid=76561198329721265) Spawned Item: (AC_TacticalGloves_Admin)
+22:20:49 | "Sobrevivente" (steamid=76561198329721265) Spawned Item: (AC_TacticalShirt_Admin)
+22:20:51 | Player "=FURY=SANTANA" (steamId=76561199228878387) disconnected from server.
+22:20:51 | "Sobrevivente" (steamid=76561198329721265) Spawned Item: (AC_CargoPants_Admin)
+22:20:52 | "Sobrevivente" (steamid=76561198329721265) Spawned Item: (AC_MilitaryBeret_Admin)
+22:20:53 | Player "=FURY=SANTANA" (steamId=76561199228878387) disconnected from server.
+22:20:54 | "Sobrevivente" (steamid=76561198329721265) Spawned Item: (AC_MilitaryBoots_Admin)
+22:20:54 | "Carambolas" (steamid=76561198442072760) toggled godmode
+22:20:55 | "Carambolas" (steamid=76561198442072760) toggled godmode
+22:20:59 | "Carambolas" (steamid=76561198442072760) Spawned Item: (FenceKit)
+22:21:33 | "Sobrevivente" (steamid=76561198329721265) Spawned Item: (AC_CargoPants_Admin)
+22:21:44 | "Sobrevivente" (steamid=76561198329721265) Spawned Item: (AC_MilitaryBoots_Admin)
+22:21:56 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:22:0 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1270.324707, 2.669075, 11822.899414>)
+22:22:1 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:22:29 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:22:32 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:22:46 | Player "Carvoeiro" (steamId=76561198866716185) disconnected from server.
+22:22:59 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:23:3 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1222.158325, 2.025270, 11832.656250>)
+22:23:4 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:23:35 | "Sobrevivente" (steamid=76561198329721265) Spawned Item: (BalaclavaMask_White)
+22:23:39 | Player "T0rMio" (steamId=76561198282235524) connected to server!
+22:23:39 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:23:48 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1839.549805, 2.000078, 12628.220703>)
+22:23:49 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:23:51 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:23:53 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:23:56 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:23:58 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1838.853516, 2.000129, 12628.900391>)
+22:23:59 | "Carambolas" (steamid=76561198442072760) deleted objects using ESP
+22:23:59 | Player "Carvoeiro" (steamId=76561198866716185) connected to server!
+22:23:59 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:24:3 | "Carambolas" (steamid=76561198442072760) deleted objects using ESP
+22:24:3 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:24:17 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1922.922119, 2.000001, 12670.744141>)
+22:24:17 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:24:27 | "Carambolas" (steamid=76561198442072760) Spawned Item: (FenceKit)
+22:24:36 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:24:47 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1925.245117, 6.993361, 12619.673828>)
+22:24:47 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:24:55 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:25:17 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:25:17 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:25:19 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:25:22 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:25:27 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1831.853394, 2.000000, 12693.396484>)
+22:25:27 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:25:29 | "Carambolas" (steamid=76561198442072760) Spawned Item: (Hatchet)
+22:25:30 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:25:41 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1806.295654, 2.205746, 12742.287109>)
+22:25:41 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:25:50 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:25:53 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:25:54 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:26:18 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1790.998657, 6.991621, 12775.134766>)
+22:26:19 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:26:30 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:26:33 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:26:40 | Player "Zeca" (steamId=76561198159284026) disconnected from server.
+22:26:41 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:26:42 | Player "Zeca" (steamId=76561198159284026) disconnected from server.
+22:26:54 | "Carambolas" (steamid=76561198442072760) deleted object "ShelterSite" (pos=<4835.374512, 50.066269, 8024.619629>)
+22:26:58 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<1825.048584, 13.173008, 12902.053711>)
+22:27:1 | Player "Zeca" (steamId=76561198159284026) connected to server!
+22:27:9 | Player "Zeca" (steamId=76561198159284026) connected to server!
+22:27:13 | "Carambolas" (steamid=76561198442072760) Spawned Item: (dp_box_big_Brown)
+22:27:13 | "Carambolas" (steamid=76561198442072760) Spawned Item: (dp_box_big_Brown)
+22:27:14 | "Carambolas" (steamid=76561198442072760) Spawned Item: (dp_box_big_Brown)
+22:27:19 | "Carambolas" (steamid=76561198442072760) Spawned Item: (dp_box_big_Brown)
+22:27:19 | "Carambolas" (steamid=76561198442072760) Spawned Item: (dp_box_big_Brown)
+22:27:19 | "Carambolas" (steamid=76561198442072760) Spawned Item: (dp_box_big_Brown)
+22:27:36 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:27:55 | "Sobrevivente": (steamid=76561198329721265) teleported to (pos=4307.74,0,7149)
+22:28:0 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:28:5 | "Sobrevivente": (steamid=76561198329721265) teleported to (pos=4513.21,0,7168.27)
+22:28:10 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:28:15 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:28:16 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:28:18 | Player "Sobrevivente" (steamId=76561198329721265) disconnected from server.
+22:28:19 | Player "Sobrevivente" (steamId=76561198329721265) re-connected to server [canceledLogout]
+22:28:31 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:28:36 | Player "U T R O N" (steamId=76561198314418555) disconnected from server.
+22:28:37 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:28:40 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:28:48 | "Carambolas" (steamid=76561198442072760) Spawned Item: (dp_shelf_materials_Kit)
+22:29:2 | Player "U T R O N" (steamId=76561198314418555) connected to server!
+22:29:2 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:29:3 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:29:7 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<4392.306641, 124.553825, 7365.537598>)
+22:29:8 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:29:9 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:29:33 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:29:34 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:30:3 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:30:6 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:30:9 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:30:11 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:30:20 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:30:26 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:30:33 | "Carambolas" (steamid=76561198442072760) toggled godmode
+22:30:33 | "Carambolas" (steamid=76561198442072760) toggled godmode
+22:30:36 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:30:39 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:30:50 | Player "Texaco" (steamId=76561198389486307) disconnected from server.
+22:30:52 | Player "Texaco" (steamId=76561198389486307) disconnected from server.
+22:30:54 | Player "[G.O.L.E] KOYOTE" (steamId=76561198964690468) disconnected from server.
+22:30:59 | "Carambolas" (steamid=76561198442072760) deleted objects using ESP
+22:31:1 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:31:3 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:31:4 | Player "U T R O N" (steamId=76561198314418555) connected to server!
+22:31:11 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<3776.285400, 145.648956, 8039.307617>)
+22:31:12 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:31:13 | Player "SNK" (steamId=76561198101707046) disconnected from server.
+22:31:14 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:31:18 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:31:22 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<3777.065918, 145.066422, 8065.876953>)
+22:31:22 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<3777.065430, 147.501312, 8075.449219>)
+22:31:23 | Player "Brunner" (steamId=76561199031638818) connected to server!
+22:31:23 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<3775.968994, 151.596283, 8087.850586>)
+22:31:24 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<3775.294434, 153.408401, 8094.353027>)
+22:31:24 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<3774.536377, 154.825378, 8100.934082>)
+22:31:24 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<3773.313477, 155.796036, 8110.504395>)
+22:31:25 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<3774.666992, 153.108170, 8144.950195>)
+22:31:25 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<3775.322510, 154.175705, 8152.373535>)
+22:31:25 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<3776.169189, 155.923798, 8161.171387>)
+22:31:26 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<3777.144043, 158.125137, 8171.709473>)
+22:31:31 | Player "Brunner" (steamId=76561199031638818) connected to server!
+22:31:52 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:32:9 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:32:24 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:32:29 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:32:34 | "Sobrevivente" (steamid=76561198329721265) toggled godmode
+22:32:34 | "Sobrevivente" (steamid=76561198329721265) toggled godmode
+22:32:44 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<3770.361572, 153.097855, 8244.560547>)
+22:32:57 | Player "Zeca" (steamId=76561198159284026) disconnected from server.
+22:33:3 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:33:12 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<7660.326660, 20.417841, 5753.240723>)
+22:33:13 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:33:15 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:33:30 | Player "Zeca" (steamId=76561198159284026) connected to server!
+22:33:32 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<7651.228516, 3.087327, 5726.992188>)
+22:33:33 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:33:35 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:33:38 | Player "Zeca" (steamId=76561198159284026) connected to server!
+22:33:41 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:33:44 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:34:14 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:34:37 | "Sobrevivente": (steamid=76561198329721265) teleported to (pos=4004.23,0,7869.45)
+22:34:40 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:34:57 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:34:57 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:35:33 | Player "CABOBRANCO" (steamId=76561198057389190) connected to server!
+22:35:33 | Player "=FURY=InfantiDF" (steamId=76561198283309946) disconnected from server.
+22:35:33 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:35:34 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:35:43 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:35:46 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:36:21 | Player "CABOBRANCO" (steamId=76561198057389190) connected to server!
+22:36:23 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:36:34 | "Sobrevivente": (steamid=76561198329721265) teleported to (pos=4328.89,0,4751.55)
+22:36:45 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<4346.537109, 1.679656, 4727.166992>)
+22:36:53 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:37:1 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:37:4 | Player "Sobrevivente" (steamId=76561198329721265) disconnected from server.
+22:37:8 | Player "Sobrevivente" (steamId=76561198329721265) re-connected to server [canceledLogout]
+22:37:8 | Player "Sobrevivente" (steamId=76561198329721265) re-connected to server [canceledLogout]
+22:37:8 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:37:9 | "Sobrevivente" (steamid=76561198329721265) toggled freecam
+22:37:15 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<4385.558105, 0.847243, 4714.628418>)
+22:37:15 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<4396.939941, 1.061056, 4712.364746>)
+22:37:16 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<4406.321777, 2.332024, 4719.790527>)
+22:37:16 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<4412.224609, 3.390312, 4728.639160>)
+22:37:17 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<4417.964355, 3.700668, 4737.851074>)
+22:37:17 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<4423.812988, 3.890725, 4747.310059>)
+22:37:17 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<4430.082031, 4.023025, 4757.192871>)
+22:37:18 | "Sobrevivente" (steamid=76561198329721265) teleported to crosshair (pos=<4433.411621, 4.801365, 4761.940918>)
+22:37:19 | Player "Sobrevivente" (steamId=76561198329721265) disconnected from server.
+22:37:20 | Player "Sobrevivente" (steamId=76561198329721265) disconnected from server.
+22:39:46 | "Carambolas" (steamid=76561198442072760) toggled godmode
+22:39:47 | "Carambolas" (steamid=76561198442072760) toggled godmode
+22:42:33 | Player "U T R O N" (steamId=76561198314418555) disconnected from server.
+22:42:41 | Player "Carambolas" (steamId=76561198442072760) disconnected from server.
+22:42:50 | Player "[CMDs]Chefe" (steamId=76561198349620379) disconnected from server.
+22:43:41 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+22:43:53 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+22:44:28 | Player "U T R O N" (steamId=76561198314418555) connected to server!
+22:44:43 | Player "[CMDs]MrZulu" (steamId=76561198133335010) connected to server!
+22:44:45 | Player "U T R O N" (steamId=76561198314418555) connected to server!
+22:44:57 | Player "[CMDs]Chefe" (steamId=76561198349620379) connected to server!
+22:44:59 | "Carambolas" (steamid=76561198442072760) teleported to crosshair (pos=<3718.636230, 156.883072, 8214.750000>)
+22:45:8 | Player "[CMDs]Chefe" (steamId=76561198349620379) connected to server!
+22:45:36 | Player "Survivor (2)" (steamId=76561199250863335) connected to server!
+22:46:21 | Player "XXCARRASCOXX" (steamId=76561198192276507) connected to server!
+22:46:35 | Player "XXCARRASCOXX" (steamId=76561198192276507) connected to server!
+22:46:35 | Player "Toucinho" (steamId=76561198136706340) connected to server!
+22:48:31 | Player "[FARM]NATO" (steamId=76561199083641388) connected to server!
+22:49:2 | Player "Carambolas" (steamId=76561198442072760) disconnected from server.
+22:49:4 | Player "[CMDS]Templario" (steamId=76561198080265279) connected to server!
+22:49:17 | Player "[CMDs]MrZulu" (steamId=76561198133335010) connected to server!
+22:49:37 | Player "[FARM]NATO" (steamId=76561199083641388) connected to server!
+22:49:54 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+22:50:17 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+22:50:27 | Player "[CMDS]Templario" (steamId=76561198080265279) connected to server!
+22:53:2 | Player "Survivor (3)" (steamId=76561198385411751) connected to server!
+22:54:5 | "Carambolas" (steamid=76561198442072760) Spawned Item: (dp_hilka60)
+22:54:36 | Player "Survivor (4)" (steamId=76561198928161337) connected to server!
+22:58:55 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) disconnected from server.
+22:58:57 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) disconnected from server.
+22:59:9 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+22:59:35 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+23:2:10 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+23:2:24 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+23:12:18 | Player "[FARM]NATO" (steamId=76561199083641388) disconnected from server.
+23:13:40 | Player "Survivor (5)" (steamId=76561198086543992) connected to server!
+23:14:36 | Player "Survivor (5)" (steamId=76561198086543992) disconnected from server.
+23:14:39 | Player "Survivor (5)" (steamId=76561198086543992) disconnected from server.
+23:14:45 | Player "Alti" (steamId=76561199235859883) disconnected from server.
+23:15:11 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) disconnected from server.
+23:15:17 | Player "Alti" (steamId=76561199235859883) connected to server!
+23:15:32 | Player "Alti" (steamId=76561199235859883) connected to server!
+23:16:37 | Player "T0rMio" (steamId=76561198282235524) disconnected from server.
+23:16:48 | Player "Survivor (2)" (steamId=76561199250863335) disconnected from server.
+23:17:33 | Player "[FARM]NATO" (steamId=76561199083641388) connected to server!
+23:18:40 | Player "[FARM]NATO" (steamId=76561199083641388) connected to server!
+23:19:59 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) disconnected from server.
+23:20:1 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) disconnected from server.
+23:23:42 | Player "Survivor (2)" (steamId=76561199250863335) connected to server!
+23:24:17 | Player "Survivor (2)" (steamId=76561199250863335) connected to server!
+23:25:18 | Player "CABOBRANCO" (steamId=76561198057389190) disconnected from server.
+23:26:49 | Player "CABOBRANCO" (steamId=76561198057389190) connected to server!
+23:27:12 | Player "CABOBRANCO" (steamId=76561198057389190) connected to server!
+23:27:13 | Player "=FURY=zCastro" (steamId=76561199027286716) disconnected from server.
+23:27:15 | Player "=FURY=zCastro" (steamId=76561199027286716) disconnected from server.
+23:27:36 | Player "CABOBRANCO" (steamId=76561198057389190) disconnected from server.
+23:28:36 | Player "T0rMio" (steamId=76561198282235524) connected to server!
+23:28:43 | Player "T0rMio" (steamId=76561198282235524) connected to server!
+23:28:45 | Player "CABOBRANCO" (steamId=76561198057389190) connected to server!
+23:29:8 | Player "CABOBRANCO" (steamId=76561198057389190) connected to server!
+23:32:2 | Player "[G.O.L.E] RINKA178" (steamId=76561198905728984) connected to server!
+23:32:22 | Player "[G.O.L.E] RINKA178" (steamId=76561198905728984) connected to server!
+23:33:52 | Player "[G.O.L.E] RINKA178" (steamId=76561198905728984) disconnected from server.
+23:33:54 | Player "[G.O.L.E] RINKA178" (steamId=76561198905728984) disconnected from server.
+23:46:3 | Player "Toy Story" (steamId=76561198133211909) connected to server!
+23:46:26 | Player "Toy Story" (steamId=76561198133211909) connected to server!
+23:47:43 | "Carambolas" (steamid=76561198442072760) Spawned Item: (IodineTincture)
+23:48:2 | Player "Survivor (2)" (steamId=76561199250863335) disconnected from server.
+23:48:3 | Player "[CMDs]Chefe" (steamId=76561198349620379) disconnected from server.
+23:48:59 | Player "[CMDs]Chefe" (steamId=76561198349620379) connected to server!
+23:49:16 | Player "[CMDs]Chefe" (steamId=76561198349620379) connected to server!
+23:49:20 | Player "Survivor (2)" (steamId=76561198168305842) connected to server!
+23:50:57 | Player "Survivor (5)" (steamId=76561199250863335) connected to server!
+23:51:20 | Player "Survivor (5)" (steamId=76561199250863335) connected to server!
+23:51:22 | Player "[FARM]NATO" (steamId=76561199083641388) disconnected from server.
+23:51:24 | Player "[FARM]NATO" (steamId=76561199083641388) disconnected from server.
+23:52:5 | Player "[CMDs]MrZulu" (steamId=76561198133335010) disconnected from server.
+23:53:59 | Player "ursssinhocarrinho" (steamId=76561198046104047) connected to server!
+23:54:12 | Player "ursssinhocarrinho" (steamId=76561198046104047) connected to server!
+23:54:16 | Player "T0rMio" (steamId=76561198282235524) disconnected from server.
+23:54:18 | Player "=FURY=zCastro" (steamId=76561199027286716) connected to server!
+23:54:40 | Player "[CMDs]MrZulu" (steamId=76561198133335010) connected to server!
+23:56:49 | Player "Survivor (4)" (steamId=76561198928161337) disconnected from server.
+23:57:43 | Player "Survivor (5)" (steamId=76561199250863335) disconnected from server.
+23:57:45 | Player "Survivor (5)" (steamId=76561199250863335) disconnected from server.
+23:57:49 | Player "Brunner" (steamId=76561199031638818) disconnected from server.
+23:58:10 | Player "Alti" (steamId=76561199235859883) disconnected from server.
+23:58:11 | Player "Alti" (steamId=76561199235859883) disconnected from server.
+23:58:20 | Player "Benyelton" (steamId=76561198005485196) connected to server!
+23:58:37 | Player "Survivor (3)" (steamId=76561198385411751) disconnected from server.
+23:58:38 | Player "Survivor (3)" (steamId=76561198385411751) disconnected from server.
+23:59:36 | Player "Survivor (3)" (steamId=76561198018023099) connected to server!
+0:0:31 | Player "MS-13 MALLU" (steamId=76561198131289654) connected to server!
+0:1:50 | Player "[SEAL's]Marshall" (steamId=76561199172293547) connected to server!
+0:2:34 | Player "=FURY=zCastro" (steamId=76561199027286716) connected to server!
+0:3:9 | Player "cRn" (steamId=76561198100945209) connected to server!
+0:4:18 | Player "[CMDS]Templario" (steamId=76561198080265279) disconnected from server.
+0:4:27 | Player "MS-13 MALLU" (steamId=76561198131289654) disconnected from server.
+0:4:32 | Player "MS-13 MALLU" (steamId=76561198131289654) disconnected from server.
+0:5:0 | Player "[FARM]NATO" (steamId=76561199083641388) connected to server!
+0:5:10 | Player "[FARM]NATO" (steamId=76561199083641388) connected to server!
+0:6:17 | Player "=FURY=zCastro" (steamId=76561199027286716) disconnected from server.
+0:6:20 | Player "=FURY=zCastro" (steamId=76561199027286716) disconnected from server.
+0:6:52 | Player "[CMDs]MrZulu" (steamId=76561198133335010) disconnected from server.
+0:8:45 | Player "Alti" (steamId=76561199235859883) connected to server!
+0:8:54 | Player "Alti" (steamId=76561199235859883) connected to server!
+0:10:19 | Player "U T R O N" (steamId=76561198314418555) disconnected from server.
+0:10:20 | Player "U T R O N" (steamId=76561198314418555) disconnected from server.
+0:13:1 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) disconnected from server.
+0:13:15 | Player "Cheo" (steamId=76561198125655061) connected to server!
+0:13:40 | Player "CursedWolf" (steamId=76561198164729516) connected to server!
+0:13:42 | Player "[TWD]PauloGuimaraes" (steamId=76561198274953599) connected to server!
+0:13:43 | Player "Survivor (4)" (steamId=76561198149082303) connected to server!
+0:14:52 | Player "Sidao" (steamId=76561198116048713) connected to server!
+0:15:16 | Player "Survivor" (steamId=76561198218554995) disconnected from server.
+0:15:19 | Player "Survivor" (steamId=76561198218554995) disconnected from server.
+0:16:14 | Player "Survivor (4)" (steamId=76561198149082303) disconnected from server.
+0:16:16 | Player "Survivor (4)" (steamId=76561198149082303) disconnected from server.
+0:16:49 | Player "C E L E B R I M B O R" (steamId=76561198114043394) disconnected from server.
+0:16:56 | Player "Alti" (steamId=76561199235859883) disconnected from server.
+0:16:56 | Player "Carambolas" (steamId=76561198442072760) disconnected from server.
+0:16:57 | Player "Alti" (steamId=76561199235859883) disconnected from server.
+0:17:55 | Player "I AM LEGEND" (steamId=76561198950594742) connected to server!
+0:18:46 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+0:20:2 | Player "Alti" (steamId=76561199235859883) connected to server!
+0:20:3 | Player "SeuVagem" (steamId=76561198283309946) connected to server!
+0:20:13 | Player "Alti" (steamId=76561199235859883) connected to server!
+0:20:20 | Player "SeuVagem" (steamId=76561198283309946) connected to server!
+0:21:7 | Player "U T R O N" (steamId=76561198314418555) connected to server!
+0:21:18 | Player "U T R O N" (steamId=76561198314418555) connected to server!
+0:21:52 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+0:22:5 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+0:22:11 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+0:22:14 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+0:22:30 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+0:28:56 | Player "marlon" (steamId=76561199125874694) connected to server!
+0:29:23 | Player "marlon" (steamId=76561199125874694) connected to server!
+0:30:17 | Player "XXCARRASCOXX" (steamId=76561198192276507) disconnected from server.
+0:30:27 | Player "Toucinho" (steamId=76561198136706340) disconnected from server.
+0:32:21 | Player "JF_SC" (steamId=76561198024160883) connected to server!
+0:34:23 | Player "Phobos" (steamId=76561198032382568) connected to server!
+0:34:27 | Player "CABOBRANCO" (steamId=76561198057389190) disconnected from server.
+0:42:41 | Player "[TWD]PauloGuimaraes" (steamId=76561198274953599) disconnected from server.
+0:42:43 | Player "[TWD]PauloGuimaraes" (steamId=76561198274953599) disconnected from server.
+0:43:57 | Player "-Nine-" (steamId=76561198105682587) connected to server!
+0:45:6 | Player "Toy Story" (steamId=76561198133211909) disconnected from server.
+0:45:7 | Player "Toy Story" (steamId=76561198133211909) disconnected from server.
+0:46:26 | Player "ursssinhocarrinho" (steamId=76561198046104047) disconnected from server.
+0:46:30 | Player "ursssinhocarrinho" (steamId=76561198046104047) disconnected from server.
+0:48:1 | Player "Survivor" (steamId=76561198078159312) connected to server!
+0:48:16 | Player "Batima" (steamId=76561198035822737) connected to server!
+0:48:24 | Player "[CMDs]Chefe" (steamId=76561198349620379) disconnected from server.
+0:49:5 | Player "Agalloch" (steamId=76561198048245375) connected to server!
+0:53:14 | Player "cuzinho melado" (steamId=76561198080293845) connected to server!
+0:53:32 | Player "cuzinho melado" (steamId=76561198080293845) connected to server!
+0:54:44 | Player "cuzinho melado" (steamId=76561198080293845) disconnected from server.
+0:54:46 | Player "cuzinho melado" (steamId=76561198080293845) disconnected from server.
+0:54:50 | Player "[FARM]NATO" (steamId=76561199083641388) disconnected from server.
+0:54:52 | Player "[FARM]NATO" (steamId=76561199083641388) disconnected from server.
+0:56:2 | Player "Eduardo" (steamId=76561198127441859) connected to server!
+0:57:17 | Player "caruso" (steamId=76561198062758154) connected to server!
+0:57:30 | Player "caruso" (steamId=76561198062758154) connected to server!
+0:58:58 | Player "elcasicasi" (steamId=76561198287072198) connected to server!
+0:59:10 | Player "elcasicasi" (steamId=76561198287072198) connected to server!
+0:59:54 | Player "-Nine-" (steamId=76561198105682587) disconnected from server.
+1:0:23 | Player "[GNR] Kvazir" (steamId=76561198163934093) connected to server!
+1:5:6 | Player "JF_SC" (steamId=76561198024160883) disconnected from server.
+1:5:46 | "I AM LEGEND": (steamid=76561198950594742) teleported to (pos=5839.81,0,10694.4)
+1:7:0 | Player "[FARM]Gandii" (steamId=76561199008723574) connected to server!
+1:8:17 | Player "marlon" (steamId=76561199125874694) disconnected from server.
+1:8:19 | Player "marlon" (steamId=76561199125874694) disconnected from server.
+1:8:22 | Player "[FARM]NATO" (steamId=76561199083641388) connected to server!
+1:8:41 | Player "Benyelton" (steamId=76561198005485196) disconnected from server.
+1:8:43 | Player "Benyelton" (steamId=76561198005485196) disconnected from server.
+1:9:6 | Player "[FARM]Gandii" (steamId=76561199008723574) connected to server!
+1:9:45 | Player "[FARM]NATO" (steamId=76561199083641388) connected to server!
+1:11:45 | Player "[GNR] Kvazir" (steamId=76561198163934093) disconnected from server.
+1:19:7 | Player "Petrallsk" (steamId=76561199115054828) connected to server!
+1:24:0 | Player "[SEAL's]Marshall" (steamId=76561199172293547) disconnected from server.
+1:24:10 | Player "vtRPP" (steamId=76561197974122782) connected to server!
+1:24:17 | Player "Alti" (steamId=76561199235859883) disconnected from server.
+1:24:18 | Player "Alti" (steamId=76561199235859883) disconnected from server.
+1:24:47 | Player "Kharkiv EB" (steamId=76561198269184417) connected to server!
+1:25:37 | Player "Carambolas" (steamId=76561198442072760) disconnected from server.
+1:25:40 | Player "C E L E B R I M B O R" (steamId=76561198114043394) disconnected from server.
+1:25:43 | Player "C E L E B R I M B O R" (steamId=76561198114043394) disconnected from server.
+1:26:12 | Player "I AM LEGEND" (steamId=76561198950594742) disconnected from server.
+1:28:8 | Player "Estaker" (steamId=76561199105536103) connected to server!
+1:28:27 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+1:28:46 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+1:31:52 | Player "Carambolas" (steamId=76561198442072760) disconnected from server.
+1:31:52 | Player "Carambolas" (steamId=76561198442072760) disconnected from server.
+1:32:39 | Player "Survivor (2)" (steamId=76561198442793181) connected to server!
+1:33:17 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+1:33:35 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+1:33:44 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) connected to server!
+1:34:49 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) connected to server!
+1:37:19 | Player "DASH" (steamId=76561199241533579) connected to server!
+1:38:14 | Player "Alti" (steamId=76561199235859883) connected to server!
+1:40:10 | Player "Kharkiv EB" (steamId=76561198269184417) disconnected from server.
+1:41:1 | Player "Alti" (steamId=76561199235859883) connected to server!
+1:43:28 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) connected to server!
+1:43:35 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) connected to server!
+1:50:27 | Player "vtRPP" (steamId=76561197974122782) disconnected from server.
+1:50:28 | Player "vtRPP" (steamId=76561197974122782) disconnected from server.
+1:54:15 | Player "Zeca" (steamId=76561198159284026) disconnected from server.
+1:54:24 | Player "Kharkiv EB" (steamId=76561198269184417) connected to server!
+1:54:42 | Player "Carvoeiro" (steamId=76561198866716185) disconnected from server.
+1:55:19 | Player "Kharkiv EB" (steamId=76561198269184417) connected to server!
+1:55:48 | Player "I AM LEGEND" (steamId=76561198950594742) connected to server!
+1:56:31 | Player "I AM LEGEND" (steamId=76561198950594742) connected to server!
+1:56:47 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+1:56:49 | "I AM LEGEND" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+1:56:53 | Player "[FARM]RIBEIRO" (steamId=76561198998920846) connected to server!
+1:57:2 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+1:57:11 | Player "[FARM]RIBEIRO" (steamId=76561198998920846) connected to server!
+1:57:16 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4508.247559, 5.857862, 10093.680664>)
+1:57:16 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4504.143066, 5.479688, 10081.717773>)
+1:57:51 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4467.251465, 4.315520, 9971.483398>)
+1:58:31 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+1:58:44 | Player "Sidao" (steamId=76561198116048713) disconnected from server.
+1:58:50 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+1:59:7 | "BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+1:59:17 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+1:59:26 | Player "Kharkiv EB" (steamId=76561198269184417) disconnected from server.
+1:59:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4554.102539, 17.568514, 9597.774414>)
+1:59:37 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+1:59:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4574.333984, 19.156551, 9594.001953>)
+1:59:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4582.622559, 19.241524, 9590.888672>)
+1:59:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4582.822754, 19.297642, 9590.568359>)
+1:59:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4583.096680, 19.332018, 9590.366211>)
+1:59:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4583.321289, 19.369440, 9590.149414>)
+1:59:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4588.765625, 19.722809, 9588.011719>)
+1:59:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4589.324219, 19.797640, 9587.562500>)
+1:59:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4589.923828, 19.898396, 9586.940430>)
+1:59:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4590.507324, 19.952021, 9586.599609>)
+1:59:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4595.751465, 20.504639, 9584.273438>)
+1:59:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4595.419434, 20.781309, 9584.085938>)
+1:59:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4595.464844, 22.070623, 9584.253906>)
+1:59:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4595.609863, 22.132542, 9584.187500>)
+1:59:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4595.750000, 22.183598, 9584.121094>)
+1:59:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4600.444336, 21.459801, 9581.633789>)
+1:59:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4609.845703, 21.528521, 9577.249023>)
+1:59:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4608.889648, 21.452358, 9577.624023>)
+1:59:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4610.454590, 22.104548, 9576.988281>)
+1:59:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4614.535645, 22.501909, 9574.826172>)
+1:59:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4614.680176, 22.152411, 9575.132813>)
+1:59:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4614.770996, 22.168791, 9575.189453>)
+1:59:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4615.818848, 24.614704, 9574.249023>)
+1:59:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4623.924316, 22.859049, 9570.666992>)
+1:59:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4623.199219, 22.763077, 9571.141602>)
+1:59:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4623.364258, 22.751434, 9571.197266>)
+1:59:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4629.310547, 23.444780, 9567.813477>)
+1:59:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4629.734863, 23.518066, 9567.461914>)
+1:59:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4629.105469, 23.410948, 9567.977539>)
+1:59:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4634.742188, 24.122742, 9564.607422>)
+1:59:51 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4634.981445, 24.167274, 9564.397461>)
+1:59:51 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4634.028809, 24.091999, 9564.745117>)
+1:59:51 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4634.360840, 24.132156, 9564.556641>)
+1:59:51 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4639.916504, 24.931950, 9561.243164>)
+1:59:51 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4639.171387, 24.884411, 9561.406250>)
+1:59:51 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4639.544434, 24.939545, 9561.214844>)
+1:59:51 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4639.750977, 24.975380, 9561.089844>)
+1:59:51 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4643.572266, 25.700142, 9558.566406>)
+1:59:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4671.393555, 30.620264, 9542.769531>)
+1:59:57 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4679.101563, 33.635178, 9536.125000>)
+2:0:16 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:0:20 | "BRUXO" (steamid=76561198140728342) toggled freecam
+2:0:24 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:0:26 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:0:26 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<8125.052246, 23.918640, 10846.415039>)
+2:0:29 | "BRUXO" (steamid=76561198140728342) toggled freecam
+2:0:38 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3785.632568, 6.893555, 9246.843750>)
+2:0:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4600.920898, 55.592361, 9425.432617>)
+2:0:49 | "BRUXO" (steamid=76561198140728342) toggled freecam
+2:0:55 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<8491.360352, 14.940218, 10180.498047>)
+2:0:56 | "BRUXO" (steamid=76561198140728342) toggled freecam
+2:1:37 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4272.226074, 159.213364, 9082.553711>)
+2:1:45 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4136.279785, 185.522034, 8771.251953>)
+2:1:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4054.859131, 135.775497, 8425.807617>)
+2:1:59 | Player "Survivor (2)" (steamId=76561198442793181) disconnected from server.
+2:2:1 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4226.743164, 131.528580, 8654.715820>)
+2:2:2 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4220.872070, 136.668793, 8662.311523>)
+2:2:4 | "BRUXO": (steamid=76561198140728342) teleported to (pos=8096.85,0,8675.29)
+2:2:12 | "BRUXO" (steamid=76561198140728342) toggled freecam
+2:2:16 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4401.611328, 78.484200, 8372.712891>)
+2:2:20 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:2:22 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:2:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3951.602783, 176.090485, 8518.881836>)
+2:2:33 | Player "Survivor (2)" (steamId=76561198442793181) connected to server!
+2:2:40 | Player "Survivor (2)" (steamId=76561198442793181) connected to server!
+2:2:42 | Player "ArUcArD" (steamId=76561198022142278) connected to server!
+2:3:44 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<7618.008789, 71.669792, 8793.066406>)
+2:3:48 | "BRUXO" (steamid=76561198140728342) toggled freecam
+2:4:14 | Player "CursedWolf" (steamId=76561198164729516) disconnected from server.
+2:4:15 | Player "Agalloch" (steamId=76561198048245375) disconnected from server.
+2:4:17 | Player "Agalloch" (steamId=76561198048245375) disconnected from server.
+2:4:35 | "BRUXO" (steamid=76561198140728342) toggled freecam
+2:4:45 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<7926.356445, 29.411118, 8861.301758>)
+2:4:46 | "BRUXO" (steamid=76561198140728342) toggled freecam
+2:4:52 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:4:57 | "I AM LEGEND" (steamid=76561198950594742) deleted object "Animal_CanisLupus_Grey" (pos=<4832.157227, 58.987526, 9309.746094>)
+2:5:0 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4824.632813, 60.408768, 9297.859375>)
+2:5:0 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4817.229492, 61.681591, 9293.852539>)
+2:5:0 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4816.923340, 61.733421, 9293.676758>)
+2:5:0 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4816.714355, 61.768543, 9293.555664>)
+2:5:0 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4816.471191, 61.809502, 9293.417969>)
+2:5:0 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4811.129395, 62.701050, 9290.543945>)
+2:5:0 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4810.578125, 62.792004, 9290.230469>)
+2:5:1 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4810.228027, 62.849751, 9290.029297>)
+2:5:1 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4805.070801, 63.718323, 9287.260742>)
+2:5:1 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4804.758301, 63.768951, 9287.083984>)
+2:5:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4827.219727, 59.893688, 9303.155273>)
+2:5:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4817.928223, 61.520599, 9297.189453>)
+2:5:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4811.036621, 62.687431, 9292.492188>)
+2:5:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4810.852539, 62.718285, 9292.362305>)
+2:5:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4810.593750, 62.761456, 9292.184570>)
+2:5:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4810.403809, 62.792866, 9292.071289>)
+2:5:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4810.213867, 62.824013, 9291.970703>)
+2:5:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4805.201660, 63.675713, 9288.658203>)
+2:5:11 | Player "Cheo" (steamId=76561198125655061) disconnected from server.
+2:5:12 | Player "Cheo" (steamId=76561198125655061) disconnected from server.
+2:5:23 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4831.673340, 59.006577, 9310.958984>)
+2:5:23 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4823.512207, 60.433971, 9307.864258>)
+2:5:23 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4823.291016, 60.472450, 9307.772461>)
+2:5:23 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4823.043457, 60.515728, 9307.624023>)
+2:5:23 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4822.781738, 60.561581, 9307.466797>)
+2:5:23 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4817.967773, 61.386513, 9305.541016>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4816.278320, 61.667919, 9304.848633>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4815.931641, 61.726139, 9304.670898>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4815.514160, 61.797035, 9304.423828>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4811.827148, 62.402233, 9302.928711>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4809.647949, 62.754860, 9302.027344>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4808.488281, 62.946491, 9301.411133>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4808.277832, 62.981110, 9301.308594>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4803.900879, 63.696201, 9299.509766>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4802.424316, 63.937466, 9298.898438>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4802.186035, 63.976398, 9298.798828>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4799.642578, 64.396645, 9297.694336>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4796.763184, 64.871033, 9296.445313>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4795.657715, 65.054512, 9296.009766>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4794.968262, 65.168861, 9295.740234>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4792.125977, 65.671883, 9294.509766>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4790.000000, 66.136055, 9293.580078>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4789.386719, 66.268944, 9293.341797>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4789.229004, 66.303879, 9293.266602>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4786.202148, 66.774544, 9292.008789>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4784.052246, 67.100929, 9291.110352>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4783.820313, 67.140587, 9291.035156>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4783.612793, 67.180115, 9290.945313>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4781.335449, 67.613754, 9289.998047>)
+2:5:24 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4778.234375, 67.965752, 9288.733398>)
+2:5:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4778.045410, 67.974731, 9288.694336>)
+2:5:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4777.553223, 67.990173, 9288.516602>)
+2:5:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4774.744629, 68.072433, 9287.350586>)
+2:5:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4770.416504, 68.315155, 9285.517578>)
+2:5:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4769.896484, 68.370262, 9285.296875>)
+2:5:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4769.439941, 68.418793, 9285.071289>)
+2:5:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4767.875488, 68.685150, 9284.395508>)
+2:5:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4766.460449, 68.997879, 9283.784180>)
+2:5:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4765.088867, 69.386337, 9283.190430>)
+2:5:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4764.882813, 69.447372, 9283.087891>)
+2:5:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4762.864258, 70.038177, 9282.195313>)
+2:5:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4761.851563, 70.229942, 9281.778320>)
+2:5:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4760.627441, 70.404755, 9281.265625>)
+2:5:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4758.195313, 70.454063, 9280.220703>)
+2:5:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4755.539063, 70.800056, 9279.084961>)
+2:5:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4754.466797, 70.898735, 9278.623047>)
+2:5:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4753.840820, 70.956932, 9278.357422>)
+2:5:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4750.667969, 71.468002, 9277.007813>)
+2:5:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4749.445313, 71.612556, 9276.454102>)
+2:5:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4749.076660, 71.629112, 9276.279297>)
+2:5:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4746.738770, 71.967117, 9275.267578>)
+2:5:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4746.379395, 72.024681, 9275.081055>)
+2:5:26 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4745.530273, 72.128654, 9274.689453>)
+2:5:26 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4742.928223, 72.344299, 9273.549805>)
+2:5:26 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4742.815918, 72.714737, 9273.499023>)
+2:5:26 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4742.935547, 72.896149, 9273.547852>)
+2:5:26 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4741.656250, 73.645439, 9272.993164>)
+2:5:26 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4741.626465, 73.698997, 9272.979492>)
+2:5:26 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4741.315918, 73.735825, 9272.827148>)
+2:5:26 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4736.332520, 73.742226, 9270.550781>)
+2:5:26 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4736.147461, 73.938721, 9270.453125>)
+2:5:26 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4726.243164, 71.154320, 9265.850586>)
+2:5:26 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4725.800781, 71.131989, 9265.460938>)
+2:5:26 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4722.185547, 71.146767, 9262.882813>)
+2:5:26 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4720.439941, 71.222832, 9262.176758>)
+2:5:26 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4720.393555, 71.198387, 9261.846680>)
+2:5:26 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4720.972168, 71.917023, 9262.120117>)
+2:5:26 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4719.782715, 71.204483, 9261.357422>)
+2:5:26 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4718.892578, 71.247978, 9260.967773>)
+2:5:26 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4718.745605, 71.779030, 9260.808594>)
+2:5:26 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4718.811523, 71.605408, 9260.880859>)
+2:5:26 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4718.747070, 71.534172, 9261.030273>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4718.656250, 71.654686, 9261.044922>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4715.820801, 71.425888, 9259.071289>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4715.543945, 71.436256, 9258.777344>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4715.591797, 71.435028, 9258.835938>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4713.562988, 71.586975, 9257.747070>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4713.411133, 71.602463, 9257.722656>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4713.281738, 71.616554, 9257.711914>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4713.043945, 71.625206, 9257.458008>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4710.885742, 71.831558, 9256.397461>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4710.883301, 71.832443, 9256.406250>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4710.777832, 71.844238, 9256.363281>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4710.457031, 71.877052, 9256.192383>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4710.215820, 71.898552, 9256.025391>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4709.955078, 71.922028, 9255.849609>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4709.629395, 71.952011, 9255.638672>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4709.149414, 71.996552, 9255.333008>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4708.119629, 72.089996, 9254.649414>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4706.735840, 72.229424, 9253.688477>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4705.774902, 72.321075, 9252.976563>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4703.078613, 72.611855, 9251.472656>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4702.028809, 72.724960, 9250.741211>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4700.485352, 72.924400, 9249.665039>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4700.145996, 73.008667, 9249.369141>)
+2:5:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4698.110352, 73.412186, 9248.248047>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4697.438477, 73.552399, 9247.772461>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4695.417480, 73.921532, 9246.331055>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4695.268066, 73.950592, 9246.147461>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4693.375000, 74.308128, 9245.041016>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4692.504395, 74.520454, 9244.416992>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4690.455078, 74.904503, 9242.858398>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4690.367188, 74.935837, 9242.723633>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4687.324219, 75.164314, 9240.783203>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4686.876953, 75.238182, 9240.480469>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4685.051758, 75.423897, 9239.125000>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4680.801270, 75.374466, 9235.974609>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4678.812500, 75.658607, 9234.710938>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4677.274414, 75.884605, 9233.600586>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4677.265137, 75.885620, 9233.583008>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4676.077637, 76.063248, 9232.651367>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4673.744629, 76.396416, 9231.014648>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4670.807129, 76.643776, 9228.934570>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4670.321289, 76.674576, 9228.570313>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4668.133301, 76.835381, 9226.972656>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4667.054199, 76.963913, 9226.271484>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4665.193359, 77.275642, 9225.021484>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4664.955566, 77.311501, 9224.872070>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4664.133301, 77.423103, 9224.282227>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4657.813965, 77.330460, 9219.948242>)
+2:5:28 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4651.468750, 76.809990, 9215.578125>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4651.301758, 76.895828, 9215.458008>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4644.416992, 76.035637, 9210.700195>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4633.714844, 75.998505, 9203.315430>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4631.833008, 76.037445, 9201.999023>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4632.714844, 76.017418, 9202.590820>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4625.744141, 76.183960, 9197.761719>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4623.468262, 76.402069, 9196.195313>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4623.196289, 76.434929, 9196.006836>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4619.957520, 76.424675, 9193.759766>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4616.286133, 76.693420, 9191.276367>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4616.063965, 76.709625, 9191.170898>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4613.974609, 76.802719, 9189.726563>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4607.374023, 76.906052, 9185.196289>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4605.251953, 76.965309, 9183.744141>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4602.964355, 77.000870, 9182.193359>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4602.638184, 77.004578, 9181.953125>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4600.305664, 76.957970, 9180.352539>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4591.273926, 76.643753, 9174.249023>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4587.335938, 76.461929, 9171.704102>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4585.684082, 76.502594, 9170.673828>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4583.909180, 76.573997, 9169.489258>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4578.949219, 76.739059, 9166.083984>)
+2:5:29 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4578.636230, 76.749725, 9165.916016>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4575.937012, 76.823959, 9164.243164>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4573.812988, 76.906288, 9162.874023>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4570.626465, 77.137863, 9160.675781>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4569.146484, 77.192078, 9159.697266>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4568.946777, 77.199326, 9159.565430>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4566.317383, 77.539261, 9157.942383>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4563.004395, 77.785713, 9155.656250>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4561.759766, 77.959450, 9154.807617>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4561.499023, 78.001892, 9154.621094>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4559.208496, 78.392006, 9153.105469>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4557.117188, 78.801872, 9151.726563>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4556.579590, 78.906219, 9151.360352>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4554.609375, 79.222900, 9150.047852>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4553.410645, 79.428299, 9149.268555>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4551.759766, 79.732399, 9148.190430>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4550.013184, 80.013351, 9147.051758>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4549.292480, 80.236534, 9146.577148>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4547.736328, 80.655495, 9145.562500>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4546.041016, 80.763763, 9144.452148>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4545.699219, 80.784042, 9144.220703>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4543.712891, 81.053970, 9142.913086>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4541.955078, 81.481949, 9141.750977>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4540.888184, 81.741287, 9141.034180>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4540.496582, 81.835960, 9140.761719>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4538.798828, 82.180977, 9139.631836>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4538.469238, 82.247757, 9139.409180>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4538.292480, 82.283714, 9139.292969>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4535.896484, 82.835365, 9137.690430>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4535.375000, 82.941376, 9137.358398>)
+2:5:30 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4533.618652, 83.396919, 9136.201172>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4533.341309, 83.469528, 9136.041016>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4532.566895, 83.664406, 9135.537109>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4529.926758, 84.228600, 9133.793945>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4528.488281, 84.497612, 9132.852539>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4528.118164, 84.567924, 9132.615234>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4524.448730, 85.099297, 9130.193359>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4523.373535, 85.191048, 9129.472656>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4520.614258, 85.500999, 9128.014648>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4520.053711, 85.568314, 9127.738281>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4519.470215, 85.706848, 9127.821289>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4516.168945, 86.291313, 9125.748047>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4515.569336, 86.431198, 9125.481445>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4514.148926, 86.768188, 9124.879883>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4507.738281, 87.274712, 9121.843750>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4506.435547, 87.574471, 9121.270508>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4506.145996, 87.623398, 9121.144531>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4501.815918, 88.556389, 9119.143555>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4501.493164, 88.656082, 9118.969727>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4500.975586, 88.814659, 9118.646484>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4489.514160, 89.384338, 9112.948242>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4488.570313, 89.514816, 9112.358398>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4488.232422, 89.593239, 9111.746094>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4482.555176, 90.363068, 9108.903320>)
+2:5:31 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4481.681641, 90.532829, 9108.367188>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4481.621582, 90.613258, 9108.302734>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4481.726563, 90.740784, 9107.983398>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4474.744141, 90.904060, 9103.767578>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4472.087891, 91.452759, 9102.454102>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4471.862793, 91.511215, 9102.208984>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4471.834961, 91.518791, 9102.164063>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4471.012207, 91.725021, 9101.568359>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4467.968750, 92.519165, 9099.666016>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4466.822266, 92.861816, 9098.919922>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4466.722168, 92.894791, 9098.727539>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4464.056152, 93.712097, 9096.997070>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4462.510254, 94.211639, 9095.968750>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4462.253906, 94.307739, 9095.797852>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4461.403809, 94.627953, 9095.213867>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4459.477539, 95.335396, 9093.889648>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4458.528320, 95.684044, 9093.267578>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4458.101074, 95.841240, 9092.989258>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4458.008301, 95.875633, 9092.921875>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4456.734863, 96.341949, 9091.984375>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4454.605469, 97.126015, 9090.388672>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4454.465332, 97.183479, 9090.104492>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4454.241211, 97.270393, 9089.805664>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4453.051270, 97.698563, 9088.809570>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4451.849121, 98.131630, 9087.674805>)
+2:5:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4450.612305, 98.576485, 9086.718750>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4450.527344, 98.611374, 9086.451172>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4449.310059, 99.052238, 9085.224609>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4448.054199, 99.509140, 9084.023438>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4447.036621, 99.863205, 9083.495117>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4446.711914, 99.977943, 9083.143555>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4445.445313, 100.424133, 9081.859375>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4444.119141, 100.809509, 9080.719727>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4442.866211, 101.211372, 9079.683594>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4442.640625, 101.286499, 9079.678711>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4440.061523, 102.083427, 9077.285156>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4440.022949, 102.096458, 9077.022461>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4439.466309, 102.303902, 9076.482422>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4437.176270, 103.120308, 9074.701172>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4435.988770, 103.416672, 9073.623047>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4435.777832, 103.454361, 9073.287109>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4433.895020, 103.992012, 9071.928711>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4433.796875, 104.407234, 9071.780273>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4433.683105, 104.776474, 9071.220703>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4431.985352, 104.728012, 9069.902344>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4430.368652, 105.338600, 9068.875977>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4430.237305, 105.380943, 9068.580078>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4429.634277, 105.577003, 9067.930664>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4428.655273, 105.913307, 9067.193359>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4427.221191, 106.418678, 9066.083984>)
+2:5:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4426.603516, 106.663795, 9065.554688>)
+2:5:34 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4425.741211, 107.002609, 9064.663086>)
+2:5:34 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4425.142090, 107.236954, 9064.015625>)
+2:5:34 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4425.127930, 107.237755, 9063.792969>)
+2:5:34 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4423.709961, 107.784584, 9062.849609>)
+2:5:34 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4423.129395, 108.030098, 9062.360352>)
+2:5:34 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4421.798828, 108.561295, 9061.096680>)
+2:5:34 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4420.463867, 109.116707, 9059.995117>)
+2:5:34 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4420.225098, 109.225662, 9059.610352>)
+2:5:34 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4419.987793, 109.332916, 9059.331055>)
+2:5:34 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4419.704102, 109.459602, 9059.104492>)
+2:5:34 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4418.208496, 110.116920, 9057.893555>)
+2:5:34 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4416.850586, 110.636475, 9056.673828>)
+2:5:34 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4416.606445, 110.718384, 9056.331055>)
+2:5:34 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4415.504883, 111.094765, 9055.368164>)
+2:5:34 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4414.788574, 111.331711, 9054.552734>)
+2:5:34 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4413.594238, 111.794662, 9053.567383>)
+2:5:34 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4413.330078, 111.900032, 9053.112305>)
+2:5:43 | "I AM LEGEND" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+2:5:46 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4389.868652, 120.322510, 9041.730469>)
+2:5:46 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4384.787109, 123.394974, 9039.364258>)
+2:5:46 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4384.498047, 123.541916, 9039.219727>)
+2:5:46 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4384.244629, 123.670883, 9039.089844>)
+2:5:46 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4383.925781, 123.834373, 9038.910156>)
+2:5:46 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4380.118164, 125.791512, 9037.070313>)
+2:5:46 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4379.745117, 125.999466, 9036.778320>)
+2:5:46 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4379.184082, 126.315033, 9036.296875>)
+2:5:46 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4376.938965, 127.554749, 9035.204102>)
+2:5:46 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4375.674805, 128.528427, 9034.314453>)
+2:5:46 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4375.408691, 128.742935, 9034.084961>)
+2:5:46 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4375.085449, 129.004242, 9033.800781>)
+2:5:46 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4374.656738, 129.351273, 9033.609375>)
+2:5:46 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4373.153320, 130.637756, 9032.833008>)
+2:5:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4372.446777, 131.338028, 9032.266602>)
+2:5:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4372.125000, 131.668625, 9031.965820>)
+2:5:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4371.754395, 132.009827, 9031.769531>)
+2:5:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4370.562500, 133.100113, 9031.150391>)
+2:5:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4369.547852, 134.098373, 9030.302734>)
+2:5:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4369.236328, 134.470398, 9030.061523>)
+2:5:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4368.853027, 134.947906, 9029.714844>)
+2:5:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4367.472168, 136.445694, 9028.755859>)
+2:5:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4366.931641, 137.048172, 9028.322266>)
+2:5:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4366.479492, 137.581100, 9027.878906>)
+2:5:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4366.231934, 137.865952, 9027.657227>)
+2:5:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4365.138184, 138.953217, 9026.871094>)
+2:5:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4364.402344, 139.705521, 9026.254883>)
+2:5:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4364.021973, 140.107559, 9025.892578>)
+2:5:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4363.578613, 140.574692, 9025.473633>)
+2:5:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4362.599121, 141.528549, 9024.778320>)
+2:5:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4361.514160, 142.479218, 9023.915039>)
+2:5:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4361.296875, 142.664383, 9023.762695>)
+2:5:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4360.932617, 142.966095, 9023.548828>)
+2:5:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4359.843750, 143.883514, 9022.834961>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4358.538574, 144.877533, 9021.961914>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4357.101563, 145.728271, 9021.151367>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4356.833984, 145.892166, 9020.930664>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4356.535156, 146.073517, 9020.701172>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4353.524902, 147.395889, 9018.821289>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4352.908203, 147.564987, 9018.355469>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4352.895508, 147.558853, 9018.279297>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4351.813965, 147.859161, 9017.561523>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4349.758789, 148.829590, 9016.290039>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4349.677246, 148.868881, 9016.198242>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4349.481445, 148.962341, 9015.990234>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4346.859375, 150.179626, 9014.349609>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4346.314941, 150.416870, 9013.973633>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4346.354492, 150.398972, 9013.966797>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4346.049316, 150.531067, 9013.701172>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4345.839355, 150.621628, 9013.518555>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4343.375977, 151.624435, 9011.971680>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4342.601563, 151.862473, 9011.388672>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4342.183594, 151.988998, 9011.057617>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4341.801270, 152.101852, 9010.733398>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4338.669434, 152.892792, 9008.674805>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4338.129883, 152.984741, 9008.271484>)
+2:5:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4337.268066, 153.155518, 9007.623047>)
+2:5:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4334.226563, 153.635681, 9005.517578>)
+2:5:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4330.302246, 153.519791, 9002.676758>)
+2:5:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4328.948730, 153.442474, 9001.703125>)
+2:5:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4321.910645, 153.596588, 8996.749023>)
+2:5:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4321.654785, 153.719589, 8996.763672>)
+2:5:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4320.894531, 154.039505, 8996.326172>)
+2:5:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4320.894531, 154.043671, 8996.375000>)
+2:5:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4318.808594, 154.899521, 8994.923828>)
+2:5:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4317.749512, 155.278198, 8994.411133>)
+2:5:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4316.899902, 155.706436, 8993.948242>)
+2:5:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4315.156738, 156.610992, 8992.796875>)
+2:5:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4314.130371, 157.136627, 8992.278320>)
+2:5:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4313.498047, 157.496674, 8991.875977>)
+2:5:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4312.202148, 158.227951, 8991.067383>)
+2:5:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4310.758789, 158.977768, 8990.254883>)
+2:5:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4310.327148, 159.201370, 8990.018555>)
+2:5:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4309.770020, 159.512802, 8989.663086>)
+2:5:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4309.134766, 159.879471, 8989.266602>)
+2:5:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4307.976074, 160.542938, 8988.583008>)
+2:5:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4306.571289, 161.343384, 8987.789063>)
+2:5:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4306.285645, 161.508804, 8987.608398>)
+2:5:49 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4306.089844, 161.619659, 8987.483398>)
+2:5:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4304.504395, 162.518204, 8986.536133>)
+2:5:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4303.558594, 163.051071, 8985.989258>)
+2:5:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4302.695801, 163.539261, 8985.481445>)
+2:5:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4302.566406, 163.613541, 8985.397461>)
+2:5:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4301.827148, 164.049606, 8984.957031>)
+2:5:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4300.132324, 165.070847, 8983.963867>)
+2:5:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4299.618652, 165.370728, 8983.650391>)
+2:5:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4299.221191, 165.595840, 8983.424805>)
+2:5:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4298.376465, 166.078781, 8982.916992>)
+2:5:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4297.968262, 166.324005, 8982.666992>)
+2:5:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4296.135254, 167.417328, 8981.602539>)
+2:5:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4295.663086, 167.700882, 8981.318359>)
+2:6:2 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<7930.463379, 30.273632, 8866.878906>)
+2:6:4 | "BRUXO" (steamid=76561198140728342) toggled freecam
+2:6:10 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<7616.452637, 71.669800, 8795.486328>)
+2:6:11 | "BRUXO" (steamid=76561198140728342) toggled freecam
+2:6:21 | "BRUXO" (steamid=76561198140728342) toggled freecam
+2:6:24 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<7513.805664, 46.010559, 8869.110352>)
+2:6:26 | "BRUXO" (steamid=76561198140728342) toggled freecam
+2:7:38 | Player "Carambolas" (steamId=76561198442072760) disconnected from server.
+2:7:56 | "BRUXO": (steamid=76561198140728342) teleported to (pos=6575.73,0,11081.6)
+2:8:38 | Player "Estaker" (steamId=76561199105536103) disconnected from server.
+2:8:41 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4005.210693, 158.684235, 8518.278320>)
+2:9:43 | "BRUXO": (steamid=76561198140728342) teleported to (pos=6983.27,0,11285.2)
+2:9:44 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3969.482178, 156.033371, 8439.676758>)
+2:9:56 | "BRUXO" (steamid=76561198140728342) toggled freecam
+2:11:22 | Player "T0rMio" (steamId=76561198282235524) connected to server!
+2:11:29 | "BRUXO": (steamid=76561198140728342) teleported to (pos=3418.65,0,8575.21)
+2:11:43 | "BRUXO" (steamid=76561198140728342) toggled freecam
+2:11:44 | "BRUXO" (steamid=76561198140728342) toggled freecam
+2:11:47 | Player "T0rMio" (steamId=76561198282235524) connected to server!
+2:11:54 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:12:8 | Player "cRn" (steamId=76561198100945209) disconnected from server.
+2:12:32 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4005.666016, 108.613159, 8926.402344>)
+2:12:41 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4128.098145, 125.366341, 8434.216797>)
+2:12:52 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4250.297363, 102.701645, 8541.334961>)
+2:12:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4338.034180, 79.255325, 8544.713867>)
+2:12:56 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:12:57 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:13:19 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:13:20 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:13:22 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:13:26 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:13:48 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3779.697998, 70.075783, 8758.279297>)
+2:13:56 | "BRUXO" (steamid=76561198140728342) toggled freecam
+2:14:22 | "BRUXO" (steamid=76561198140728342) started to spectate player: "76561198314418555"
+2:15:56 | Player "kennedylf" (steamId=76561198416586914) connected to server!
+2:17:6 | Player "[FARM]RIBEIRO" (steamId=76561198998920846) disconnected from server.
+2:17:8 | Player "[FARM]RIBEIRO" (steamId=76561198998920846) disconnected from server.
+2:17:29 | Player "cuzinho melado" (steamId=76561198080293845) connected to server!
+2:17:49 | Player "cuzinho melado" (steamId=76561198080293845) connected to server!
+2:18:22 | Player "[FARM]Gandii" (steamId=76561199008723574) disconnected from server.
+2:18:24 | Player "[FARM]Gandii" (steamId=76561199008723574) disconnected from server.
+2:18:31 | Player "SeuVagem" (steamId=76561198283309946) disconnected from server.
+2:18:42 | Player "[FARM]Gandii" (steamId=76561199008723574) connected to server!
+2:18:53 | Player "[FARM]Gandii" (steamId=76561199008723574) connected to server!
+2:19:3 | Player "[FARM]RIBEIRO" (steamId=76561198998920846) connected to server!
+2:19:4 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:19:10 | Player "[FARM]RIBEIRO" (steamId=76561198998920846) connected to server!
+2:19:10 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:19:12 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:19:13 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:19:14 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:19:15 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:20:32 | Player "kennedylf" (steamId=76561198416586914) connected to server!
+2:21:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3725.329346, 92.680031, 8599.593750>)
+2:22:25 | Player "elcasicasi" (steamId=76561198287072198) disconnected from server.
+2:22:47 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:22:53 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:23:10 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3816.955811, 143.924271, 8514.180664>)
+2:23:12 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:23:17 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:23:56 | Player "caruso" (steamId=76561198062758154) disconnected from server.
+2:24:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3773.350098, 134.565308, 8443.328125>)
+2:24:12 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3773.950195, 134.706223, 8444.842773>)
+2:24:14 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:24:14 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:24:16 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:24:17 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:24:21 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+2:24:25 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3709.026855, 112.226357, 8475.997070>)
+2:24:27 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3709.220215, 115.742569, 8477.928711>)
+2:24:29 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:24:29 | "BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+2:24:35 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:24:44 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3381.103027, 13.834255, 8565.955078>)
+2:24:50 | Player "Survivor" (steamId=76561198078159312) disconnected from server.
+2:24:52 | Player "Survivor" (steamId=76561198078159312) disconnected from server.
+2:25:19 | "BRUXO" (steamid=76561198140728342) toggled freecam
+2:25:33 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4098.041016, 145.192215, 8521.606445>)
+2:25:54 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:25:55 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:26:9 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3946.643311, 133.254730, 8211.548828>)
+2:26:47 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:27:40 | Player "[FARM]RIBEIRO" (steamId=76561198998920846) disconnected from server.
+2:27:45 | Player "[FARM]RIBEIRO" (steamId=76561198998920846) disconnected from server.
+2:27:49 | Player "Survivor (2)" (steamId=76561198442793181) disconnected from server.
+2:27:53 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3728.197510, 119.249855, 8450.269531>)
+2:27:54 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3735.348877, 120.084991, 8441.370117>)
+2:27:54 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3740.122559, 121.368744, 8436.708008>)
+2:27:54 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3740.241455, 121.412979, 8436.584961>)
+2:27:54 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3740.410400, 121.498459, 8436.281250>)
+2:27:54 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3740.625000, 121.608574, 8435.889648>)
+2:27:54 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3742.454834, 122.302185, 8433.914063>)
+2:27:54 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3744.508301, 123.174210, 8431.675781>)
+2:27:54 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3744.937256, 123.426025, 8431.084961>)
+2:27:54 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3745.160645, 123.615227, 8430.638672>)
+2:27:54 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3745.927002, 124.091621, 8429.743164>)
+2:27:54 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3746.573975, 124.478981, 8429.041992>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3748.131836, 125.434608, 8427.270508>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3748.793213, 125.882423, 8426.362305>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3749.360840, 126.247856, 8425.653320>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3750.036865, 126.668701, 8424.899414>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3750.259033, 126.830658, 8424.667969>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3751.273193, 127.610367, 8423.493164>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3753.354248, 129.170197, 8421.199219>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3753.831055, 129.487778, 8420.786133>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3754.292725, 129.829025, 8420.291016>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3754.803223, 130.203049, 8419.753906>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3756.640137, 131.483124, 8417.835938>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3757.965332, 132.381638, 8416.443359>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3758.155029, 132.517105, 8416.219727>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3760.471191, 134.087662, 8413.785156>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3760.993652, 134.449921, 8413.206055>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3761.979004, 135.066803, 8412.149414>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3762.940674, 135.581497, 8411.130859>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3764.992920, 136.745193, 8408.979492>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3766.038330, 137.337097, 8407.891602>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3766.877441, 137.817032, 8406.975586>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3767.420898, 138.124481, 8406.411133>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3770.213135, 139.735901, 8403.482422>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3770.611328, 139.967865, 8403.077148>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3771.217285, 140.324661, 8402.427734>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3772.377197, 141.009979, 8401.164063>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3774.369873, 142.228882, 8399.063477>)
+2:27:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3775.226563, 142.789230, 8398.121094>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3775.514160, 142.986923, 8397.764648>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3776.205078, 143.452225, 8396.966797>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3776.824219, 143.864944, 8396.278320>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3779.189697, 145.427017, 8393.737305>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3779.502686, 145.651093, 8393.389648>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3780.506104, 146.393387, 8392.162109>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3780.930664, 146.702774, 8391.664063>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3782.315430, 147.650391, 8390.173828>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3783.583984, 148.512985, 8388.788086>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3784.266357, 149.011566, 8387.878906>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3784.552979, 149.223068, 8387.483398>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3785.367432, 149.731812, 8386.599609>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3787.339355, 150.996307, 8384.257813>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3787.881592, 151.311996, 8383.581055>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3787.823730, 151.292206, 8383.577148>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3788.106201, 151.453445, 8383.193359>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3789.593750, 152.258255, 8381.451172>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3790.687256, 152.973541, 8380.120117>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3790.750000, 153.037918, 8379.959961>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3792.030029, 153.889908, 8378.437500>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3792.329590, 154.089035, 8378.083008>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3793.387695, 154.792572, 8376.828125>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3793.556152, 154.897705, 8376.653320>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3793.678711, 154.977585, 8376.513672>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3795.635498, 156.544876, 8374.141602>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3795.866455, 156.748871, 8373.875000>)
+2:27:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3795.986572, 156.847534, 8373.753906>)
+2:27:57 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3796.581055, 157.323044, 8373.191406>)
+2:27:57 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3808.250244, 159.415161, 8381.409180>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3816.674561, 160.337860, 8389.255859>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3816.758057, 160.353592, 8389.329102>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3817.143799, 160.341812, 8389.672852>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3818.497803, 160.208969, 8390.906250>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3818.860596, 160.200958, 8391.228516>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3820.005371, 160.347229, 8392.273438>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3828.927979, 160.280106, 8400.514648>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3828.821777, 160.271271, 8400.391602>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3829.299805, 160.326599, 8400.860352>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3829.544189, 160.355881, 8401.093750>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3832.085693, 160.287704, 8403.442383>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3837.644287, 160.711105, 8408.571289>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3837.730225, 160.734955, 8408.667969>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3837.981689, 160.694153, 8409.212891>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3838.218750, 160.626923, 8409.793945>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3838.312500, 160.580246, 8410.070313>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3838.302490, 160.561569, 8410.096680>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3838.271240, 160.522156, 8410.132813>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3838.257324, 160.495911, 8410.168945>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3838.362793, 160.478699, 8410.398438>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3838.598389, 160.560776, 8410.625977>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3838.708740, 160.597198, 8410.736328>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3838.812256, 160.634384, 8410.833984>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3838.888672, 160.657257, 8410.916016>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3839.323486, 160.636505, 8411.399414>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3840.342041, 160.514130, 8412.526367>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3840.436035, 160.553497, 8412.646484>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3840.508545, 160.582840, 8412.747070>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3840.629395, 160.628799, 8412.942383>)
+2:27:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3840.767578, 160.682648, 8413.152344>)
+2:27:59 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3840.903564, 160.736771, 8413.349609>)
+2:27:59 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3840.972656, 160.763458, 8413.456055>)
+2:27:59 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3840.984375, 160.767166, 8413.483398>)
+2:27:59 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3840.867432, 160.727753, 8413.250977>)
+2:27:59 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3843.837891, 161.267685, 8416.070313>)
+2:28:0 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3844.487305, 161.596680, 8416.738281>)
+2:28:0 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3844.503662, 161.595383, 8416.784180>)
+2:28:0 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3844.656738, 161.631729, 8417.060547>)
+2:28:0 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3844.864258, 161.721008, 8417.320313>)
+2:28:0 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3844.985107, 161.771484, 8417.476563>)
+2:28:0 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3846.216309, 161.697693, 8418.893555>)
+2:28:0 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3846.394775, 161.764023, 8419.091797>)
+2:28:0 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3846.538086, 161.819016, 8419.244141>)
+2:28:0 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3846.702637, 161.878723, 8419.433594>)
+2:28:0 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3846.826416, 161.921738, 8419.585938>)
+2:28:0 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3846.971924, 161.971527, 8419.771484>)
+2:28:0 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3847.042480, 161.994568, 8419.863281>)
+2:28:0 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3847.084717, 162.007401, 8419.926758>)
+2:28:0 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3847.137939, 162.022903, 8420.006836>)
+2:28:0 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3847.176514, 162.037262, 8420.048828>)
+2:28:1 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3847.927979, 162.578003, 8419.555664>)
+2:28:3 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3860.856934, 163.348389, 8436.863281>)
+2:28:3 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3871.166748, 163.815933, 8453.251953>)
+2:28:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3901.423340, 161.743347, 8519.283203>)
+2:28:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3900.197510, 158.998169, 8548.967773>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3899.246582, 158.159943, 8558.723633>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3899.218506, 158.146194, 8558.827148>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3899.156982, 158.125244, 8558.955078>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3899.109375, 158.138794, 8558.726563>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3898.962158, 158.091019, 8559.004883>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3898.905029, 158.078094, 8559.051758>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3900.424316, 156.162857, 8572.028320>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3900.261719, 156.157089, 8571.938477>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3900.122559, 156.199295, 8571.387695>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3900.028320, 156.192673, 8571.369141>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3900.696045, 156.128922, 8577.680664>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3900.579834, 156.096024, 8577.677734>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3900.486572, 156.069519, 8577.672852>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3900.379883, 156.041611, 8577.729492>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3900.586182, 156.073044, 8577.029297>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3900.502197, 156.048187, 8577.000000>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3900.750000, 156.336273, 8581.050781>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3901.021484, 156.462479, 8581.493164>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3900.969482, 156.436874, 8581.602539>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3900.883545, 156.378647, 8582.125977>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3901.213379, 156.380692, 8584.890625>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3901.752441, 156.534409, 8586.761719>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3901.811035, 156.558990, 8586.775391>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3902.615723, 156.077103, 8591.795898>)
+2:28:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3902.490479, 156.004959, 8591.877930>)
+2:28:10 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3904.005615, 155.074081, 8601.492188>)
+2:28:22 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3952.527344, 161.000320, 8627.009766>)
+2:28:47 | "I AM LEGEND" (steamid=76561198950594742) /heal used on: "I AM LEGEND" (steamid=76561198950594742)
+2:28:47 | "I AM LEGEND" (steamid=76561198950594742) /heal used on: "I AM LEGEND" (steamid=76561198950594742)
+2:28:52 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3890.756836, 74.742500, 8853.796875>)
+2:29:1 | "BRUXO" (steamid=76561198140728342) toggled freecam
+2:29:2 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4075.485840, 133.527512, 8443.840820>)
+2:29:2 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4071.075439, 133.715332, 8443.238281>)
+2:29:2 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4045.535156, 134.385269, 8442.090820>)
+2:29:3 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4044.347900, 134.651215, 8441.616211>)
+2:29:3 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4043.935791, 134.735458, 8441.548828>)
+2:29:3 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4043.465576, 134.850845, 8441.657227>)
+2:29:3 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4041.932861, 135.297546, 8441.971680>)
+2:29:3 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4038.100098, 136.613953, 8440.627930>)
+2:29:3 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4037.413574, 136.838531, 8440.689453>)
+2:29:3 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4037.189209, 136.932220, 8440.645508>)
+2:29:3 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4033.458984, 138.540710, 8439.881836>)
+2:29:3 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4033.157471, 138.672928, 8439.858398>)
+2:29:3 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4032.687988, 138.870712, 8439.886719>)
+2:29:3 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4032.459961, 138.961319, 8439.948242>)
+2:29:3 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4029.504150, 140.410706, 8439.333984>)
+2:29:3 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4029.092529, 140.628036, 8439.272461>)
+2:29:3 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4028.813965, 140.771759, 8439.264648>)
+2:29:3 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4028.508789, 140.918427, 8439.333984>)
+2:29:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4025.954102, 142.298340, 8438.817383>)
+2:29:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4024.905273, 142.861557, 8438.647461>)
+2:29:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4024.652588, 143.008514, 8438.572266>)
+2:29:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4022.304932, 144.334213, 8438.095703>)
+2:29:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4021.942139, 144.543732, 8437.984375>)
+2:29:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4020.299072, 145.493164, 8437.484375>)
+2:29:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4020.058105, 145.633865, 8437.436523>)
+2:29:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4017.938477, 146.811462, 8437.009766>)
+2:29:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4016.728516, 147.478912, 8436.620117>)
+2:29:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4015.872559, 147.957855, 8436.311523>)
+2:29:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4015.826904, 147.985687, 8436.282227>)
+2:29:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4013.070801, 149.370560, 8435.600586>)
+2:29:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4012.524658, 149.618149, 8435.429688>)
+2:29:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4012.290771, 149.721939, 8435.317383>)
+2:29:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4012.082275, 149.813034, 8435.224609>)
+2:29:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4009.018066, 151.064774, 8434.425781>)
+2:29:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4008.554199, 151.215515, 8434.300781>)
+2:29:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4008.398438, 151.269318, 8434.183594>)
+2:29:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4008.001465, 151.398727, 8434.077148>)
+2:29:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4007.138428, 151.679886, 8433.833008>)
+2:29:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4003.415771, 152.664063, 8432.647461>)
+2:29:4 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4002.894287, 152.771912, 8432.472656>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4002.558594, 152.841385, 8432.375977>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4001.741943, 153.010605, 8432.158203>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3995.749756, 153.794388, 8430.400391>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3995.319092, 153.836456, 8430.298828>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3995.039795, 153.869827, 8430.333008>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3994.801514, 153.892593, 8430.267578>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3989.602295, 154.064789, 8428.766602>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3986.776123, 154.131485, 8428.050781>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3986.597412, 154.131332, 8428.006836>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3981.104004, 154.246490, 8426.453125>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3980.773682, 154.239731, 8426.375977>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3980.468750, 154.233398, 8426.303711>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3978.864990, 154.280151, 8425.896484>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3978.031982, 154.319351, 8425.674805>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3975.223877, 154.445892, 8424.862305>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3973.066406, 154.651276, 8424.207031>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3973.324219, 154.819427, 8424.208008>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3973.514893, 155.263382, 8424.293945>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3972.904785, 155.680511, 8424.146484>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3964.307129, 154.807648, 8421.497070>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3964.246094, 154.812393, 8421.412109>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3959.266602, 154.986481, 8420.319336>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3959.102539, 154.983765, 8420.713867>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3959.673828, 154.968903, 8421.235352>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3958.839600, 154.985565, 8420.870117>)
+2:29:5 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3954.245117, 155.197372, 8419.291992>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3950.935791, 155.427155, 8418.320313>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3951.138916, 155.414063, 8418.323242>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3952.234375, 155.335175, 8418.424805>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3948.585938, 155.686615, 8416.483398>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3948.766113, 155.648376, 8416.210938>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3947.722656, 155.839188, 8415.668945>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3947.143311, 155.932953, 8415.181641>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3945.948730, 156.012924, 8413.982422>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3942.971680, 156.234451, 8410.961914>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3942.964355, 156.219376, 8410.816406>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3943.108643, 156.156662, 8410.602539>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3942.489746, 156.235626, 8409.887695>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3939.576416, 156.413574, 8406.833984>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3938.382568, 156.599289, 8405.556641>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3937.900391, 156.657990, 8404.596680>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3937.781738, 156.668976, 8404.433594>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3936.861328, 156.930725, 8403.531250>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3935.526123, 157.420609, 8402.247070>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3935.047607, 157.529724, 8401.354492>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3933.631348, 157.887604, 8399.797852>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3933.372559, 157.961899, 8399.523438>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3932.538574, 158.186829, 8398.542969>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3931.369385, 158.341248, 8397.223633>)
+2:29:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3929.873291, 158.518768, 8395.633789>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3928.871094, 158.639893, 8394.776367>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3926.511230, 158.876602, 8392.454102>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3926.266846, 158.901932, 8392.252930>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3925.607178, 158.950287, 8391.640625>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3922.604980, 159.149918, 8388.792969>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3920.979492, 159.301880, 8387.306641>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3920.852051, 159.315781, 8387.207031>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3917.501465, 159.574875, 8384.128906>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3917.326172, 159.590393, 8383.987305>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3915.899902, 159.709579, 8382.743164>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3915.710449, 159.736694, 8382.662109>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3912.729736, 160.013840, 8379.995117>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3912.342285, 160.061554, 8379.703125>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3912.226074, 160.077408, 8379.594727>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3911.053223, 160.264008, 8378.743164>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3910.712646, 160.318665, 8378.501953>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3907.087646, 160.763092, 8375.517578>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3905.875977, 160.953369, 8374.721680>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3905.699951, 160.990082, 8374.609375>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3905.659180, 161.005753, 8374.648438>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3902.635498, 161.564560, 8372.148438>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3901.900146, 161.673737, 8371.643555>)
+2:29:7 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3901.045166, 161.815643, 8371.160156>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3897.828369, 162.324249, 8368.512695>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3897.612061, 162.365494, 8368.335938>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3896.552002, 162.597076, 8367.719727>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3893.082764, 163.182785, 8364.916016>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3892.794189, 163.251221, 8364.731445>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3892.037842, 163.446854, 8364.353516>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3891.836182, 163.491150, 8364.213867>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3890.599121, 163.731201, 8363.219727>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3888.593994, 164.190125, 8361.607422>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3888.091553, 164.323196, 8361.346680>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3886.508057, 164.644653, 8360.164063>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3886.086182, 164.719513, 8359.831055>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3883.584473, 165.211914, 8357.957031>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3883.333008, 165.265381, 8357.769531>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3881.948486, 165.558517, 8356.726563>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3881.255615, 165.705566, 8356.199219>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3877.670654, 165.776627, 8353.549805>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3876.228516, 165.956787, 8352.510742>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3875.826660, 166.007202, 8352.243164>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3875.585205, 166.037415, 8352.072266>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3873.501465, 166.235138, 8350.544922>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3871.808594, 166.375320, 8349.315430>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3871.131348, 166.438766, 8348.827148>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3870.731689, 166.476151, 8348.538086>)
+2:29:8 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3867.748047, 166.895554, 8346.283203>)
+2:29:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3867.480225, 166.934937, 8346.054688>)
+2:29:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3866.810791, 167.017822, 8345.538086>)
+2:29:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3866.528320, 167.014664, 8345.309570>)
+2:29:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3863.332275, 167.059097, 8342.863281>)
+2:29:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3861.978760, 167.054810, 8341.793945>)
+2:29:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3861.967773, 167.054916, 8341.780273>)
+2:29:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3861.679199, 167.056076, 8341.577148>)
+2:29:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3860.443848, 167.061478, 8340.652344>)
+2:29:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3855.543945, 166.185562, 8336.956055>)
+2:29:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3855.537598, 166.200775, 8337.240234>)
+2:29:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3855.430420, 166.195480, 8337.211914>)
+2:29:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3855.464355, 166.202072, 8337.311523>)
+2:29:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3851.371826, 165.847946, 8334.500977>)
+2:29:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3850.910645, 165.785553, 8334.166992>)
+2:29:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3850.408691, 165.717087, 8333.796875>)
+2:29:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3850.539063, 165.745010, 8334.007813>)
+2:29:9 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3847.507568, 165.735977, 8331.893555>)
+2:29:10 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3846.791748, 165.725143, 8331.392578>)
+2:29:10 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3844.989990, 165.859756, 8330.583984>)
+2:29:10 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3841.212402, 165.888947, 8328.249023>)
+2:29:10 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3840.832031, 165.898041, 8328.089844>)
+2:29:10 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3841.155273, 165.892181, 8328.257813>)
+2:29:10 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3840.394043, 165.892014, 8328.011719>)
+2:29:10 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3835.812500, 165.447311, 8325.333984>)
+2:29:10 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3834.869629, 165.335159, 8324.890625>)
+2:29:10 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3834.673096, 165.320251, 8324.821289>)
+2:29:10 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3834.420410, 165.314224, 8324.898438>)
+2:29:10 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3829.295166, 164.629822, 8321.966797>)
+2:29:10 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3829.188721, 164.615067, 8321.914063>)
+2:29:10 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3828.107422, 164.451935, 8321.425781>)
+2:29:10 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3821.087646, 163.048111, 8317.731445>)
+2:29:10 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3821.535156, 163.127609, 8317.941406>)
+2:29:10 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3821.390625, 163.111115, 8317.945313>)
+2:29:12 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3799.662354, 158.924438, 8305.252930>)
+2:29:13 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3792.759766, 159.117233, 8301.031250>)
+2:29:15 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3787.687500, 155.802292, 8284.340820>)
+2:29:19 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3770.495361, 163.752731, 8271.810547>)
+2:29:20 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3763.977783, 165.195847, 8267.637695>)
+2:29:23 | "I AM LEGEND" (steamid=76561198950594742) /heal used on: "I AM LEGEND" (steamid=76561198950594742)
+2:29:39 | "BRUXO": (steamid=76561198140728342) teleported to (pos=3616.96,0,8353.78)
+2:29:43 | "I AM LEGEND" (steamid=76561198950594742) /heal used on: "I AM LEGEND" (steamid=76561198950594742)
+2:29:43 | "BRUXO" (steamid=76561198140728342) toggled freecam
+2:29:44 | "I AM LEGEND" (steamid=76561198950594742) /heal used on: "I AM LEGEND" (steamid=76561198950594742)
+2:29:54 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3757.444824, 152.071030, 8256.287109>)
+2:29:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3754.791016, 152.443863, 8251.864258>)
+2:29:55 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3752.572266, 153.020660, 8248.122070>)
+2:29:56 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3753.879150, 153.010529, 8244.613281>)
+2:29:57 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3756.974365, 153.101059, 8243.618164>)
+2:29:57 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3760.725586, 153.101059, 8243.423828>)
+2:29:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3764.153320, 153.097855, 8243.423828>)
+2:30:19 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4368.375000, 84.248535, 9283.833008>)
+2:30:24 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+2:30:25 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+2:30:37 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:31:6 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:31:12 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:31:23 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:31:25 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:31:44 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3593.955078, 170.790573, 6704.770020>)
+2:31:55 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:32:4 | "I AM LEGEND" (steamid=76561198950594742) Spawned Item: (NVGoggles)
+2:32:4 | "I AM LEGEND" (steamid=76561198950594742) Spawned Item: (NVGoggles)
+2:32:15 | "I AM LEGEND" (steamid=76561198950594742) Spawned Item: (NVGHeadstrap)
+2:32:15 | "I AM LEGEND" (steamid=76561198950594742) Spawned Item: (NVGHeadstrap)
+2:32:31 | "I AM LEGEND" (steamid=76561198950594742) /heal used on: "I AM LEGEND" (steamid=76561198950594742)
+2:32:38 | "I AM LEGEND" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+2:32:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3584.938232, 170.487305, 6686.875000>)
+2:32:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3587.299316, 170.487305, 6679.458496>)
+2:32:51 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<3592.329834, 170.487305, 6676.188965>)
+2:34:1 | Player "cRn" (steamId=76561198100945209) connected to server!
+2:34:19 | Player "cuzinho melado" (steamId=76561198080293845) disconnected from server.
+2:34:20 | Player "cuzinho melado" (steamId=76561198080293845) disconnected from server.
+2:34:28 | Player "cRn" (steamId=76561198100945209) connected to server!
+2:36:4 | "I AM LEGEND": (steamid=76561198950594742) teleported to (pos=5431.31,0,6387.67)
+2:36:10 | Player "kennedylf" (steamId=76561198416586914) disconnected from server.
+2:36:16 | "I AM LEGEND": (steamid=76561198950594742) teleported to (pos=11144.2,0,1873.35)
+2:36:19 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:36:37 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<11080.654297, 1003.732666, 1621.651611>)
+2:36:39 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:36:40 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:36:49 | [WeatherManager] Send Data Count is 0
+2:37:0 | [Time Manager] Setting Date to 2011/11/2 8:3
+2:37:27 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:37:42 | "I AM LEGEND": (steamid=76561198950594742) teleported to (pos=6816.2,0,5578.68)
+2:38:18 | [WeatherManager] Send Data Count is 0
+2:38:20 | [Time Manager] Setting Date to 2011/11/2 8:5
+2:38:39 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:38:41 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:38:41 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:38:43 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:38:47 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6857.197266, 21.079109, 5600.187012>)
+2:38:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6867.645020, 22.320532, 5604.776367>)
+2:38:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6867.697266, 22.328835, 5604.806152>)
+2:38:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6867.825195, 22.348742, 5604.876953>)
+2:38:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6867.906250, 22.360437, 5604.914551>)
+2:38:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6867.951172, 22.366693, 5604.935547>)
+2:38:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6870.916992, 22.756792, 5606.241699>)
+2:38:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6879.189941, 23.501305, 5609.953613>)
+2:38:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6879.452148, 23.517176, 5610.084473>)
+2:38:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6905.603516, 22.734571, 5622.455566>)
+2:38:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6908.788574, 24.438528, 5632.487793>)
+2:38:51 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6909.949707, 25.612482, 5641.358398>)
+2:38:51 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6911.803223, 26.794922, 5649.919434>)
+2:38:51 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6911.804199, 26.799204, 5649.951172>)
+2:38:51 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6911.813477, 26.808603, 5650.019043>)
+2:38:51 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6913.144043, 27.508745, 5654.934570>)
+2:38:51 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6914.126465, 27.943054, 5658.550293>)
+2:38:51 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6915.829102, 28.582941, 5664.371582>)
+2:38:51 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6915.842773, 28.579018, 5664.298340>)
+2:38:52 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6914.081055, 29.168379, 5675.377441>)
+2:39:6 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6928.296875, 28.779415, 5665.347656>)
+2:39:12 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) disconnected from server.
+2:39:14 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) disconnected from server.
+2:39:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6913.971680, 24.459595, 5630.721191>)
+2:39:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6915.325195, 17.340670, 5597.583984>)
+2:39:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6915.110840, 16.014420, 5588.132813>)
+2:39:34 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6914.804688, 14.304451, 5577.781250>)
+2:39:34 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6914.762695, 15.125223, 5575.032715>)
+2:39:35 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6915.077637, 15.637536, 5575.025391>)
+2:39:36 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<6915.238281, 15.554975, 5575.021484>)
+2:39:53 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) disconnected from server.
+2:40:13 | "I AM LEGEND" (steamid=76561198950594742) deleted object "dp_PlateCarrier_black" (pos=<6915.048828, 14.393542, 5573.608887>)
+2:40:14 | "I AM LEGEND" (steamid=76561198950594742) deleted object "Breezy_Boost220_Ultimatum" (pos=<6915.048828, 14.422537, 5573.608887>)
+2:40:15 | "I AM LEGEND" (steamid=76561198950594742) deleted object "dp_WarBelt_tan" (pos=<6915.048828, 14.389915, 5573.608887>)
+2:40:15 | "I AM LEGEND" (steamid=76561198950594742) deleted object "dp_TacticPants_BLACK" (pos=<6915.048828, 14.400959, 5573.608887>)
+2:40:16 | "I AM LEGEND" (steamid=76561198950594742) deleted object "TacticalShirt_Olive" (pos=<6915.048828, 14.393542, 5573.608887>)
+2:40:17 | "I AM LEGEND" (steamid=76561198950594742) deleted object "TacticalGloves_Black" (pos=<6915.048828, 14.468663, 5573.608887>)
+2:40:18 | "I AM LEGEND" (steamid=76561198950594742) deleted object "SVD" (pos=<6915.048828, 14.414887, 5573.608887>)
+2:40:18 | "I AM LEGEND" (steamid=76561198950594742) deleted object "NCE_Balaclava_3Holes_White" (pos=<6915.048828, 14.393490, 5573.608887>)
+2:40:20 | "I AM LEGEND" (steamid=76561198950594742) deleted object "dzn_ghilliesuitwinter" (pos=<6915.048828, 14.556697, 5573.608887>)
+2:40:21 | "I AM LEGEND" (steamid=76561198950594742) deleted object "dzn_gorkahood_autumn" (pos=<6915.048828, 14.406368, 5573.608887>)
+2:40:26 | "I AM LEGEND" (steamid=76561198950594742) deleted object "dzn_map_namalsk" (pos=<6915.084473, 14.396607, 5573.394043>)
+2:40:36 | "I AM LEGEND" (steamid=76561198950594742) Spawned Item: (RedemptionKeyCard_04)
+2:40:46 | "I AM LEGEND" (steamid=76561198950594742) Spawned Item: (RedemptionKeyCard_01)
+2:40:50 | "I AM LEGEND" (steamid=76561198950594742) Spawned Item: (RedemptionKeyCard_01)
+2:40:53 | "I AM LEGEND" (steamid=76561198950594742) Spawned Item: (dzn_module_card)
+2:41:12 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: Roupa verde has no parrent!
+2:41:12 | "I AM LEGEND" (steamid=76561198950594742) spawned preset: (Roupa verde)
+2:41:34 | "I AM LEGEND": (steamid=76561198950594742) teleported to (pos=5098.64,0,6679.99)
+2:41:42 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:42:14 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4986.251465, 27.106586, 6625.703613>)
+2:42:16 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:42:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4976.802734, 27.083406, 6635.683594>)
+2:42:32 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4968.203125, 27.083406, 6636.166016>)
+2:42:33 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4963.599609, 27.083408, 6634.817383>)
+2:42:35 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4961.317383, 28.450838, 6631.608887>)
+2:42:36 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4960.601074, 28.477617, 6622.801758>)
+2:42:37 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4961.659180, 28.476837, 6615.331055>)
+2:42:48 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4961.211426, 28.476065, 6606.784668>)
+2:42:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4962.041016, 28.473938, 6610.811523>)
+2:42:50 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4962.096680, 28.477018, 6615.079590>)
+2:42:57 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4973.777344, 27.113155, 6622.259277>)
+2:42:58 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4980.034180, 27.113155, 6621.544922>)
+2:42:59 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4983.077148, 27.114096, 6616.814453>)
+2:43:5 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:43:12 | "I AM LEGEND" (steamid=76561198950594742) teleported to crosshair (pos=<4975.026855, 32.270699, 6625.000000>)
+2:43:13 | "I AM LEGEND" (steamid=76561198950594742) toggled freecam
+2:43:56 | "I AM LEGEND" (steamid=76561198950594742) Spawned Item: (PumpkinHelmet)
+2:45:20 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) disconnected from server.
+2:45:36 | Player "I AM LEGEND" (steamId=76561198950594742) disconnected from server.
+2:45:40 | Player "I AM LEGEND" (steamId=76561198950594742) disconnected from server.
+2:52:7 | Player "cRn" (steamId=76561198100945209) disconnected from server.
+2:52:8 | Player "cRn" (steamId=76561198100945209) disconnected from server.
+2:59:55 | Player "Eduardo" (steamId=76561198127441859) disconnected from server.
+2:59:55 | Player "U T R O N" (steamId=76561198314418555) disconnected from server.
+2:59:55 | Player "[FARM]Gandii" (steamId=76561199008723574) disconnected from server.
+2:59:55 | Player "Phobos" (steamId=76561198032382568) disconnected from server.
+2:59:55 | Player "[FARM]NATO" (steamId=76561199083641388) disconnected from server.
+2:59:55 | Player "T0rMio" (steamId=76561198282235524) disconnected from server.
+2:59:55 | Player "Batima" (steamId=76561198035822737) disconnected from server.
+2:59:55 | Player "C E L E B R I M B O R" (steamId=76561198114043394) disconnected from server.
+2:59:55 | Player "DASH" (steamId=76561199241533579) disconnected from server.
+2:59:55 | Player "ArUcArD" (steamId=76561198022142278) disconnected from server.
+2:59:55 | Player "Alti" (steamId=76561199235859883) disconnected from server.

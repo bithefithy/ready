@@ -1,0 +1,650 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-3-30_18-59-39
+====================================================================================
+18:59:39 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+18:59:39 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+18:59:39 | [PermissionManager] Perm (FreeCamera) has been registered!
+18:59:39 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuItemManager) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuServerManager) has been registered!
+18:59:39 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+18:59:39 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+18:59:39 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+18:59:39 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+18:59:39 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+18:59:39 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+18:59:39 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+18:59:39 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+18:59:39 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+18:59:39 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+18:59:39 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+18:59:39 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+18:59:39 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+18:59:39 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+18:59:39 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+18:59:39 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+18:59:39 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+18:59:39 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+18:59:39 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+18:59:39 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+18:59:39 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+18:59:39 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+18:59:39 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+18:59:39 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+18:59:39 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+18:59:39 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+18:59:39 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+18:59:39 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+18:59:39 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+18:59:39 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+18:59:39 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+18:59:39 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+18:59:39 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuBansManager) has been registered!
+18:59:39 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+18:59:39 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+18:59:39 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+18:59:39 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+18:59:39 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+18:59:39 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+18:59:39 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+18:59:39 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+18:59:39 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+18:59:39 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+18:59:39 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+18:59:39 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+18:59:39 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+18:59:39 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+18:59:39 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+18:59:39 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+18:59:39 | [PermissionManager] Adding Super Admin (76561198253386609)
+18:59:39 | [PermissionManager] Adding Super Admin (76561198950594742)
+18:59:39 | [PermissionManager] Adding Super Admin (76561198329721265)
+18:59:39 | [PermissionManager] Adding Super Admin (76561198140728342)
+18:59:39 | [PermissionManager] Loaded UserGroups.json
+18:59:39 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+18:59:39 | Building Sets Loaded: 3
+18:59:39 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+18:59:39 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+18:59:39 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+18:59:39 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+18:59:39 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+18:59:39 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+18:59:39 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+18:59:39 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+18:59:39 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+18:59:39 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+18:59:39 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+18:59:39 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+18:59:39 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+18:59:39 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+18:59:39 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+18:59:39 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+18:59:39 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+19:0:4 | Player "iGunZ" (steamId=76561198072911888) connected to server!
+19:0:4 | Player "[PQD] Bibi Griffo" (steamId=76561198177159459) connected to server!
+19:0:5 | Player "Notsniw" (steamId=76561197967151252) connected to server!
+19:0:5 | Player "Osuwari PONCHOS" (steamId=76561198109216339) connected to server!
+19:0:7 | Player "SkyApolloX" (steamId=76561198185469994) connected to server!
+19:0:16 | Player "Notsniw" (steamId=76561197967151252) connected to server!
+19:0:16 | Player "iGunZ" (steamId=76561198072911888) connected to server!
+19:0:16 | Player "[PQD] Bibi Griffo" (steamId=76561198177159459) connected to server!
+19:0:17 | Player "WellCwB" (steamId=76561198859572965) connected to server!
+19:0:17 | Player "Osuwari PONCHOS" (steamId=76561198109216339) connected to server!
+19:0:20 | Player "[DY] FROZEN " (steamId=76561198161060673) connected to server!
+19:0:21 | Player "P.A.I Dejair" (steamId=76561198359060113) connected to server!
+19:0:27 | Player "SkyApolloX" (steamId=76561198185469994) connected to server!
+19:0:27 | Player "[DY] FROZEN " (steamId=76561198161060673) connected to server!
+19:0:27 | Player "WellCwB" (steamId=76561198859572965) connected to server!
+19:0:31 | Player "P.A.I Dejair" (steamId=76561198359060113) connected to server!
+19:0:39 | Player "P-A-I  subarux" (steamId=76561199163733858) connected to server!
+19:0:43 | Player "HT DAQUEBRADA" (steamId=76561198309584610) connected to server!
+19:0:50 | Player "P-A-I  subarux" (steamId=76561199163733858) connected to server!
+19:1:0 | Player "Emme White" (steamId=76561199031638818) connected to server!
+19:1:6 | Player "[YAKUZA]-BlackBear" (steamId=76561198343030820) connected to server!
+19:1:9 | Player "HT DAQUEBRADA" (steamId=76561198309584610) connected to server!
+19:1:13 | Player "Emme White" (steamId=76561199031638818) connected to server!
+19:1:15 | Player "[YAKUZA]-BlackBear" (steamId=76561198343030820) connected to server!
+19:1:19 | Player "SGT. Fahur" (steamId=76561198904178335) connected to server!
+19:1:26 | Player "SGT. Fahur" (steamId=76561198904178335) connected to server!
+19:1:39 | Player "[NEBU] FrankMilGrau" (steamId=76561198362323166) connected to server!
+19:1:51 | Player "[NEBU] FrankMilGrau" (steamId=76561198362323166) connected to server!
+19:2:13 | Player "[NEBU] _-Junior-_" (steamId=76561198851533478) connected to server!
+19:2:26 | Player "[NEBU] _-Junior-_" (steamId=76561198851533478) connected to server!
+19:2:39 | Player "zany" (steamId=76561198412332550) connected to server!
+19:2:44 | Player "[DY] RAPUNZEL" (steamId=76561198100527842) connected to server!
+19:2:49 | Player "zany" (steamId=76561198412332550) connected to server!
+19:2:52 | Player "[DY] RAPUNZEL" (steamId=76561198100527842) connected to server!
+19:3:24 | Player "[PS]Luuck8" (steamId=76561198096753891) connected to server!
+19:3:40 | Player "[PS]Luuck8" (steamId=76561198096753891) connected to server!
+19:5:6 | Player "SolitariO" (steamId=76561199190133856) connected to server!
+19:5:15 | Player "SolitariO" (steamId=76561199190133856) connected to server!
+19:6:2 | Player "Dimmy" (steamId=76561198317005134) connected to server!
+19:6:16 | Player "Dimmy" (steamId=76561198317005134) connected to server!
+19:7:42 | Player "ghost" (steamId=76561199084180128) connected to server!
+19:8:48 | Player "ghost" (steamId=76561199084180128) connected to server!
+19:8:56 | Player "[TEC] Kadinho" (steamId=76561198971655942) connected to server!
+19:9:19 | Player "[TEC] Kadinho" (steamId=76561198971655942) connected to server!
+19:11:42 | Player "GabrielLobato" (steamId=76561198158375860) connected to server!
+19:12:6 | Player "[TEC] Kadinho" (steamId=76561198971655942) disconnected from server.
+19:12:19 | Player "GabrielLobato" (steamId=76561198158375860) connected to server!
+19:13:43 | Player "Jps_" (steamId=76561198132488746) connected to server!
+19:13:57 | Player "[TEC] Kadinho" (steamId=76561198971655942) connected to server!
+19:14:3 | Player "ghost" (steamId=76561199084180128) disconnected from server.
+19:14:33 | Player "[TEC] Kadinho" (steamId=76561198971655942) connected to server!
+19:14:54 | Player "ghost" (steamId=76561199084180128) connected to server!
+19:14:59 | Player "Jps_" (steamId=76561198132488746) connected to server!
+19:15:22 | Player "ghost" (steamId=76561199084180128) connected to server!
+19:16:53 | Player "Survivor" (steamId=76561198143208741) connected to server!
+19:17:9 | Player "reiter" (steamId=76561198028423355) connected to server!
+19:17:29 | Player "reiter" (steamId=76561198028423355) connected to server!
+19:18:14 | Player "mateusna" (steamId=76561198989861938) connected to server!
+19:18:58 | Player "mateusna" (steamId=76561198989861938) connected to server!
+19:20:26 | Player "mateusna" (steamId=76561198989861938) disconnected from server.
+19:21:44 | Player "King Of Smoke" (steamId=76561198820514268) connected to server!
+19:23:1 | Player "[TEC] Kadinho" (steamId=76561198971655942) disconnected from server.
+19:23:5 | Player "[TEC] Kadinho" (steamId=76561198971655942) disconnected from server.
+19:26:24 | Player "WellCwB" (steamId=76561198859572965) disconnected from server.
+19:26:25 | Player "WellCwB" (steamId=76561198859572965) disconnected from server.
+19:28:42 | Player "Skyfall" (steamId=76561198329721265) connected to server!
+19:29:0 | Player "Skyfall" (steamId=76561198329721265) connected to server!
+19:29:21 | "Skyfall" (steamid=76561198329721265) healed player (steamid=76561198329721265)
+19:29:25 | "Skyfall" (steamid=76561198329721265) toggled godmode
+19:29:30 | Player "Einsen" (steamId=76561198103936746) connected to server!
+19:29:49 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:29:54 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:30:13 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:30:22 | Player "mateusna" (steamId=76561198989861938) connected to server!
+19:30:24 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:30:36 | Player "mateusna" (steamId=76561198989861938) connected to server!
+19:30:44 | "Skyfall": (steamid=76561198329721265) teleported to (pos=11299.3,0,8556.19)
+19:31:2 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:32:52 | Player "GURI-SENSEI" (steamId=76561198140728342) connected to server!
+19:33:6 | Player "GURI-SENSEI" (steamId=76561198140728342) connected to server!
+19:33:13 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:33:19 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:33:20 | "GURI-SENSEI" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+19:33:50 | "GURI-SENSEI": (steamid=76561198140728342) teleported to (pos=8787,0,11423.1)
+19:33:58 | "GURI-SENSEI" (steamid=76561198140728342) toggled freecam
+19:34:6 | "GURI-SENSEI" (steamid=76561198140728342) teleported to crosshair (pos=<8784.749023, 61.239899, 11423.822266>)
+19:34:7 | "GURI-SENSEI" (steamid=76561198140728342) teleported to crosshair (pos=<8784.749023, 61.239899, 11423.822266>)
+19:34:8 | "GURI-SENSEI" (steamid=76561198140728342) toggled freecam
+19:34:24 | Player "GabrielLobato" (steamId=76561198158375860) disconnected from server.
+19:34:28 | Player "GabrielLobato" (steamId=76561198158375860) disconnected from server.
+19:34:38 | Player "GURI-SENSEI" (steamId=76561198140728342) disconnected from server.
+19:34:40 | Player "GURI-SENSEI" (steamId=76561198140728342) disconnected from server.
+19:34:40 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:35:0 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:35:16 | Player "SolitariO" (steamId=76561199190133856) disconnected from server.
+19:35:18 | Player "SolitariO" (steamId=76561199190133856) disconnected from server.
+19:35:41 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:35:45 | "Skyfall": (steamid=76561198329721265) teleported to (pos=10338.2,0,10886.8)
+19:35:51 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<10356.167969, 7.510066, 10888.481445>)
+19:35:54 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:36:56 | Player "Emme White" (steamId=76561199031638818) disconnected from server.
+19:39:17 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:39:18 | Player "[PQD] Bibi Griffo" (steamId=76561198177159459) disconnected from server.
+19:39:20 | Player "[PQD] Bibi Griffo" (steamId=76561198177159459) disconnected from server.
+19:39:31 | "Skyfall": (steamid=76561198329721265) teleported to (pos=10963.3,0,8427.22)
+19:39:38 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:40:19 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<10801.376953, 4.905142, 8057.207520>)
+19:40:20 | Player "SWT | SNPR " (steamId=76561199178458203) connected to server!
+19:40:22 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:40:22 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:40:28 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<10664.343750, 36.731670, 7344.328613>)
+19:40:34 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<10575.148438, 47.439777, 7062.765625>)
+19:40:37 | Player "SWT | SNPR " (steamId=76561199178458203) connected to server!
+19:40:38 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:40:39 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:40:47 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<10712.643555, 50.626022, 6938.500977>)
+19:40:48 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:42:39 | Player "GabrielLobato" (steamId=76561198158375860) connected to server!
+19:42:56 | "Skyfall" (steamid=76561198329721265) toggled godmode
+19:42:57 | "Skyfall" (steamid=76561198329721265) toggled godmode
+19:42:59 | "Skyfall" (steamid=76561198329721265) deleted object "Mag_M249_Box200Rnd" (pos=<10792.889648, 57.209644, 7005.682129>)
+19:43:4 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:43:16 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<10884.427734, 7.275936, 8247.735352>)
+19:43:17 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:43:18 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:43:21 | Player "GabrielLobato" (steamId=76561198158375860) connected to server!
+19:43:21 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:43:29 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:43:49 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:44:0 | "Skyfall": (steamid=76561198329721265) teleported to (pos=10455.1,0,6275.91)
+19:44:2 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:44:57 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:45:14 | "Skyfall": (steamid=76561198329721265) teleported to (pos=8818.97,0,11348.8)
+19:45:18 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:45:26 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<8784.265625, 61.239899, 11424.755859>)
+19:45:27 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:47:30 | "Skyfall": (steamid=76561198329721265) teleported to (pos=9786.75,0,7961.14)
+19:47:34 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:49:50 | Player "Survivor" (steamId=76561199197075005) connected to server!
+19:51:29 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:51:31 | "Skyfall": (steamid=76561198329721265) teleported to (pos=10879,0,6752.46)
+19:51:34 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:51:48 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:51:50 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:52:0 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:52:32 | "Skyfall": (steamid=76561198329721265) teleported to (pos=10304.6,0,6270.84)
+19:52:39 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<10266.742188, 36.299950, 6284.938477>)
+19:52:42 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:52:44 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:52:59 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:53:5 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<10251.588867, 36.295353, 6262.737305>)
+19:53:5 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:53:14 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:53:57 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:54:11 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:54:30 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:54:47 | "Skyfall": (steamid=76561198329721265) teleported to (pos=9574.24,0,8066.64)
+19:54:50 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:54:52 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:55:16 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:55:24 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<9567.625000, 27.491873, 8073.705078>)
+19:55:25 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:55:32 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:55:40 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<9591.937500, 27.370756, 8076.823730>)
+19:55:52 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<9627.842773, 27.371832, 8072.222168>)
+19:56:10 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<9623.698242, 27.371828, 8050.618164>)
+19:56:15 | Player "mateusna" (steamId=76561198989861938) disconnected from server.
+19:56:17 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<9623.990234, 27.371828, 8046.050781>)
+19:56:28 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<9665.235352, 27.463280, 8035.158691>)
+19:56:43 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<9570.505859, 27.651709, 8010.745117>)
+19:56:44 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:56:49 | Player "Dimmy" (steamId=76561198317005134) disconnected from server.
+19:56:49 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:56:50 | Player "mateusna" (steamId=76561198989861938) connected to server!
+19:56:55 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<9573.325195, 30.547884, 8002.552734>)
+19:56:58 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:57:3 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:57:3 | Player "mateusna" (steamId=76561198989861938) connected to server!
+19:57:5 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:57:9 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:57:19 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<9716.571289, 27.139999, 8073.607910>)
+19:57:19 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:57:36 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:57:44 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<9734.576172, 27.139997, 8057.843750>)
+19:57:45 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:57:49 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:58:3 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<9694.724609, 27.325039, 7963.548340>)
+19:58:13 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<9713.013672, 27.336445, 7946.327637>)
+19:58:24 | Player "TeTraz" (steamId=76561199083408122) connected to server!
+19:58:30 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<9085.313477, 27.059990, 8145.648926>)
+19:58:49 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<9088.482422, 36.172508, 8154.975098>)
+19:58:55 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:59:9 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:59:20 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<9193.695313, 27.800465, 8224.263672>)
+19:59:30 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<9226.890625, 36.306934, 8229.678711>)
+19:59:31 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:59:37 | "Skyfall" (steamid=76561198329721265) toggled freecam
+19:59:40 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<9228.564453, 32.291351, 8234.541992>)
+19:59:56 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<9197.526367, 31.462530, 8272.210938>)
+20:0:18 | "Skyfall" (steamid=76561198329721265) toggled freecam
+20:0:33 | "Skyfall": (steamid=76561198329721265) teleported to (pos=8826.93,0,11410)
+20:0:36 | "Skyfall" (steamid=76561198329721265) toggled freecam
+20:0:41 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<8784.727539, 61.239899, 11423.160156>)
+20:0:42 | "Skyfall" (steamid=76561198329721265) toggled freecam
+20:1:59 | Player "Jps_" (steamId=76561198132488746) disconnected from server.
+20:2:1 | Player "Jps_" (steamId=76561198132488746) disconnected from server.
+20:2:19 | "Skyfall" (steamid=76561198329721265) Spawned Item: (LandMineTrap)
+20:2:23 | "Skyfall" (steamid=76561198329721265) Spawned Item: (LandMineTrap)
+20:2:23 | "Skyfall" (steamid=76561198329721265) Spawned Item: (LandMineTrap)
+20:2:24 | "Skyfall" (steamid=76561198329721265) Spawned Item: (LandMineTrap)
+20:2:24 | "Skyfall" (steamid=76561198329721265) Spawned Item: (LandMineTrap)
+20:2:24 | "Skyfall" (steamid=76561198329721265) Spawned Item: (LandMineTrap)
+20:2:25 | "Skyfall" (steamid=76561198329721265) Spawned Item: (LandMineTrap)
+20:2:25 | "Skyfall" (steamid=76561198329721265) Spawned Item: (LandMineTrap)
+20:2:25 | "Skyfall" (steamid=76561198329721265) Spawned Item: (LandMineTrap)
+20:3:2 | Player "mateusna" (steamId=76561198989861938) disconnected from server.
+20:4:0 | Player "P.A.I Dejair" (steamId=76561198359060113) disconnected from server.
+20:4:33 | "Skyfall": (steamid=76561198329721265) teleported to (pos=7611.85,0,9861.26)
+20:4:34 | "Skyfall" (steamid=76561198329721265) toggled freecam
+20:4:36 | Player "Henne" (steamId=76561198134091570) connected to server!
+20:4:37 | "Skyfall" (steamid=76561198329721265) toggled freecam
+20:4:40 | "Skyfall" (steamid=76561198329721265) toggled freecam
+20:5:16 | Player "P.A.I Dejair" (steamId=76561198359060113) connected to server!
+20:5:22 | Player "Henne" (steamId=76561198134091570) connected to server!
+20:5:26 | Player "P.A.I Dejair" (steamId=76561198359060113) connected to server!
+20:5:47 | "Skyfall" (steamid=76561198329721265) toggled freecam
+20:6:8 | "Skyfall" (steamid=76561198329721265) toggled freecam
+20:6:12 | "Skyfall" (steamid=76561198329721265) toggled freecam
+20:6:30 | Player "reiter" (steamId=76561198028423355) disconnected from server.
+20:6:41 | "Skyfall" (steamid=76561198329721265) healed player (steamid=76561199083408122)
+20:6:44 | "Skyfall" (steamid=76561198329721265) toggled freecam
+20:6:47 | "Skyfall" (steamid=76561198329721265) toggled freecam
+20:6:53 | "Skyfall" (steamid=76561198329721265) toggled freecam
+20:7:27 | Player "P.A.I Dejair" (steamId=76561198359060113) disconnected from server.
+20:7:27 | "Skyfall" (steamid=76561198329721265) deleted object "ZmbM_ConstrWorkerNormal_Grey" (pos=<7633.020508, 10.694274, 9758.006836>)
+20:7:28 | Player "P.A.I Dejair" (steamId=76561198359060113) disconnected from server.
+20:7:29 | "Skyfall" (steamid=76561198329721265) deleted object "ZmbM_HandymanNormal_Beige" (pos=<7624.568359, 10.091396, 9753.960938>)
+20:7:30 | Player "M 3 N D 1 G 0" (steamId=76561197989930295) connected to server!
+20:7:30 | "Skyfall" (steamid=76561198329721265) deleted object "ZmbF_MechanicNormal_Green" (pos=<7625.810059, 9.470610, 9747.729492>)
+20:7:39 | "Skyfall" (steamid=76561198329721265) deleted object "ZmbF_MechanicNormal_Orange" (pos=<7620.558105, 9.254482, 9746.200195>)
+20:7:48 | Player "M 3 N D 1 G 0" (steamId=76561197989930295) connected to server!
+20:7:50 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<7597.158691, 12.242821, 9816.778320>)
+20:7:52 | "Skyfall" (steamid=76561198329721265) toggled freecam
+20:7:54 | "Skyfall" (steamid=76561198329721265) toggled freecam
+20:8:8 | "Skyfall" (steamid=76561198329721265) toggled freecam
+20:8:16 | "Skyfall" (steamid=76561198329721265) toggled freecam
+20:8:27 | "Skyfall" (steamid=76561198329721265) toggled freecam
+20:8:32 | "Skyfall" (steamid=76561198329721265) toggled freecam
+20:8:56 | "Skyfall" (steamid=76561198329721265) toggled freecam
+20:9:11 | "Skyfall": (steamid=76561198329721265) teleported to (pos=10216.7,0,6281.53)
+20:9:28 | "Skyfall" (steamid=76561198329721265) toggled freecam
+20:9:50 | "Skyfall" (steamid=76561198329721265) toggled freecam
+20:10:9 | "Skyfall" (steamid=76561198329721265) Spawned Item: (Ammo_545x39)
+20:10:10 | "Skyfall" (steamid=76561198329721265) Spawned Item: (Ammo_545x39)
+20:10:13 | "Skyfall" (steamid=76561198329721265) Spawned Item: (Ammo_545x39)
+20:10:17 | "Skyfall" (steamid=76561198329721265) Spawned Item: (TacticalBaconCan_Opened)
+20:10:17 | "Skyfall" (steamid=76561198329721265) Spawned Item: (TacticalBaconCan_Opened)
+20:10:17 | "Skyfall" (steamid=76561198329721265) Spawned Item: (TacticalBaconCan_Opened)
+20:10:19 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<10234.710938, 36.308277, 6286.728516>)
+20:10:19 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<10249.480469, 36.363064, 6291.529297>)
+20:10:35 | "Skyfall": (steamid=76561198329721265) teleported to (pos=7498.82,0,5854.31)
+20:10:36 | Player "HT DAQUEBRADA" (steamId=76561198309584610) disconnected from server.
+20:10:37 | Player "SkyApolloX" (steamId=76561198185469994) disconnected from server.
+20:10:39 | Player "HT DAQUEBRADA" (steamId=76561198309584610) disconnected from server.
+20:11:1 | Player "[PS]Luuck8" (steamId=76561198096753891) disconnected from server.
+20:11:3 | Player "ANOMALIC" (steamId=76561199083033045) connected to server!
+20:11:13 | Player "Osuwari PONCHOS" (steamId=76561198109216339) disconnected from server.
+20:11:21 | Player "Skyfall" (steamId=76561198329721265) disconnected from server.
+20:11:22 | Player "Skyfall" (steamId=76561198329721265) disconnected from server.
+20:11:29 | Player "SkyApolloX" (steamId=76561198185469994) connected to server!
+20:12:5 | Player "Notsniw" (steamId=76561197967151252) disconnected from server.
+20:12:7 | Player "Notsniw" (steamId=76561197967151252) disconnected from server.
+20:12:30 | Player "ANOMALIC" (steamId=76561199083033045) disconnected from server.
+20:12:35 | Player "SkyApolloX" (steamId=76561198185469994) connected to server!
+20:12:36 | Player "ANOMALIC" (steamId=76561199083033045) disconnected from server.
+20:13:18 | Player "Henne" (steamId=76561198134091570) disconnected from server.
+20:13:21 | Player "ANOMALIC" (steamId=76561199083033045) connected to server!
+20:13:32 | Player "ANOMALIC" (steamId=76561199083033045) connected to server!
+20:14:12 | Player "Titio Sam" (steamId=76561199014145539) connected to server!
+20:14:32 | Player "Titio Sam" (steamId=76561199014145539) connected to server!
+20:14:45 | Player "Erick" (steamId=76561198130260670) connected to server!
+20:14:54 | Player "Einsen" (steamId=76561198103936746) connected to server!
+20:17:43 | Player "Notsniw" (steamId=76561197967151252) connected to server!
+20:18:4 | Player "Notsniw" (steamId=76561197967151252) connected to server!
+20:18:56 | Player "King Of Smoke" (steamId=76561198820514268) disconnected from server.
+20:20:37 | Player "JadePicon" (steamId=76561198143208741) disconnected from server.
+20:20:38 | Player "JadePicon" (steamId=76561198143208741) disconnected from server.
+20:20:57 | Player "[DY] RAPUNZEL" (steamId=76561198100527842) disconnected from server.
+20:21:38 | Player "offOrion" (steamId=76561198129936956) connected to server!
+20:22:33 | Player "offDidigo" (steamId=76561198358990401) connected to server!
+20:25:46 | Player "[DY] RAPUNZEL" (steamId=76561198100527842) connected to server!
+20:26:52 | Player "[DY] RAPUNZEL" (steamId=76561198100527842) connected to server!
+20:45:4 | Player "TeTraz" (steamId=76561199083408122) disconnected from server.
+20:47:19 | Player "! B I L L Y " (steamId=76561198999847854) connected to server!
+20:48:59 | Player "Titio Sam" (steamId=76561199014145539) disconnected from server.
+20:51:35 | Player "SWT | SNPR " (steamId=76561199178458203) disconnected from server.
+20:51:36 | Player "SWT | SNPR " (steamId=76561199178458203) disconnected from server.
+20:52:31 | Player "Henne" (steamId=76561198134091570) connected to server!
+20:53:18 | Player "Henne" (steamId=76561198134091570) connected to server!
+20:55:47 | Player "Feernanda_Valkyrie" (steamId=76561198393547150) connected to server!
+21:0:41 | Player "[NEBU] FrankMilGrau" (steamId=76561198362323166) disconnected from server.
+21:1:4 | Player "Dougrinhas" (steamId=76561198335077830) connected to server!
+21:3:18 | Player "coyot" (steamId=76561198191127093) connected to server!
+21:3:23 | Player "Erthal-;-" (steamId=76561198058375936) connected to server!
+21:3:31 | Player "[NEBU] _-Junior-_" (steamId=76561198851533478) disconnected from server.
+21:3:38 | Player "coyot" (steamId=76561198191127093) connected to server!
+21:3:39 | Player "[YAKUZA]-BlackBear" (steamId=76561198343030820) disconnected from server.
+21:3:42 | Player "[YAKUZA]-BlackBear" (steamId=76561198343030820) disconnected from server.
+21:3:55 | Player "Erthal-;-" (steamId=76561198058375936) connected to server!
+21:3:58 | Player "Skyfall" (steamId=76561198329721265) connected to server!
+21:3:59 | Player "Se pede toma.!." (steamId=76561199160964742) connected to server!
+21:4:10 | Player "Skyfall" (steamId=76561198329721265) connected to server!
+21:4:21 | Player "Se pede toma.!." (steamId=76561199160964742) connected to server!
+21:4:26 | "Skyfall" (steamid=76561198329721265) toggled godmode
+21:4:31 | Player "[DY] RAPUNZEL" (steamId=76561198100527842) disconnected from server.
+21:4:39 | Player "[DY] FROZEN " (steamId=76561198161060673) disconnected from server.
+21:4:54 | "Skyfall": (steamid=76561198329721265) teleported to (pos=10809.9,0,8959.51)
+21:5:21 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:5:23 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:5:28 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:6:4 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<10470.432617, 6.243103, 8788.916992>)
+21:6:5 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:6:9 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:6:55 | Player "GabrielLobato" (steamId=76561198158375860) disconnected from server.
+21:6:56 | Player "Delta-9" (steamId=76561198334164830) connected to server!
+21:7:44 | Player "Notsniw" (steamId=76561197967151252) disconnected from server.
+21:7:46 | Player "Notsniw" (steamId=76561197967151252) disconnected from server.
+21:8:44 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<11196.418945, 15.664025, 8925.725586>)
+21:8:56 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:8:59 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:9:30 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<11481.927734, 4.592663, 8232.521484>)
+21:10:19 | Player "P.A.I Dejair" (steamId=76561198359060113) connected to server!
+21:10:33 | Player "P.A.I Dejair" (steamId=76561198359060113) connected to server!
+21:10:38 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:10:41 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:10:50 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:11:4 | "Skyfall": (steamid=76561198329721265) teleported to (pos=10389.5,0,10398.3)
+21:11:8 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:11:32 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:11:33 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:11:36 | Player "Se pede toma.!." (steamId=76561199160964742) disconnected from server.
+21:11:38 | Player "Se pede toma.!." (steamId=76561199160964742) disconnected from server.
+21:11:59 | Player "coyot" (steamId=76561198191127093) disconnected from server.
+21:12:40 | Player "offDidigo" (steamId=76561198358990401) disconnected from server.
+21:12:42 | Player "offDidigo" (steamId=76561198358990401) disconnected from server.
+21:13:17 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:13:51 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:13:58 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:14:7 | "Skyfall": (steamid=76561198329721265) teleported to (pos=8188.56,0,8461.5)
+21:14:22 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:14:28 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<8121.311035, 237.627472, 8430.425781>)
+21:14:31 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:14:35 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:14:41 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<8123.137207, 217.919739, 8429.647461>)
+21:14:48 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<8149.609863, 209.969574, 8468.697266>)
+21:14:48 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:14:55 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:14:59 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<8173.154785, 211.020020, 8471.181641>)
+21:14:59 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:15:48 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:16:4 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<8300.665039, 236.727982, 8434.530273>)
+21:16:10 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<8236.961914, 216.028259, 8447.408203>)
+21:16:27 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<8113.749023, 225.962891, 8488.815430>)
+21:16:30 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:16:35 | "Skyfall": (steamid=76561198329721265) teleported to (pos=7324.22,0,8676.77)
+21:16:40 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<7309.393555, 14.500000, 8695.109375>)
+21:16:59 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<7308.338379, 14.550001, 8683.148438>)
+21:17:18 | Player "iGunZ" (steamId=76561198072911888) disconnected from server.
+21:17:19 | Player "iGunZ" (steamId=76561198072911888) disconnected from server.
+21:17:47 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<7309.726563, 14.549999, 8670.151367>)
+21:18:9 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<7327.423828, 14.574041, 8667.828125>)
+21:18:31 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<7358.687500, 15.087008, 8668.648438>)
+21:18:54 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<7372.326660, 15.465119, 8677.779297>)
+21:19:57 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<7386.870117, 15.575823, 8690.723633>)
+21:20:52 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<7413.348633, 15.619995, 8667.543945>)
+21:22:27 | "Skyfall": (steamid=76561198329721265) teleported to (pos=10484.1,0,8655.56)
+21:22:29 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:22:31 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:22:33 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:22:36 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:22:38 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:22:41 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:22:43 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:23:28 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:23:33 | "Skyfall": (steamid=76561198329721265) teleported to (pos=7024.2,0,7843.79)
+21:23:42 | "Skyfall": (steamid=76561198329721265) teleported to (pos=6774.49,0,7511.08)
+21:23:50 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:23:53 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:24:23 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<6795.839844, 29.561914, 7544.212891>)
+21:24:49 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:24:53 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<6807.912109, 34.213303, 7484.449707>)
+21:24:53 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:25:25 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:25:33 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<6777.144043, 55.498348, 7486.109375>)
+21:26:7 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<7228.731445, 10.687546, 7966.230957>)
+21:26:9 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:26:13 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:26:27 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<7579.289551, 45.332985, 7873.203125>)
+21:26:28 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:26:32 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:26:41 | Player "{DVS} !Many" (steamId=76561198996676933) connected to server!
+21:26:42 | Player "JHON ferreira" (steamId=76561199174162469) connected to server!
+21:26:44 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<7550.966797, 31.319328, 7897.740723>)
+21:26:45 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:26:47 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<7550.966797, 31.319328, 7897.740723>)
+21:26:48 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:26:50 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<7548.907715, 31.320938, 7901.434082>)
+21:26:50 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:26:53 | Player "{DVS} !Many" (steamId=76561198996676933) connected to server!
+21:27:6 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:27:8 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:27:24 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:27:39 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<7551.498535, 35.200169, 7901.100586>)
+21:27:39 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:27:54 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:28:5 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<7593.468262, 41.957542, 7873.748047>)
+21:28:34 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<7647.181641, 74.575722, 7858.287598>)
+21:28:34 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:28:42 | "Skyfall": (steamid=76561198329721265) teleported to (pos=10463.2,0,8855.39)
+21:28:45 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:28:48 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:28:52 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:29:2 | Player "{DVS} !Many" (steamId=76561198996676933) disconnected from server.
+21:29:5 | Player "{DVS} !Many" (steamId=76561198996676933) disconnected from server.
+21:29:18 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<10383.835938, 7.969168, 8911.682617>)
+21:30:54 | Player "[PS]Luuck8" (steamId=76561198096753891) connected to server!
+21:31:15 | Player "[PS]Luuck8" (steamId=76561198096753891) connected to server!
+21:31:36 | Player "Bluefire" (steamId=76561198172532814) connected to server!
+21:32:21 | Player "Bluefire" (steamId=76561198172532814) connected to server!
+21:32:55 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<10453.836914, 3.999945, 8754.181641>)
+21:33:1 | Player "P 3 S A D 3 L O" (steamId=76561198277384503) connected to server!
+21:33:24 | Player "P 3 S A D 3 L O" (steamId=76561198277384503) connected to server!
+21:33:42 | Player "Crebim" (steamId=76561198390572206) connected to server!
+21:33:42 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<10384.702148, 5.392198, 8746.184570>)
+21:33:54 | Player "Crebim" (steamId=76561198390572206) connected to server!
+21:35:0 | Player "sharkpdd" (steamId=76561198053311124) connected to server!
+21:35:23 | Player "sharkpdd" (steamId=76561198053311124) connected to server!
+21:36:14 | Player "JHON ferreira" (steamId=76561199174162469) disconnected from server.
+21:37:5 | Player "Leozao" (steamId=76561198068181404) connected to server!
+21:37:11 | Player "P-A-I  subarux" (steamId=76561199163733858) disconnected from server.
+21:38:48 | Player "Delta-9" (steamId=76561198334164830) disconnected from server.
+21:39:12 | Player "{DVS} !Many" (steamId=76561198996676933) connected to server!
+21:39:17 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:39:20 | Player "{DVS} !Many" (steamId=76561198996676933) connected to server!
+21:39:45 | "Skyfall": (steamid=76561198329721265) teleported to (pos=6840.97,0,6361.98)
+21:39:52 | "Skyfall": (steamid=76561198329721265) teleported to (pos=8854.63,0,11415.5)
+21:39:54 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:40:1 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<8783.472656, 61.239899, 11423.433594>)
+21:40:3 | "Skyfall" (steamid=76561198329721265) toggled freecam
+21:43:56 | Player "! B I L L Y " (steamId=76561198999847854) disconnected from server.
+21:44:5 | Player "! B I L L Y " (steamId=76561198999847854) disconnected from server.
+21:44:23 | "Skyfall": (steamid=76561198329721265) teleported to (pos=7449.01,0,5930.15)
+21:44:28 | "Skyfall" (steamid=76561198329721265) teleported to crosshair (pos=<7433.739746, 6.796472, 5934.251953>)
+21:44:30 | Player "Skyfall" (steamId=76561198329721265) disconnected from server.
+21:45:6 | Player "! B I L L Y " (steamId=76561198999847854) connected to server!
+21:45:28 | Player "! B I L L Y " (steamId=76561198999847854) connected to server!
+21:48:8 | Player "Fred$rico" (steamId=76561198116552585) connected to server!
+21:48:22 | Player "offOrion" (steamId=76561198129936956) disconnected from server.
+21:48:27 | Player "offOrion" (steamId=76561198129936956) disconnected from server.
+21:48:29 | Player "Fred$rico" (steamId=76561198116552585) connected to server!
+21:48:49 | Player "Recruta PONCHOS" (steamId=76561199018999780) connected to server!
+21:49:4 | Player "Recruta PONCHOS" (steamId=76561199018999780) connected to server!
+21:50:41 | Player "TROPAcwb" (steamId=76561198852436626) connected to server!
+21:51:5 | Player "TROPAcwb" (steamId=76561198852436626) connected to server!
+21:52:59 | Player "Einsen" (steamId=76561198103936746) disconnected from server.
+21:53:32 | Player "{DVS} !Many" (steamId=76561198996676933) disconnected from server.
+21:53:35 | Player "N??N?? rFelixn" (steamId=76561198241411626) connected to server!
+21:53:50 | Player "N??N?? rFelixn" (steamId=76561198241411626) connected to server!
+21:54:4 | Player "ghost" (steamId=76561199084180128) disconnected from server.
+21:54:12 | Player "Einsen" (steamId=76561198103936746) connected to server!
+21:54:25 | Player "Einsen" (steamId=76561198103936746) connected to server!
+21:54:51 | Player "{DVS} !Many" (steamId=76561198996676933) connected to server!
+21:55:9 | Player "{DVS} !Many" (steamId=76561198996676933) connected to server!
+21:56:13 | Player "LUIZ" (steamId=76561198129322623) connected to server!
+21:56:20 | Player "Recruta PONCHOS" (steamId=76561199018999780) disconnected from server.
+21:56:21 | Player "Recruta PONCHOS" (steamId=76561199018999780) disconnected from server.
+21:56:36 | Player "LUIZ" (steamId=76561198129322623) connected to server!
+21:56:55 | Player "[PS]Luuck8" (steamId=76561198096753891) disconnected from server.
+21:56:58 | Player "[PS]Luuck8" (steamId=76561198096753891) disconnected from server.
+21:57:47 | Player "ghost" (steamId=76561199084180128) connected to server!
+21:58:59 | Player "ghost" (steamId=76561199084180128) connected to server!
+22:0:55 | Player "KratosPoa" (steamId=76561198105952176) connected to server!
+22:1:17 | Player "KratosPoa" (steamId=76561198105952176) connected to server!
+22:4:1 | Player "ghost" (steamId=76561199084180128) disconnected from server.
+22:5:54 | Player "zany" (steamId=76561198412332550) disconnected from server.
+22:5:56 | Player "zany" (steamId=76561198412332550) disconnected from server.
+22:5:57 | Player "Henne" (steamId=76561198134091570) disconnected from server.
+22:8:32 | Player "ANOMALIC" (steamId=76561199083033045) disconnected from server.
+22:8:34 | Player "ghost" (steamId=76561199084180128) connected to server!
+22:8:35 | Player "ANOMALIC" (steamId=76561199083033045) disconnected from server.
+22:8:59 | Player "LUIZ" (steamId=76561198129322623) disconnected from server.
+22:9:28 | Player "LUIZ" (steamId=76561198129322623) connected to server!
+22:9:30 | Player "ghost" (steamId=76561199084180128) connected to server!
+22:9:30 | Player "Biel SN" (steamId=76561198050836260) connected to server!
+22:9:36 | Player "LUIZ" (steamId=76561198129322623) connected to server!
+22:9:49 | Player "Biel SN" (steamId=76561198050836260) connected to server!
+22:10:3 | Player "Monet" (steamId=76561198069251894) connected to server!
+22:11:4 | Player "LUIZ" (steamId=76561198129322623) disconnected from server.
+22:11:57 | Player "PERSONAL TRAINER" (steamId=76561199090866217) connected to server!
+22:11:57 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) connected to server!
+22:12:29 | Player "LUIZ" (steamId=76561198129322623) connected to server!
+22:12:41 | Player "N??N?? rFelixn" (steamId=76561198241411626) disconnected from server.
+22:14:48 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) disconnected from server.
+22:15:25 | Player "[Horda] BabaYaga" (steamId=76561198305030814) connected to server!
+22:16:9 | Player "[Horda] BabaYaga" (steamId=76561198305030814) connected to server!
+22:16:16 | Player "LUIZ" (steamId=76561198129322623) connected to server!
+22:17:18 | Player "P.A.I Dejair" (steamId=76561198359060113) disconnected from server.
+22:17:19 | Player "P.A.I Dejair" (steamId=76561198359060113) disconnected from server.
+22:17:52 | Player "[TEC] Kadinho" (steamId=76561198971655942) connected to server!
+22:18:15 | Player "[TEC] Kadinho" (steamId=76561198971655942) connected to server!
+22:19:28 | Player "[NGNL]MIRA" (steamId=76561198956475247) connected to server!
+22:19:34 | Player "Erick" (steamId=76561198130260670) connected to server!
+22:19:38 | Player "ghost" (steamId=76561199084180128) disconnected from server.
+22:19:43 | Player "N??N?? rFelixn" (steamId=76561198241411626) connected to server!
+22:19:51 | Player "ghost" (steamId=76561199084180128) connected to server!
+22:20:6 | Player "N??N?? rFelixn" (steamId=76561198241411626) connected to server!
+22:20:26 | Player "ghost" (steamId=76561199084180128) connected to server!
+22:20:26 | Player "LUIZ" (steamId=76561198129322623) disconnected from server.
+22:20:29 | Player "[NGNL]MIRA" (steamId=76561198956475247) connected to server!
+22:20:31 | Player "LUIZ" (steamId=76561198129322623) disconnected from server.
+22:21:32 | Player "[NEBU] Uhtred" (steamId=76561199001228548) connected to server!
+22:21:40 | Player "ghost" (steamId=76561199084180128) disconnected from server.
+22:21:51 | Player "ghost" (steamId=76561199084180128) connected to server!
+22:21:54 | Player "[NEBU] Uhtred" (steamId=76561199001228548) connected to server!
+22:22:24 | Player "ghost" (steamId=76561199084180128) connected to server!
+22:22:41 | Player "LUIZ" (steamId=76561198129322623) connected to server!
+22:23:26 | Player "M 3 N D 1 G 0" (steamId=76561197989930295) disconnected from server.
+22:23:30 | Player "M 3 N D 1 G 0" (steamId=76561197989930295) disconnected from server.
+22:23:33 | Player "Monet" (steamId=76561198069251894) disconnected from server.
+22:23:34 | Player "Monet" (steamId=76561198069251894) disconnected from server.
+22:23:57 | Player "ghost" (steamId=76561199084180128) disconnected from server.
+22:23:57 | Player "! B I L L Y " (steamId=76561198999847854) disconnected from server.
+22:23:57 | Player "[Horda] BabaYaga" (steamId=76561198305030814) disconnected from server.
+22:23:57 | Player "Leozao" (steamId=76561198068181404) disconnected from server.
+22:23:57 | Player "Biel SN" (steamId=76561198050836260) disconnected from server.
+22:23:57 | Player "[TEC] Kadinho" (steamId=76561198971655942) disconnected from server.
+22:23:57 | Player "Bluefire" (steamId=76561198172532814) disconnected from server.
+22:23:57 | Player "{DVS} !Many" (steamId=76561198996676933) disconnected from server.
+22:23:57 | Player "SkyApolloX" (steamId=76561198185469994) disconnected from server.
+22:23:57 | Player "Erick" (steamId=76561198130260670) disconnected from server.
+22:23:57 | Player "SGT. Fahur" (steamId=76561198904178335) disconnected from server.
+22:23:57 | Player "Crebim" (steamId=76561198390572206) disconnected from server.
+22:23:57 | Player "N??N?? rFelixn" (steamId=76561198241411626) disconnected from server.
+22:23:57 | Player "TROPAcwb" (steamId=76561198852436626) disconnected from server.
+22:23:57 | Player "KratosPoa" (steamId=76561198105952176) disconnected from server.
+22:23:57 | Player "Fred$rico" (steamId=76561198116552585) disconnected from server.
+22:23:57 | Player "[NGNL]MIRA" (steamId=76561198956475247) disconnected from server.
+22:23:57 | Player "[NEBU] Uhtred" (steamId=76561199001228548) disconnected from server.

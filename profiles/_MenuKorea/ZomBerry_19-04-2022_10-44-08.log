@@ -1,0 +1,44 @@
+---------------------------------------------
+MenuKorea v0.5.9-prep log iniciado em 19.04.2022 10:44:08
+
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added category Admin
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function TPCur to category Admin
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function TPToTarget to category Admin
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function TPToAdmin to category Admin
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function HealTarget to category Admin
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function SetHealthTarget to category Admin
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function SetBloodTarget to category Admin
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function GodTarget to category Admin
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function TargetInvisivel to category Admin
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function RefuelAndRepair to category Admin
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function KickOff to category Admin
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added category Dano
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function KillTarget to category Dano
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function BiteTarget to category Dano
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function StripTarget to category Dano
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function RejectBellyTarget to category Dano
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function PsycoTarget to category Dano
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function SneezeTarget to category Dano
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function HandsBlood to category Dano
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added category Server
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function FreeCamAdm to category Server
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function TimeDay to category Server
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function TimeNight to category Server
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function SetTime to category Server
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function SetDate to category Server
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function SetWeather to category Server
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function DeleteObj to category Server
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function ServerOff to category Server
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added category Carros
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function Carro1 to category Carros
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function Carro2 to category Carros
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function Carro3 to category Carros
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function Carro4 to category Carros
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added category Bases Vip
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function OuroPack to category Bases Vip
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function PrataPack to category Bases Vip
+19.04.2022 10:44:08 [ZomBerryCmdAPI]: INFO: Added function BronzePack to category Bases Vip
+19.04.2022 10:44:08 [ZomBerryConfig]: FATAL: admins.cfg was NOT found, please check previous logs and read FAQ.
+19.04.2022 10:44:08 [ZomBerryConfig]: INFO: We highly recommend to put admins.cfg inside this folder: profiles\_MenuKorea (create it manually if it doesn't exist)
+19.04.2022 10:44:08 [ZomBerryDbg]: Server ready, loading admin list from: admins.cfg
+19.04.2022 10:44:08 [ZomBerryConfig]: FATAL: admins.cfg loading failed

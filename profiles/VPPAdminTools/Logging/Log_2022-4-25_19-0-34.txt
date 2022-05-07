@@ -1,0 +1,790 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-4-25_19-0-34
+====================================================================================
+19:0:34 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+19:0:34 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+19:0:34 | [PermissionManager] Perm (FreeCamera) has been registered!
+19:0:34 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuItemManager) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuServerManager) has been registered!
+19:0:34 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+19:0:34 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+19:0:34 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+19:0:34 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+19:0:34 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+19:0:34 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+19:0:34 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+19:0:34 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+19:0:34 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+19:0:34 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+19:0:34 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+19:0:34 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+19:0:34 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+19:0:34 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+19:0:34 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+19:0:34 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+19:0:34 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+19:0:34 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+19:0:34 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+19:0:34 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+19:0:34 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+19:0:34 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+19:0:34 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+19:0:34 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+19:0:34 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+19:0:34 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+19:0:34 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+19:0:34 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+19:0:34 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+19:0:34 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+19:0:34 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+19:0:34 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+19:0:34 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuBansManager) has been registered!
+19:0:34 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+19:0:34 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+19:0:34 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+19:0:34 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+19:0:34 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+19:0:34 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+19:0:34 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+19:0:34 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+19:0:34 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+19:0:34 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+19:0:34 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+19:0:34 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+19:0:34 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+19:0:34 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+19:0:34 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+19:0:34 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+19:0:34 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+19:0:34 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+19:0:34 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+19:0:34 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+19:0:34 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+19:0:34 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+19:0:34 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+19:0:34 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+19:0:34 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+19:0:34 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+19:0:34 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+19:0:34 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+19:0:34 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+19:0:34 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+19:0:34 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+19:0:34 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+19:0:34 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+19:0:34 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+19:0:34 | [PermissionManager] Adding Super Admin (76561198253386609)
+19:0:34 | [PermissionManager] Adding Super Admin (76561198950594742)
+19:0:34 | [PermissionManager] Adding Super Admin (76561198329721265)
+19:0:34 | [PermissionManager] Adding Super Admin (76561198140728342)
+19:0:34 | [PermissionManager] Loaded UserGroups.json
+19:0:34 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+19:0:34 | Building Sets Loaded: 5
+19:0:57 | Player "Jair Messias Bolsonaro" (steamId=76561198044647370) connected to server!
+19:1:0 | Player "Claudinha" (steamId=76561199203652654) connected to server!
+19:1:1 | Player "Igor" (steamId=76561198329721265) connected to server!
+19:1:10 | Player "Jair Messias Bolsonaro" (steamId=76561198044647370) connected to server!
+19:1:10 | Player "Igor" (steamId=76561198329721265) connected to server!
+19:1:16 | Player "Claudinha" (steamId=76561199203652654) connected to server!
+19:1:46 | "Igor" (steamid=76561198329721265) toggled godmode
+19:1:51 | "Igor": (steamid=76561198329721265) teleported to (pos=7145.48,0,6123.73)
+19:2:3 | "Igor" (steamid=76561198329721265) Spawned Item: (AC_TacticalShirt_Admin)
+19:2:5 | "Igor" (steamid=76561198329721265) Spawned Item: (AC_CargoPants_Admin)
+19:2:8 | "Igor" (steamid=76561198329721265) Spawned Item: (AC_MilitaryBeret_Admin)
+19:2:17 | "Igor": (steamid=76561198329721265) teleported to (pos=11.9277,0,15.8472)
+19:2:20 | Player "3mp7y" (steamId=76561198397406465) connected to server!
+19:2:20 | "Igor" (steamid=76561198329721265) toggled freecam
+19:2:21 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+19:2:28 | Player "3mp7y" (steamId=76561198397406465) connected to server!
+19:2:28 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+19:3:7 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<-0.570661, 0.795895, -0.350628>)
+19:3:9 | "Igor" (steamid=76561198329721265) toggled freecam
+19:3:14 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<-0.019580, 0.488372, -1.023891>)
+19:3:29 | "Igor" (steamid=76561198329721265) deleted object "dp_weapons_stand" (pos=<0.000000, 0.000000, 0.000000>)
+19:3:32 | "Igor" (steamid=76561198329721265) deleted object "dp_weapons_stand" (pos=<0.000000, 0.000000, 0.000000>)
+19:3:44 | "Igor" (steamid=76561198329721265) toggled freecam
+19:3:59 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<-0.419694, 0.676126, 0.719089>)
+19:4:1 | "Igor" (steamid=76561198329721265) toggled freecam
+19:4:13 | "Igor" (steamid=76561198329721265) deleted object "dp_wall_big" (pos=<0.000000, 0.000000, 0.000000>)
+19:4:14 | "Igor" (steamid=76561198329721265) deleted object "Fence" (pos=<0.000000, 0.000000, 0.000000>)
+19:4:17 | "Igor" (steamid=76561198329721265) deleted object "Fence" (pos=<0.000000, 0.000000, 0.000000>)
+19:4:19 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<-0.628821, 0.431349, 0.553658>)
+19:4:37 | Player "TripaSeca" (steamId=76561198093060507) connected to server!
+19:4:48 | Player "TripaSeca" (steamId=76561198093060507) connected to server!
+19:5:47 | "Igor" (steamid=76561198329721265) toggled freecam
+19:5:49 | "Igor" (steamid=76561198329721265) toggled freecam
+19:7:21 | "Igor" (steamid=76561198329721265) toggled freecam
+19:7:22 | "Igor" (steamid=76561198329721265) toggled freecam
+19:7:27 | "Igor": (steamid=76561198329721265) teleported to (pos=7500.26,0,5869.51)
+19:7:44 | "Igor": (steamid=76561198329721265) teleported to (pos=11.9282,0,27.937)
+19:7:47 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<0.412475, 0.496695, 0.700769>)
+19:7:57 | Player "Sagara" (steamId=76561198057660620) connected to server!
+19:8:3 | "Igor": (steamid=76561198329721265) teleported to (pos=7561.73,0,7894.77)
+19:8:9 | "Igor" (steamid=76561198329721265) toggled freecam
+19:8:9 | Player "Sagara" (steamId=76561198057660620) connected to server!
+19:8:12 | "Igor" (steamid=76561198329721265) toggled freecam
+19:8:41 | "Igor": (steamid=76561198329721265) teleported to (pos=11.9282,0,15.8472)
+19:8:44 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<0.112305, 0.575723, 0.365463>)
+19:9:11 | "Igor": (steamid=76561198329721265) teleported to (pos=7640.22,0,5866.55)
+19:9:13 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7629.937500, 4.889292, 5866.403809>)
+19:9:13 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7621.810059, 5.408553, 5866.325684>)
+19:9:14 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7615.832520, 5.876706, 5866.404785>)
+19:9:14 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7609.954590, 6.290753, 5866.517090>)
+19:9:14 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7603.502930, 6.572518, 5866.660156>)
+19:9:14 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7596.687012, 6.612019, 5866.883789>)
+19:9:14 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7589.161133, 6.463883, 5867.143066>)
+19:9:15 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7580.217773, 5.973564, 5867.423828>)
+19:9:15 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7571.861328, 5.601666, 5867.661621>)
+19:9:15 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7564.423340, 5.472624, 5867.872559>)
+19:9:15 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7556.678223, 5.267580, 5868.114746>)
+19:9:15 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7548.163086, 4.823658, 5868.410645>)
+19:9:15 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7536.168945, 3.568893, 5868.799316>)
+19:9:16 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7524.288574, 2.354710, 5869.163574>)
+19:9:16 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7514.255371, 1.552421, 5869.447754>)
+19:9:16 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7506.349121, 1.249078, 5869.670898>)
+19:9:16 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7500.958984, 1.211726, 5869.409180>)
+19:9:16 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7493.973145, 1.178390, 5868.700195>)
+19:9:18 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7497.772461, 1.206715, 5869.445313>)
+19:9:50 | "Igor": (steamid=76561198329721265) teleported to (pos=5.81735,0,7.72949)
+19:9:54 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<0.255224, 0.546794, 0.359107>)
+19:10:3 | "Igor": (steamid=76561198329721265) teleported to (pos=7655.94,0,5853.79)
+19:10:7 | "Igor": (steamid=76561198329721265) teleported to (pos=7528.63,0,5856.5)
+19:10:9 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7508.138184, 1.251279, 5865.958496>)
+19:10:47 | "Igor": (steamid=76561198329721265) teleported to (pos=7.02006,0,16.4368)
+19:10:49 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<0.125484, 0.492917, 0.824210>)
+19:10:52 | Player "3mp7y" (steamId=76561198397406465) disconnected from server.
+19:11:1 | "Igor": (steamid=76561198329721265) teleported to (pos=7542.48,0,5848.45)
+19:11:3 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7514.759766, 1.448630, 5862.260254>)
+19:11:4 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7509.187012, 1.256079, 5864.378418>)
+19:11:6 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7505.701172, 1.180645, 5865.786133>)
+19:11:14 | "Igor": (steamid=76561198329721265) teleported to (pos=11.9282,0,15.8472)
+19:11:16 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<0.457343, 0.853049, 0.385974>)
+19:11:25 | "Igor": (steamid=76561198329721265) teleported to (pos=7664.75,0,5847.94)
+19:11:28 | "Igor" (steamid=76561198329721265) toggled freecam
+19:11:31 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7509.669922, 1.318518, 5868.642578>)
+19:11:32 | "Igor" (steamid=76561198329721265) toggled freecam
+19:11:49 | "Igor": (steamid=76561198329721265) teleported to (pos=7564.85,0,7892.35)
+19:12:9 | "Igor" (steamid=76561198329721265) deleted object "Animal_CanisLupus_Grey" (pos=<7567.018555, 28.000000, 7900.251465>)
+19:12:17 | "Igor": (steamid=76561198329721265) teleported to (pos=5.89231,0,13.8037)
+19:12:21 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<0.331951, 0.507610, 0.797356>)
+19:12:34 | "Igor": (steamid=76561198329721265) teleported to (pos=7562.38,0,5861.67)
+19:12:36 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7541.786133, 3.502918, 5864.417969>)
+19:12:37 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7519.312500, 1.856249, 5867.139160>)
+19:12:37 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7510.685547, 1.350855, 5867.932617>)
+19:12:38 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7503.516113, 1.200299, 5868.592285>)
+19:12:47 | "Igor": (steamid=76561198329721265) teleported to (pos=24.0204,0,15.8472)
+19:12:50 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<4.281910, 0.235365, 2.766616>)
+19:12:52 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<0.714525, 0.474424, 0.367392>)
+19:13:0 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<0.628633, 0.854456, 0.390374>)
+19:13:8 | "Igor": (steamid=76561198329721265) teleported to (pos=7580.76,0,5862.54)
+19:13:10 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7565.092285, 4.618766, 5864.509277>)
+19:13:11 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7555.242188, 4.411584, 5865.188965>)
+19:13:12 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7546.683594, 4.213445, 5866.302246>)
+19:13:12 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7536.509766, 3.466025, 5867.694336>)
+19:13:13 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7525.443359, 2.434236, 5868.746094>)
+19:13:13 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7515.682129, 1.636276, 5869.396484>)
+19:13:14 | "Igor" (steamid=76561198329721265) toggled freecam
+19:13:16 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7499.423340, 1.176604, 5868.194336>)
+19:13:17 | "Igor" (steamid=76561198329721265) toggled freecam
+19:13:28 | "Igor": (steamid=76561198329721265) teleported to (pos=11.9303,0,15.8472)
+19:13:31 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<0.642399, 0.284290, 0.518177>)
+19:13:42 | "Igor": (steamid=76561198329721265) teleported to (pos=7572.8,0,5860.78)
+19:13:45 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7510.843262, 1.355687, 5867.688965>)
+19:13:52 | Player "Jair Messias Bolsonaro" (steamId=76561198044647370) disconnected from server.
+19:13:53 | Player "Jair Messias Bolsonaro" (steamId=76561198044647370) disconnected from server.
+19:13:57 | "Igor": (steamid=76561198329721265) teleported to (pos=5.81684,0,7.72949)
+19:13:59 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<0.196021, 0.378505, 0.805876>)
+19:14:39 | "Igor": (steamid=76561198329721265) teleported to (pos=7499.78,0,5888.83)
+19:14:41 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7497.873047, 1.680784, 5878.878906>)
+19:14:43 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7498.378906, 1.369065, 5873.907227>)
+19:14:51 | "Igor": (steamid=76561198329721265) teleported to (pos=4.67442,0,10.9448)
+19:14:55 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<0.021471, 0.502309, 0.663245>)
+19:15:9 | "Igor": (steamid=76561198329721265) teleported to (pos=7586.48,0,5864.44)
+19:15:11 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7560.889160, 4.887280, 5866.106445>)
+19:15:12 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7525.458496, 2.453284, 5869.138184>)
+19:15:13 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7512.993652, 1.505643, 5870.415039>)
+19:15:14 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7507.756836, 1.313004, 5870.959473>)
+19:15:29 | "Igor": (steamid=76561198329721265) teleported to (pos=11.9287,0,15.8435)
+19:15:32 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<0.403253, 0.926821, 0.373441>)
+19:15:36 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<0.767714, 0.465741, -0.066318>)
+19:15:41 | "Igor" (steamid=76561198329721265) toggled freecam
+19:15:44 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<0.045045, 1.907069, 0.063435>)
+19:15:44 | "Igor" (steamid=76561198329721265) toggled freecam
+19:15:52 | "Igor": (steamid=76561198329721265) teleported to (pos=7572.01,0,5882.18)
+19:15:55 | "Igor" (steamid=76561198329721265) toggled freecam
+19:15:57 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7501.648926, 1.298328, 5872.303223>)
+19:15:58 | "Igor" (steamid=76561198329721265) toggled freecam
+19:16:30 | "Igor": (steamid=76561198329721265) teleported to (pos=6.12406,0,8.13477)
+19:16:31 | Player "zozs" (steamId=76561198126713029) connected to server!
+19:16:32 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<0.369313, 0.568751, 0.365576>)
+19:16:38 | "Igor" (steamid=76561198329721265) toggled freecam
+19:16:41 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<0.473424, 1.432488, 0.228269>)
+19:16:42 | "Igor" (steamid=76561198329721265) toggled freecam
+19:17:0 | "Igor" (steamid=76561198329721265) toggled freecam
+19:17:2 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<0.473344, 1.432488, 0.113857>)
+19:17:3 | "Igor" (steamid=76561198329721265) toggled freecam
+19:17:13 | "Igor" (steamid=76561198329721265) toggled freecam
+19:17:22 | "Igor" (steamid=76561198329721265) toggled freecam
+19:17:34 | "Igor" (steamid=76561198329721265) deleted object "dp_guncabinet" (pos=<0.000000, 0.000000, 0.000000>)
+19:17:36 | "Igor" (steamid=76561198329721265) deleted object "dp_locker_gray" (pos=<0.000000, 0.000000, 0.000000>)
+19:17:40 | "Igor": (steamid=76561198329721265) teleported to (pos=7593.83,0,5857.89)
+19:17:42 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7581.908203, 4.187129, 5858.505371>)
+19:17:42 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7571.090332, 3.764286, 5858.397949>)
+19:17:43 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7562.477539, 3.581666, 5859.520996>)
+19:17:43 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7555.739746, 3.732259, 5860.786133>)
+19:17:43 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7547.996582, 3.598126, 5862.245117>)
+19:17:43 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7539.459961, 3.286509, 5863.925293>)
+19:17:44 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7529.385254, 2.590135, 5865.815430>)
+19:17:44 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7519.783691, 1.897491, 5867.300781>)
+19:17:44 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7510.282715, 1.339217, 5868.622070>)
+19:20:25 | "Igor": (steamid=76561198329721265) teleported to (pos=11.9308,0,15.8496)
+19:20:27 | "Igor" (steamid=76561198329721265) toggled freecam
+19:20:39 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<0.162092, 0.144926, -0.030098>)
+19:20:41 | "Igor" (steamid=76561198329721265) toggled freecam
+19:21:22 | "Igor" (steamid=76561198329721265) toggled freecam
+19:21:23 | "Igor" (steamid=76561198329721265) toggled freecam
+19:21:39 | "Igor" (steamid=76561198329721265) toggled freecam
+19:21:44 | "Igor" (steamid=76561198329721265) toggled freecam
+19:21:54 | "Igor" (steamid=76561198329721265) toggled freecam
+19:22:14 | "Igor" (steamid=76561198329721265) toggled freecam
+19:22:26 | "Igor": (steamid=76561198329721265) teleported to (pos=7584.77,0,5857.7)
+19:22:29 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7575.661133, 3.969860, 5858.405762>)
+19:22:30 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7567.404785, 3.579423, 5858.523926>)
+19:22:30 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7561.333496, 3.537326, 5859.120117>)
+19:22:30 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7556.295410, 3.597601, 5859.816406>)
+19:22:30 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7550.935547, 3.506068, 5860.506348>)
+19:22:30 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7545.037598, 3.323559, 5861.335449>)
+19:22:31 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7538.786133, 3.040828, 5862.199219>)
+19:22:31 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7532.924316, 2.689635, 5863.218750>)
+19:22:31 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7527.601074, 2.361988, 5864.136230>)
+19:22:32 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7521.313477, 1.958556, 5865.311523>)
+19:22:36 | "Igor": (steamid=76561198329721265) teleported to (pos=7565.25,0,7890.47)
+19:22:39 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7560.204102, 28.019102, 7899.942871>)
+19:22:56 | "Igor" (steamid=76561198329721265) Spawned Item: (NailBox)
+19:22:56 | "Igor" (steamid=76561198329721265) Spawned Item: (NailBox)
+19:22:57 | "Igor" (steamid=76561198329721265) Spawned Item: (NailBox)
+19:22:57 | "Igor" (steamid=76561198329721265) Spawned Item: (NailBox)
+19:22:57 | "Igor" (steamid=76561198329721265) Spawned Item: (NailBox)
+19:22:57 | "Igor" (steamid=76561198329721265) Spawned Item: (NailBox)
+19:22:57 | "Igor" (steamid=76561198329721265) Spawned Item: (NailBox)
+19:24:1 | "Igor" (steamid=76561198329721265) Spawned Item: (Hell_OperationBag_OliveDrab)
+19:25:3 | Player "=FURY= Biribinha" (steamId=76561199031638818) connected to server!
+19:25:15 | "Igor" (steamid=76561198329721265) Spawned Item: (Hell_Civilian_SherpaBag_Olive)
+19:25:15 | "Igor" (steamid=76561198329721265) Spawned Item: (Hell_Civilian_SherpaBag_Olive)
+19:25:24 | Player "=FURY= Biribinha" (steamId=76561199031638818) connected to server!
+19:25:43 | "Igor" (steamid=76561198329721265) Spawned Item: (Hell_LightMilBag_Black)
+19:25:46 | "Igor" (steamid=76561198329721265) Spawned Item: (Hell_TacticalBag_OliveDrab)
+19:25:48 | "Igor" (steamid=76561198329721265) Spawned Item: (Hell_AliceBag_DigitalFlora)
+19:26:38 | Player "=FURY= Biribinha" (steamId=76561199031638818) disconnected from server.
+19:26:42 | "Igor" (steamid=76561198329721265) Spawned Item: (HRM_OperationBag_OliveDrab)
+19:27:25 | "Igor": (steamid=76561198329721265) teleported to (pos=7550.44,0,5854.77)
+19:27:27 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7540.827148, 2.720644, 5857.582031>)
+19:27:28 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7531.331055, 2.370903, 5860.203125>)
+19:27:28 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7523.433105, 1.982160, 5862.524902>)
+19:27:28 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7515.669922, 1.561345, 5864.916504>)
+19:27:29 | "Igor" (steamid=76561198329721265) toggled freecam
+19:27:33 | "Igor" (steamid=76561198329721265) toggled freecam
+19:27:40 | "Igor" (steamid=76561198329721265) toggled freecam
+19:27:43 | "Igor" (steamid=76561198329721265) toggled freecam
+19:28:26 | "Igor": (steamid=76561198329721265) teleported to (pos=7561.56,0,7906.03)
+19:28:32 | "Igor" (steamid=76561198329721265) toggled freecam
+19:28:34 | "Igor" (steamid=76561198329721265) toggled freecam
+19:29:17 | "Igor": (steamid=76561198329721265) teleported to (pos=7600.02,0,5867.82)
+19:29:19 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7574.629883, 5.816658, 5868.032227>)
+19:29:20 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7559.172852, 5.402308, 5868.242676>)
+19:29:20 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7545.921875, 4.652305, 5868.492188>)
+19:29:20 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7528.874512, 2.784246, 5868.918457>)
+19:29:21 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7516.807617, 1.719729, 5869.239746>)
+19:29:47 | "Igor": (steamid=76561198329721265) teleported to (pos=7557.29,0,7888.94)
+19:29:52 | "Igor" (steamid=76561198329721265) toggled freecam
+19:29:56 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7558.152344, 28.019102, 7894.257324>)
+19:29:57 | "Igor" (steamid=76561198329721265) toggled freecam
+19:30:6 | "Igor": (steamid=76561198329721265) teleported to (pos=7518.83,0,5884.91)
+19:30:9 | "Igor" (steamid=76561198329721265) toggled freecam
+19:30:12 | "Igor" (steamid=76561198329721265) toggled freecam
+19:30:23 | "Igor" (steamid=76561198329721265) deleted object "Hell_AliceBag_DigitalFlora" (pos=<7508.437500, 1.912277, 5878.890625>)
+19:30:24 | "Igor" (steamid=76561198329721265) deleted object "Hell_OperationBag_OliveDrab" (pos=<7508.437500, 1.733029, 5878.890625>)
+19:30:24 | Player "[HORDA]MacLovin" (steamId=76561199068236803) disconnected from server.
+19:30:25 | "Igor" (steamid=76561198329721265) deleted object "HRM_OperationBag_OliveDrab" (pos=<7508.437500, 1.733029, 5878.890625>)
+19:30:26 | "Igor" (steamid=76561198329721265) deleted object "Hell_Civilian_SherpaBag_Olive" (pos=<7508.437500, 1.733029, 5878.890625>)
+19:30:27 | Player "[HORDA]MacLovin" (steamId=76561199068236803) disconnected from server.
+19:30:27 | "Igor" (steamid=76561198329721265) deleted object "Hell_Civilian_SherpaBag_Olive" (pos=<7508.437500, 1.733029, 5878.890625>)
+19:30:28 | "Igor" (steamid=76561198329721265) deleted object "Hell_LightMilBag_Black" (pos=<7508.437500, 1.733983, 5878.890625>)
+19:30:47 | "Igor" (steamid=76561198329721265) Spawned Item: (AdminHatchet)
+19:30:58 | "Igor" (steamid=76561198329721265) Spawned Item: (dp_wall_big_Kit)
+19:31:9 | Player "zozs" (steamId=76561198126713029) disconnected from server.
+19:31:12 | Player "zozs" (steamId=76561198126713029) disconnected from server.
+19:32:18 | "Igor": (steamid=76561198329721265) teleported to (pos=7555.27,0,7900.15)
+19:32:22 | "Igor" (steamid=76561198329721265) toggled freecam
+19:32:26 | "Igor" (steamid=76561198329721265) toggled freecam
+19:32:28 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7553.636230, 28.019102, 7897.055664>)
+19:33:26 | Player "TripaSeca" (steamId=76561198093060507) disconnected from server.
+19:37:33 | "Igor" (steamid=76561198329721265) toggled freecam
+19:41:1 | "Igor" (steamid=76561198329721265) toggled freecam
+19:45:24 | Player "[ONE] JAPA" (steamId=76561198161060673) connected to server!
+19:45:47 | Player "[ONE] JAPA" (steamId=76561198161060673) connected to server!
+19:45:52 | "Igor": (steamid=76561198329721265) teleported to (pos=7586.16,0,5852.62)
+19:45:54 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7569.865723, 3.426874, 5856.250000>)
+19:45:54 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7559.305664, 3.426467, 5858.243164>)
+19:45:55 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7551.084473, 3.481941, 5860.299316>)
+19:45:55 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7542.682617, 3.309914, 5862.510742>)
+19:45:55 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7533.721680, 2.890948, 5864.858398>)
+19:45:55 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7525.033203, 2.327498, 5867.066895>)
+19:45:55 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7520.020508, 1.947099, 5868.413086>)
+19:45:56 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7510.830078, 1.406421, 5870.967773>)
+19:46:7 | Player "=FURY= Biribinha" (steamId=76561199031638818) connected to server!
+19:46:14 | Player "=FURY= Biribinha" (steamId=76561199031638818) connected to server!
+19:46:39 | "Igor" (steamid=76561198329721265) toggled freecam
+19:46:43 | "Igor" (steamid=76561198329721265) toggled freecam
+19:47:46 | "Igor" (steamid=76561198329721265) toggled freecam
+19:47:58 | "Igor" (steamid=76561198329721265) toggled freecam
+19:52:4 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7500.023926, 1.236080, 5870.473145>)
+19:52:18 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7502.891113, 1.252354, 5870.951660>)
+19:52:29 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7499.815430, 1.233994, 5870.356934>)
+19:52:37 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7497.764648, 1.217644, 5869.903809>)
+19:52:44 | "Igor" (steamid=76561198329721265) deleted object "Hell_TacticalBag_OliveDrab" (pos=<7510.800781, 1.430499, 5867.193359>)
+19:54:26 | Player "Sagara" (steamId=76561198057660620) disconnected from server.
+19:54:33 | Player "Sagara" (steamId=76561198057660620) disconnected from server.
+19:54:39 | "Igor" (steamid=76561198329721265) toggled freecam
+19:54:41 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7498.702637, 1.517535, 5876.587402>)
+19:54:41 | "Igor" (steamid=76561198329721265) toggled freecam
+19:56:12 | "Igor" (steamid=76561198329721265) toggled freecam
+19:56:15 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7497.653320, 1.233655, 5870.310059>)
+19:56:15 | "Igor" (steamid=76561198329721265) toggled freecam
+20:3:12 | Player "DjRaelZiin29" (steamId=76561198963310995) connected to server!
+20:4:1 | Player "DjRaelZiin29" (steamId=76561198963310995) connected to server!
+20:5:28 | "Igor": (steamid=76561198329721265) teleported to (pos=5105.12,0,2336.92)
+20:5:29 | "Igor" (steamid=76561198329721265) toggled freecam
+20:5:33 | "Igor" (steamid=76561198329721265) toggled freecam
+20:5:39 | "Igor": (steamid=76561198329721265) teleported to (pos=11.9277,0,15.8472)
+20:5:42 | "Igor" (steamid=76561198329721265) toggled freecam
+20:5:48 | "Igor" (steamid=76561198329721265) toggled freecam
+20:5:55 | "Igor": (steamid=76561198329721265) teleported to (pos=5.76781,0,7.66113)
+20:5:58 | "Igor" (steamid=76561198329721265) toggled freecam
+20:6:3 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<0.196933, 0.511862, 0.083866>)
+20:6:3 | "Igor" (steamid=76561198329721265) toggled freecam
+20:6:8 | "Igor" (steamid=76561198329721265) toggled freecam
+20:6:21 | "Igor" (steamid=76561198329721265) deleted object "dp_box_big_Grey" (pos=<0.075686, -2.008381, 0.710905>)
+20:6:53 | "Igor": (steamid=76561198329721265) teleported to (pos=7637.79,0,5925.72)
+20:6:55 | "Igor" (steamid=76561198329721265) toggled freecam
+20:6:58 | "Igor" (steamid=76561198329721265) toggled freecam
+20:7:1 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7516.315918, 1.795521, 5872.731934>)
+20:7:2 | "Igor" (steamid=76561198329721265) toggled freecam
+20:7:4 | "Igor" (steamid=76561198329721265) toggled freecam
+20:7:6 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7496.965820, 1.210716, 5869.612305>)
+20:7:6 | "Igor" (steamid=76561198329721265) toggled freecam
+20:7:12 | Player "[L.B] Santorin" (steamId=76561199069721527) connected to server!
+20:7:33 | Player "[L.B] Santorin" (steamId=76561199069721527) connected to server!
+20:8:9 | Player "Claudinha" (steamId=76561199203652654) disconnected from server.
+20:8:17 | Player "Claudinha" (steamId=76561199203652654) disconnected from server.
+20:9:23 | Player "[L.B]TropaDoEnguisa" (steamId=76561198211423224) connected to server!
+20:10:31 | Player "[YKZ]-BlackBear" (steamId=76561198343030820) connected to server!
+20:10:42 | Player "[YKZ]-BlackBear" (steamId=76561198343030820) connected to server!
+20:10:44 | "Igor": (steamid=76561198329721265) teleported to (pos=10171.3,0,10632.7)
+20:11:3 | "Igor" (steamid=76561198329721265) /heal used on: "DjRaelZiin29" (steamid=76561198963310995)
+20:11:8 | "Igor" (steamid=76561198329721265) toggled freecam
+20:11:19 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<10099.712891, 2.105277, 10619.446289>)
+20:11:20 | "Igor" (steamid=76561198329721265) toggled freecam
+20:11:26 | "Igor" (steamid=76561198329721265) deleted object "Animal_UrsusArctos" (pos=<10102.279297, 2.281098, 10622.504883>)
+20:11:30 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<10085.782227, 4.732393, 10666.807617>)
+20:12:7 | "Igor" (steamid=76561198329721265) deleted object "ZmbM_CitizenASkinny_Red" (pos=<9974.641602, 4.940001, 10682.464844>)
+20:12:9 | "Igor" (steamid=76561198329721265) deleted object "ZmbM_CitizenASkinny_Blue" (pos=<9974.303711, 4.900001, 10681.994141>)
+20:12:10 | "Igor" (steamid=76561198329721265) deleted object "ZmbM_CitizenASkinny_Grey" (pos=<9972.087891, 5.360963, 10682.833984>)
+20:12:12 | "Igor" (steamid=76561198329721265) deleted object "Animal_CanisLupus_Grey" (pos=<9978.507813, 4.951759, 10687.678711>)
+20:12:14 | "Igor" (steamid=76561198329721265) deleted object "ZmbM_CitizenASkinny_Blue" (pos=<9975.435547, 4.939129, 10683.174805>)
+20:12:15 | "Igor" (steamid=76561198329721265) deleted object "ZmbM_CitizenASkinny_Brown" (pos=<9974.396484, 4.940001, 10682.748047>)
+20:12:16 | "Igor" (steamid=76561198329721265) deleted object "ZmbM_CitizenASkinny_Red" (pos=<9973.228516, 4.940001, 10682.278320>)
+20:12:17 | "Igor" (steamid=76561198329721265) deleted object "ZmbM_CitizenASkinny_Blue" (pos=<9974.159180, 4.940001, 10681.111328>)
+20:12:19 | "Igor" (steamid=76561198329721265) deleted object "ZmbM_CitizenASkinny_Brown" (pos=<9973.070313, 4.940001, 10681.074219>)
+20:12:21 | "Igor" (steamid=76561198329721265) deleted object "ZmbM_CitizenASkinny_Grey" (pos=<9972.328125, 5.205861, 10682.419922>)
+20:12:22 | "Igor" (steamid=76561198329721265) deleted object "ZmbM_CitizenASkinny_Red" (pos=<9973.253906, 4.940001, 10683.413086>)
+20:12:27 | "Igor" (steamid=76561198329721265) toggled freecam
+20:12:34 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<10079.252930, 5.725458, 10679.911133>)
+20:12:34 | "Igor" (steamid=76561198329721265) toggled freecam
+20:13:1 | "Igor" (steamid=76561198329721265) deleted object "Animal_CanisLupus_White" (pos=<10082.166016, 5.776217, 10681.111328>)
+20:13:3 | "Igor" (steamid=76561198329721265) /heal used on: "Igor" (steamid=76561198329721265)
+20:13:4 | "Igor" (steamid=76561198329721265) /heal used on: "DjRaelZiin29" (steamid=76561198963310995)
+20:13:35 | "Igor": (steamid=76561198329721265) teleported to (pos=7468.75,0,5899.04)
+20:13:37 | "Igor" (steamid=76561198329721265) toggled freecam
+20:13:41 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7496.772949, 1.346336, 5872.871582>)
+20:13:42 | "Igor" (steamid=76561198329721265) toggled freecam
+20:14:6 | "Igor": (steamid=76561198329721265) teleported to (pos=7354.79,0,7173.55)
+20:14:11 | "Igor" (steamid=76561198329721265) toggled freecam
+20:14:13 | "Igor" (steamid=76561198329721265) toggled freecam
+20:14:18 | "Igor" (steamid=76561198329721265) toggled freecam
+20:15:9 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7354.518555, 14.289998, 7160.612793>)
+20:15:11 | Player "=FURY= Biribinha" (steamId=76561199031638818) disconnected from server.
+20:15:43 | "Igor" (steamid=76561198329721265) toggled freecam
+20:15:51 | "Igor" (steamid=76561198329721265) toggled freecam
+20:16:4 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7353.128418, 14.322596, 7140.124512>)
+20:16:7 | "Igor" (steamid=76561198329721265) toggled freecam
+20:16:14 | "Igor" (steamid=76561198329721265) toggled freecam
+20:16:19 | "Igor" (steamid=76561198329721265) toggled freecam
+20:17:9 | Player "ttuker" (steamId=76561198971813376) connected to server!
+20:17:14 | "Igor": (steamid=76561198329721265) teleported to (pos=8255.83,0,5873.93)
+20:17:25 | "Igor" (steamid=76561198329721265) toggled freecam
+20:17:29 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<8357.997070, 70.036972, 6499.457520>)
+20:17:32 | "Igor" (steamid=76561198329721265) toggled freecam
+20:17:40 | Player "ttuker" (steamId=76561198971813376) connected to server!
+20:18:9 | "Igor": (steamid=76561198329721265) teleported to (pos=7470.97,0,5895.42)
+20:18:11 | "Igor" (steamid=76561198329721265) toggled freecam
+20:18:15 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<7498.814453, 1.276393, 5871.309082>)
+20:18:15 | "Igor" (steamid=76561198329721265) toggled freecam
+20:18:30 | Player "[L.B]TropaDoEnguisa" (steamId=76561198211423224) disconnected from server.
+20:19:13 | Player "[L.B]TropaDoEnguisa" (steamId=76561198211423224) connected to server!
+20:19:28 | Player "[L.B]TropaDoEnguisa" (steamId=76561198211423224) connected to server!
+20:21:41 | "Igor" (steamid=76561198329721265) deleted object "dp_box_big_Grey" (pos=<7495.227539, 1.406782, 5874.244629>)
+20:21:58 | "Igor": (steamid=76561198329721265) teleported to (pos=8868.07,0,10226.8)
+20:22:1 | "Igor" (steamid=76561198329721265) toggled freecam
+20:22:15 | "Igor" (steamid=76561198329721265) toggled freecam
+20:22:58 | "Igor" (steamid=76561198329721265) toggled freecam
+20:23:20 | "Igor" (steamid=76561198329721265) toggled freecam
+20:23:53 | "Igor" (steamid=76561198329721265) toggled freecam
+20:23:57 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<8850.218750, 7.472600, 10248.245117>)
+20:23:57 | "Igor" (steamid=76561198329721265) toggled freecam
+20:23:59 | "Igor" (steamid=76561198329721265) toggled freecam
+20:24:0 | "Igor" (steamid=76561198329721265) toggled freecam
+20:24:10 | "Igor" (steamid=76561198329721265) Spawned Item: (dp_waterbarrel_kit)
+20:24:45 | Player "Survivor" (steamId=76561198277762897) connected to server!
+20:25:29 | Player "jhean" (steamId=76561198819003355) connected to server!
+20:26:7 | "Igor" (steamid=76561198329721265) Spawned Item: (FireplaceIndoor)
+20:26:15 | "Igor" (steamid=76561198329721265) deleted object "FireplaceIndoor" (pos=<8850.303711, 7.489281, 10249.803711>)
+20:26:24 | "Igor" (steamid=76561198329721265) Spawned Item: (FireplaceIndoor)
+20:26:30 | "Igor" (steamid=76561198329721265) deleted object "FireplaceIndoor" (pos=<8848.879883, 7.489281, 10250.976563>)
+20:26:38 | "Igor" (steamid=76561198329721265) Spawned Item: (FireplaceIndoor)
+20:26:47 | "Igor" (steamid=76561198329721265) deleted object "FireplaceIndoor" (pos=<8848.192383, 7.489281, 10250.851563>)
+20:26:54 | "Igor" (steamid=76561198329721265) Spawned Item: (FireplaceIndoor)
+20:27:23 | "Igor" (steamid=76561198329721265) Spawned Item: (Fireplace)
+20:27:30 | "Igor" (steamid=76561198329721265) Spawned Item: (Firewood)
+20:28:18 | "Igor" (steamid=76561198329721265) Spawned Item: (WoodenStick)
+20:28:19 | "Igor" (steamid=76561198329721265) Spawned Item: (WoodenStick)
+20:28:53 | "Igor" (steamid=76561198329721265) Spawned Item: (Stone)
+20:28:53 | "Igor" (steamid=76561198329721265) Spawned Item: (Stone)
+20:28:53 | "Igor" (steamid=76561198329721265) Spawned Item: (Stone)
+20:28:53 | "Igor" (steamid=76561198329721265) Spawned Item: (Stone)
+20:28:53 | "Igor" (steamid=76561198329721265) Spawned Item: (Stone)
+20:28:53 | "Igor" (steamid=76561198329721265) Spawned Item: (Stone)
+20:28:53 | "Igor" (steamid=76561198329721265) Spawned Item: (Stone)
+20:28:54 | "Igor" (steamid=76561198329721265) Spawned Item: (Stone)
+20:28:54 | "Igor" (steamid=76561198329721265) Spawned Item: (Stone)
+20:28:54 | "Igor" (steamid=76561198329721265) Spawned Item: (Stone)
+20:28:54 | "Igor" (steamid=76561198329721265) Spawned Item: (Stone)
+20:28:54 | "Igor" (steamid=76561198329721265) Spawned Item: (Stone)
+20:28:54 | "Igor" (steamid=76561198329721265) Spawned Item: (Stone)
+20:29:20 | "Igor" (steamid=76561198329721265) Spawned Item: (Stone)
+20:29:20 | "Igor" (steamid=76561198329721265) Spawned Item: (Stone)
+20:29:21 | "Igor" (steamid=76561198329721265) Spawned Item: (Stone)
+20:29:57 | "Igor" (steamid=76561198329721265) Spawned Item: (Firewood)
+20:29:57 | "Igor" (steamid=76561198329721265) Spawned Item: (Firewood)
+20:29:58 | "Igor" (steamid=76561198329721265) Spawned Item: (Firewood)
+20:31:19 | "Igor" (steamid=76561198329721265) toggled freecam
+20:31:22 | "Igor" (steamid=76561198329721265) toggled freecam
+20:31:36 | "Igor" (steamid=76561198329721265) toggled freecam
+20:31:40 | "Igor" (steamid=76561198329721265) toggled freecam
+20:33:17 | Player "Henke" (steamId=76561198110592511) connected to server!
+20:33:42 | Player "Henke" (steamId=76561198110592511) connected to server!
+20:40:53 | "Igor" (steamid=76561198329721265) toggled freecam
+20:43:9 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<8652.791016, 6.976426, 10101.887695>)
+20:43:10 | "Igor" (steamid=76561198329721265) toggled freecam
+20:43:26 | "Igor" (steamid=76561198329721265) toggled freecam
+20:43:32 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<8854.617188, 11.573920, 10240.583984>)
+20:43:33 | "Igor" (steamid=76561198329721265) toggled freecam
+20:43:44 | "Igor" (steamid=76561198329721265) toggled freecam
+20:43:56 | "Igor" (steamid=76561198329721265) deleted object "ZmbM_FishermanOld_Red" (pos=<8785.037109, 8.582039, 10212.121094>)
+20:44:24 | "Igor" (steamid=76561198329721265) deleted object "ZmbM_HermitSkinny_Black" (pos=<8815.000000, 11.682574, 10176.067383>)
+20:44:51 | "Igor" (steamid=76561198329721265) /heal used on: "DjRaelZiin29" (steamid=76561198963310995)
+20:44:58 | "Igor" (steamid=76561198329721265) toggled freecam
+20:45:18 | "Igor" (steamid=76561198329721265) Spawned Item: (BandageDressing)
+20:45:18 | "Igor" (steamid=76561198329721265) Spawned Item: (BandageDressing)
+20:45:18 | "Igor" (steamid=76561198329721265) Spawned Item: (BandageDressing)
+20:45:18 | "Igor" (steamid=76561198329721265) Spawned Item: (BandageDressing)
+20:45:18 | "Igor" (steamid=76561198329721265) Spawned Item: (BandageDressing)
+20:45:19 | "Igor" (steamid=76561198329721265) Spawned Item: (BandageDressing)
+20:45:19 | "Igor" (steamid=76561198329721265) Spawned Item: (BandageDressing)
+20:45:19 | "Igor" (steamid=76561198329721265) Spawned Item: (BandageDressing)
+20:45:19 | "Igor" (steamid=76561198329721265) Spawned Item: (BandageDressing)
+20:45:19 | "Igor" (steamid=76561198329721265) Spawned Item: (BandageDressing)
+20:45:19 | "Igor" (steamid=76561198329721265) Spawned Item: (BandageDressing)
+20:45:29 | Player "[L.B] Santorin" (steamId=76561199069721527) disconnected from server.
+20:45:30 | Player "[L.B] Santorin" (steamId=76561199069721527) disconnected from server.
+20:46:18 | Player "[L.B] Santorin" (steamId=76561199069721527) connected to server!
+20:46:25 | Player "[L.B] Santorin" (steamId=76561199069721527) connected to server!
+20:48:15 | "Igor" (steamid=76561198329721265) toggled freecam
+20:48:19 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<8869.296875, 7.422227, 10270.858398>)
+20:48:19 | "Igor" (steamid=76561198329721265) toggled freecam
+20:48:25 | "Igor" (steamid=76561198329721265) deleted object "AC_CargoPants_Admin" (pos=<8869.296875, 7.424300, 10270.858398>)
+20:48:25 | "Igor" (steamid=76561198329721265) deleted object "AC_TacticalShirt_Admin" (pos=<8869.296875, 7.424300, 10270.858398>)
+20:48:26 | "Igor" (steamid=76561198329721265) deleted object "MilitaryBoots_Beige" (pos=<8869.296875, 7.427263, 10270.858398>)
+20:48:27 | "Igor" (steamid=76561198329721265) deleted object "AC_MilitaryBeret_Admin" (pos=<8869.296875, 7.431517, 10270.858398>)
+20:49:6 | "Igor" (steamid=76561198329721265) Spawned Item: (CargoPants_Black)
+20:49:15 | "Igor" (steamid=76561198329721265) Spawned Item: (JungleBoots_Green)
+20:49:25 | "Igor" (steamid=76561198329721265) Spawned Item: (TacticalGloves_Green)
+20:49:28 | "Igor" (steamid=76561198329721265) Spawned Item: (TacticalShirt_Olive)
+20:49:37 | "Igor" (steamid=76561198329721265) deleted object "TacticalShirt_Olive" (pos=<8870.626953, 7.457010, 10270.888672>)
+20:49:38 | "Igor" (steamid=76561198329721265) deleted object "TacticalGloves_Green" (pos=<8870.626953, 7.460096, 10270.888672>)
+20:49:40 | "Igor" (steamid=76561198329721265) Spawned Item: (TacticalShirt_Black)
+20:49:43 | "Igor" (steamid=76561198329721265) Spawned Item: (TacticalGloves_Black)
+20:49:53 | "Igor" (steamid=76561198329721265) Spawned Item: (TacticalBaconCan_Opened)
+20:49:54 | "Igor" (steamid=76561198329721265) Spawned Item: (TacticalBaconCan_Opened)
+20:50:21 | Player "WillGalego123" (steamId=76561198277762897) disconnected from server.
+20:50:26 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:27 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:27 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:27 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:27 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:27 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:27 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:27 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:28 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:29 | Player "WillGalego123" (steamId=76561198277762897) re-connected to server [canceledLogout]
+20:50:36 | Player "WillGalego123" (steamId=76561198277762897) disconnected from server.
+20:50:40 | "Igor" (steamid=76561198329721265) Spawned Item: (BandageDressing)
+20:50:41 | "Igor" (steamid=76561198329721265) Spawned Item: (BandageDressing)
+20:50:41 | "Igor" (steamid=76561198329721265) Spawned Item: (BandageDressing)
+20:51:1 | Player "ttuker" (steamId=76561198971813376) disconnected from server.
+20:51:2 | Player "ttuker" (steamId=76561198971813376) disconnected from server.
+20:51:17 | "Igor" (steamid=76561198329721265) Spawned Item: (Mich2001Helmet)
+20:51:20 | "Igor" (steamid=76561198329721265) toggled freecam
+20:51:23 | "Igor" (steamid=76561198329721265) toggled freecam
+20:51:40 | "Igor" (steamid=76561198329721265) Spawned Item: (CombatKnife)
+20:51:42 | Player "ttuker" (steamId=76561198971813376) connected to server!
+20:51:44 | "Igor" (steamid=76561198329721265) toggled freecam
+20:51:46 | "Igor" (steamid=76561198329721265) teleported to crosshair (pos=<8853.091797, 11.573920, 10242.599609>)
+20:51:47 | "Igor" (steamid=76561198329721265) toggled freecam
+20:51:50 | Player "ttuker" (steamId=76561198971813376) connected to server!
+20:52:27 | "Igor" (steamid=76561198329721265) just updated a health stat on (steamid=76561198963310995)
+20:52:38 | "Igor" (steamid=76561198329721265) just updated a health stat on (steamid=76561198963310995)
+20:57:17 | Player "Igor" (steamId=76561198329721265) disconnected from server.
+20:57:51 | Player "SuperNoia" (steamId=76561198132169694) connected to server!
+20:58:59 | Player "yuri" (steamId=76561199109665181) connected to server!
+20:59:25 | Player "Sagara" (steamId=76561198057660620) connected to server!
+20:59:34 | Player "[YKZ]-BlackBear" (steamId=76561198343030820) disconnected from server.
+20:59:49 | Player "Sagara" (steamId=76561198057660620) connected to server!
+21:0:26 | Player "MendeL" (steamId=76561198329721265) connected to server!
+21:0:37 | Player "Sagara" (steamId=76561198057660620) disconnected from server.
+21:0:47 | Player "MendeL" (steamId=76561198329721265) connected to server!
+21:2:32 | Player "Sagara" (steamId=76561198057660620) connected to server!
+21:3:7 | Player "d3scot" (steamId=76561199106333992) connected to server!
+21:4:14 | Player "DanielSam" (steamId=76561198867200764) connected to server!
+21:4:26 | Player "DanielSam" (steamId=76561198867200764) connected to server!
+21:19:49 | Player "N E T O" (steamId=76561199193971823) connected to server!
+21:20:19 | Player "N E T O" (steamId=76561199193971823) connected to server!
+21:24:12 | Player "nonsense" (steamId=76561198117735614) connected to server!
+21:25:27 | Player "Claudinha" (steamId=76561199203652654) connected to server!
+21:25:47 | Player "Claudinha" (steamId=76561199203652654) connected to server!
+21:30:12 | Player "Joker" (steamId=76561198038326260) connected to server!
+21:30:35 | Player "Joker" (steamId=76561198038326260) connected to server!
+21:32:46 | Player "nonsense" (steamId=76561198117735614) disconnected from server.
+21:32:47 | Player "nonsense" (steamId=76561198117735614) disconnected from server.
+21:34:12 | Player "Eloy" (steamId=76561197980095586) connected to server!
+21:36:42 | Player "[L.B] Santorin" (steamId=76561199069721527) disconnected from server.
+21:36:43 | Player "[L.B] Santorin" (steamId=76561199069721527) disconnected from server.
+21:36:49 | Player "Henke" (steamId=76561198110592511) disconnected from server.
+21:37:21 | Player "[L.B] Santorin" (steamId=76561199069721527) connected to server!
+21:37:29 | Player "[L.B] Santorin" (steamId=76561199069721527) connected to server!
+21:39:42 | Player "ignazaki87" (steamId=76561199027076248) connected to server!
+21:39:56 | Player "[ONE] KARABULJHAN" (steamId=76561198100527842) connected to server!
+21:40:0 | Player "ignazaki87" (steamId=76561199027076248) connected to server!
+21:40:50 | Player "[ONE] KARABULJHAN" (steamId=76561198100527842) connected to server!
+21:41:4 | Player "DanielSam" (steamId=76561198867200764) disconnected from server.
+21:42:33 | Player "d3scot" (steamId=76561199106333992) disconnected from server.
+21:42:50 | Player "d3scot" (steamId=76561199106333992) disconnected from server.
+21:44:29 | Player "yuri" (steamId=76561199109665181) disconnected from server.
+21:44:52 | Player "yuri" (steamId=76561199109665181) disconnected from server.
+21:45:18 | Player "[ONE] JAPA" (steamId=76561198161060673) disconnected from server.
+21:45:46 | Player "Shadyyy" (steamId=76561198145120164) connected to server!
+21:46:34 | Player "DanielSam" (steamId=76561198867200764) connected to server!
+21:46:50 | Player "DanielSam" (steamId=76561198867200764) connected to server!
+21:47:38 | Player "Rogerio123" (steamId=76561198114278091) connected to server!
+21:47:57 | Player "Rogerio123" (steamId=76561198114278091) connected to server!
+21:52:10 | Player "d3scot" (steamId=76561199106333992) connected to server!
+21:52:25 | Player "d3scot" (steamId=76561199106333992) connected to server!
+21:56:11 | Player "ignazaki87" (steamId=76561199027076248) disconnected from server.
+21:56:12 | Player "ignazaki87" (steamId=76561199027076248) disconnected from server.
+21:58:14 | Player "CharlinhoPsico" (steamId=76561198366562144) connected to server!
+21:58:35 | Player "CharlinhoPsico" (steamId=76561198366562144) connected to server!
+22:0:9 | Player "Rogerio123" (steamId=76561198114278091) disconnected from server.
+22:2:27 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) connected to server!
+22:3:34 | Player "CHASER?" (steamId=76561198246131158) connected to server!
+22:3:46 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) connected to server!
+22:3:50 | Player "CHASER?" (steamId=76561198246131158) connected to server!
+22:4:14 | Player "Rogerio123" (steamId=76561198114278091) connected to server!
+22:4:22 | Player "CharlinhoPsico" (steamId=76561198366562144) disconnected from server.
+22:4:23 | Player "Rogerio123" (steamId=76561198114278091) connected to server!
+22:6:28 | Player "Joker" (steamId=76561198038326260) disconnected from server.
+22:7:27 | Player "Joker" (steamId=76561198038326260) connected to server!
+22:7:50 | Player "Joker" (steamId=76561198038326260) connected to server!
+22:7:52 | Player "Stalinxx" (steamId=76561198085999243) connected to server!
+22:8:3 | Player "Vei" (steamId=76561199151309705) connected to server!
+22:8:24 | Player "Vei" (steamId=76561199151309705) connected to server!
+22:9:4 | Player "Stalinxx" (steamId=76561198085999243) connected to server!
+22:9:45 | Player "TcheLoco" (steamId=76561198099449370) connected to server!
+22:10:1 | Player "TcheLoco" (steamId=76561198099449370) connected to server!
+22:10:2 | Player "General2323" (steamId=76561198300843847) connected to server!
+22:11:16 | Player "CHASER?" (steamId=76561198246131158) disconnected from server.
+22:16:25 | Player "Sagara" (steamId=76561198057660620) disconnected from server.
+22:16:27 | Player "Sagara" (steamId=76561198057660620) disconnected from server.
+22:17:6 | Player "jhean" (steamId=76561198819003355) disconnected from server.
+22:17:8 | Player "jhean" (steamId=76561198819003355) disconnected from server.
+22:19:15 | Player "Luska" (steamId=76561198099970604) connected to server!
+22:19:35 | Player "Luska" (steamId=76561198099970604) connected to server!
+22:20:22 | Player "TeuSDek" (steamId=76561198394822113) connected to server!
+22:20:56 | Player "DanielSam" (steamId=76561198867200764) disconnected from server.
+22:21:20 | Player "TeuSDek" (steamId=76561198394822113) connected to server!
+22:21:34 | Player "DanielSam" (steamId=76561198867200764) connected to server!
+22:21:47 | Player "DanielSam" (steamId=76561198867200764) connected to server!
+22:24:41 | Player "SuperNoia" (steamId=76561198132169694) disconnected from server.
+22:25:20 | Player "CharlinhoPsico" (steamId=76561198366562144) connected to server!
+22:25:32 | Player "CharlinhoPsico" (steamId=76561198366562144) connected to server!
+22:27:6 | Player "CharlinhoPsico" (steamId=76561198366562144) disconnected from server.
+22:29:20 | Player "Duerowww" (steamId=76561198259492425) connected to server!
+22:30:6 | Player "Duerowww" (steamId=76561198259492425) connected to server!
+22:33:10 | Player "d3scot" (steamId=76561199106333992) disconnected from server.
+22:34:9 | Player "Survivor" (steamId=76561198080701997) connected to server!
+22:34:46 | Player "JackTavan" (steamId=76561198018514068) connected to server!
+22:35:15 | Player "Fulber" (steamId=76561198053443712) connected to server!
+22:35:27 | Player "Fulber" (steamId=76561198053443712) connected to server!
+22:36:55 | Player "Josema420" (steamId=76561198278742213) connected to server!
+22:37:11 | Player "d3scot" (steamId=76561199106333992) connected to server!
+22:37:26 | Player "d3scot" (steamId=76561199106333992) connected to server!
+22:37:53 | Player "d3scot" (steamId=76561199106333992) disconnected from server.
+22:37:57 | Player "Fulber" (steamId=76561198053443712) disconnected from server.
+22:37:58 | Player "d3scot" (steamId=76561199106333992) disconnected from server.
+22:38:25 | Player "Foikar" (steamId=76561199156649696) connected to server!
+22:38:53 | Player "Josema420" (steamId=76561198278742213) disconnected from server.
+22:39:31 | Player "Foikar" (steamId=76561199156649696) connected to server!
+22:40:22 | Player "[HORDA] zBieL" (steamId=76561198001525812) connected to server!
+22:40:41 | Player "[HORDA] zBieL" (steamId=76561198001525812) connected to server!
+22:41:20 | Player "Fulber" (steamId=76561198053443712) connected to server!
+22:41:21 | Player "Rogerio123" (steamId=76561198114278091) disconnected from server.
+22:41:32 | Player "Fulber" (steamId=76561198053443712) connected to server!
+22:41:43 | Player "Beguiny" (steamId=76561198352573260) connected to server!
+22:42:13 | Player "PEDRAO" (steamId=76561199098626087) connected to server!
+22:42:14 | Player "Fulber" (steamId=76561198053443712) disconnected from server.
+22:42:30 | Player "PEDRAO" (steamId=76561199098626087) connected to server!
+22:43:32 | Player "Josema420" (steamId=76561198278742213) connected to server!
+22:43:40 | Player "Duerowww" (steamId=76561198259492425) disconnected from server.
+22:43:42 | Player "Duerowww" (steamId=76561198259492425) disconnected from server.
+22:44:10 | Player "Foikar" (steamId=76561199156649696) disconnected from server.
+22:47:55 | Player "Lobo Sentado" (steamId=76561198138311400) connected to server!
+22:48:40 | Player "Lobo Sentado" (steamId=76561198138311400) connected to server!
+22:48:56 | Player "Josema420" (steamId=76561198278742213) disconnected from server.
+22:49:25 | Player "Stalinxx" (steamId=76561198085999243) disconnected from server.
+22:49:57 | Player "Stalinxx" (steamId=76561198085999243) connected to server!
+22:50:5 | Player "Stalinxx" (steamId=76561198085999243) connected to server!
+22:51:28 | Player "Hitokiri_" (steamId=76561198189143650) connected to server!
+22:52:5 | Player "PintoJunior" (steamId=76561198057936781) connected to server!
+22:52:6 | Player "Foikar" (steamId=76561199156649696) connected to server!
+22:52:14 | Player "Foikar" (steamId=76561199156649696) connected to server!
+22:52:23 | Player "Hitokiri_" (steamId=76561198189143650) connected to server!
+22:52:27 | Player "PintoJunior" (steamId=76561198057936781) connected to server!
+22:52:52 | Player "jhean" (steamId=76561198819003355) connected to server!
+22:53:11 | Player "jhean" (steamId=76561198819003355) connected to server!
+22:54:2 | Player "c l a s h" (steamId=76561198277384503) connected to server!
+22:55:30 | Player "ttuker" (steamId=76561198971813376) disconnected from server.
+22:55:32 | Player "ttuker" (steamId=76561198971813376) disconnected from server.
+22:55:52 | Player "j o v e m" (steamId=76561198289206808) connected to server!
+22:59:8 | Player "DjRaelZiin29" (steamId=76561198963310995) disconnected from server.
+22:59:8 | Player "N E T O" (steamId=76561199193971823) disconnected from server.
+22:59:8 | Player "Eloy" (steamId=76561197980095586) disconnected from server.
+22:59:8 | Player "MendeL" (steamId=76561198329721265) disconnected from server.
+22:59:8 | Player "Claudinha" (steamId=76561199203652654) disconnected from server.
+22:59:8 | Player "[L.B] Santorin" (steamId=76561199069721527) disconnected from server.
+22:59:8 | Player "[L.B]TropaDoEnguisa" (steamId=76561198211423224) disconnected from server.
+22:59:8 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) disconnected from server.
+22:59:8 | Player "Shadyyy" (steamId=76561198145120164) disconnected from server.
+22:59:8 | Player "[ONE] KARABULJHAN" (steamId=76561198100527842) disconnected from server.
+22:59:8 | Player "Vei" (steamId=76561199151309705) disconnected from server.
+22:59:8 | Player "Joker" (steamId=76561198038326260) disconnected from server.
+22:59:8 | Player "TcheLoco" (steamId=76561198099449370) disconnected from server.
+22:59:8 | Player "General2323" (steamId=76561198300843847) disconnected from server.
+22:59:8 | Player "Luska" (steamId=76561198099970604) disconnected from server.
+22:59:8 | Player "JackTavan" (steamId=76561198018514068) disconnected from server.
+22:59:8 | Player "TeuSDek" (steamId=76561198394822113) disconnected from server.
+22:59:8 | Player "DanielSam" (steamId=76561198867200764) disconnected from server.
+22:59:8 | Player "[HORDA] zBieL" (steamId=76561198001525812) disconnected from server.
+22:59:8 | Player "Guijermo" (steamId=76561198080701997) disconnected from server.
+22:59:8 | Player "PEDRAO" (steamId=76561199098626087) disconnected from server.
+22:59:8 | Player "Beguiny" (steamId=76561198352573260) disconnected from server.
+22:59:8 | Player "Stalinxx" (steamId=76561198085999243) disconnected from server.
+22:59:8 | Player "Lobo Sentado" (steamId=76561198138311400) disconnected from server.
+22:59:8 | Player "PintoJunior" (steamId=76561198057936781) disconnected from server.
+22:59:8 | Player "Hitokiri_" (steamId=76561198189143650) disconnected from server.
+22:59:8 | Player "Foikar" (steamId=76561199156649696) disconnected from server.
+22:59:8 | Player "jhean" (steamId=76561198819003355) disconnected from server.
+22:59:8 | Player "c l a s h" (steamId=76561198277384503) disconnected from server.

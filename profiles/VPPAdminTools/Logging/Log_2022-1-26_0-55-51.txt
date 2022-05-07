@@ -1,0 +1,589 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-1-26_0-55-51
+====================================================================================
+0:55:51 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+0:55:51 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+0:55:51 | [PermissionManager] Perm (FreeCamera) has been registered!
+0:55:51 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuItemManager) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuServerManager) has been registered!
+0:55:51 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+0:55:51 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+0:55:51 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+0:55:51 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+0:55:51 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+0:55:51 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+0:55:51 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+0:55:51 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+0:55:51 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+0:55:51 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+0:55:51 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+0:55:51 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+0:55:51 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+0:55:51 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+0:55:51 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+0:55:51 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+0:55:51 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+0:55:51 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+0:55:51 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+0:55:51 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+0:55:51 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+0:55:51 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+0:55:51 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+0:55:51 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+0:55:51 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+0:55:51 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+0:55:51 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+0:55:51 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+0:55:51 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+0:55:51 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+0:55:51 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+0:55:51 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+0:55:51 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuBansManager) has been registered!
+0:55:51 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+0:55:51 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+0:55:51 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+0:55:51 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+0:55:51 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+0:55:51 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+0:55:51 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+0:55:51 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+0:55:51 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+0:55:51 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+0:55:51 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+0:55:51 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+0:55:51 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+0:55:51 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+0:55:51 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+0:55:51 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+0:55:51 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+0:55:51 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+0:55:51 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+0:55:51 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+0:55:51 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+0:55:51 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+0:55:51 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+0:55:51 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+0:55:51 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+0:55:51 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+0:55:51 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+0:55:51 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+0:55:51 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+0:55:51 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+0:55:51 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+0:55:51 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+0:55:51 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+0:55:51 | [PermissionManager] Adding Super Admin (76561198253386609)
+0:55:51 | [PermissionManager] Adding Super Admin (76561198442072760)
+0:55:51 | [PermissionManager] Loaded UserGroups.json
+0:55:51 | Building Sets Loaded: 0
+0:55:51 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+1:0:32 | Player "mat" (steamId=76561198442072760) connected to server!
+1:0:43 | Player "KOREA" (steamId=76561198253386609) connected to server!
+1:1:21 | "mat" (steamid=76561198442072760) toggled godmode
+1:1:35 | "mat" (steamid=76561198442072760) Spawned Item: (FenceKitPlacing)
+1:1:40 | "mat" (steamid=76561198442072760) Spawned Item: (Fence)
+1:1:40 | "KOREA" (steamid=76561198253386609) toggled godmode
+1:1:44 | "mat" (steamid=76561198442072760) Spawned Item: (AdminHatchet)
+1:1:45 | "KOREA" (steamid=76561198253386609) toggled freecam
+1:1:49 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<13374.838867, 6.000000, 6286.742188>)
+1:2:11 | "mat" (steamid=76561198442072760) Spawned Item: (dp_PKP)
+1:2:11 | "mat" (steamid=76561198442072760) Spawned Item: (dp_pkp_200Rnd)
+1:2:31 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<13398.366211, 5.999998, 6096.206543>)
+1:2:50 | "mat" (steamid=76561198442072760) Spawned Item: (RGD5Grenade)
+1:2:51 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12971.750977, 7.410007, 6257.633789>)
+1:3:2 | "mat" (steamid=76561198442072760) Spawned Item: (RGD5Grenade)
+1:3:2 | "mat" (steamid=76561198442072760) Spawned Item: (RGD5Grenade)
+1:3:2 | "mat" (steamid=76561198442072760) Spawned Item: (RGD5Grenade)
+1:3:3 | "mat" (steamid=76561198442072760) Spawned Item: (RGD5Grenade)
+1:3:3 | "mat" (steamid=76561198442072760) Spawned Item: (RGD5Grenade)
+1:3:3 | "mat" (steamid=76561198442072760) Spawned Item: (RGD5Grenade)
+1:3:3 | "mat" (steamid=76561198442072760) Spawned Item: (RGD5Grenade)
+1:3:7 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12294.333008, 39.849930, 6298.326660>)
+1:3:46 | "mat": (steamid=76561198442072760) teleported to (pos=43.9729,0,15351.9)
+1:3:54 | "mat" (steamid=76561198442072760) Spawned Item: (Skyline_Kit_Gun_Cabinet)
+1:3:59 | "mat" (steamid=76561198442072760) Spawned Item: (Skyline_Kit_Gun_Rack)
+1:4:5 | "mat" (steamid=76561198442072760) Spawned Item: (Skyline_Kit_Fridge)
+1:4:10 | "mat" (steamid=76561198442072760) Spawned Item: (Skyline_Kit_Shelf)
+1:4:17 | "mat" (steamid=76561198442072760) Spawned Item: (Skyline_Kit_StorageBox)
+1:4:30 | "mat" (steamid=76561198442072760) Spawned Item: (Skyline_Furniture_Base)
+1:4:34 | "mat" (steamid=76561198442072760) toggled godmode
+1:4:36 | "mat" (steamid=76561198442072760) toggled godmode
+1:4:48 | Player "mat" (steamId=76561198442072760) disconnected from server.
+1:4:49 | Player "mat" (steamId=76561198442072760) disconnected from server.
+1:19:20 | Player "KOREA" (steamId=76561198253386609) disconnected from server.
+1:39:18 | Player "KOREA" (steamId=76561198253386609) connected to server!
+1:40:19 | Player "KOREA" (steamId=76561198253386609) connected to server!
+1:41:52 | "KOREA" (steamid=76561198253386609) toggled godmode
+1:49:9 | "KOREA" (steamid=76561198253386609) deleted object "ZmbM_JoggerSkinny_Red" (pos=<12295.162109, 39.792625, 6298.083008>)
+1:49:10 | "KOREA" (steamid=76561198253386609) toggled godmode
+1:49:13 | "KOREA" (steamid=76561198253386609) toggled godmode
+1:49:17 | "KOREA" (steamid=76561198253386609) healed player (steamid=76561198253386609)
+1:50:16 | "KOREA" (steamid=76561198253386609) toggled freecam
+1:50:33 | "KOREA" (steamid=76561198253386609) toggled freecam
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12243.617188, 45.448906, 6323.765625>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12232.104492, 45.090488, 6324.669922>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12232.067383, 45.092381, 6324.672363>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12232.023438, 45.094551, 6324.674316>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.985352, 45.096500, 6324.676758>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.948242, 45.098442, 6324.679199>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.910156, 45.100334, 6324.681641>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.872070, 45.102280, 6324.683594>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.828125, 45.104359, 6324.686035>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.791016, 45.106300, 6324.688477>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.752930, 45.108189, 6324.690918>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.719727, 45.109753, 6324.692383>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.681641, 45.111744, 6324.694824>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.644531, 45.113636, 6324.696777>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.611328, 45.115299, 6324.698730>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.567383, 45.117325, 6324.700684>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.530273, 45.119312, 6324.703125>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.486328, 45.121548, 6324.706055>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.448242, 45.123440, 6324.708008>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.416992, 45.125145, 6324.710449>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.383789, 45.126759, 6324.712402>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.354492, 45.128353, 6324.714355>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.338867, 45.129047, 6324.714844>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.326172, 45.129749, 6324.715820>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.311523, 45.130520, 6324.717285>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.297852, 45.131191, 6324.717773>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.319336, 45.142727, 6324.780762>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.358398, 45.160694, 6324.879883>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.387695, 45.173759, 6324.953125>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12231.422852, 45.188980, 6325.037109>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12224.502930, 45.481407, 6326.090820>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12224.405273, 45.480667, 6326.101563>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12224.339844, 45.480343, 6326.109375>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12224.276367, 45.480270, 6326.118652>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12224.226563, 45.480385, 6326.125977>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12224.168945, 45.480240, 6326.134277>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12224.125000, 45.480911, 6326.142578>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12224.092773, 45.481453, 6326.149902>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12224.067383, 45.481979, 6326.155762>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12224.043945, 45.482635, 6326.161621>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12224.012695, 45.483047, 6326.167969>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12223.953125, 45.483082, 6326.177246>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12223.914063, 45.483253, 6326.183105>)
+1:50:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12223.853516, 45.483383, 6326.192383>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12223.814453, 45.483440, 6326.198242>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12223.769531, 45.483734, 6326.205566>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12223.723633, 45.483891, 6326.212891>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12223.676758, 45.484051, 6326.220703>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12223.632813, 45.484348, 6326.228027>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12223.586914, 45.484619, 6326.235840>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12223.528320, 45.484886, 6326.245117>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12223.489258, 45.485062, 6326.251953>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12223.450195, 45.485344, 6326.258301>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12223.405273, 45.485741, 6326.266113>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12223.379883, 45.491055, 6326.291992>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12223.404297, 45.511131, 6326.375488>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12223.423828, 45.526482, 6326.437988>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12223.449219, 45.546677, 6326.521484>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12223.472656, 45.564571, 6326.594238>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12222.670898, 45.574802, 6326.753418>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12220.895508, 45.584290, 6327.046875>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12219.471680, 45.571476, 6327.285645>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12217.301758, 45.544632, 6327.651367>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.974609, 45.590275, 6327.866211>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.920898, 45.593166, 6327.879395>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.877930, 45.595329, 6327.888672>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.840820, 45.597439, 6327.897461>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.802734, 45.599323, 6327.906250>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.763672, 45.601170, 6327.914551>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.725586, 45.602905, 6327.922363>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.690430, 45.604427, 6327.929199>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.652344, 45.606262, 6327.937500>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.613281, 45.607887, 6327.945313>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.563477, 45.610058, 6327.955078>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.519531, 45.611961, 6327.963379>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.486328, 45.613449, 6327.969727>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.447266, 45.615097, 6327.977539>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.417969, 45.619026, 6327.993652>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.387695, 45.624325, 6328.014648>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.365234, 45.628372, 6328.030762>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.338867, 45.632885, 6328.049316>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.311523, 45.637619, 6328.067871>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.324219, 45.658234, 6328.146973>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.339844, 45.682026, 6328.237305>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.352539, 45.699905, 6328.305176>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.366211, 45.720623, 6328.383789>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.363281, 45.738029, 6328.450684>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12215.303711, 45.744308, 6328.476563>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12213.057617, 45.848663, 6328.944336>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12211.476563, 45.911720, 6329.234375>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12209.416992, 45.972992, 6329.613281>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12208.283203, 45.988270, 6329.831055>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12208.210938, 45.995239, 6329.868164>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12208.161133, 46.000164, 6329.894043>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12208.103516, 46.006023, 6329.923828>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12208.052734, 46.010784, 6329.948730>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12207.977539, 46.012699, 6329.966309>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12207.910156, 46.014339, 6329.981934>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12207.854492, 46.015823, 6329.995605>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12207.786133, 46.017265, 6330.011719>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12207.729492, 46.019630, 6330.028320>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12207.641602, 46.026936, 6330.068848>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12207.582031, 46.031853, 6330.095703>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12207.481445, 46.039757, 6330.141602>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12207.413086, 46.045631, 6330.173340>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12207.314453, 46.060509, 6330.244141>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12207.201172, 46.077820, 6330.326172>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12207.114258, 46.090664, 6330.387695>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12207.009766, 46.105938, 6330.460938>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12206.922852, 46.117825, 6330.518555>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12206.848633, 46.119919, 6330.537109>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12206.793945, 46.121399, 6330.550293>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12206.736328, 46.122822, 6330.564453>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12206.670898, 46.124516, 6330.580566>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12206.619141, 46.126534, 6330.596191>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12206.611328, 46.141773, 6330.654785>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12206.605469, 46.155212, 6330.706543>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12206.601563, 46.166737, 6330.750488>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12206.594727, 46.182220, 6330.810059>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12205.917969, 46.199379, 6330.975098>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12204.107422, 46.225231, 6331.337891>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12202.519531, 46.247562, 6331.654785>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12203.887695, 46.886120, 6331.165527>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12197.625000, 46.073051, 6332.729980>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12197.502930, 46.075306, 6332.780762>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12197.355469, 46.078121, 6332.841309>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12197.253906, 46.078987, 6332.879395>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12197.133789, 46.077980, 6332.916504>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12197.012695, 46.076996, 6332.953125>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12196.909180, 46.076580, 6332.985840>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12196.741211, 46.078110, 6333.049316>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12196.497070, 46.084213, 6333.157715>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12196.322266, 46.088337, 6333.233887>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12196.050781, 46.095165, 6333.353027>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12195.764648, 46.097752, 6333.460938>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12195.463867, 46.099842, 6333.571777>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12195.160156, 46.101887, 6333.683105>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12194.746094, 46.080914, 6333.819824>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12192.291992, 45.846367, 6334.495117>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12191.144531, 45.712952, 6334.712891>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12189.920898, 45.572704, 6334.939453>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12186.796875, 45.312943, 6335.610840>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12183.004883, 45.062073, 6336.415527>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12179.447266, 44.850674, 6337.153809>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12177.259766, 44.840866, 6337.562012>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12176.676758, 44.841022, 6337.672363>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12176.160156, 44.843510, 6337.778809>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12175.771484, 44.847065, 6337.866699>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12175.481445, 44.850380, 6337.933594>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12175.192383, 44.851974, 6337.994141>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12174.928711, 44.853256, 6338.049316>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12174.666016, 44.854836, 6338.104004>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12174.538086, 44.852703, 6338.120605>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12174.440430, 44.848778, 6338.123535>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12174.349609, 44.845108, 6338.126953>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12174.227539, 44.844925, 6338.149414>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12173.968750, 44.872498, 6338.303711>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12173.734375, 44.897087, 6338.441895>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12173.473633, 44.924442, 6338.596680>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12173.331055, 44.933887, 6338.658691>)
+1:50:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12173.257813, 44.934662, 6338.675781>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12173.202148, 44.935291, 6338.688965>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12172.740234, 44.942257, 6338.802246>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12172.348633, 44.961033, 6338.899902>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12172.047852, 44.991859, 6338.978027>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12171.643555, 45.032791, 6339.080566>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12170.353516, 45.139618, 6339.318848>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12169.064453, 45.246696, 6339.556641>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12167.904297, 45.342972, 6339.770996>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12167.188477, 45.403641, 6339.909180>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12166.906250, 45.428955, 6339.968262>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12166.708984, 45.446716, 6340.009766>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12166.484375, 45.467022, 6340.057617>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12166.378906, 45.475021, 6340.074707>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12166.248047, 45.484112, 6340.091797>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12166.149414, 45.491165, 6340.105957>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12166.047852, 45.498066, 6340.118652>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12165.934570, 45.509544, 6340.148438>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12165.799805, 45.534367, 6340.225098>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12165.665039, 45.559322, 6340.302734>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12165.543945, 45.581684, 6340.372070>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12165.480469, 45.593884, 6340.410645>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12165.398438, 45.610355, 6340.462402>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12165.335938, 45.623173, 6340.502930>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12165.244141, 45.641369, 6340.561035>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12165.092773, 45.659603, 6340.610352>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12164.818359, 45.693165, 6340.680176>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12164.584961, 45.724270, 6340.739258>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12164.350586, 45.755344, 6340.798828>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12164.072266, 45.790150, 6340.860840>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12163.199219, 45.890762, 6341.023438>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12162.436523, 45.979012, 6341.166504>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12161.782227, 46.054504, 6341.288086>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12160.923828, 46.157074, 6341.448730>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12160.592773, 46.202263, 6341.509766>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12160.564453, 46.206509, 6341.516602>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12160.538086, 46.210194, 6341.521484>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12160.519531, 46.212902, 6341.526367>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12160.388672, 46.231056, 6341.551270>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12160.117188, 46.268517, 6341.603516>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12159.914063, 46.296612, 6341.642090>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12159.676758, 46.329288, 6341.687012>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12159.440430, 46.362152, 6341.732910>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12159.293945, 46.383953, 6341.767578>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12159.179688, 46.401730, 6341.798340>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12159.081055, 46.417217, 6341.825195>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12158.982422, 46.432831, 6341.851563>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12158.899414, 46.446945, 6341.878418>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12158.799805, 46.471088, 6341.942383>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12158.725586, 46.489193, 6341.990234>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12158.627930, 46.513454, 6342.054688>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12158.541016, 46.534702, 6342.110352>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12158.426758, 46.556892, 6342.159668>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12158.206055, 46.593403, 6342.227539>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12158.041016, 46.620785, 6342.278320>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12157.847656, 46.652634, 6342.337402>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12157.626953, 46.689148, 6342.405273>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12156.970703, 46.727047, 6342.540039>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12155.746094, 46.770973, 6342.782715>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12154.371094, 46.820572, 6343.056641>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12152.994141, 46.869980, 6343.329590>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12152.502930, 46.886528, 6343.422363>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12152.446289, 46.886318, 6343.423828>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12152.395508, 46.885998, 6343.425293>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12152.338867, 46.885624, 6343.426270>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12152.295898, 46.885555, 6343.427734>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12152.171875, 46.888939, 6343.447754>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12151.998047, 46.893597, 6343.475586>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12151.868164, 46.897141, 6343.496582>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12151.672852, 46.902359, 6343.527832>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12151.448242, 46.909363, 6343.567871>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12151.058594, 46.929020, 6343.639648>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12150.766602, 46.943707, 6343.693359>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12150.426758, 46.961102, 6343.755859>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12150.039063, 46.980942, 6343.827148>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12149.774414, 46.986450, 6343.890137>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12149.571289, 46.991306, 6343.946777>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12149.397461, 46.995377, 6343.996094>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12149.165039, 47.000900, 6344.060547>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12148.990234, 47.004856, 6344.109375>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12148.750000, 47.012939, 6344.188965>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12148.468750, 47.023487, 6344.285645>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12148.253906, 47.030998, 6344.357422>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12147.970703, 47.041286, 6344.454590>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12147.740234, 47.048862, 6344.529297>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12146.974609, 47.055592, 6344.690430>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12146.399414, 47.060513, 6344.811523>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12145.536133, 47.067665, 6344.992188>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12144.477539, 47.079159, 6345.211914>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12143.403320, 47.087322, 6345.418457>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12142.687500, 47.092861, 6345.556152>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12141.307617, 47.059433, 6345.823730>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12140.067383, 47.035713, 6346.062988>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12139.765625, 47.024933, 6346.096680>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12139.563477, 47.017494, 6346.119141>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12139.337891, 47.009464, 6346.144043>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12138.880859, 46.998726, 6346.222168>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12138.261719, 46.985989, 6346.336426>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12137.779297, 46.975948, 6346.425781>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12137.295898, 46.965912, 6346.515625>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12136.904297, 46.958206, 6346.589844>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12136.538086, 46.954231, 6346.674316>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12136.262695, 46.951187, 6346.738281>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12135.943359, 46.947754, 6346.812500>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12135.529297, 46.942974, 6346.908203>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12135.176758, 46.942837, 6347.008301>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12134.601563, 46.925598, 6347.167969>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12133.997070, 46.898331, 6347.329590>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12133.398438, 46.871140, 6347.488281>)
+1:50:39 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12133.269531, 46.863514, 6347.514160>)
+1:50:40 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12133.169922, 46.857319, 6347.533691>)
+1:50:40 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12133.057617, 46.850941, 6347.556641>)
+1:50:40 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12130.051758, 46.708439, 6348.152344>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12106.779297, 45.441444, 6353.045410>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12093.374023, 45.412315, 6355.404297>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12093.372070, 45.408939, 6355.387207>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12093.369141, 45.405540, 6355.369629>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12093.366211, 45.403011, 6355.357422>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12093.365234, 45.399849, 6355.340332>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12093.357422, 45.396179, 6355.322266>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12093.342773, 45.391640, 6355.299316>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12093.329102, 45.387150, 6355.275879>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12093.316406, 45.383240, 6355.256348>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12093.302734, 45.379238, 6355.236328>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12093.274414, 45.375957, 6355.220215>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12093.213867, 45.372726, 6355.203125>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12093.145508, 45.369003, 6355.184082>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12093.102539, 45.366745, 6355.172363>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12093.034180, 45.363037, 6355.153809>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12093.008789, 45.360424, 6355.139160>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12093.000977, 45.356255, 6355.118652>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12092.995117, 45.352650, 6355.100586>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12092.987305, 45.349960, 6355.086914>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12092.983398, 45.347382, 6355.073730>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12092.945313, 45.346245, 6355.068359>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12092.904297, 45.345604, 6355.064941>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12092.862305, 45.345009, 6355.061035>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12092.826172, 45.344494, 6355.058105>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12092.782227, 45.343834, 6355.054688>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12092.782227, 45.342377, 6355.047363>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12092.783203, 45.340393, 6355.037598>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12092.782227, 45.338638, 6355.028809>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12092.783203, 45.337215, 6355.021973>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12092.117188, 45.360519, 6355.134766>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12090.101563, 45.436020, 6355.500488>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12088.180664, 45.690514, 6355.914063>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12086.860352, 45.872715, 6356.202637>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.576172, 46.060017, 6356.475586>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.569336, 46.054600, 6356.439941>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.563477, 46.049194, 6356.404297>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.555664, 46.043839, 6356.368652>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.551758, 46.039883, 6356.342773>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.523438, 46.037865, 6356.311523>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.494141, 46.035995, 6356.280762>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.465820, 46.034298, 6356.250000>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.444336, 46.032909, 6356.228516>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.411133, 46.030918, 6356.193848>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.395508, 46.028561, 6356.168945>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.379883, 46.026146, 6356.144043>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.363281, 46.023720, 6356.119141>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.346680, 46.021378, 6356.094238>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.329102, 46.019974, 6356.073730>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.306641, 46.020477, 6356.060547>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.283203, 46.020996, 6356.047852>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.263672, 46.021416, 6356.037109>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.238281, 46.022053, 6356.022461>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.223633, 46.021923, 6356.011719>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.214844, 46.020412, 6355.996582>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.207031, 46.019009, 6355.983887>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.199219, 46.017925, 6355.972168>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.193359, 46.016819, 6355.961426>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.180664, 46.017246, 6355.955078>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.156250, 46.020611, 6355.958008>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.132813, 46.024166, 6355.961426>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.111328, 46.027126, 6355.964355>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.090820, 46.030094, 6355.966797>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.066406, 46.033604, 6355.970215>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.041992, 46.037033, 6355.972656>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12085.016602, 46.040394, 6355.976074>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12084.997070, 46.043427, 6355.979004>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12084.979492, 46.045860, 6355.980957>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12084.845703, 46.066059, 6356.004883>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12084.535156, 46.391445, 6356.146484>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12081.921875, 46.417213, 6356.530762>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12076.868164, 46.383511, 6357.248535>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12075.708008, 46.398670, 6357.380371>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12075.645508, 46.384747, 6357.280273>)
+1:50:41 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12075.595703, 46.373245, 6357.199219>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12075.541992, 46.360790, 6357.110352>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12075.525391, 46.357574, 6357.087891>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12075.509766, 46.354370, 6357.064453>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12075.493164, 46.351170, 6357.041504>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12075.477539, 46.348221, 6357.020996>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12075.465820, 46.345810, 6357.003418>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12075.455078, 46.343651, 6356.988770>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12075.439453, 46.340466, 6356.965820>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12075.429688, 46.337734, 6356.946289>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12075.417969, 46.334991, 6356.927246>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12075.408203, 46.332344, 6356.907715>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12075.347656, 46.335022, 6356.928711>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12075.291992, 46.338734, 6356.956543>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12075.236328, 46.342525, 6356.984375>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12074.938477, 46.346375, 6357.040039>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12073.053711, 46.280685, 6357.273438>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12071.171875, 46.215118, 6357.506836>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12069.301758, 46.151386, 6357.739746>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12066.104492, 46.038811, 6358.085449>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12063.209961, 45.931831, 6358.376953>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12060.350586, 45.830181, 6358.666016>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12060.275391, 45.827522, 6358.672852>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12060.188477, 45.824417, 6358.679688>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12060.137695, 45.822777, 6358.684082>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12060.056641, 45.819813, 6358.691406>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12060.095703, 45.815346, 6358.643066>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12060.129883, 45.810944, 6358.598633>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12060.162109, 45.807316, 6358.559082>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12060.194336, 45.803680, 6358.519531>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12060.198242, 45.800243, 6358.492188>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12060.186523, 45.797153, 6358.473145>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12060.177734, 45.794823, 6358.458984>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12060.166016, 45.792480, 6358.445313>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12060.154297, 45.789360, 6358.426270>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12060.139648, 45.787853, 6358.418945>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12060.118164, 45.785561, 6358.409668>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12060.103516, 45.783882, 6358.402344>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12060.086914, 45.782192, 6358.395020>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12060.069336, 45.780193, 6358.387207>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12059.624023, 45.767887, 6358.454590>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12059.019531, 45.751007, 6358.545898>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12058.550781, 45.737885, 6358.617188>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12058.080078, 45.724728, 6358.688477>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12056.949219, 45.688969, 6358.829590>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12055.314453, 45.635956, 6359.021484>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12054.085938, 45.596024, 6359.166016>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12050.032227, 45.470806, 6359.626465>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12048.826172, 45.431656, 6359.748047>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12047.448242, 45.386772, 6359.887207>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12046.240234, 45.347427, 6360.008789>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12045.309570, 45.316139, 6360.100586>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12045.307617, 45.312920, 6360.075195>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12045.304688, 45.309830, 6360.049316>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12045.301758, 45.306995, 6360.027832>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12045.300781, 45.303928, 6360.001953>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12045.293945, 45.301132, 6359.981445>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12045.234375, 45.299061, 6359.987305>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12045.181641, 45.297287, 6359.992188>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12045.121094, 45.295204, 6359.997070>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12045.060547, 45.293079, 6360.002441>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12045.015625, 45.290985, 6360.001953>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12045.057617, 45.287537, 6359.959961>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12045.100586, 45.284176, 6359.918457>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12045.138672, 45.281601, 6359.883301>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12045.175781, 45.278717, 6359.847656>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12045.209961, 45.275524, 6359.811035>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12045.149414, 45.273521, 6359.815918>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12045.091797, 45.271778, 6359.820801>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12045.041992, 45.270329, 6359.824707>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12044.992188, 45.268925, 6359.829590>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12044.911133, 45.266560, 6359.838379>)
+1:50:42 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12044.333984, 45.252312, 6359.924316>)
+1:52:53 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<11761.220703, 59.336784, 6450.540527>)
+1:53:0 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<11722.626953, 56.864861, 6483.065430>)
+1:53:0 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<11717.183594, 55.857708, 6490.989258>)
+1:53:1 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<11716.786133, 55.814976, 6491.555176>)
+1:53:1 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<11712.362305, 55.548622, 6497.858887>)
+1:53:32 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<11636.217773, 58.924217, 6583.819824>)
+1:55:29 | "KOREA" (steamid=76561198253386609) Spawned Item: (AugShort)
+1:55:30 | "KOREA" (steamid=76561198253386609) Spawned Item: (Aug)
+1:55:33 | "KOREA" (steamid=76561198253386609) Spawned Item: (AugOptic)
+1:55:34 | "KOREA" (steamid=76561198253386609) Spawned Item: (Aug_Barrel)
+1:55:36 | "KOREA" (steamid=76561198253386609) Spawned Item: (Mag_Aug_30Rnd)
+1:55:36 | "KOREA" (steamid=76561198253386609) Spawned Item: (Mag_Aug_30Rnd)
+1:55:36 | "KOREA" (steamid=76561198253386609) Spawned Item: (Mag_Aug_30Rnd)
+1:55:36 | "KOREA" (steamid=76561198253386609) Spawned Item: (Mag_Aug_30Rnd)
+1:55:36 | "KOREA" (steamid=76561198253386609) Spawned Item: (Mag_Aug_30Rnd)
+1:56:33 | "KOREA" (steamid=76561198253386609) Spawned Item: (dp_holosight)
+1:57:21 | "KOREA" (steamid=76561198253386609) Spawned Item: (Battery9V)
+1:59:14 | "KOREA" (steamid=76561198253386609) toggled freecam
+1:59:17 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<11308.096680, 73.546730, 6564.852051>)
+1:59:30 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10534.284180, 113.831482, 6997.872070>)
+1:59:38 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9664.310547, 208.247192, 6629.891602>)
+1:59:49 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<8496.487305, 357.859802, 6677.471191>)
+1:59:56 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<8403.997070, 359.615356, 6600.327148>)
+2:0:0 | "KOREA" (steamid=76561198253386609) toggled freecam
+2:1:29 | Player "KOREA" (steamId=76561198253386609) disconnected from server.
+2:1:30 | Player "KOREA" (steamId=76561198253386609) disconnected from server.

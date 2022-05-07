@@ -1,0 +1,20 @@
+{
+    "DebugLevel": 0,
+    "UseScriptLog": 0,
+    "MenuKey": "KC_HOME",
+    "SpawnMenuSorting": [
+        {
+            "CategoryName": "Itens",
+            "BaseClassNames": "Edible_Base,Arma_Base,Pente_Base,Roupa_Base"
+        },
+        {
+            "CategoryName": "Objetos",
+            "BaseClassNames": "Veiculos,Construções"
+        },
+        {
+            "CategoryName": "IA",
+            "BaseClassNames": "DZ_LightAI"
+        }
+    ],
+    "PermissionGroups": []
+}

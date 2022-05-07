@@ -1,0 +1,537 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-3-18_15-0-35
+====================================================================================
+15:0:35 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+15:0:35 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+15:0:35 | [PermissionManager] Perm (FreeCamera) has been registered!
+15:0:35 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuItemManager) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuServerManager) has been registered!
+15:0:35 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+15:0:35 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+15:0:35 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+15:0:35 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+15:0:35 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+15:0:35 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+15:0:35 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+15:0:35 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+15:0:35 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+15:0:35 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+15:0:35 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+15:0:35 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+15:0:35 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+15:0:35 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+15:0:35 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+15:0:35 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+15:0:35 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+15:0:35 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+15:0:35 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+15:0:35 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+15:0:35 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+15:0:35 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+15:0:35 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+15:0:35 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+15:0:35 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+15:0:35 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+15:0:35 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+15:0:35 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+15:0:35 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+15:0:35 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+15:0:35 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+15:0:35 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+15:0:35 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuBansManager) has been registered!
+15:0:35 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+15:0:35 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+15:0:35 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+15:0:35 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+15:0:35 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+15:0:35 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+15:0:35 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+15:0:35 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+15:0:35 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+15:0:35 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+15:0:35 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+15:0:35 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+15:0:35 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+15:0:35 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+15:0:35 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+15:0:35 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+15:0:35 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+15:0:35 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+15:0:35 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+15:0:35 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+15:0:35 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+15:0:35 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+15:0:35 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+15:0:35 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+15:0:35 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+15:0:35 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+15:0:35 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+15:0:35 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+15:0:35 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+15:0:35 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+15:0:35 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+15:0:35 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+15:0:35 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+15:0:35 | [PermissionManager] Adding Super Admin (76561198253386609)
+15:0:35 | [PermissionManager] Adding Super Admin (76561198950594742)
+15:0:35 | [PermissionManager] Adding Super Admin (76561198329721265)
+15:0:35 | [PermissionManager] Adding Super Admin (76561198140728342)
+15:0:35 | [PermissionManager] Loaded UserGroups.json
+15:0:35 | Building Sets Loaded: 0
+15:0:35 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+15:1:1 | Player "R4D4M4NTs" (steamId=76561198092675210) connected to server!
+15:1:10 | Player "GabrielLobato" (steamId=76561198158375860) connected to server!
+15:1:19 | Player "*BlackBear*" (steamId=76561198343030820) connected to server!
+15:1:29 | Player "GabrielLobato" (steamId=76561198158375860) connected to server!
+15:1:29 | Player "R4D4M4NTs" (steamId=76561198092675210) connected to server!
+15:1:32 | Player "*BlackBear*" (steamId=76561198343030820) connected to server!
+15:4:26 | Player "bulga" (steamId=76561198317627672) connected to server!
+15:5:54 | Player "bulga" (steamId=76561198317627672) connected to server!
+15:18:9 | Player "Lobo_Guara" (steamId=76561198813069637) connected to server!
+15:20:13 | Player "~BrauM" (steamId=76561198360836547) connected to server!
+15:29:0 | Player "DublasARG" (steamId=76561199127063090) connected to server!
+15:50:6 | Player "~BrauM" (steamId=76561198360836547) disconnected from server.
+15:50:51 | Player "Lobo_Guara" (steamId=76561198813069637) disconnected from server.
+15:50:53 | Player "Lobo_Guara" (steamId=76561198813069637) disconnected from server.
+16:2:46 | Player "bulga" (steamId=76561198317627672) disconnected from server.
+16:6:38 | Player "anderson2058" (steamId=76561198833657124) connected to server!
+16:7:54 | Player "anderson2058" (steamId=76561198833657124) disconnected from server.
+16:11:40 | Player "DublasARG" (steamId=76561199127063090) disconnected from server.
+16:16:30 | Player "R4D4M4NTs" (steamId=76561198092675210) disconnected from server.
+16:17:4 | Player "R4D4M4NTs" (steamId=76561198092675210) connected to server!
+16:17:12 | Player "R4D4M4NTs" (steamId=76561198092675210) connected to server!
+16:19:44 | Player "Bolinha loves Ariadna" (steamId=76561198329721265) connected to server!
+16:22:28 | "Bolinha loves Ariadna" (steamid=76561198329721265) healed player (steamid=76561198329721265)
+16:22:48 | "Bolinha loves Ariadna": (steamid=76561198329721265) teleported to (pos=10265.2,0,6183.5)
+16:23:54 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:24:2 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:24:38 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:24:41 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:27:34 | Player "[BD]Noopex30z" (steamId=76561198156625020) connected to server!
+16:29:4 | Player "[BD]Noopex30z" (steamId=76561198156625020) disconnected from server.
+16:31:11 | "Bolinha loves Ariadna": (steamid=76561198329721265) teleported to (pos=11095.9,0,7029.53)
+16:31:14 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:31:28 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<11828.313477, 37.123844, 6902.735352>)
+16:31:47 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10989.849609, 44.282173, 6549.748047>)
+16:31:53 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10679.712891, 51.479988, 6623.562500>)
+16:31:58 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:32:0 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:32:4 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:32:6 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:32:28 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10651.997070, 51.337833, 6649.006348>)
+16:32:39 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10617.593750, 54.525677, 6836.103027>)
+16:32:43 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10693.122070, 52.240784, 6874.951660>)
+16:32:57 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<11249.855469, 140.635635, 7043.353516>)
+16:33:3 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:33:5 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:33:23 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<11817.478516, 24.143200, 7190.219238>)
+16:33:31 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<11868.392578, 28.479202, 7115.946777>)
+16:33:35 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:33:36 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:33:40 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<11832.423828, 49.770245, 7079.360840>)
+16:33:42 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:33:44 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:33:46 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled godmode
+16:34:15 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<11306.226563, 156.152618, 7078.635254>)
+16:34:25 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10901.120117, 52.594376, 7069.121094>)
+16:34:27 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:34:29 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:34:43 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10684.153320, 35.852757, 7309.104980>)
+16:35:0 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10543.526367, 34.456070, 7380.272461>)
+16:35:17 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:35:18 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:35:32 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<11044.171875, 51.215382, 7096.271973>)
+16:35:38 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10355.045898, 36.342102, 7407.028809>)
+16:35:41 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10041.107422, 20.604832, 7558.090820>)
+16:35:51 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10235.881836, 136.089996, 7825.916992>)
+16:35:54 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:36:4 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:36:19 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:36:20 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:36:25 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10360.957031, 58.141121, 7554.449707>)
+16:36:56 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:36:57 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:37:19 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<9207.690430, 30.090904, 7601.332520>)
+16:37:35 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<9193.647461, 21.594236, 7228.141602>)
+16:37:36 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:38:28 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:38:38 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:39:24 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:39:40 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:39:41 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:39:47 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<9004.746094, 36.150002, 7193.795898>)
+16:39:56 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:39:57 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:40:1 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:40:16 | "Bolinha loves Ariadna": (steamid=76561198329721265) teleported to (pos=8151.95,0,8484.94)
+16:40:18 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:40:34 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<8174.888184, 211.020004, 8467.739258>)
+16:40:34 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:40:36 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:40:42 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<8191.438477, 211.153183, 8475.754883>)
+16:40:42 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:40:58 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:41:7 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<8174.358398, 211.179993, 8453.386719>)
+16:41:7 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:41:12 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:41:26 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<8213.110352, 240.158081, 8502.679688>)
+16:41:31 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:41:39 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:42:16 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<8122.341309, 237.627472, 8430.278320>)
+16:42:17 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:43:8 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:43:20 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:43:26 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:43:54 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:44:16 | "Bolinha loves Ariadna": (steamid=76561198329721265) teleported to (pos=9819.67,0,9079.44)
+16:44:17 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:44:24 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:44:29 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:44:42 | Player "TonyGordo" (steamId=76561197994869445) connected to server!
+16:44:54 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:44:57 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:45:22 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:45:28 | "Bolinha loves Ariadna": (steamid=76561198329721265) teleported to (pos=10982.1,0,8722.25)
+16:45:30 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:45:31 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:45:33 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:45:34 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:45:35 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:46:14 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10965.541016, 46.970001, 8689.466797>)
+16:46:24 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:46:35 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:46:48 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:46:50 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:47:9 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10964.679688, 43.380005, 8693.401367>)
+16:47:9 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:47:12 | Player "FumyJoga" (steamId=76561198180559194) connected to server!
+16:47:20 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:47:28 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:47:29 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:48:4 | Player "anderson2058" (steamId=76561198833657124) connected to server!
+16:48:14 | Player "TonyGordo" (steamId=76561197994869445) disconnected from server.
+16:48:22 | Player "anderson2058" (steamId=76561198833657124) connected to server!
+16:48:34 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10960.394531, 39.980003, 8694.351563>)
+16:48:35 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:49:3 | Player "TonyGordo" (steamId=76561197994869445) connected to server!
+16:49:17 | Player "TonyGordo" (steamId=76561197994869445) connected to server!
+16:50:11 | "Bolinha loves Ariadna": (steamid=76561198329721265) teleported to (pos=6812.55,0,7472.28)
+16:50:13 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:50:15 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:50:38 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:50:42 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:50:47 | "Bolinha loves Ariadna": (steamid=76561198329721265) teleported to (pos=10998.9,0,8736.12)
+16:50:48 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:50:50 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:50:52 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:50:53 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:50:55 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:51:0 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10961.121094, 39.980003, 8695.021484>)
+16:51:0 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:55:44 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:55:45 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:56:12 | Player "TonyGordo" (steamId=76561197994869445) disconnected from server.
+16:56:14 | Player "TonyGordo" (steamId=76561197994869445) disconnected from server.
+16:56:20 | "Bolinha loves Ariadna" (steamid=76561198329721265) Spawned Item: (dp_door_Kit)
+16:56:26 | "Bolinha loves Ariadna" (steamid=76561198329721265) Spawned Item: (dp_wall_kit)
+16:57:10 | "Bolinha loves Ariadna" (steamid=76561198329721265) Spawned Item: (AdminHatchet)
+16:57:14 | "Bolinha loves Ariadna" (steamid=76561198329721265) Spawned Item: (CodeLock)
+16:57:16 | Player "TonyGordo" (steamId=76561197994869445) connected to server!
+16:57:26 | Player "TonyGordo" (steamId=76561197994869445) connected to server!
+16:58:42 | Player "anderson2058" (steamId=76561198833657124) disconnected from server.
+16:58:48 | Player "anderson2058" (steamId=76561198833657124) disconnected from server.
+16:59:11 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:59:23 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10972.370117, 47.369560, 8681.269531>)
+16:59:24 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+16:59:26 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled godmode
+16:59:27 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled godmode
+16:59:56 | Player "anderson2058" (steamId=76561198833657124) connected to server!
+17:0:17 | Player "anderson2058" (steamId=76561198833657124) connected to server!
+17:0:35 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10976.472656, 47.152458, 8672.489258>)
+17:0:39 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled godmode
+17:0:40 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled godmode
+17:1:13 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10976.459961, 46.970001, 8668.970703>)
+17:2:18 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10975.083984, 46.970001, 8668.227539>)
+17:2:36 | "Bolinha loves Ariadna" (steamid=76561198329721265) deleted object "dp_door" (pos=<10976.013672, 47.470001, 8681.018555>)
+17:3:12 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10976.284180, 46.970001, 8667.365234>)
+17:3:21 | Player "GabrielLobato" (steamId=76561198158375860) disconnected from server.
+17:3:25 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10948.548828, 4.000027, 8661.841797>)
+17:3:28 | Player "GabrielLobato" (steamId=76561198158375860) disconnected from server.
+17:3:28 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10959.940430, 46.580002, 8677.385742>)
+17:3:30 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10965.041992, 46.970001, 8682.709961>)
+17:3:34 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10936.495117, 7.805340, 8730.953125>)
+17:3:35 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10935.677734, 8.062743, 8732.178711>)
+17:3:57 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10920.612305, 3.999994, 8704.852539>)
+17:4:13 | "Bolinha loves Ariadna" (steamid=76561198329721265) deleted object "WoodenLog" (pos=<10912.922852, 4.017368, 8701.050781>)
+17:4:15 | "Bolinha loves Ariadna" (steamid=76561198329721265) deleted object "WoodenLog" (pos=<10912.922852, 4.017368, 8701.050781>)
+17:4:52 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:5:21 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10918.157227, 4.000062, 8693.519531>)
+17:5:21 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:5:30 | "Bolinha loves Ariadna" (steamid=76561198329721265) deleted object "AdminHatchet" (pos=<10922.226563, 4.013272, 8694.084961>)
+17:5:34 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:5:44 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10961.923828, 39.980003, 8696.009766>)
+17:5:45 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:7:5 | Player "Canelinha" (steamId=76561198121436731) connected to server!
+17:7:8 | Player "ToRuz" (steamId=76561198018631451) connected to server!
+17:8:51 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<11109.330078, 14.928801, 8848.381836>)
+17:9:34 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<11134.490234, 15.561058, 8850.365234>)
+17:10:11 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<11162.985352, 9.409596, 8888.377930>)
+17:10:20 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<11155.320313, 1.646908, 8886.045898>)
+17:13:25 | "Bolinha loves Ariadna" (steamid=76561198329721265) /heal used on: "Bolinha loves Ariadna" (steamid=76561198329721265)
+17:13:26 | "Bolinha loves Ariadna" (steamid=76561198329721265) /heal used on: "Bolinha loves Ariadna" (steamid=76561198329721265)
+17:14:33 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:15:3 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<11365.136719, 9.752531, 8191.998047>)
+17:15:5 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:15:14 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:15:15 | "Bolinha loves Ariadna" (steamid=76561198329721265) /heal used on: "Bolinha loves Ariadna" (steamid=76561198329721265)
+17:15:16 | "Bolinha loves Ariadna" (steamid=76561198329721265) /heal used on: "Bolinha loves Ariadna" (steamid=76561198329721265)
+17:15:27 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<11593.411133, 66.913330, 7668.554688>)
+17:15:53 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<11479.446289, 95.521011, 7451.529297>)
+17:16:15 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:16:20 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:16:54 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:16:55 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:17:1 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:17:2 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:17:15 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<12029.587891, 8.874916, 7637.006348>)
+17:17:15 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:17:34 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<12010.541016, 7.847704, 7618.552246>)
+17:20:10 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<11667.608398, 5.666350, 7871.591309>)
+17:21:3 | "Bolinha loves Ariadna" (steamid=76561198329721265) Spawned Item: (Pliers)
+17:21:18 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:21:24 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:21:46 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:21:57 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<11520.364258, 37.852814, 6462.420410>)
+17:21:59 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:22:1 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:22:36 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<11646.850586, 35.318119, 6584.145996>)
+17:22:41 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:22:50 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:23:2 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<11466.489258, 1.858616, 6264.111328>)
+17:23:3 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:23:51 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:23:53 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:24:6 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:24:12 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<11801.493164, 24.968147, 6534.078613>)
+17:24:13 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:24:20 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:24:26 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:24:29 | "Bolinha loves Ariadna": (steamid=76561198329721265) teleported to (pos=11830,0,6878.95)
+17:25:28 | Player "*BlackBear*" (steamId=76561198343030820) disconnected from server.
+17:25:49 | "Bolinha loves Ariadna": (steamid=76561198329721265) teleported to (pos=10998.1,0,8736.63)
+17:25:51 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:25:56 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:26:0 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10967.576172, 46.580002, 8692.944336>)
+17:26:6 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10968.117188, 38.935547, 8690.095703>)
+17:26:56 | "Bolinha loves Ariadna" (steamid=76561198329721265) Spawned Item: (dp_box_big_Olive)
+17:27:18 | "Bolinha loves Ariadna" (steamid=76561198329721265) Spawned Item: (dp_box_big_Olive)
+17:28:11 | Player "*BlackBear*" (steamId=76561198343030820) connected to server!
+17:28:19 | Player "*BlackBear*" (steamId=76561198343030820) connected to server!
+17:29:33 | Player "ToRuz" (steamId=76561198018631451) disconnected from server.
+17:29:34 | Player "ToRuz" (steamId=76561198018631451) disconnected from server.
+17:30:12 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+17:30:47 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+17:32:10 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+17:32:30 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+17:33:10 | "BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+17:33:12 | "BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+17:33:14 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198140728342)
+17:33:16 | "BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198140728342)
+17:33:17 | "BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+17:34:23 | "BRUXO" (steamid=76561198140728342) Spawned Item: (AC_TacticalGloves_Admin)
+17:34:23 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:34:24 | "BRUXO" (steamid=76561198140728342) Spawned Item: (AC_TacticalShirt_Admin)
+17:34:26 | "BRUXO" (steamid=76561198140728342) Spawned Item: (AC_CargoPants_Admin)
+17:34:28 | "BRUXO" (steamid=76561198140728342) Spawned Item: (AC_MilitaryBeret_Admin)
+17:34:30 | "BRUXO" (steamid=76561198140728342) Spawned Item: (AC_MilitaryBoots_Admin)
+17:34:32 | "BRUXO" (steamid=76561198140728342) Spawned Item: (AdminHatchet)
+17:34:38 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10970.583984, 5.979740, 8691.650391>)
+17:34:39 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:34:51 | Player "ToRuz" (steamId=76561198018631451) connected to server!
+17:35:1 | Player "ToRuz" (steamId=76561198018631451) connected to server!
+17:35:51 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_door_Kit)
+17:35:54 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_door_Kit)
+17:36:1 | "Bolinha loves Ariadna" (steamid=76561198329721265) Spawned Item: (dp_door_Kit)
+17:36:4 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_door_Kit)
+17:36:11 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_door_Kit)
+17:36:12 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_door_Kit)
+17:36:41 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:36:43 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:36:51 | "Bolinha loves Ariadna" (steamid=76561198329721265) Spawned Item: (CodeLock)
+17:37:10 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:37:20 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10963.990234, 39.449173, 8689.763672>)
+17:37:20 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+17:37:43 | Player "Canelinha" (steamId=76561198121436731) disconnected from server.
+17:37:48 | Player "Bolinha loves Ariadna" (steamId=76561198329721265) disconnected from server.
+17:37:55 | Player "Bolinha loves Ariadna" (steamId=76561198329721265) disconnected from server.
+17:38:29 | "BRUXO": (steamid=76561198140728342) teleported to (pos=7607.41,0,7896.6)
+17:38:55 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<7645.449219, 28.000004, 7873.378906>)
+17:39:32 | Player "Bolinha loves Ariadna" (steamId=76561198329721265) connected to server!
+17:39:46 | Player "Bolinha loves Ariadna" (steamId=76561198329721265) connected to server!
+17:39:47 | "BRUXO": (steamid=76561198140728342) teleported to (pos=11029.2,0,8542.05)
+17:39:50 | "BRUXO" (steamid=76561198140728342) toggled freecam
+17:39:52 | "BRUXO" (steamid=76561198140728342) toggled freecam
+17:39:55 | "BRUXO" (steamid=76561198140728342) toggled freecam
+17:40:1 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<11080.243164, 41.309895, 8423.976563>)
+17:40:2 | "BRUXO" (steamid=76561198140728342) toggled freecam
+17:40:13 | "BRUXO" (steamid=76561198140728342) toggled freecam
+17:40:22 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<11080.043945, 8.618893, 8419.587891>)
+17:40:28 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<11084.050781, 4.213116, 8421.511719>)
+17:40:29 | "BRUXO" (steamid=76561198140728342) toggled freecam
+17:43:47 | "BRUXO" (steamid=76561198140728342) Spawned Item: (CodeLock)
+17:43:49 | "BRUXO" (steamid=76561198140728342) Spawned Item: (CodeLock)
+17:43:49 | "BRUXO" (steamid=76561198140728342) Spawned Item: (CodeLock)
+17:44:52 | Player "*BlackBear*" (steamId=76561198343030820) disconnected from server.
+17:45:14 | Player "*BlackBear*" (steamId=76561198343030820) connected to server!
+17:45:26 | Player "*BlackBear*" (steamId=76561198343030820) connected to server!
+17:45:50 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_window_sheild_kit)
+17:47:4 | Player "GabrielLobato" (steamId=76561198158375860) connected to server!
+17:47:36 | "BRUXO" (steamid=76561198140728342) toggled freecam
+17:48:1 | "BRUXO" (steamid=76561198140728342) toggled freecam
+17:49:17 | Player "Survivor" (steamId=76561197989717442) connected to server!
+17:49:52 | Player "R4D4M4NTs" (steamId=76561198092675210) disconnected from server.
+17:50:1 | "BRUXO" (steamid=76561198140728342) toggled freecam
+17:50:7 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<11081.666016, 40.459602, 8421.054688>)
+17:50:10 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<11082.551758, 38.935997, 8422.005859>)
+17:50:11 | "BRUXO" (steamid=76561198140728342) toggled freecam
+17:51:1 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_box_big_Brown)
+17:51:8 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_box_big_Green)
+17:51:10 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_box_big_Olive)
+17:51:15 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_mangal_kit)
+17:51:52 | "BRUXO" (steamid=76561198140728342) Spawned Item: (CarTent)
+17:51:55 | "BRUXO" (steamid=76561198140728342) Spawned Item: (LargeTent)
+17:53:7 | Player "TonyGordo" (steamId=76561197994869445) disconnected from server.
+17:53:9 | Player "GabrielLobato" (steamId=76561198158375860) connected to server!
+17:53:20 | "BRUXO" (steamid=76561198140728342) toggled freecam
+17:53:23 | "BRUXO" (steamid=76561198140728342) toggled freecam
+17:59:6 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_waterbarrel_kit)
+17:59:42 | "BRUXO": (steamid=76561198140728342) teleported to (pos=7600.55,0,7898.8)
+17:59:47 | "BRUXO" (steamid=76561198140728342) toggled freecam
+17:59:54 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<7560.132813, 28.019102, 7899.230957>)
+17:59:54 | "BRUXO" (steamid=76561198140728342) toggled freecam
+18:0:3 | Player "Survivor" (steamId=76561197989717442) disconnected from server.
+18:0:6 | Player "Survivor" (steamId=76561197989717442) disconnected from server.
+18:0:9 | "BRUXO" (steamid=76561198140728342) deleted object "dp_waterbarrel" (pos=<7556.478516, 28.019102, 7896.769531>)
+18:0:47 | "BRUXO" (steamid=76561198140728342) Spawned Item: (Pliers)
+18:1:31 | "BRUXO" (steamid=76561198140728342) toggled freecam
+18:1:44 | "BRUXO" (steamid=76561198140728342) toggled freecam
+18:1:57 | "BRUXO" (steamid=76561198140728342) deleted object "dp_shelf_materials" (pos=<7563.610352, 28.019102, 7891.909668>)
+18:2:27 | "BRUXO" (steamid=76561198140728342) deleted objects using ESP
+18:3:11 | Player "ToRuz" (steamId=76561198018631451) disconnected from server.
+18:5:49 | "BRUXO" (steamid=76561198140728342) deleted objects using ESP
+18:6:6 | "BRUXO" (steamid=76561198140728342) deleted objects using ESP
+18:6:20 | "BRUXO" (steamid=76561198140728342) deleted objects using ESP
+18:6:36 | "BRUXO" (steamid=76561198140728342) deleted objects using ESP
+18:6:46 | "BRUXO" (steamid=76561198140728342) deleted objects using ESP
+18:7:7 | "BRUXO" (steamid=76561198140728342) toggled freecam
+18:7:28 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<7558.644531, 28.019102, 7905.764648>)
+18:7:29 | "BRUXO" (steamid=76561198140728342) toggled freecam
+18:7:51 | "BRUXO": (steamid=76561198140728342) teleported to (pos=11153.2,0,8355.84)
+18:7:54 | "BRUXO" (steamid=76561198140728342) toggled freecam
+18:7:56 | "BRUXO" (steamid=76561198140728342) toggled freecam
+18:7:57 | "BRUXO" (steamid=76561198140728342) toggled freecam
+18:7:59 | "BRUXO" (steamid=76561198140728342) toggled freecam
+18:8:2 | "BRUXO" (steamid=76561198140728342) toggled freecam
+18:8:27 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<11086.054688, 35.201302, 8421.300781>)
+18:8:28 | "BRUXO" (steamid=76561198140728342) toggled freecam
+18:9:34 | "BRUXO" (steamid=76561198140728342) toggled freecam
+18:9:52 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<10968.961914, 46.970001, 8686.267578>)
+18:9:54 | "BRUXO" (steamid=76561198140728342) toggled freecam
+18:11:2 | "BRUXO" (steamid=76561198140728342) toggled freecam
+18:12:45 | "BRUXO" (steamid=76561198140728342) toggled freecam
+18:13:35 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_mangal_kit)
+18:15:16 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_gunrack)
+18:15:24 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_guncabinetKit)
+18:15:24 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_guncabinetKit)
+18:17:12 | "BRUXO" (steamid=76561198140728342) toggled freecam
+18:17:18 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<10839.400391, 1.556805, 8951.720703>)
+18:17:19 | "BRUXO" (steamid=76561198140728342) toggled freecam
+18:17:34 | "BRUXO" (steamid=76561198140728342) deleted object "AC_CargoPants_Admin" (pos=<10837.446289, 1.669043, 8953.054688>)
+18:17:35 | "BRUXO" (steamid=76561198140728342) deleted object "AC_TacticalShirt_Admin" (pos=<10837.446289, 1.666699, 8953.054688>)
+18:17:37 | "BRUXO" (steamid=76561198140728342) deleted object "AC_MilitaryBoots_Admin" (pos=<10837.446289, 1.666225, 8953.054688>)
+18:17:38 | "BRUXO" (steamid=76561198140728342) deleted object "AC_MilitaryBeret_Admin" (pos=<10837.446289, 1.669522, 8953.054688>)
+18:17:39 | "BRUXO" (steamid=76561198140728342) deleted object "AC_TacticalGloves_Admin" (pos=<10837.446289, 1.665477, 8953.054688>)
+18:17:41 | "BRUXO" (steamid=76561198140728342) deleted object "AdminHatchet" (pos=<10837.446289, 1.674374, 8953.054688>)
+18:18:21 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_TacticPants_BLACK)
+18:18:45 | "BRUXO" (steamid=76561198140728342) Spawned Item: (TacticalGloves_Black)
+18:18:58 | "BRUXO" (steamid=76561198140728342) Spawned Item: (BalaclavaMask_Black)
+18:19:9 | "BRUXO" (steamid=76561198140728342) Spawned Item: (JungleBoots_Black)
+18:19:21 | "BRUXO" (steamid=76561198140728342) Spawned Item: (M65Jacket_Black)
+18:19:36 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_altyn_Black)
+18:19:51 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_military_big_black)
+18:19:55 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_tourist_black)
+18:20:1 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrier_black)
+18:20:2 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrierPouches_black)
+18:20:6 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrierHolster_black)
+18:20:7 | "BRUXO" (steamid=76561198140728342) Spawned Item: (SportGlasses_Black)
+18:21:6 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_m_katana)
+18:21:6 | "BRUXO" (steamid=76561198140728342) Spawned Item: (dp_m_katana)
+18:21:11 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<10764.333008, 1.919751, 9051.681641>)
+18:21:14 | "BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<10777.687500, 1.169885, 9038.877930>)
+18:21:30 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+18:22:44 | Player "Chico" (steamId=76561198140728342) connected to server!
+18:23:13 | Player "Chico" (steamId=76561198140728342) connected to server!
+18:27:8 | Player "DaviSilva" (steamId=76561198832334497) connected to server!
+18:41:10 | Player "Conservani" (steamId=76561198307587274) connected to server!
+18:58:24 | Player "DaviSilva" (steamId=76561198832334497) disconnected from server.
+18:58:25 | Player "DaviSilva" (steamId=76561198832334497) disconnected from server.
+19:2:19 | Player "Nobase" (steamId=76561198333232527) connected to server!
+19:3:29 | Player "TonyGordo" (steamId=76561197994869445) connected to server!
+19:4:21 | Player "TonyGordo" (steamId=76561197994869445) connected to server!
+19:4:52 | Player "Conservani" (steamId=76561198307587274) disconnected from server.
+19:4:53 | Player "Conservani" (steamId=76561198307587274) disconnected from server.
+19:7:48 | Player "*BlackBear*" (steamId=76561198343030820) disconnected from server.
+19:20:37 | Player "[DY] RAPUNZEL" (steamId=76561198100527842) connected to server!
+19:32:30 | Player "Vei" (steamId=76561199151309705) connected to server!
+19:40:42 | "Bolinha loves Ariadna" (steamid=76561198329721265) Spawned Item: (dp_door_Kit)
+19:41:10 | "Bolinha loves Ariadna" (steamid=76561198329721265) Spawned Item: (AdminHatchet)
+19:41:28 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+19:41:33 | "Bolinha loves Ariadna" (steamid=76561198329721265) teleported to crosshair (pos=<10986.626953, 4.000014, 8706.415039>)
+19:41:33 | "Bolinha loves Ariadna" (steamid=76561198329721265) toggled freecam
+19:41:38 | "Bolinha loves Ariadna" (steamid=76561198329721265) deleted object "AdminHatchet" (pos=<10986.626953, 4.013272, 8706.415039>)
+19:42:12 | Player "Bolinha loves Ariadna" (steamId=76561198329721265) disconnected from server.
+19:42:14 | Player "Bolinha loves Ariadna" (steamId=76561198329721265) disconnected from server.
+19:42:32 | Player "Bolinha loves Ariadna" (steamId=76561198329721265) connected to server!
+19:42:42 | Player "Bolinha loves Ariadna" (steamId=76561198329721265) connected to server!
+19:47:48 | Player "[DY] RAPUNZEL" (steamId=76561198100527842) disconnected from server.
+19:49:21 | Player "[DY] RAPUNZEL" (steamId=76561198100527842) connected to server!
+19:55:10 | Player "[DY] RAPUNZEL" (steamId=76561198100527842) connected to server!
+19:55:22 | Player "[DY] MOANA" (steamId=76561198868590548) connected to server!
+19:55:59 | Player "[DY] RAPUNZEL" (steamId=76561198100527842) disconnected from server.
+19:58:34 | Player "Nobase" (steamId=76561198333232527) disconnected from server.
+20:1:11 | Player "Survivor" (steamId=76561198100527842) connected to server!
+20:1:49 | Player "Survivor" (steamId=76561198100527842) connected to server!
+20:14:33 | Player "TonyGordo" (steamId=76561197994869445) disconnected from server.
+20:19:8 | Player "Hyakkimaru" (steamId=76561198083668660) connected to server!
+20:22:50 | Player "Hyakkimaru" (steamId=76561198083668660) disconnected from server.
+20:22:51 | Player "n31t0n" (steamId=76561198046649849) connected to server!
+20:22:53 | Player "Hyakkimaru" (steamId=76561198083668660) disconnected from server.
+20:40:21 | Player "[DY] MOANA" (steamId=76561198868590548) disconnected from server.
+20:40:23 | Player "[DY] MOANA" (steamId=76561198868590548) disconnected from server.
+20:49:7 | Player "Vei" (steamId=76561199151309705) disconnected from server.
+20:49:7 | Player "GabrielLobato" (steamId=76561198158375860) disconnected from server.
+20:49:7 | Player "Chico" (steamId=76561198140728342) disconnected from server.
+20:49:7 | Player "Bolinha loves Ariadna" (steamId=76561198329721265) disconnected from server.
+20:49:7 | Player "n31t0n" (steamId=76561198046649849) disconnected from server.
+20:49:7 | Player "Survivor" (steamId=76561198100527842) disconnected from server.

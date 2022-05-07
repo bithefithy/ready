@@ -1,0 +1,583 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-2-3_0-18-49
+====================================================================================
+0:18:49 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+0:18:49 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+0:18:49 | [PermissionManager] Perm (FreeCamera) has been registered!
+0:18:49 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuItemManager) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuServerManager) has been registered!
+0:18:49 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+0:18:49 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+0:18:49 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+0:18:49 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+0:18:49 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+0:18:49 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+0:18:49 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+0:18:49 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+0:18:49 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+0:18:49 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+0:18:49 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+0:18:49 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+0:18:49 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+0:18:49 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+0:18:49 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+0:18:49 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+0:18:49 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+0:18:49 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+0:18:49 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+0:18:49 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+0:18:49 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+0:18:49 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+0:18:49 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+0:18:49 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+0:18:49 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+0:18:49 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+0:18:49 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+0:18:49 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+0:18:49 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+0:18:49 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+0:18:49 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+0:18:49 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+0:18:49 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuBansManager) has been registered!
+0:18:49 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+0:18:49 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+0:18:49 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+0:18:49 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+0:18:49 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+0:18:49 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+0:18:49 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+0:18:49 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+0:18:49 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+0:18:49 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+0:18:49 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+0:18:49 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+0:18:49 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+0:18:49 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+0:18:49 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+0:18:49 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+0:18:49 | [PermissionManager] Adding Super Admin (76561198253386609)
+0:18:49 | [PermissionManager] Adding Super Admin (76561198442072760)
+0:18:49 | [PermissionManager] Adding Super Admin (76561198950594742)
+0:18:49 | [PermissionManager] Loaded UserGroups.json
+0:18:49 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+0:18:49 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+0:18:49 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+0:18:49 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+0:18:49 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+0:18:49 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+0:18:49 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+0:18:49 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+0:18:49 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+0:18:49 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+0:18:49 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+0:18:49 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+0:18:49 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+0:18:49 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+0:18:49 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+0:18:49 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+0:18:49 | Building Sets Loaded: 0
+0:18:49 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+0:18:49 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+0:19:33 | Player "KOREA" (steamId=76561198253386609) connected to server!
+0:19:36 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) connected to server!
+0:20:15 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) connected to server!
+0:20:15 | Player "KOREA" (steamId=76561198253386609) connected to server!
+0:20:36 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) connected to server!
+0:20:52 | Player "[Mercenarios] Rambo" (steamId=76561198375135263) connected to server!
+0:20:59 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) connected to server!
+0:21:24 | Player "[Mercenarios] Rambo" (steamId=76561198375135263) connected to server!
+0:21:49 | "KOREA" (steamid=76561198253386609) toggled godmode
+0:25:58 | "KOREA" (steamid=76561198253386609) Spawned Item: (M_WorkBench_BluePrint)
+0:26:27 | "KOREA" (steamid=76561198253386609) Spawned Item: (M_WorkBenchTable)
+0:26:35 | "KOREA" (steamid=76561198253386609) Spawned Item: (M_WorkBenchTable)
+0:27:15 | "KOREA" (steamid=76561198253386609) Spawned Item: (MetalPlate)
+0:27:16 | "KOREA" (steamid=76561198253386609) Spawned Item: (MetalPlate)
+0:27:16 | "KOREA" (steamid=76561198253386609) Spawned Item: (MetalPlate)
+0:27:25 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenPlank)
+0:27:25 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenPlank)
+0:27:25 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenPlank)
+0:27:25 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenPlank)
+0:27:25 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenPlank)
+0:27:31 | "KOREA" (steamid=76561198253386609) Spawned Item: (Nail)
+0:27:31 | "KOREA" (steamid=76561198253386609) Spawned Item: (Nail)
+0:27:31 | "KOREA" (steamid=76561198253386609) Spawned Item: (Nail)
+0:27:31 | "KOREA" (steamid=76561198253386609) Spawned Item: (Nail)
+0:27:44 | "KOREA" (steamid=76561198253386609) Spawned Item: (M_WorkBench_Hammer)
+0:28:30 | Player "Mark" (steamId=76561198950594742) connected to server!
+0:28:43 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenLog)
+0:28:43 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenLog)
+0:28:43 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenLog)
+0:30:7 | "KOREA" (steamid=76561198253386609) Spawned Item: (M_WorkBench_ToolBox)
+0:31:9 | "KOREA" (steamid=76561198253386609) deleted object "M_Gun_Rack" (pos=<3817.383545, 316.007507, 8875.941406>)
+0:31:43 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenLog)
+0:32:41 | "KOREA" (steamid=76561198253386609) deleted object "M_WorkBenchTable" (pos=<3823.071045, 316.045410, 8883.376953>)
+0:32:43 | "KOREA" (steamid=76561198253386609) deleted object "Land_City_Store" (pos=<3831.247070, 312.539673, 8875.433594>)
+0:32:44 | "KOREA" (steamid=76561198253386609) deleted object "Land_City_Store" (pos=<3831.247070, 312.539673, 8875.433594>)
+0:32:46 | "KOREA" (steamid=76561198253386609) deleted object "Land_City_Store" (pos=<3831.247070, 312.539673, 8875.433594>)
+0:32:47 | "KOREA" (steamid=76561198253386609) deleted object "Land_City_Store" (pos=<3831.247070, 312.539673, 8875.433594>)
+0:32:51 | "KOREA" (steamid=76561198253386609) deleted object "Land_City_Store" (pos=<3831.247070, 312.539673, 8875.433594>)
+0:32:52 | "KOREA" (steamid=76561198253386609) deleted object "Land_City_Store" (pos=<3831.247070, 312.539673, 8875.433594>)
+0:32:54 | "KOREA" (steamid=76561198253386609) deleted object "Land_City_Store" (pos=<3831.247070, 312.539673, 8875.433594>)
+0:32:55 | "KOREA" (steamid=76561198253386609) deleted object "Land_City_Store" (pos=<3831.247070, 312.539673, 8875.433594>)
+0:32:57 | "KOREA" (steamid=76561198253386609) deleted object "Land_City_Store" (pos=<3831.247070, 312.539673, 8875.433594>)
+0:32:58 | "KOREA" (steamid=76561198253386609) deleted object "Land_City_Store" (pos=<3831.247070, 312.539673, 8875.433594>)
+0:33:19 | "KOREA" (steamid=76561198253386609) deleted objects using ESP
+0:33:22 | "KOREA" (steamid=76561198253386609) deleted objects using ESP
+0:33:25 | "KOREA" (steamid=76561198253386609) deleted objects using ESP
+0:34:28 | "KOREA" (steamid=76561198253386609) Spawned Item: (M_WorkBench_Hammer)
+0:34:40 | "KOREA" (steamid=76561198253386609) Spawned Item: (M_WorkBench_BluePrint)
+0:34:45 | "KOREA" (steamid=76561198253386609) Spawned Item: (M_WorkBench_ToolBox)
+0:34:52 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenLog)
+0:34:53 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenLog)
+0:34:53 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenLog)
+0:34:53 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenLog)
+0:34:53 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenLog)
+0:34:53 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenLog)
+0:34:59 | "KOREA" (steamid=76561198253386609) Spawned Item: (MetalPlate)
+0:34:59 | "KOREA" (steamid=76561198253386609) Spawned Item: (MetalPlate)
+0:34:59 | "KOREA" (steamid=76561198253386609) Spawned Item: (MetalPlate)
+0:34:59 | "KOREA" (steamid=76561198253386609) Spawned Item: (MetalPlate)
+0:35:0 | "KOREA" (steamid=76561198253386609) Spawned Item: (MetalPlate)
+0:35:8 | "KOREA" (steamid=76561198253386609) Spawned Item: (Nail)
+0:35:8 | "KOREA" (steamid=76561198253386609) Spawned Item: (Nail)
+0:35:8 | "KOREA" (steamid=76561198253386609) Spawned Item: (Nail)
+0:35:9 | "KOREA" (steamid=76561198253386609) Spawned Item: (Nail)
+0:35:13 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenPlank)
+0:35:14 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenPlank)
+0:35:14 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenPlank)
+0:35:14 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenPlank)
+0:35:14 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenPlank)
+0:35:14 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenPlank)
+0:36:26 | "KOREA" (steamid=76561198253386609) deleted object "M_Gun_Cabinet" (pos=<3824.099609, 316.007507, 8875.721680>)
+0:36:28 | "KOREA" (steamid=76561198253386609) deleted object "WoodenLog" (pos=<3826.443848, 316.033752, 8879.047852>)
+0:36:29 | "KOREA" (steamid=76561198253386609) deleted object "WoodenPlank" (pos=<3826.443848, 316.104279, 8879.047852>)
+0:36:30 | "KOREA" (steamid=76561198253386609) deleted object "WoodenPlank" (pos=<3826.443848, 316.102112, 8879.047852>)
+0:36:31 | "KOREA" (steamid=76561198253386609) deleted object "M_WorkBenchTable" (pos=<3827.586914, 316.007507, 8878.910156>)
+0:36:32 | "KOREA" (steamid=76561198253386609) deleted object "WoodenPlank" (pos=<3826.443848, 316.096924, 8879.047852>)
+0:36:33 | "KOREA" (steamid=76561198253386609) deleted object "MetalPlate" (pos=<3826.443848, 316.053131, 8879.047852>)
+0:36:35 | "KOREA" (steamid=76561198253386609) deleted object "Nail" (pos=<3826.443848, 316.035431, 8879.047852>)
+0:36:36 | "KOREA" (steamid=76561198253386609) deleted object "WoodenPlank" (pos=<3826.443848, 316.101440, 8879.047852>)
+0:36:37 | "KOREA" (steamid=76561198253386609) deleted object "WoodenLog" (pos=<3826.443848, 316.030243, 8879.047852>)
+0:36:39 | "KOREA" (steamid=76561198253386609) deleted object "Nail" (pos=<3826.443848, 316.035370, 8879.047852>)
+0:36:40 | "KOREA" (steamid=76561198253386609) deleted object "MetalPlate" (pos=<3826.443848, 316.012726, 8879.047852>)
+0:36:41 | "KOREA" (steamid=76561198253386609) deleted object "MetalPlate" (pos=<3826.443848, 316.024811, 8879.047852>)
+0:36:42 | "KOREA" (steamid=76561198253386609) deleted object "MetalPlate" (pos=<3826.443848, 316.019745, 8879.047852>)
+0:36:43 | "KOREA" (steamid=76561198253386609) deleted object "Land_City_Store" (pos=<3831.247070, 312.539673, 8875.433594>)
+0:36:45 | "KOREA" (steamid=76561198253386609) deleted object "Nail" (pos=<3826.443848, 316.034821, 8879.047852>)
+0:36:49 | "KOREA" (steamid=76561198253386609) deleted object "M_WorkBench_Hammer" (pos=<3826.590576, 316.034393, 8879.466797>)
+0:37:31 | "KOREA" (steamid=76561198253386609) healed player (steamid=76561198950594742)
+0:39:0 | "Mark" (steamid=76561198950594742) just updated a health stat on (steamid=76561198950594742)
+0:39:3 | "Mark" (steamid=76561198950594742) just updated a health stat on (steamid=76561198950594742)
+0:41:10 | Player "[Mercenarios] Chines Angolano" (steamId=76561198128636633) connected to server!
+0:41:26 | Player "Mark" (steamId=76561198950594742) disconnected from server.
+0:41:28 | Player "[Mercenarios] Chines Angolano" (steamId=76561198128636633) connected to server!
+0:47:10 | Player "Mark" (steamId=76561198950594742) connected to server!
+0:48:32 | Player "Mark" (steamId=76561198950594742) connected to server!
+0:49:29 | "Mark" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+0:50:35 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<12958.357422, 11.746225, 8000.101074>)
+0:50:37 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<12962.363281, 12.017597, 7997.348633>)
+0:50:41 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<12985.946289, 7.119125, 8001.009277>)
+0:51:57 | "Mark" (steamid=76561198950594742) Spawned Item: (AdminHatchet)
+0:52:7 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<12997.361328, 6.014178, 7994.962402>)
+0:52:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13016.536133, 5.994616, 7991.878906>)
+0:52:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13031.880859, 5.770610, 7983.519043>)
+0:52:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13043.044922, 5.786115, 7969.587891>)
+0:52:10 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13045.594727, 5.757497, 7952.811523>)
+0:52:11 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13047.148438, 5.787794, 7906.652832>)
+0:52:11 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13049.333008, 5.739998, 7844.614258>)
+0:52:12 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13050.333008, 5.752958, 7827.780273>)
+0:52:13 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13052.487305, 5.735022, 7804.691406>)
+0:52:13 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13060.402344, 5.669629, 7793.986328>)
+0:52:14 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13078.545898, 3.965214, 7787.192383>)
+0:52:15 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13088.523438, 2.954076, 7768.106934>)
+0:52:15 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13094.125977, 2.497046, 7748.427734>)
+0:52:16 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13099.414063, 2.277216, 7728.645020>)
+0:52:16 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13108.462891, 1.907306, 7693.610352>)
+0:52:17 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13115.401367, 2.005450, 7666.714355>)
+0:52:17 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13123.210938, 2.192828, 7633.823730>)
+0:52:17 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13128.082031, 2.366897, 7611.167969>)
+0:52:17 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13128.070313, 2.371812, 7610.990723>)
+0:52:17 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13128.172852, 2.397332, 7609.842285>)
+0:52:17 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13128.214844, 2.428479, 7608.851074>)
+0:52:17 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13128.208984, 2.450063, 7608.353516>)
+0:52:17 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13128.310547, 2.476496, 7607.608398>)
+0:52:18 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13131.402344, 2.896812, 7593.089844>)
+0:52:18 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13131.663086, 2.997177, 7590.155273>)
+0:52:18 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13131.733398, 3.007218, 7589.831543>)
+0:52:18 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13131.782227, 3.050501, 7588.905273>)
+0:52:18 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13131.818359, 3.058885, 7588.697266>)
+0:52:18 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13132.902344, 3.271296, 7583.143555>)
+0:52:18 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13134.884766, 3.692871, 7572.947266>)
+0:52:18 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13134.939453, 3.704910, 7572.698242>)
+0:52:18 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13134.960938, 3.709709, 7572.598633>)
+0:52:18 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13136.291016, 4.023822, 7565.418457>)
+0:52:18 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13137.967773, 4.359865, 7556.333496>)
+0:52:18 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13137.965820, 4.361392, 7556.295410>)
+0:52:18 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13138.394531, 4.429887, 7553.832520>)
+0:52:18 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13139.625977, 4.581509, 7547.117188>)
+0:52:18 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13140.135742, 4.643967, 7544.202148>)
+0:52:18 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13141.651367, 4.778131, 7535.725098>)
+0:52:18 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13141.603516, 4.776275, 7535.946289>)
+0:52:18 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13143.155273, 4.857703, 7526.822754>)
+0:52:18 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13143.955078, 4.889127, 7521.963379>)
+0:52:18 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13144.739258, 4.927261, 7517.182617>)
+0:52:18 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13145.764648, 4.970686, 7510.127930>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13147.920898, 4.942945, 7495.492188>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13150.785156, 4.770939, 7478.623047>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13150.833008, 4.767701, 7478.314453>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13150.862305, 4.765825, 7478.108887>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13150.895508, 4.763650, 7477.895020>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13151.275391, 4.738287, 7475.713379>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13153.468750, 4.590661, 7462.942383>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13153.563477, 4.584158, 7462.263184>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13153.585938, 4.582990, 7462.081543>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13153.599609, 4.582209, 7461.978516>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13153.575195, 4.584009, 7461.787109>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13155.018555, 4.498540, 7452.469727>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13156.017578, 4.435182, 7445.816406>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13155.880859, 4.449682, 7445.166016>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13155.781250, 4.460365, 7444.696289>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13156.114258, 4.453730, 7441.949219>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13157.905273, 4.484218, 7430.213379>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13157.915039, 4.486598, 7430.082031>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13157.707031, 4.508818, 7429.691895>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13159.154297, 4.634864, 7419.054199>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13159.571289, 4.679309, 7416.239746>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13159.585938, 4.683697, 7416.063477>)
+0:52:19 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13159.510742, 4.694105, 7415.842285>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13159.354492, 4.709715, 7415.587891>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13159.379883, 4.718009, 7415.260254>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13161.077148, 4.997060, 7403.133789>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13161.210938, 5.015860, 7402.247559>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13161.308594, 5.023631, 7401.875000>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13161.341797, 5.031727, 7401.570313>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13162.225586, 5.182574, 7395.577148>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13163.426758, 5.308681, 7388.075195>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13163.592773, 5.311410, 7387.763184>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13163.702148, 5.315053, 7387.466797>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13164.739258, 5.426636, 7381.078613>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13166.009766, 5.554972, 7373.282227>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13166.272461, 5.560773, 7372.723633>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13167.710938, 5.707012, 7364.336914>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13168.518555, 5.834167, 7359.858887>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13168.531250, 5.834262, 7359.847168>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13168.555664, 5.839519, 7359.668457>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13169.860352, 6.033924, 7352.817383>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13170.122070, 6.075602, 7351.331543>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13170.389648, 6.116370, 7349.827148>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13171.188477, 6.143084, 7345.528320>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13172.539063, 6.189513, 7338.533203>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13172.828125, 6.197082, 7337.108887>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13172.931641, 6.198923, 7336.729492>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13173.595703, 6.221167, 7333.379883>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13174.673828, 6.261705, 7327.921387>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13175.740234, 6.252924, 7322.659668>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13175.790039, 6.252504, 7322.533691>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13175.947266, 6.250832, 7321.915527>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13176.525391, 6.248688, 7319.178223>)
+0:52:20 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13178.354492, 6.213913, 7310.104492>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13179.018555, 6.152976, 7306.792969>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13179.137695, 6.141892, 7306.190430>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13180.625000, 5.657004, 7299.140137>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13188.800781, 1.872975, 7259.018555>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13188.787109, 1.854898, 7259.009277>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13188.809570, 1.964968, 7258.999512>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13190.280273, 1.926658, 7251.929688>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13191.491211, 1.958089, 7245.983887>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13191.497070, 2.025403, 7245.986816>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13191.515625, 2.604969, 7245.899414>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13192.397461, 2.293527, 7241.532227>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13192.628906, 2.516066, 7240.309570>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13192.833984, 2.727518, 7239.140625>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13192.799805, 2.713092, 7239.223145>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13193.910156, 3.443256, 7233.549805>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13194.097656, 3.549228, 7232.577637>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13194.286133, 3.681014, 7231.386230>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13194.361328, 3.733922, 7230.907715>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13195.246094, 4.133322, 7226.329102>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13195.825195, 4.404833, 7223.290039>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13195.858398, 4.421693, 7223.102051>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13195.886719, 4.433357, 7222.969238>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13197.152344, 4.656933, 7216.134766>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13197.395508, 4.667298, 7215.280273>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13197.921875, 4.678511, 7212.640137>)
+0:52:21 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13198.138672, 4.683317, 7211.386719>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13198.578125, 4.690159, 7209.141602>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13199.369141, 4.987586, 7205.158203>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13199.541992, 5.136333, 7203.992676>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13199.537109, 5.186646, 7203.613281>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13200.461914, 5.664930, 7198.986328>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13200.592773, 5.680933, 7198.298828>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13200.714844, 5.698195, 7197.577637>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13200.882813, 5.724305, 7196.504395>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13200.916016, 5.736753, 7196.044434>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13201.892578, 5.827017, 7191.037598>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13202.515625, 5.830553, 7187.949707>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13202.609375, 5.830127, 7187.591309>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13202.818359, 5.830554, 7186.510254>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13203.695313, 5.934298, 7182.051758>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13204.081055, 5.977183, 7180.132813>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13204.141602, 5.979764, 7179.890625>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13204.174805, 5.981028, 7179.775391>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13205.449219, 6.056742, 7173.526367>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13206.038086, 6.092863, 7170.693359>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13206.541016, 6.119301, 7168.691406>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13207.818359, 6.199459, 7162.687012>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13208.646484, 6.239227, 7159.252441>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13208.769531, 6.243492, 7158.898438>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13208.909180, 6.247772, 7158.549805>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13209.016602, 6.251740, 7158.219238>)
+0:52:22 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13211.369141, 6.352648, 7148.322754>)
+0:52:23 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13212.065430, 6.369343, 7145.708496>)
+0:52:23 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13212.454102, 6.374418, 7144.699707>)
+0:52:23 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13214.697266, 6.411159, 7135.668457>)
+0:52:24 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13233.166016, 6.079788, 7086.999512>)
+0:52:25 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13272.519531, 5.899274, 7005.549805>)
+0:52:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13290.371094, 5.920002, 6962.326172>)
+0:52:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13305.004883, 5.995706, 6924.110840>)
+0:52:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13319.684570, 5.932759, 6882.284668>)
+0:52:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13336.251953, 5.754120, 6828.271973>)
+0:52:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13354.125977, 5.480943, 6775.235840>)
+0:52:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<13367.411133, 5.642706, 6736.313965>)
+0:52:52 | "Mark": (steamid=76561198950594742) teleported to (pos=4372.56,0,2234.95)
+0:53:0 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4365.404297, 0.202353, 2229.577881>)
+0:53:0 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4300.159668, 0.799870, 2260.384766>)
+0:53:2 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4319.659180, 0.531584, 2268.698730>)
+0:53:4 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4344.704102, 3.007902, 2255.010254>)
+0:53:5 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4353.250977, 3.006775, 2248.772705>)
+0:53:5 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4361.869141, 2.897976, 2241.736572>)
+0:53:6 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4365.867188, 2.889061, 2231.635742>)
+0:53:6 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4361.486328, 3.026407, 2219.779785>)
+0:53:7 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4355.999023, 3.026407, 2208.921875>)
+0:53:7 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4349.704102, 3.026407, 2197.504150>)
+0:53:7 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4343.432617, 3.010201, 2185.194580>)
+0:53:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4338.406738, 3.010201, 2175.529785>)
+0:53:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4334.104492, 3.010201, 2166.979004>)
+0:53:19 | "Mark" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+0:53:22 | "Mark" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+0:53:30 | "Mark" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+0:53:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4338.322266, 3.010201, 2173.865723>)
+0:53:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4346.781738, 3.010201, 2190.586426>)
+0:53:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4355.172852, 3.026407, 2207.308838>)
+0:53:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4363.612305, 3.026407, 2224.058594>)
+0:53:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4372.593750, 2.889147, 2241.375244>)
+0:53:35 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4387.640137, 8.887768, 2248.222412>)
+0:53:38 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4378.335938, 5.536921, 2255.701660>)
+0:53:41 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4348.910645, 6.327547, 2261.988770>)
+0:53:52 | "Mark" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+0:53:54 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4346.821289, 6.227407, 2258.386963>)
+0:53:57 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4348.621094, 3.005981, 2249.940674>)
+0:53:58 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4355.354980, 2.898233, 2244.985840>)
+0:53:58 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4361.928711, 2.900621, 2240.135498>)
+0:53:59 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4364.257324, 2.889061, 2230.660889>)
+0:53:59 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4361.220215, 3.026407, 2221.475342>)
+0:53:59 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4356.276855, 3.026407, 2211.262695>)
+0:53:59 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4350.498047, 3.026407, 2199.740967>)
+0:54:0 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4343.615234, 3.010201, 2186.299072>)
+0:54:0 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4338.225098, 3.010201, 2175.769287>)
+0:54:0 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4335.470703, 3.010201, 2169.785156>)
+0:54:0 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4333.009766, 3.010201, 2163.892822>)
+0:54:1 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4330.716797, 3.067568, 2157.886963>)
+0:54:39 | "Mark" (steamid=76561198950594742) Spawned Item: (FenceKit)
+0:54:50 | "Mark" (steamid=76561198950594742) Spawned Item: (FenceKitPlacing)
+0:54:51 | "Mark" (steamid=76561198950594742) Spawned Item: (FenceKit)
+0:54:54 | "Mark" (steamid=76561198950594742) Spawned Item: (WatchtowerKit)
+0:54:55 | "Mark" (steamid=76561198950594742) Spawned Item: (ShelterKit)
+0:54:56 | "Mark" (steamid=76561198950594742) Spawned Item: (TerritoryFlagKit)
+0:55:3 | "Mark" (steamid=76561198950594742) Spawned Item: (dp_door_Kit)
+0:55:3 | "Mark" (steamid=76561198950594742) Spawned Item: (dp_roof_Kit)
+0:55:4 | "Mark" (steamid=76561198950594742) Spawned Item: (dp_wall_kit)
+0:55:4 | "Mark" (steamid=76561198950594742) Spawned Item: (dp_window_sheild_kit)
+1:0:24 | "Mark" (steamid=76561198950594742) deleted object "dp_window_sheild" (pos=<4326.418945, 3.067568, 2157.786377>)
+1:0:25 | Player "Survivor" (steamId=76561198369537247) connected to server!
+1:0:26 | "Mark" (steamid=76561198950594742) deleted object "dp_door" (pos=<4324.573730, 3.067568, 2151.928467>)
+1:0:28 | "Mark" (steamid=76561198950594742) deleted object "dp_wall" (pos=<4324.562500, 3.067568, 2152.033447>)
+1:0:34 | "Mark" (steamid=76561198950594742) deleted object "" (pos=<4326.974609, -20.372425, 2153.635986>)
+1:0:35 | "Mark" (steamid=76561198950594742) deleted object "" (pos=<4326.974609, -20.372425, 2153.635986>)
+1:0:37 | "Mark" (steamid=76561198950594742) deleted object "" (pos=<4326.974609, -20.372425, 2153.635986>)
+1:0:49 | "Mark" (steamid=76561198950594742) deleted object "" (pos=<4326.974609, -20.372425, 2153.635986>)
+1:1:0 | "Mark" (steamid=76561198950594742) deleted object "TerritoryFlag" (pos=<4329.819336, 3.010201, 2159.153809>)
+1:1:10 | "Mark" (steamid=76561198950594742) deleted object "dp_roof" (pos=<4329.404785, 3.067568, 2149.610596>)
+1:1:52 | "Mark" (steamid=76561198950594742) deleted object "AdminHatchet" (pos=<4331.872070, 3.080439, 2153.885010>)
+1:1:54 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4334.935059, 3.010201, 2163.864746>)
+1:1:54 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4339.842285, 3.010201, 2173.454346>)
+1:1:55 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4347.517578, 3.010201, 2191.649170>)
+1:1:55 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4355.516602, 3.026407, 2207.304443>)
+1:1:56 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4363.739258, 3.026407, 2222.858398>)
+1:1:56 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4372.895020, 2.892643, 2239.144043>)
+1:2:7 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4391.117188, 3.000000, 2237.646484>)
+1:2:7 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4403.354980, 3.003616, 2233.622803>)
+1:2:7 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4403.479004, 3.003523, 2233.576904>)
+1:2:7 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4403.641113, 3.003401, 2233.519043>)
+1:2:7 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4403.809082, 3.003273, 2233.459473>)
+1:2:7 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4406.046875, 3.001606, 2232.724609>)
+1:2:7 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4414.293945, 3.022904, 2230.026123>)
+1:2:7 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4415.297852, 3.028258, 2229.684814>)
+1:2:7 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4415.376953, 3.028496, 2229.657227>)
+1:2:7 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4417.176758, 3.031674, 2229.061279>)
+1:2:7 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4417.564941, 3.035576, 2228.932617>)
+1:2:7 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4417.578125, 3.036258, 2228.928711>)
+1:2:7 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4418.507324, 3.083698, 2228.625977>)
+1:2:7 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4424.651367, 3.363375, 2226.616699>)
+1:2:7 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4426.927734, 3.537446, 2225.957520>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4428.287598, 3.677633, 2226.011719>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4434.475586, 4.154765, 2224.161377>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4435.205566, 4.206811, 2224.237061>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4436.759277, 4.311180, 2224.000977>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4438.836914, 4.461633, 2223.685791>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4439.076172, 4.477731, 2223.628174>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4444.918457, 4.514187, 2222.074951>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4470.098633, 2.594936, 2216.606934>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4475.294434, 2.650316, 2215.839844>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4475.422852, 2.659340, 2215.867188>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4473.496582, 2.606169, 2216.321533>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4473.990723, 2.615419, 2216.224854>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4484.865234, 2.946664, 2213.865967>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4481.719727, 2.908067, 2214.813477>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4481.448242, 2.910326, 2215.013916>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4481.344238, 2.916042, 2215.147217>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4489.465820, 2.739589, 2213.580322>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4494.306152, 2.467126, 2212.781006>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4491.234863, 2.660505, 2213.551025>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4491.380859, 2.653378, 2213.534180>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4490.581543, 2.705650, 2213.935059>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4492.874512, 2.680655, 2213.495361>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4504.904785, 1.930107, 2211.368896>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4503.499023, 1.952674, 2211.758545>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4508.837891, 1.867276, 2210.471191>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4509.864746, 1.848617, 2210.190430>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4510.530762, 1.861946, 2210.005859>)
+1:2:8 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4513.815430, 1.968085, 2209.514160>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4517.330566, 2.031261, 2208.916748>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4519.250000, 2.047638, 2208.406494>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4524.504395, 2.249982, 2206.994629>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4526.251953, 2.246125, 2206.393799>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4528.796387, 2.181899, 2205.173340>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4531.562012, 2.160666, 2204.166260>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4531.725586, 2.133793, 2203.816406>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4537.853027, 1.975716, 2201.393799>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4540.683594, 1.962437, 2200.265381>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4542.196777, 1.952412, 2199.625000>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4545.014648, 1.935465, 2198.440186>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4550.574219, 1.759077, 2195.988281>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4552.668945, 1.683893, 2195.064209>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4553.951660, 1.708689, 2194.547363>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4558.529785, 1.762799, 2192.627441>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4561.997559, 1.905513, 2191.108398>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4564.039063, 2.045267, 2190.195068>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4564.164063, 2.049747, 2190.102295>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4564.238770, 2.054441, 2190.065430>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4566.443359, 2.119261, 2189.096436>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4577.035645, 2.079343, 2184.406250>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4577.318359, 2.084027, 2184.193848>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4577.429199, 2.079659, 2184.071289>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4577.597168, 2.078197, 2183.918213>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4578.869629, 2.117312, 2183.073486>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4579.538086, 2.110909, 2182.472900>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4581.450195, 2.142699, 2181.477295>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4590.041504, 2.113077, 2177.367920>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4590.211426, 2.095055, 2177.173584>)
+1:2:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4591.848145, 1.973173, 2176.045410>)
+1:2:10 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4593.733887, 1.839878, 2174.774170>)
+1:2:10 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4594.663574, 1.793203, 2174.304932>)
+1:2:10 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4603.082520, 1.992869, 2170.298584>)
+1:2:10 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4604.130859, 2.038529, 2169.416992>)
+1:2:10 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4625.738281, 1.493617, 2157.952148>)
+1:2:10 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4627.742188, 1.524949, 2156.795166>)
+1:2:10 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4628.306152, 1.541393, 2156.396484>)
+1:2:10 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4628.914551, 1.558859, 2155.900635>)
+1:2:10 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4635.096680, 1.740478, 2152.578125>)
+1:2:10 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4646.968750, 1.637390, 2146.014648>)
+1:2:10 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4647.298828, 1.635827, 2145.797852>)
+1:2:10 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4654.628418, 1.681768, 2141.841797>)
+1:2:10 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4654.603027, 1.681453, 2141.855225>)
+1:2:10 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4664.455566, 1.770129, 2136.363037>)
+1:2:10 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4664.425781, 1.769911, 2136.381836>)
+1:2:10 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4670.677734, 1.900287, 2133.024414>)
+1:2:10 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4670.840820, 1.902369, 2132.942139>)
+1:2:10 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4671.048340, 1.905019, 2132.836914>)
+1:2:10 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4671.231445, 1.907375, 2132.743408>)
+1:2:10 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4674.391113, 1.973119, 2130.988770>)
+1:2:11 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4691.946289, 2.750939, 2138.951416>)
+1:2:12 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4694.729980, 3.058835, 2132.217773>)
+1:2:13 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4691.958008, 2.207857, 2117.406250>)
+1:2:14 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4687.840820, 1.604790, 2102.715088>)
+1:2:14 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4684.050293, 1.523788, 2093.425049>)
+1:2:29 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4689.568359, 1.740668, 2094.164795>)
+1:2:29 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<4699.663574, 2.066546, 2098.317627>)
+1:4:19 | "Mark" (steamid=76561198950594742) Spawned Item: (BDUPants)
+1:5:2 | "Mark" (steamid=76561198950594742) Spawned Item: (BeanieHat_Green)
+1:5:37 | "Mark" (steamid=76561198950594742) Spawned Item: (BoonieHat_DPM)
+1:5:55 | "Mark" (steamid=76561198950594742) Spawned Item: (BalaclavaMask_Green)
+1:6:13 | "Mark" (steamid=76561198950594742) Spawned Item: (JungleBoots_Green)
+1:7:31 | "Mark" (steamid=76561198950594742) Spawned Item: (BDUJacket)
+1:8:1 | "Mark" (steamid=76561198950594742) deleted object "ChildBag_Blue" (pos=<4697.870117, 0.453486, 2074.563477>)
+1:8:7 | "Mark" (steamid=76561198950594742) deleted object "TrackSuitPants_Black" (pos=<4701.054688, 2.162548, 2098.347900>)
+1:8:9 | "Mark" (steamid=76561198950594742) deleted object "TrackSuitJacket_Black" (pos=<4701.054688, 2.160300, 2098.347900>)
+1:8:11 | "Mark" (steamid=76561198950594742) deleted object "JoggingShoes_Violet" (pos=<4701.054688, 2.156644, 2098.347900>)
+1:8:12 | "Mark" (steamid=76561198950594742) deleted object "Balaclava3Holes_Blue" (pos=<4701.054688, 2.167448, 2098.347900>)
+1:8:29 | "Mark" (steamid=76561198950594742) deleted object "BeanieHat_Green" (pos=<4701.054688, 2.326558, 2098.347900>)
+1:8:30 | "Mark" (steamid=76561198950594742) deleted object "SportGlasses_Blue" (pos=<4700.908691, 2.163284, 2098.070557>)
+1:9:3 | "Mark" (steamid=76561198950594742) Spawned Item: (dp_AK12_Tan)
+1:9:5 | "Mark" (steamid=76561198950594742) Spawned Item: (Mag_AKM_30Rnd)
+1:9:27 | "Mark" (steamid=76561198950594742) Spawned Item: (Mag_AK74_30Rnd)
+1:9:46 | "Mark" (steamid=76561198950594742) Spawned Item: (AK_Suppressor)
+1:12:36 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) disconnected from server.
+1:12:44 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) disconnected from server.
+1:12:58 | Player "Mark" (steamId=76561198950594742) disconnected from server.
+1:22:23 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<12959.717773, 16.258213, 7995.025879>)
+1:29:19 | "KOREA" (steamid=76561198253386609) toggled godmode
+1:29:25 | "KOREA" (steamid=76561198253386609) executed kill command on: "76561198253386609"
+1:30:10 | Player "Survivor" (steamId=76561198369537247) disconnected from server.
+1:40:40 | Player "MBrown" (steamId=76561198834441216) connected to server!
+1:43:19 | Player "Mark" (steamId=76561198950594742) connected to server!
+1:44:21 | Player "Mark" (steamId=76561198950594742) connected to server!
+1:45:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<12650.589844, 30.845373, 10406.776367>)
+1:45:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<12638.378906, 32.757076, 10416.719727>)
+1:45:29 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<12632.359375, 33.735577, 10422.210938>)
+1:45:38 | "Mark" (steamid=76561198950594742) deleted object "Mag_AKM_30Rnd" (pos=<12631.458984, 33.898087, 10423.035156>)
+1:45:40 | "Mark" (steamid=76561198950594742) deleted object "dp_AK12_Tan" (pos=<12631.458984, 33.925896, 10423.035156>)
+2:1:38 | "Mark" (steamid=76561198950594742) /heal used on: "Mark" (steamid=76561198950594742)
+2:4:3 | "Mark" (steamid=76561198950594742) /heal used on: "Mark" (steamid=76561198950594742)
+2:4:14 | "Mark" (steamid=76561198950594742) /heal used on: "Mark" (steamid=76561198950594742)
+2:10:27 | "Mark" (steamid=76561198950594742) deleted object "ZmbF_JoggerSkinny_Red" (pos=<11955.211914, 140.040009, 12507.797852>)
+2:11:34 | "Mark" (steamid=76561198950594742) deleted object "ZmbM_JoggerSkinny_Red" (pos=<11955.362305, 140.040009, 12490.243164>)
+2:12:47 | "Mark" (steamid=76561198950594742) deleted object "GardenPlotPlacing" (pos=<11933.848633, 140.843414, 12465.253906>)
+2:12:48 | "Mark" (steamid=76561198950594742) deleted object "GardenPlotPlacing" (pos=<11933.738281, 140.565643, 12465.430664>)
+2:12:49 | "Mark" (steamid=76561198950594742) deleted object "GardenPlotPlacing" (pos=<11933.306641, 140.313538, 12465.377930>)
+2:12:50 | "Mark" (steamid=76561198950594742) deleted object "GardenPlotPlacing" (pos=<11933.926758, 140.156754, 12465.778320>)
+2:12:52 | "Mark" (steamid=76561198950594742) deleted object "GardenPlotPlacing" (pos=<11934.097656, 139.999969, 12466.354492>)
+2:14:3 | "Mark" (steamid=76561198950594742) deleted object "ZmbM_OffshoreWorker_Yellow" (pos=<11882.791016, 140.040009, 12468.229492>)
+2:14:29 | Player "[Mercenarios] Chines Angolano" (steamId=76561198128636633) disconnected from server.
+2:14:31 | Player "[Mercenarios] Chines Angolano" (steamId=76561198128636633) disconnected from server.
+2:16:15 | Player "[Mercenarios] Rambo" (steamId=76561198375135263) disconnected from server.
+2:16:48 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) disconnected from server.
+2:16:52 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) disconnected from server.
+2:17:24 | Player "KOREA" (steamId=76561198253386609) disconnected from server.
+2:17:26 | Player "KOREA" (steamId=76561198253386609) disconnected from server.
+2:22:28 | Player "Mark" (steamId=76561198950594742) disconnected from server.
+2:27:4 | Player "Havaianos" (steamId=76561198128780952) connected to server!
+2:27:36 | Player "Havaianos" (steamId=76561198128780952) connected to server!
+2:59:30 | Player "MBrown" (steamId=76561198834441216) disconnected from server.
+2:59:30 | Player "Havaianos" (steamId=76561198128780952) disconnected from server.

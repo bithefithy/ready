@@ -1,0 +1,120 @@
+{
+    "m_Enable": 0,
+    "m_Log": 0,
+    "m_Quantity": 10,
+    "m_Locations": [
+        {
+            "m_D": "Pos01",
+            "m_X": 10683.953125,
+            "m_Y": 9.701696395874024
+        },
+        {
+            "m_D": "Pos02",
+            "m_X": 10317.9140625,
+            "m_Y": 12.525551795959473
+        },
+        {
+            "m_D": "Pos03",
+            "m_X": 8848.109375,
+            "m_Y": 15.272405624389649
+        },
+        {
+            "m_D": "Pos04",
+            "m_X": 8424.71484375,
+            "m_Y": 2.6010448932647707
+        },
+        {
+            "m_D": "Pos05",
+            "m_X": 8022.82421875,
+            "m_Y": 19.164045333862306
+        },
+        {
+            "m_D": "Pos06",
+            "m_X": 7973.82666015625,
+            "m_Y": 37.45976257324219
+        },
+        {
+            "m_D": "Pos07",
+            "m_X": 10481.380859375,
+            "m_Y": 34.62510299682617
+        },
+        {
+            "m_D": "Pos08",
+            "m_X": 11799.490234375,
+            "m_Y": 8.165642738342286
+        },
+        {
+            "m_D": "Pos09",
+            "m_X": 9418.1796875,
+            "m_Y": 21.499603271484376
+        },
+        {
+            "m_D": "Pos10",
+            "m_X": 8696.634765625,
+            "m_Y": 182.42092895507813
+        }
+    ],
+    "m_Cars": [
+        {
+            "m_Description": "Food",
+            "m_Quantity": 10,
+            "m_Items": [
+                {
+                    "m_Item": "TacticalBaconCan",
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Tomato",
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Canteen",
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "SodaCan_Cola",
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PeachesCan",
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Description": "Weapons",
+            "m_Quantity": 10,
+            "m_Items": [
+                {
+                    "m_Item": "ASVAL",
+                    "m_QuantityMax": 1,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "AmmoBox",
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "M4A1",
+                    "m_QuantityMax": 1,
+                    "m_Attachments": [
+                        "M4_MPBttstck"
+                    ]
+                },
+                {
+                    "m_Item": "Saiga",
+                    "m_QuantityMax": 1,
+                    "m_Attachments": [
+                        "Saiga_Bttstck"
+                    ]
+                }
+            ]
+        }
+    ]
+}

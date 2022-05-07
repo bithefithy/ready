@@ -1,0 +1,779 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-3-4_22-59-5
+====================================================================================
+22:59:5 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+22:59:5 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+22:59:5 | [PermissionManager] Perm (FreeCamera) has been registered!
+22:59:5 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuItemManager) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuServerManager) has been registered!
+22:59:5 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+22:59:5 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+22:59:5 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+22:59:5 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+22:59:5 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+22:59:5 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+22:59:5 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+22:59:5 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+22:59:5 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+22:59:5 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+22:59:5 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+22:59:5 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+22:59:5 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+22:59:5 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+22:59:5 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+22:59:5 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+22:59:5 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+22:59:5 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+22:59:5 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+22:59:5 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+22:59:5 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+22:59:5 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+22:59:5 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+22:59:5 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+22:59:5 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+22:59:5 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+22:59:5 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+22:59:5 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+22:59:5 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+22:59:5 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+22:59:5 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+22:59:5 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+22:59:5 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuBansManager) has been registered!
+22:59:5 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+22:59:5 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+22:59:5 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+22:59:5 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+22:59:5 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+22:59:5 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+22:59:5 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+22:59:5 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+22:59:5 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+22:59:5 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+22:59:5 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+22:59:5 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+22:59:5 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+22:59:5 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+22:59:5 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+22:59:5 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+22:59:5 | [PermissionManager] Adding Super Admin (76561198253386609)
+22:59:5 | [PermissionManager] Adding Super Admin (76561198442072760)
+22:59:5 | [PermissionManager] Adding Super Admin (76561198950594742)
+22:59:5 | [PermissionManager] Adding Super Admin (76561198329721265)
+22:59:5 | [PermissionManager] Adding Super Admin (76561198140728342)
+22:59:5 | [PermissionManager] Loaded UserGroups.json
+22:59:5 | Building Sets Loaded: 1
+22:59:6 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+22:59:6 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+22:59:6 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+22:59:6 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+22:59:6 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+22:59:6 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+22:59:6 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+22:59:6 | [PermissionManager] Perm (Chat:NamalskRunEvent) has been registered!
+22:59:6 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+22:59:6 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+22:59:6 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+22:59:6 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+22:59:6 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+22:59:6 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+22:59:6 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+22:59:6 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+22:59:6 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+22:59:6 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+22:59:6 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+23:3:15 | Player "Sabonete" (steamId=76561198253386609) connected to server!
+23:3:45 | Player "=FURY=CrN" (steamId=76561198100945209) connected to server!
+23:4:15 | Player "=FURY=SANTANA" (steamId=76561199228878387) connected to server!
+23:5:37 | "Sabonete" (steamid=76561198253386609) deleted building set (NewSet)
+23:5:52 | Player "Mark" (steamId=76561198950594742) connected to server!
+23:9:6 | "Sabonete" (steamid=76561198253386609) toggled godmode
+23:9:11 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<8019.259766, 56.383541, 11185.747070>)
+23:9:14 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7908.103516, 18.736660, 11075.910156>)
+23:9:25 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7862.570313, 16.761105, 11081.741211>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7856.301758, 17.255608, 11086.993164>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7856.135742, 17.270700, 11087.133789>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7855.785645, 17.312063, 11087.527344>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7855.491211, 17.355133, 11087.837891>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7855.205566, 17.394093, 11088.111328>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7854.977051, 17.427233, 11088.349609>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7850.649414, 17.993315, 11092.241211>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7850.398438, 18.025711, 11092.462891>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7850.129395, 18.077940, 11092.875977>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7849.837402, 18.140152, 11093.359375>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7849.439941, 18.221678, 11093.911133>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7849.275879, 18.249979, 11094.059570>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7847.141113, 18.640039, 11096.147461>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7844.727051, 19.082083, 11098.515625>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7844.562012, 19.122057, 11098.751953>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7844.479004, 19.151644, 11098.942383>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7844.276367, 19.177887, 11099.058594>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7842.774414, 19.417437, 11100.181641>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7839.421875, 20.019529, 11102.997070>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7838.724609, 20.060968, 11102.974609>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7838.086426, 20.087145, 11102.868164>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7835.601074, 20.504852, 11104.616211>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7832.878418, 21.027998, 11106.667969>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7832.047363, 21.051929, 11106.509766>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7831.896484, 21.085632, 11106.605469>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7831.709961, 21.117790, 11106.684570>)
+23:9:26 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7827.337891, 22.160408, 11109.469727>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7827.059570, 22.221483, 11109.606445>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7826.533691, 22.285219, 11109.601563>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7826.051758, 22.323318, 11109.491211>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7821.826172, 23.128010, 11112.040039>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7820.085938, 23.339149, 11112.792969>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7819.021973, 23.429121, 11113.166016>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7818.497559, 23.503307, 11113.058594>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7818.388184, 23.536774, 11113.107422>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7814.958984, 24.578773, 11115.251953>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7814.797363, 24.623598, 11115.326172>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7814.381348, 24.721741, 11115.387695>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7813.321777, 24.970692, 11115.538086>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7812.018555, 25.431684, 11116.334961>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7810.526855, 26.121199, 11117.397461>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7810.352051, 26.185133, 11117.398438>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7809.658203, 26.441599, 11117.414063>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7808.637207, 26.887131, 11117.945313>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7807.376465, 27.452606, 11118.845703>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7806.335449, 27.808142, 11119.368164>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7805.713379, 27.880117, 11119.671875>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7801.001953, 28.136803, 11121.666016>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7799.541016, 28.219765, 11122.369141>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7796.136719, 28.464138, 11124.324219>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7794.995605, 28.546144, 11124.983398>)
+23:9:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7792.239258, 29.052584, 11126.258789>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7792.332520, 29.031858, 11126.242188>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7790.941895, 29.402119, 11127.187500>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7790.387695, 29.549847, 11127.567383>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7789.951660, 29.657913, 11127.771484>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7787.768066, 30.197435, 11128.781250>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7787.279297, 30.347372, 11129.140625>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7786.439941, 30.640808, 11129.760742>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7786.018066, 30.784443, 11130.028320>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7784.490234, 31.280277, 11130.717773>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7783.444336, 31.625448, 11131.366211>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7782.408203, 31.924477, 11132.154297>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7781.727539, 32.120991, 11132.679688>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7777.297852, 32.477917, 11135.261719>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7776.391113, 32.534061, 11135.821289>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7774.226074, 32.715145, 11137.252930>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7773.121582, 32.915070, 11138.081055>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7771.134277, 33.301010, 11139.323242>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7769.615234, 33.587528, 11140.189453>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7769.473145, 33.615784, 11140.283203>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7764.896484, 34.460041, 11143.436523>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7764.205078, 34.578075, 11143.946289>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7762.866211, 34.769421, 11144.836914>)
+23:9:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7762.311035, 34.872665, 11145.241211>)
+23:9:29 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7760.908691, 35.849255, 11146.334961>)
+23:9:29 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7758.147949, 35.976059, 11148.348633>)
+23:9:29 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7756.400879, 36.450977, 11150.253906>)
+23:9:29 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7755.959961, 36.561920, 11150.580078>)
+23:9:29 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7754.445313, 36.970020, 11151.664063>)
+23:9:29 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7752.725098, 37.429401, 11153.001953>)
+23:9:29 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7750.443359, 38.035168, 11155.335938>)
+23:9:29 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7750.266602, 38.082283, 11155.476563>)
+23:9:29 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7749.762207, 38.224865, 11155.844727>)
+23:9:29 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7748.428223, 38.676548, 11156.777344>)
+23:9:29 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7746.083984, 39.616497, 11159.226563>)
+23:9:29 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7745.928223, 39.683796, 11159.442383>)
+23:9:29 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7745.606934, 39.809021, 11159.739258>)
+23:9:29 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7745.023438, 40.026279, 11160.166016>)
+23:9:29 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7742.433105, 41.116085, 11162.851563>)
+23:9:29 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7741.967285, 41.311909, 11163.286133>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7741.658691, 41.442223, 11163.579102>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7741.277344, 41.595795, 11163.845703>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7739.125977, 42.519264, 11166.099609>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7738.681641, 42.707672, 11166.533203>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7737.985840, 43.000286, 11167.186523>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7737.658203, 43.131939, 11167.412109>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7737.506836, 43.195183, 11167.546875>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7733.961426, 44.043171, 11171.115234>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7733.498047, 44.144176, 11171.548828>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7732.646484, 44.329670, 11172.344727>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7732.222656, 44.420822, 11172.671875>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7727.686035, 45.061192, 11177.180664>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7728.368652, 44.982647, 11176.726563>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7728.579590, 44.957436, 11176.567383>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7728.422363, 44.978703, 11176.739258>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7724.695801, 45.402069, 11180.698242>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7724.186035, 45.341644, 11181.246094>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7724.479980, 45.380039, 11181.005859>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7724.541504, 45.389313, 11180.980469>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7717.472168, 44.580761, 11188.611328>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7716.917969, 44.530067, 11189.257813>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7714.784180, 44.304951, 11191.708008>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7712.645996, 44.108276, 11194.075195>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7710.222168, 44.250168, 11196.761719>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7707.416504, 44.430962, 11199.965820>)
+23:9:30 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7706.707031, 44.504494, 11200.761719>)
+23:9:31 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7705.112793, 44.746201, 11202.809570>)
+23:9:31 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7703.413086, 44.992989, 11204.751953>)
+23:9:31 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7703.057129, 45.043819, 11205.153320>)
+23:9:31 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7701.147949, 45.503708, 11207.331055>)
+23:9:31 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7701.031250, 45.542023, 11207.459961>)
+23:9:31 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7700.632324, 45.689468, 11207.958008>)
+23:9:31 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7698.763184, 46.340851, 11210.285156>)
+23:9:31 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7697.275391, 46.799473, 11211.983398>)
+23:9:31 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7696.934082, 46.908112, 11212.384766>)
+23:9:31 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7696.422852, 47.033577, 11212.995117>)
+23:9:31 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7695.039551, 47.354351, 11214.672852>)
+23:9:31 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7693.519531, 47.699211, 11216.501953>)
+23:9:31 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7691.826172, 48.037003, 11218.434570>)
+23:9:31 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7688.707520, 48.316235, 11222.000000>)
+23:9:31 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7685.651855, 48.477413, 11225.552734>)
+23:9:31 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7681.184082, 48.597473, 11230.715820>)
+23:9:31 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7681.670898, 48.570412, 11230.124023>)
+23:9:31 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7680.446289, 48.809444, 11231.516602>)
+23:9:31 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7680.172363, 48.936714, 11231.831055>)
+23:9:32 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7680.107422, 48.972485, 11231.923828>)
+23:9:32 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7678.186523, 49.903763, 11234.248047>)
+23:9:32 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7676.287598, 50.816502, 11236.507813>)
+23:9:32 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7676.083496, 50.937386, 11236.820313>)
+23:9:32 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7675.942871, 51.003635, 11236.983398>)
+23:9:32 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7675.315918, 51.283001, 11237.851563>)
+23:9:32 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7674.939453, 51.381462, 11238.321289>)
+23:9:32 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7671.679688, 51.915222, 11242.223633>)
+23:9:32 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7670.978027, 52.038467, 11243.120117>)
+23:9:32 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7670.850586, 52.061745, 11243.290039>)
+23:9:32 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7670.056641, 52.168053, 11244.434570>)
+23:9:32 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7670.083984, 52.179554, 11244.587891>)
+23:9:32 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7668.170898, 52.330883, 11246.930664>)
+23:9:32 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7665.483398, 52.568890, 11250.229492>)
+23:9:32 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7665.513672, 52.572266, 11250.323242>)
+23:9:32 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7665.535645, 52.579067, 11250.509766>)
+23:9:32 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7662.007813, 52.749538, 11254.882813>)
+23:9:32 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7662.173828, 53.414478, 11254.632813>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7662.211914, 53.447624, 11254.696289>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7662.227051, 53.481636, 11254.711914>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7653.853516, 51.708347, 11265.775391>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7653.294434, 51.629436, 11266.568359>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7653.205566, 51.610321, 11266.734375>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7649.479492, 51.871605, 11271.793945>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7649.332031, 51.902992, 11271.982422>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7649.222168, 51.930294, 11272.163086>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7649.176758, 51.945053, 11272.277344>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7647.799805, 52.252113, 11274.185547>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7645.851563, 52.384159, 11276.811523>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7645.486328, 52.386463, 11277.269531>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7645.322754, 52.384102, 11277.521484>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7641.291504, 52.072121, 11282.969727>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7639.601074, 51.953655, 11285.151367>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7639.368652, 51.937241, 11285.444336>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7639.145508, 51.921886, 11285.748047>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7606.314941, 40.791584, 11328.263672>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7605.666016, 41.375786, 11329.029297>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7605.565918, 41.449097, 11328.971680>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7605.475586, 41.479980, 11328.935547>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7606.075684, 42.167431, 11328.594727>)
+23:9:33 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7606.221191, 42.645374, 11328.646484>)
+23:9:34 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7605.453613, 43.132534, 11329.498047>)
+23:9:34 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7605.475586, 43.228416, 11329.570313>)
+23:9:34 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7606.283691, 44.239342, 11329.019531>)
+23:9:34 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7606.182617, 44.610081, 11329.123047>)
+23:9:34 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7606.130371, 45.033379, 11329.250000>)
+23:9:36 | "Mark" (steamid=76561198950594742) /heal used on: "Mark" (steamid=76561198950594742)
+23:9:41 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7588.105469, 35.299015, 11336.237305>)
+23:9:42 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7579.081055, 35.300018, 11331.637695>)
+23:9:43 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7573.654785, 35.299992, 11331.460938>)
+23:9:43 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7570.079590, 35.300007, 11330.392578>)
+23:10:0 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7574.814453, 40.120163, 11332.625977>)
+23:10:1 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+23:10:1 | "Mark" (steamid=76561198950594742) /heal used on: "Mark" (steamid=76561198950594742)
+23:10:3 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7469.875000, 1097.142090, 11045.545898>)
+23:10:14 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<7998.418945, 15.361633, 10934.781250>)
+23:10:39 | "Mark" (steamid=76561198950594742) toggled freecam
+23:10:55 | "Mark" (steamid=76561198950594742) toggled freecam
+23:11:0 | "Sabonete" (steamid=76561198253386609) toggled godmode
+23:11:1 | "Sabonete" (steamid=76561198253386609) toggled godmode
+23:11:2 | "Sabonete" (steamid=76561198253386609) toggled freecam
+23:11:5 | "Mark" (steamid=76561198950594742) toggled freecam
+23:11:12 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7557.262207, 35.291382, 11327.351563>)
+23:11:13 | "Mark" (steamid=76561198950594742) toggled freecam
+23:11:14 | Player "[CMDS] BocaPreta" (steamId=76561198061748681) connected to server!
+23:11:15 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7557.306641, 35.293297, 11326.025391>)
+23:11:16 | "Sabonete" (steamid=76561198253386609) toggled freecam
+23:11:19 | "Mark" (steamid=76561198950594742) deleted object "QuiltedJacket_Green_Black_civ" (pos=<8971.208008, 6.680597, 10470.255859>)
+23:11:19 | "Mark" (steamid=76561198950594742) deleted object "NBCPantsblack" (pos=<8971.208008, 6.671095, 10470.255859>)
+23:11:27 | "Mark" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+23:11:34 | "Mark" (steamid=76561198950594742) Spawned Item: (AC_MilitaryBoots_Admin)
+23:11:34 | "Mark" (steamid=76561198950594742) Spawned Item: (AC_MilitaryBeret_Admin)
+23:11:35 | "Mark" (steamid=76561198950594742) Spawned Item: (AC_CargoPants_Admin)
+23:11:36 | "Mark" (steamid=76561198950594742) Spawned Item: (AC_TacticalShirt_Admin)
+23:11:36 | "Mark" (steamid=76561198950594742) Spawned Item: (AC_TacticalGloves_Admin)
+23:11:39 | "Mark" (steamid=76561198950594742) deleted object "AC_MilitaryBoots_Admin" (pos=<8971.973633, 6.277424, 10471.362305>)
+23:11:48 | "Mark" (steamid=76561198950594742) Spawned Item: (BalaclavaMask_White)
+23:11:57 | "Mark" (steamid=76561198950594742) deleted object "BeanieHat_Black" (pos=<8971.208008, 6.686111, 10470.255859>)
+23:12:1 | "Mark" (steamid=76561198950594742) toggled freecam
+23:12:9 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<6354.792480, 18.285706, 9206.732422>)
+23:12:13 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<6301.210938, 21.158226, 9299.947266>)
+23:12:15 | "Mark" (steamid=76561198950594742) toggled freecam
+23:12:16 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7492.583496, 35.303268, 11338.860352>)
+23:12:16 | "Mark" (steamid=76561198950594742) toggled freecam
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7433.975586, 21.420984, 11350.785156>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7424.196777, 20.691065, 11352.480469>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7424.177246, 20.692366, 11352.479492>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7424.158203, 20.693626, 11352.478516>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7424.143555, 20.694868, 11352.481445>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7424.126953, 20.696529, 11352.485352>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7424.117188, 20.697639, 11352.489258>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7424.114746, 20.698154, 11352.493164>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7424.113770, 20.698797, 11352.498047>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7423.179688, 20.785261, 11352.689453>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7421.450195, 20.908812, 11353.037109>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7420.992188, 21.357788, 11353.199219>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7422.226074, 21.935198, 11353.065430>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7422.202148, 21.936754, 11353.073242>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7422.145508, 21.943108, 11353.087891>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7421.439453, 21.889408, 11353.216797>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7421.362793, 21.996714, 11353.254883>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7421.376465, 22.314331, 11353.310547>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7420.844238, 22.792635, 11353.497070>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7421.279297, 23.395811, 11353.520508>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7421.516113, 23.600824, 11353.525391>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7421.643066, 23.787922, 11353.549805>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7421.152832, 23.907213, 11353.672852>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7421.157227, 24.310314, 11353.748047>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7396.750000, 18.436682, 11357.362305>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7395.264648, 18.313488, 11357.625977>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7395.517090, 18.580219, 11357.626953>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7395.557129, 18.780760, 11357.658203>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7395.545410, 18.842873, 11357.693359>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7395.536621, 18.887041, 11357.717773>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7395.550293, 18.997751, 11357.837891>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7395.460938, 19.264053, 11358.115234>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7388.590820, 17.822079, 11359.369141>)
+23:12:17 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7393.558594, 19.328453, 11358.405273>)
+23:12:18 | "Mark" (steamid=76561198950594742) toggled freecam
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7394.413574, 20.239222, 11357.689453>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7378.242188, 14.999991, 11381.222656>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7378.440430, 15.000008, 11380.952148>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7378.606934, 15.000011, 11380.724609>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7378.795410, 15.000022, 11380.466797>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7378.966797, 15.000011, 11380.234375>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7379.138184, 15.000000, 11380.000000>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7377.882813, 15.000010, 11381.888672>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7375.679199, 15.000047, 11385.206055>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7374.272461, 15.003484, 11387.324219>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7373.890625, 14.999596, 11387.897461>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7373.890625, 14.999595, 11387.897461>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7373.890625, 14.999595, 11387.897461>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7373.991699, 15.001034, 11387.763672>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7374.163574, 15.003468, 11387.537109>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7374.328125, 15.003241, 11387.321289>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7374.508789, 15.002354, 11387.084961>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7373.044922, 14.983808, 11389.276367>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7371.258301, 14.964069, 11391.952148>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7369.603027, 14.821928, 11394.401367>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7367.075195, 14.207885, 11398.043945>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7367.250977, 14.246450, 11397.791016>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7367.426270, 14.285064, 11397.538086>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7367.582031, 14.319176, 11397.314453>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7366.271973, 14.029223, 11399.211914>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7365.064941, 13.897190, 11400.996094>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7364.182129, 13.881443, 11402.322266>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7363.378418, 13.867362, 11403.527344>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7362.822754, 13.857764, 11404.358398>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7362.098145, 13.829935, 11405.436523>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7361.544922, 13.800023, 11406.257813>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7360.994629, 13.828964, 11407.098633>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7360.433594, 13.858526, 11407.958984>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7359.928711, 13.885147, 11408.734375>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7359.540039, 13.903338, 11409.328125>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7359.522461, 13.904095, 11409.355469>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7359.507813, 13.904694, 11409.376953>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7359.255371, 13.915424, 11409.765625>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7358.520996, 13.946594, 11410.898438>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7357.969727, 13.970000, 11411.748047>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7357.363281, 13.997539, 11412.683594>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7356.779297, 14.031023, 11413.584961>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7356.082031, 14.072557, 11414.661133>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7355.517090, 14.110271, 11415.527344>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7355.204590, 14.129721, 11415.878906>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7354.858887, 14.151272, 11416.270508>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7354.547852, 14.170607, 11416.623047>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7353.879883, 14.210946, 11417.263672>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7352.697754, 14.281385, 11418.323242>)
+23:12:18 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7351.539551, 14.319820, 11419.371094>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7350.375977, 14.348283, 11420.133789>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7349.233887, 14.407373, 11420.516602>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7348.129395, 14.475074, 11420.823242>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7347.271484, 14.510244, 11420.577148>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7346.415527, 14.536581, 11419.937500>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7345.463379, 14.565737, 11419.110352>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7343.828613, 14.618406, 11419.327148>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7341.833496, 14.636271, 11419.584961>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7339.953125, 14.648937, 11419.715820>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7338.028809, 14.662634, 11420.003906>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7336.446777, 14.719575, 11420.277344>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7335.129395, 14.788974, 11420.250000>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7334.035645, 14.848455, 11419.375977>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7332.950195, 14.908693, 11418.500000>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7331.625488, 14.981347, 11418.329102>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7329.168945, 14.999999, 11418.435547>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7326.548828, 14.999999, 11418.521484>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7324.341797, 15.000001, 11418.596680>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7321.952637, 15.000000, 11418.672852>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7319.900879, 15.000003, 11418.296875>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7318.112793, 15.030166, 11417.492188>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7316.514648, 15.046735, 11416.801758>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7314.067871, 15.075013, 11416.714844>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7311.848145, 15.147947, 11416.901367>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7309.197266, 15.146523, 11416.919922>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7307.472168, 15.191275, 11416.598633>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7305.357910, 15.256874, 11416.201172>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7304.247559, 15.277016, 11416.001953>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7304.251953, 15.276438, 11416.007813>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7304.254883, 15.276021, 11416.012695>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7304.255859, 15.275439, 11416.016602>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7304.257813, 15.274910, 11416.022461>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7301.192871, 15.263805, 11415.761719>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7294.727051, 15.140240, 11415.185547>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7279.206055, 14.000000, 11413.637695>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7279.094727, 14.000000, 11414.324219>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7280.002930, 14.003946, 11414.980469>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7279.821777, 14.004334, 11415.280273>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7279.115723, 14.002426, 11415.392578>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7278.506348, 14.000768, 11415.481445>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7277.196777, 14.333640, 11415.261719>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7267.856445, 13.902771, 11414.698242>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7265.302734, 13.839412, 11414.781250>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7277.171875, 15.495934, 11415.345703>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7277.141602, 15.664891, 11415.553711>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7257.943848, 13.685337, 11415.192383>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7254.274902, 13.763260, 11414.914063>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7254.215332, 13.766596, 11414.904297>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7254.146484, 13.771446, 11414.903320>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7254.165527, 13.589215, 11412.740234>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7254.068848, 13.599186, 11412.749023>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7252.815430, 13.988890, 11413.306641>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7248.600586, 14.142341, 11413.813477>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7247.322754, 14.222865, 11413.557617>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7247.450195, 14.159544, 11412.536133>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7247.485352, 14.121734, 11411.937500>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7247.410156, 14.127845, 11411.947266>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7247.347656, 14.132811, 11411.954102>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7244.797363, 14.336754, 11412.227539>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7241.934082, 14.519300, 11412.487305>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7240.105957, 14.599339, 11412.301758>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7240.134277, 14.551168, 11411.490234>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7239.502930, 14.559870, 11411.096680>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7237.235352, 14.692597, 11411.294922>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7234.320801, 14.749851, 11411.433594>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7233.745117, 14.761286, 11411.462891>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7233.725098, 14.761881, 11411.469727>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7232.979492, 14.758497, 11411.086914>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7232.019531, 14.772923, 11410.547852>)
+23:12:19 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7231.229004, 14.788203, 11410.092773>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7228.578613, 14.763174, 11410.109375>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7225.391602, 14.765221, 11410.180664>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7223.396484, 14.724970, 11410.000977>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7222.282715, 14.691586, 11409.497070>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7221.040527, 14.671638, 11409.168945>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7218.071777, 14.631679, 11408.985352>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7214.114746, 14.607657, 11408.690430>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7214.011719, 14.608959, 11408.671875>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7213.011719, 14.623873, 11408.416992>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7210.875488, 14.573979, 11407.912109>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7210.373047, 14.705132, 11407.827148>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7210.268066, 14.882580, 11407.945313>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7208.025879, 14.730212, 11407.730469>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7206.738770, 14.800342, 11407.662109>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7205.063477, 14.800315, 11407.516602>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7203.703613, 14.858842, 11407.131836>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7209.976563, 16.338232, 11407.937500>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7200.587402, 14.948089, 11406.575195>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7198.825195, 14.963911, 11406.515625>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7191.435059, 14.928187, 11405.324219>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7191.417480, 14.928486, 11405.334961>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7192.058105, 14.943069, 11405.484375>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7192.653809, 14.956642, 11405.623047>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7189.037109, 14.891120, 11405.118164>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7184.010742, 14.736855, 11404.389648>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7180.904785, 14.757459, 11403.982422>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7180.739746, 14.751912, 11403.962891>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.613281, 14.714023, 11403.828125>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.655273, 14.681834, 11403.713867>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.822266, 14.988346, 11403.781250>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7180.948242, 15.709991, 11404.159180>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7181.298828, 16.114811, 11404.264648>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7181.549316, 16.460466, 11404.361328>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7181.292480, 16.668545, 11404.369141>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7180.004883, 16.725159, 11404.213867>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.865723, 17.006699, 11404.243164>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.772461, 17.198307, 11404.261719>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.778320, 17.188326, 11404.259766>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.785156, 17.176983, 11404.255859>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.639160, 17.465321, 11404.291992>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.415039, 17.849152, 11404.335938>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.436035, 18.216072, 11404.403320>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.476563, 18.555859, 11404.465820>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.302734, 18.826181, 11404.488281>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.224121, 18.931255, 11404.491211>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.145020, 19.036175, 11404.496094>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.126465, 19.062122, 11404.496094>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.143066, 19.039764, 11404.495117>)
+23:12:20 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.054688, 19.127075, 11404.503906>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.589844, 19.539818, 11404.528320>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.687012, 20.021091, 11404.634766>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7180.016113, 20.469473, 11404.885742>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7180.180664, 20.725651, 11404.952148>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7180.077148, 20.814947, 11404.956055>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7180.048340, 20.839800, 11404.957031>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.931641, 20.939966, 11404.961914>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.953613, 21.239902, 11404.896484>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.924316, 21.891649, 11405.140625>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7180.473145, 22.244545, 11405.276367>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7180.714844, 22.415154, 11405.340820>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7180.112305, 22.582403, 11405.297852>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.070313, 22.836330, 11405.215820>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.898926, 23.192368, 11405.264648>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.952148, 23.143085, 11405.271484>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.010742, 23.089933, 11405.278320>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.797852, 23.239164, 11405.280273>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.794922, 23.717163, 11405.490234>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.281738, 23.941748, 11405.460938>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.043945, 24.373756, 11405.348633>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.093750, 24.328695, 11405.351563>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.150879, 24.276400, 11405.356445>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.073730, 24.334772, 11405.380859>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.002441, 24.455086, 11405.425781>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.162109, 24.616882, 11405.506836>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.669922, 25.278395, 11405.733398>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.232422, 25.731266, 11405.661133>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.603516, 26.127728, 11405.702148>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.485840, 26.000692, 11405.621094>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.405273, 25.915718, 11405.562500>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.165039, 26.034042, 11405.335938>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.585938, 26.413898, 11405.555664>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.777832, 26.697716, 11405.818359>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.741699, 26.511749, 11405.804688>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.728516, 26.455784, 11405.795898>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7180.357422, 27.173561, 11405.894531>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.264648, 27.400188, 11405.558594>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.437988, 27.905687, 11405.732422>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.944336, 27.638927, 11405.636719>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.514648, 27.368916, 11405.545898>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.441895, 27.390270, 11405.551758>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.269531, 27.418768, 11405.542969>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.456055, 27.991951, 11405.741211>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.255371, 28.650965, 11405.706055>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.203613, 29.237692, 11405.697266>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.196777, 29.270744, 11405.695313>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.196777, 29.270847, 11405.695313>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.082031, 29.362083, 11405.676758>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.785645, 29.602121, 11405.627930>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.251953, 29.799557, 11405.541992>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7180.580566, 30.277456, 11405.892578>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7180.601563, 30.286785, 11405.872070>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7180.469238, 30.525240, 11405.852539>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7178.143555, 30.717941, 11405.511719>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7179.305176, 31.526039, 11405.745117>)
+23:12:21 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7119.884766, 20.000927, 11395.902344>)
+23:12:23 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7177.888184, 31.381691, 11405.464844>)
+23:12:23 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7177.886719, 31.392426, 11405.438477>)
+23:12:23 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7119.508789, 19.405621, 11395.857422>)
+23:12:26 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7116.751953, 16.765516, 11401.638672>)
+23:12:26 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7088.661133, 13.206059, 11401.894531>)
+23:12:27 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<6313.046387, 26.675455, 9358.460938>)
+23:12:28 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7077.480469, 13.603244, 11402.330078>)
+23:12:28 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<6315.478027, 27.931976, 9363.562500>)
+23:12:28 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7070.500488, 14.249572, 11402.810547>)
+23:12:28 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7063.149902, 14.953176, 11403.332031>)
+23:12:29 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7052.076660, 14.999998, 11404.100586>)
+23:12:29 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7041.400879, 14.999996, 11406.606445>)
+23:12:31 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<6098.822754, 548.992676, 11193.654297>)
+23:12:51 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<6542.377930, 42.218750, 11256.807617>)
+23:13:9 | "Mark" (steamid=76561198950594742) toggled freecam
+23:13:12 | "Mark" (steamid=76561198950594742) toggled freecam
+23:13:12 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<6638.467773, 34.362934, 11301.258789>)
+23:13:14 | "Mark" (steamid=76561198950594742) toggled freecam
+23:13:40 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Airfield.vpp
+23:13:40 | "Mark" (steamid=76561198950594742) created new building set (Airfield)
+23:13:49 | Player "Exodia" (steamId=76561198245431376) connected to server!
+23:14:23 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Airfield.vpp
+23:14:23 | [BuildingSetManager] Saving & Reloading Building Set:Airfield
+23:14:23 | "Mark" (steamid=76561198950594742) updated building set (Airfield)
+23:14:23 | [BuildingSetManager] Deleted file: Airfield
+23:14:23 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Airfield.vpp
+23:14:39 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Airfield.vpp
+23:14:39 | [BuildingSetManager] Saving & Reloading Building Set:Airfield
+23:14:39 | "Mark" (steamid=76561198950594742) updated building set (Airfield)
+23:14:39 | [BuildingSetManager] Deleted file: Airfield
+23:14:39 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Airfield.vpp
+23:14:59 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7104.491211, 15.435916, 11657.373047>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7101.956543, 15.284753, 11647.677734>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7099.479004, 15.104208, 11638.128906>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7099.453613, 15.102354, 11638.025391>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7099.412598, 15.100712, 11637.922852>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7099.349609, 15.099373, 11637.857422>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7099.286621, 15.098032, 11637.791016>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7098.928223, 15.081711, 11636.633789>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7098.129395, 15.044817, 11633.911133>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7097.214844, 15.014439, 11630.791016>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7096.980469, 15.010421, 11630.189453>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7096.889648, 15.009542, 11630.096680>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7096.692871, 15.006010, 11629.558594>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7096.268555, 14.999997, 11628.192383>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7095.818359, 14.999997, 11626.740234>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7095.385742, 15.000010, 11625.414063>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7094.946289, 15.000002, 11624.094727>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7094.542480, 14.999990, 11622.883789>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7094.437988, 14.999978, 11622.557617>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7094.416504, 14.999957, 11622.478516>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7094.242188, 14.999938, 11621.935547>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7093.418457, 15.000008, 11619.424805>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7092.594727, 14.999996, 11616.913086>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7092.097168, 15.000007, 11615.403320>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7092.066895, 15.000004, 11615.328125>)
+23:15:0 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7092.041992, 15.000007, 11615.265625>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7087.993652, 14.999978, 11605.497070>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7084.152832, 15.000010, 11597.048828>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7084.125977, 15.000010, 11596.987305>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7084.101563, 15.000009, 11596.931641>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7084.071777, 15.000011, 11596.863281>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7084.038574, 15.000011, 11596.789063>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7084.011230, 15.000011, 11596.727539>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7083.240234, 15.000017, 11595.061523>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7082.132324, 14.999977, 11592.669922>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7081.300781, 15.000083, 11590.877930>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7080.891113, 15.000006, 11589.987305>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7080.846680, 15.000006, 11589.886719>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7080.812500, 15.000005, 11589.809570>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7080.783203, 15.000006, 11589.740234>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7080.753906, 14.999993, 11589.672852>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7080.701172, 15.000007, 11589.554688>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7079.758301, 15.000013, 11587.523438>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7078.815430, 15.000006, 11585.492188>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7078.092773, 15.000011, 11583.934570>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7077.918945, 15.000011, 11583.555664>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7077.758301, 15.000013, 11583.204102>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7077.651855, 15.000016, 11582.970703>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7077.624023, 15.000015, 11582.906250>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7077.598633, 15.000015, 11582.846680>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7076.938965, 15.000019, 11581.423828>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7075.921875, 15.000015, 11579.231445>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7074.967773, 15.000001, 11577.174805>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7074.795898, 14.999995, 11576.798828>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7074.623535, 15.000008, 11576.422852>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7074.439941, 15.000003, 11576.024414>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7074.118652, 14.999985, 11575.328125>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7073.883789, 15.000001, 11574.817383>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7073.228027, 15.000004, 11573.401367>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7072.327637, 15.000012, 11571.458984>)
+23:15:1 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7071.622070, 15.000015, 11569.936523>)
+23:15:6 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7050.398438, 14.999949, 11549.377930>)
+23:15:7 | "Sabonete" (steamid=76561198253386609) teleported to crosshair (pos=<7043.714355, 15.000000, 11545.932617>)
+23:15:14 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Airfield.vpp
+23:15:14 | [BuildingSetManager] Saving & Reloading Building Set:Airfield
+23:15:14 | "Mark" (steamid=76561198950594742) updated building set (Airfield)
+23:15:14 | [BuildingSetManager] Deleted file: Airfield
+23:15:14 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Airfield.vpp
+23:15:23 | Player "Toy Story" (steamId=76561198133211909) connected to server!
+23:15:57 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Airfield.vpp
+23:15:57 | [BuildingSetManager] Saving & Reloading Building Set:Airfield
+23:15:57 | "Mark" (steamid=76561198950594742) updated building set (Airfield)
+23:15:57 | [BuildingSetManager] Deleted file: Airfield
+23:15:57 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Airfield.vpp
+23:16:26 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Airfield.vpp
+23:16:26 | [BuildingSetManager] Saving & Reloading Building Set:Airfield
+23:16:26 | "Mark" (steamid=76561198950594742) updated building set (Airfield)
+23:16:26 | [BuildingSetManager] Deleted file: Airfield
+23:16:26 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Airfield.vpp
+23:17:1 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Airfield.vpp
+23:17:1 | [BuildingSetManager] Saving & Reloading Building Set:Airfield
+23:17:1 | "Mark" (steamid=76561198950594742) updated building set (Airfield)
+23:17:1 | [BuildingSetManager] Deleted file: Airfield
+23:17:1 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Airfield.vpp
+23:17:21 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Airfield.vpp
+23:17:21 | [BuildingSetManager] Saving & Reloading Building Set:Airfield
+23:17:21 | "Mark" (steamid=76561198950594742) updated building set (Airfield)
+23:17:21 | [BuildingSetManager] Deleted file: Airfield
+23:17:21 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Airfield.vpp
+23:17:23 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<6275.396484, 21.130339, 9360.354492>)
+23:17:25 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<6285.164063, 21.047867, 9357.411133>)
+23:17:26 | "Mark" (steamid=76561198950594742) toggled freecam
+23:18:7 | Player "[CMDS]Templario" (steamId=76561198080265279) connected to server!
+23:18:9 | "Mark" (steamid=76561198950594742) Spawned Item: (Barrel_Green)
+23:18:12 | "Mark" (steamid=76561198950594742) Spawned Item: (Barrel_Green)
+23:18:58 | Player "Survivor" (steamId=76561198813550115) connected to server!
+23:19:9 | "Mark" (steamid=76561198950594742) deleted object "ZmbM_MechanicSkinny_Blue" (pos=<6288.167480, 21.160002, 9333.861328>)
+23:19:27 | "Sabonete" (steamid=76561198253386609) toggled freecam
+23:19:27 | "Sabonete" (steamid=76561198253386609) toggled freecam
+23:19:31 | "Sabonete" (steamid=76561198253386609) toggled freecam
+23:19:45 | Player "Sabonete" (steamId=76561198253386609) disconnected from server.
+23:19:45 | Player "Exodia" (steamId=76561198245431376) disconnected from server.
+23:19:45 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) disconnected from server.
+23:19:45 | Player "=FURY=SANTANA" (steamId=76561199228878387) disconnected from server.
+23:19:45 | Player "=FURY=CrN" (steamId=76561198100945209) disconnected from server.
+23:19:45 | Player "[CMDS]Templario" (steamId=76561198080265279) disconnected from server.
+23:19:45 | Player "Toy Story" (steamId=76561198133211909) disconnected from server.
+23:19:45 | Player "Survivor" (steamId=76561198813550115) disconnected from server.
+23:19:45 | Player "[CMDS] BocaPreta" (steamId=76561198061748681) disconnected from server.
+23:19:47 | Player "Mark" (steamId=76561198950594742) disconnected from server.
+23:20:10 | Player "Mark" (steamId=76561198950594742) connected to server!
+23:20:14 | Player "[CMDS] BocaPreta" (steamId=76561198061748681) connected to server!
+23:20:18 | Player "Sabonete" (steamId=76561198253386609) connected to server!
+23:20:22 | Player "Mark" (steamId=76561198950594742) connected to server!
+23:20:23 | Player "[CMDS] BocaPreta" (steamId=76561198061748681) connected to server!
+23:20:28 | Player "=FURY=Brunner" (steamId=76561199031638818) connected to server!
+23:20:31 | Player "Sabonete" (steamId=76561198253386609) connected to server!
+23:20:43 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+23:20:46 | "Mark" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+23:20:58 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+23:21:1 | "Sabonete" (steamid=76561198253386609) toggled godmode
+23:21:4 | Player "=FURY=SANTANA" (steamId=76561199228878387) connected to server!
+23:21:5 | "Sabonete" (steamid=76561198253386609) toggled freecam
+23:21:15 | Player "=FURY=SANTANA" (steamId=76561199228878387) connected to server!
+23:21:23 | Player "Toy Story" (steamId=76561198133211909) connected to server!
+23:21:27 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Airfield.vpp
+23:21:27 | [BuildingSetManager] Saving & Reloading Building Set:Airfield
+23:21:27 | "Mark" (steamid=76561198950594742) updated building set (Airfield)
+23:21:27 | [BuildingSetManager] Deleted file: Airfield
+23:21:27 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Airfield.vpp
+23:21:39 | Player "Toy Story" (steamId=76561198133211909) connected to server!
+23:22:13 | "Sabonete" (steamid=76561198253386609) toggled freecam
+23:22:15 | Player "[Mi-6] Gui" (steamId=76561198306757012) connected to server!
+23:22:26 | Player "[CMDS]Templario" (steamId=76561198080265279) connected to server!
+23:22:34 | Player "[CMDS]Templario" (steamId=76561198080265279) connected to server!
+23:23:1 | Player "Exodia" (steamId=76561198245431376) connected to server!
+23:23:9 | Player "Toy Story" (steamId=76561198133211909) disconnected from server.
+23:23:36 | Player "=FURY=CrN" (steamId=76561198100945209) connected to server!
+23:24:0 | Player "=FURY=CrN" (steamId=76561198100945209) connected to server!
+23:25:26 | "Mark" (steamid=76561198950594742) deleted building set (Airfield)
+23:25:34 | [WeatherManager] Send Data Count is 0
+23:25:35 | "Mark" (steamid=76561198950594742) teleported to crosshair (pos=<6314.918457, 25.296337, 9371.456055>)
+23:25:39 | Player "Survivor" (steamId=76561198813550115) connected to server!
+23:25:56 | Player "Mark" (steamId=76561198950594742) disconnected from server.
+23:25:59 | Player "Mark" (steamId=76561198950594742) disconnected from server.
+23:26:24 | Player "Survivor" (steamId=76561198813550115) connected to server!
+23:26:24 | Player "Sabonete" (steamId=76561198253386609) disconnected from server.
+23:26:24 | Player "=FURY=SANTANA" (steamId=76561199228878387) disconnected from server.
+23:26:24 | Player "=FURY=CrN" (steamId=76561198100945209) disconnected from server.
+23:26:24 | Player "=FURY=Brunner" (steamId=76561199031638818) disconnected from server.
+23:26:25 | Player "[CMDS] BocaPreta" (steamId=76561198061748681) disconnected from server.
+23:26:25 | Player "Survivor" (steamId=76561198813550115) disconnected from server.
+23:26:26 | Player "[CMDS]Templario" (steamId=76561198080265279) disconnected from server.
+23:26:32 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) disconnected from server.
+23:26:32 | Player "[Mi-6] Gui" (steamId=76561198306757012) disconnected from server.

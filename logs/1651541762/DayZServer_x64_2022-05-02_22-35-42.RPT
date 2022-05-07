@@ -1,0 +1,492 @@
+
+
+=====================================================================
+== D:\OmegaManager\servers\2\DayZServer_x64.exe
+== ./servers/2/DayZServer_x64.exe -config=serverDZ.cfg.active -port=2502 -profiles=profiles  -adminlog -freezecheck -dologs "-mod=@CF;@Dabs Framework;@AC-Mod-Pack;@VPPAdminTools;@RON-MelkartCORE;@Dogtags;@Advanced Weapon Scopes;@GameLabs;@Durable Suppressors;@HellRetex Mod;@Dex Storage Stuff;@AC-Helicopter;@RaG_Hummer_Armored;@CarCover;"
+=====================================================================
+Exe timestamp: 2022/05/02 18:11:42
+Current time:  2022/05/02 22:35:42
+
+Version 1.17.154754
+22:35:42.234 String "STR_ACMODPACK_NAME" not found
+22:35:42.235 String "STR_DF_NAME" not found
+22:35:42.507 String "STR_server_shutdown" listed twice in "Global"
+22:35:42.531 Localization not present: STR_DATE_FORMAT_SHORT
+22:35:42.531 Localization not present: STR_TIME_FORMAT
+22:35:42.531 Localization not present: STR_CONFIG_CONTROLLER_NORMAL_LOOK
+22:35:42.531 Localization not present: STR_CONFIG_CONTROLLER_REVERSED_LOOK
+22:35:42.531 Localization not present: STR_MP_VALIDERROR
+22:35:42.531 Localization not present: STR_MP_CONNECTION_LOOSING
+22:35:42.531 Localization not present: STR_MSG_MP_NO_PASSWORD
+22:35:42.531 Localization not present: STR_MSG_LAUNCH_GAME
+22:35:42.531 Localization not present: STR_LOAD_INIT
+22:35:42.531 Localization not present: STR_LOAD_WORLD
+22:35:42.531 Localization not present: STR_LOAD_GAME
+22:35:42.531 Localization not present: STR_SAVE_GAME
+22:35:42.531 Localization not present: STR_MP_CONNECT
+22:35:42.531 Localization not present: STR_MP_DISCONNECT
+22:35:42.531 Localization not present: STR_MP_CONNECTING
+22:35:42.531 Localization not present: STR_MP_TIMEOUT
+22:35:42.531 Localization not present: STR_DISP_CLIENT_TEXT_EDIT
+22:35:42.531 Localization not present: STR_MP_LOGIN_QUEUE_FULL
+22:35:42.533 Localization not present: STR_DATE_FORMAT_SHORT
+22:35:42.533 Localization not present: STR_TIME_FORMAT
+22:35:42.533 Localization not present: STR_CONFIG_CONTROLLER_NORMAL_LOOK
+22:35:42.533 Localization not present: STR_CONFIG_CONTROLLER_REVERSED_LOOK
+22:35:42.533 Localization not present: STR_MP_VALIDERROR
+22:35:42.533 Localization not present: STR_MP_CONNECTION_LOOSING
+22:35:42.533 Localization not present: STR_MSG_MP_NO_PASSWORD
+22:35:42.533 Localization not present: STR_MSG_LAUNCH_GAME
+22:35:42.533 Localization not present: STR_LOAD_INIT
+22:35:42.533 Localization not present: STR_LOAD_WORLD
+22:35:42.533 Localization not present: STR_LOAD_GAME
+22:35:42.533 Localization not present: STR_SAVE_GAME
+22:35:42.533 Localization not present: STR_MP_CONNECT
+22:35:42.533 Localization not present: STR_MP_DISCONNECT
+22:35:42.533 Localization not present: STR_MP_CONNECTING
+22:35:42.533 Localization not present: STR_MP_TIMEOUT
+22:35:42.533 Localization not present: STR_DISP_CLIENT_TEXT_EDIT
+22:35:42.533 Localization not present: STR_MP_LOGIN_QUEUE_FULL
+22:35:42.554 Initializing stats manager.
+22:35:42.556 Stats config disabled.
+22:35:49.180 Conflicting addon Building_dp in 'dp_buildings\roof\', previous definition in 'dp_buildings\door\'
+22:35:49.181 Conflicting addon Building_dp in 'dp_buildings\wall\', previous definition in 'dp_buildings\door\'
+22:35:49.181 Conflicting addon Building_dp in 'dp_buildings\metal_door\', previous definition in 'dp_buildings\door\'
+22:35:49.183 Conflicting addon Building_dp in 'dp_buildings\wall_big\', previous definition in 'dp_buildings\door\'
+22:35:49.185 Conflicting addon Building_dp in 'dp_buildings\window_shield\', previous definition in 'dp_buildings\door\'
+22:35:49.187 Conflicting addon dp_furniture in 'dp_furniture\gunrack\', previous definition in 'dp_furniture\shelf_woodst\'
+22:35:49.187 Conflicting addon dp_furniture in 'dp_furniture\workbench\', previous definition in 'dp_furniture\shelf_woodst\'
+22:35:49.188 Conflicting addon dp_furniture in 'dp_furniture\metcabinet\', previous definition in 'dp_furniture\shelf_woodst\'
+22:35:49.189 Conflicting addon dp_furniture in 'dp_furniture\guncabinet\', previous definition in 'dp_furniture\shelf_woodst\'
+22:35:49.191 Conflicting addon dp_furniture in 'dp_furniture\mangal\', previous definition in 'dp_furniture\shelf_woodst\'
+22:35:49.192 Conflicting addon dp_furniture in 'dp_furniture\trashcan\', previous definition in 'dp_furniture\shelf_woodst\'
+22:35:49.192 Conflicting addon dp_furniture in 'dp_furniture\box_big\', previous definition in 'dp_furniture\shelf_woodst\'
+22:35:49.193 Conflicting addon dp_furniture in 'dp_furniture\waterbarrel\', previous definition in 'dp_furniture\shelf_woodst\'
+22:35:49.194 Conflicting addon dp_furniture in 'dp_furniture\box_small\', previous definition in 'dp_furniture\shelf_woodst\'
+22:35:49.195 Conflicting addon dp_furniture in 'dp_furniture\rifbox\', previous definition in 'dp_furniture\shelf_woodst\'
+22:35:49.195 Conflicting addon dp_furniture in 'dp_furniture\shelf_materials\', previous definition in 'dp_furniture\shelf_woodst\'
+22:35:49.196 Conflicting addon dp_furniture in 'dp_furniture\weapons_stand\', previous definition in 'dp_furniture\shelf_woodst\'
+22:35:49.197 Conflicting addon dp_furniture in 'dp_furniture\hromokey\', previous definition in 'dp_furniture\shelf_woodst\'
+22:35:49.197 Conflicting addon dp_furniture in 'dp_furniture\sounds\', previous definition in 'dp_furniture\shelf_woodst\'
+22:35:49.198 Conflicting addon dp_furniture in 'dp_furniture\refrigerator\', previous definition in 'dp_furniture\shelf_woodst\'
+22:35:49.200 Conflicting addon dp_furniture in 'dp_furniture\', previous definition in 'dp_furniture\shelf_woodst\'
+22:35:49.214 Conflicting addon DZ_Gear_Camping in 'WoodenBox\', previous definition in 'no_tent_damage\'
+22:35:49.220 String "VSTR_TOOLTIP_TITLE_NOTICE" listed twice in "Global"
+22:35:49.635 Conflicting addon DZ_Gear_Camping in 'DZ\gear\camping\', previous definition in 'no_tent_damage\'
+22:35:50.271 Updating base class All->AllVehicles, by DZ\data\config.bin/CfgVehicles/Man/
+22:35:50.271 Updating base class Transport->AllVehicles, by DZ\data\config.bin/CfgVehicles/Air/
+22:35:50.309 Updating base class Container_Base->TentBase, by DZ\gear\camping\config.bin/CfgVehicles/MediumTent/
+22:35:50.309 Updating base class Container_Base->TentBase, by DZ\gear\camping\config.bin/CfgVehicles/LargeTent/
+22:35:50.310 Updating base class Container_Base->TentBase, by DZ\gear\camping\config.bin/CfgVehicles/CarTent/
+22:35:50.312 Updating base class ->Inventory_Base, by DZ\gear\camping\config.bin/CfgVehicles/CombinationLock/
+22:35:50.322 Updating base class Name->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/Hill/
+22:35:50.322 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/ViewPoint/
+22:35:50.322 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/RockArea/
+22:35:50.322 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/BorderCrossing/
+22:35:50.322 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationBroadleaf/
+22:35:50.322 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationFir/
+22:35:50.322 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationPalm/
+22:35:50.322 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationVineyard/
+22:35:50.386 Updating base class ->Rifle_Base, by DZ\weapons\firearms\m4\config.bin/cfgWeapons/M4A1_Base/
+22:35:50.386 Updating base class ->M4A1_Base, by DZ\weapons\firearms\m4\config.bin/cfgWeapons/M4A1/
+22:35:50.392 Updating base class CivSedanWheel->CarWheel, by NemesisScripts\config.bin/cfgVehicles/CivSedanWheel_Ruined/
+22:35:50.392 Updating base class HatchbackDoors_Driver->CivSedanDoors_Driver, by NemesisScripts\config.bin/cfgVehicles/HatchbackDoors_CoDriver/
+22:35:50.393 Updating base class Inventory_Base->HouseNoDestruct, by NemesisScripts\config.bin/cfgVehicles/GardenPlot/
+22:35:50.393 Updating base class MapDefaults->, by VanillaPPMap\config.bin/RscMapControl/
+22:35:50.866 Updating base class ->ProxyAttachment, by dp_furniture\locker\config.cpp/CfgNonAIVehicles/ProxyBody/
+22:35:51.249 Updating base class Weather->, by DZ\sounds\hpp\config.bin/CfgWorlds/CAWorld/Weather/
+22:35:51.402 Updating base class CivSedanDoors_Driver->HatchbackDoors_Driver, by ItemCollisionNerf\config.bin/cfgVehicles/HatchbackDoors_CoDriver/
+22:35:51.415 Updating base class ->Inventory_Base, by dp_furniture\config.cpp/CfgVehicles/dp_deploy_furniture_kit/
+22:35:51.677 Updating base class ProxyAttachment->ProxyVehiclePart, by rag\vehicles\rag_hummer\config.bin/CfgNonAIVehicles/Proxyshovel/
+22:35:51.677 rag\vehicles\rag_hummer\config.bin/CfgNonAIVehicles/Proxyshovel.inventorySlot: Cannot update non array from array
+22:35:52.291 ENGINE    (W): No module info used, trying to identify -> 0xEDDF0000
+
+22:35:52.386 SCRIPT    (W): @"scripts/1_Core/proto\enwidgets.c,339": Missing script declaration for method 'SliderWidget.SetMinMax'
+
+22:35:52.386 SCRIPT    (W): @"scripts/1_Core/proto\enwidgets.c,339": Missing script declaration for method 'SliderWidget.GetStep'
+
+22:35:52.386 SCRIPT    (W): @"scripts/1_Core/proto\enwidgets.c,339": Missing script declaration for method 'SliderWidget.SetStep'
+
+22:35:52.397 [Inputs] Loading inputs default "bin/constants.xml"
+22:35:52.400 [Inputs] Loading inputs default "bin/specific.xml"
+22:35:52.400 [Inputs] Loading inputs default "DabsFramework/Scripts/Data/Inputs.xml"
+22:35:52.400 [Inputs] Loading inputs default "LogoMod/Scripts/Data/Inputs.xml"
+22:35:52.401 [Inputs] Loading inputs default "VanillaPPMap/data/modded_Inputs.xml"
+22:35:52.401 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+22:35:52.401 [Inputs] Loading inputs default "ZomBerry/AT/scripts/data/inputs.xml"
+22:35:52.402 [Inputs] Loading inputs default "AC-Mod-Pack/AC-Inputs/Data/Inputs.xml"
+22:35:52.403 [Inputs] Loading inputs default "SchanaModParty/Data/Inputs.xml"
+22:35:52.403 !!! [Inputs] Improper InputAccess declaration "UALookAroundToggle" :: default set instead
+22:35:52.403 !!! [Inputs] Improper InputAccess declaration "UAVoiceOverNetToggle" :: default set instead
+22:35:52.403 [Inputs] Loading inputs cfg "profiles\Users\Survivor\Server.core.xml"
+22:35:52.403 !!! [Inputs] Cannot read inputs cfg "profiles\Users\Survivor\Server.core.xml", parser error
+22:35:52.403 [Inputs] Loading inputs cfg "bin/core.xml"
+22:35:52.403 !!! [Inputs] Cannot load input preset "user", file does not exist
+22:35:52.404 [Inputs] Exporting inputs cfg "profiles\Users\Survivor\Server.core.xml"
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/entities\object.c,8": Missing script declaration for method 'Object.ConfigGetTextArrayRaw'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/entities\object.c,8": Missing script declaration for method 'Object.GetAllowDamage'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/entities\object.c,8": Missing script declaration for method 'Object.ConfigGetStringRaw'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/gameplay.c,1113": Missing script declaration for method 'OptionsAccess.SetScriptEvents'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/gameplay.c,1113": Missing script declaration for method 'OptionsAccess.GetScriptEvents'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/sound.c,16": Missing script declaration for method 'AbstractSoundScene.GetAudioLevel'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/sound.c,16": Missing script declaration for method 'AbstractSoundScene.GetSilenceThreshold'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/global\game.c,7": Missing script declaration for method 'CGame.ConfigGetTextArrayRaw'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/global\game.c,7": Missing script declaration for method 'CGame.EnableMicCapture'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/global\game.c,7": Missing script declaration for method 'CGame.GetHostName'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/global\game.c,7": Missing script declaration for method 'CGame.IsInPartyChat'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/global\game.c,7": Missing script declaration for method 'CGame.GetHostData'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/global\game.c,7": Missing script declaration for method 'CGame.IsMicCapturing'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/global\game.c,7": Missing script declaration for method 'CGame.ConfigGetTextRaw'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/inputapi\uainput.c,162": Missing script declaration for method 'UAInputAPI.GetButtonIcon'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/inputapi\uainput.c,162": Missing script declaration for method 'UAInputAPI.DeactivateModificator'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/inputapi\uainput.c,23": Missing script declaration for method 'UAInput.IsLimitConditionActive'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/human.c,14": Missing script declaration for method 'HumanInputController.ResetFreeLookToggle'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/global\errormodulehandler\errormodulehandler.c,26": Missing script declaration for method 'ErrorModuleHandler.GetLastClientMessage'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/global\errormodulehandler\errormodulehandler.c,26": Missing script declaration for method 'ErrorModuleHandler.GetLastServerMessage'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/global\errormodulehandler\errormodulehandler.c,26": Missing script declaration for method 'ErrorModuleHandler.GetLastServerMessageByCode'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/global\errormodulehandler\errormodulehandler.c,26": Missing script declaration for method 'ErrorModuleHandler.GetLastClientMessageByCode'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/vehicles\car.c,59": Missing script declaration for method 'Car.SetEnginePos'
+
+22:35:53.32 SCRIPT    (W): @"scripts/3_Game/vehicles\car.c,59": Missing script declaration for method 'Car.GetEnginePos'
+
+22:35:54.175 ANIMATION (E): Can't load @CarCover/Anims/cfg/skeletons.anim.xml
+
+22:35:54.175 ANIMATION (E): Failed to open file, line 0, column 0
+
+22:35:54.175 ANIMATION (E): Can't load @RaG_Hummer_Armored/Anims/cfg/skeletons.anim.xml
+
+22:35:54.175 ANIMATION (E): Failed to open file, line 0, column 0
+
+22:35:54.175 ANIMATION (E): Can't load @AC-Helicopter/Anims/cfg/skeletons.anim.xml
+
+22:35:54.175 ANIMATION (E): Failed to open file, line 0, column 0
+
+22:35:54.175 ANIMATION (E): Can't load @Dex Storage Stuff/Anims/cfg/skeletons.anim.xml
+
+22:35:54.175 ANIMATION (E): Failed to open file, line 0, column 0
+
+22:35:54.175 ANIMATION (E): Can't load @HellRetex Mod/Anims/cfg/skeletons.anim.xml
+
+22:35:54.175 ANIMATION (E): Failed to open file, line 0, column 0
+
+22:35:54.175 ANIMATION (E): Can't load @Durable Suppressors/Anims/cfg/skeletons.anim.xml
+
+22:35:54.175 ANIMATION (E): Failed to open file, line 0, column 0
+
+22:35:54.175 ANIMATION (E): Can't load @GameLabs/Anims/cfg/skeletons.anim.xml
+
+22:35:54.175 ANIMATION (E): Failed to open file, line 0, column 0
+
+22:35:54.175 ANIMATION (E): Can't load @Advanced Weapon Scopes/Anims/cfg/skeletons.anim.xml
+
+22:35:54.175 ANIMATION (E): Failed to open file, line 0, column 0
+
+22:35:54.175 ANIMATION (E): Can't load @Dogtags/Anims/cfg/skeletons.anim.xml
+
+22:35:54.175 ANIMATION (E): Failed to open file, line 0, column 0
+
+22:35:54.175 ANIMATION (E): Can't load @RON-MelkartCORE/Anims/cfg/skeletons.anim.xml
+
+22:35:54.175 ANIMATION (E): Failed to open file, line 0, column 0
+
+22:35:54.175 ANIMATION (E): Can't load @VPPAdminTools/Anims/cfg/skeletons.anim.xml
+
+22:35:54.175 ANIMATION (E): Failed to open file, line 0, column 0
+
+22:35:54.175 ANIMATION (E): Can't load AC-Mod-Pack/Anims/cfg/skeletons.anim.xml
+
+22:35:54.175 ANIMATION (E): Failed to open file, line 0, column 0
+
+22:35:54.175 ANIMATION (E): Can't load @Dabs Framework/Anims/cfg/skeletons.anim.xml
+
+22:35:54.175 ANIMATION (E): Failed to open file, line 0, column 0
+
+22:35:54.175 ANIMATION (E): Can't load @CF/Anims/cfg/skeletons.anim.xml
+
+22:35:54.175 ANIMATION (E): Failed to open file, line 0, column 0
+
+22:35:54.175 ANIMATION (E): Can't load Bliss/Anims/cfg/skeletons.anim.xml
+
+22:35:54.175 ANIMATION (E): Failed to open file, line 0, column 0
+
+=======================================================
+-------------------------------------------------------
+Time: 22:35:54
+Exception code: C0000005 ACCESS_VIOLATION at EE1B0009
+Allocator: system
+graphics:  No
+resolution:  160x120x32
+Addons:
+  CA_AH6 in CA-AH6\, DZ_Anims_Anm_Player in DZ\anims\anm\player\
+  AC_Inputs in AC-Mod-Pack\AC-Inputs\, CP1_base in CP1\models\base\
+  AC_StartingEquipSetup in AC-Mod-Pack\AC-StartingEquipSetup\
+  DZ_Weapons_Shotguns_MP133 in DZ\weapons\shotguns\mp133\
+  AC_Boost in AC-Mod-Pack\AC-Boost\, DZ_Anims_Cfg in DZ\anims\cfg\
+  DZ_Weapons_Supports in DZ\weapons\attachments\support\, DZ_Scripts in scripts\
+  AD_SpecterDR in AdvancedWeaponScopes\specterdr\
+  EXP_BottleSicknessReduced in EXP_BottleSicknessReduced\Scripts\
+  DZ_Worlds_Enoch_Navmesh in DZ\worlds\enoch\navmesh\
+  AC_AutoRun in AC-Mod-Pack\AC-AutoRun\, JM_CF_GUI in JM\CF\GUI\
+  DZ_Weapons_Firearms in DZ\weapons\firearms\, DZM_VPPStaticItems in VPPStaticItems\
+  Dex_Proxies in Dex_Storage\data\proxies\
+  DZ_Animals_AnimConfig in DZ\animals\animconfig\
+  HRM_GearsAssets in H2A\HRM\GearsAssets\, GDZ_Codelock in CodeLock\codelock\
+  AC_Logs in AC-Mod-Pack\AC-Logs\, DZ_Gear_Consumables in DZ\gear\consumables\
+  DZ_Structures_Bliss_Specific in DZ\structures_bliss\specific\
+  DZ_Weapons_Archery_Crossbow in DZ\weapons\archery\crossbow\
+  DZ_Pistols_mkii in DZ\weapons\pistols\mkii\
+  DZ_Weapons_Firearms_SaigaK in DZ\weapons\shotguns\saiga\
+  CP1_most in CP1\models\most\, DZ_AI in DZ\AI\, DZ_Gear_Books in DZ\gear\books\
+  DZ_Data_Bliss in DZ\data_bliss\
+  DZ_Weapons_Launchers_RPG7 in DZ\weapons\launchers\rpg7\
+  DZ_Structures_Rail in DZ\structures\rail\
+  LBmaster_CarCrashFix in LBmaster_CarCrashFix\
+  DZ_Characters_Vests in DZ\characters\vests\
+  AC_CheckIdentity in AC-Mod-Pack\AC-CheckIdentity\, DZ_Water in DZ\water\
+  DZ_Vehicles_Wheeled in DZ\vehicles\wheeled\, CarUpdate in CarsFix\
+  BuildAnywhere_itemnerf in ItemCollisionNerf\
+  DZ_Structures_Bliss_Industrial in DZ\structures_bliss\industrial\
+  DZ_Weapons_Firearms_M249Para in DZ\weapons\firearms\m249\
+  DZ_Weapons_Melee_Blunt in DZ\weapons\melee\blunt\
+  DZ_Pistols_CZ75 in DZ\weapons\pistols\cz75\
+  DZ_Pistols_Flaregun in DZ\weapons\pistols\flaregun\
+  ReduceGloveAndShoeDmg in ReduceGloveAndShoeDmg\
+  AC_Stamina in AC-Mod-Pack\AC-Stamina\
+  AD_MosinMount in AdvancedWeaponScopes\mosinmount\, CA_UltraLight in CA-UltraLight\
+  DZ_data_aiconfigs in DZ\data\aiconfigs\
+  DZ_Structures_BuildingParts in DZ\structures\Proxy_BuildingParts\
+  AdvancedWeaponScopes in AdvancedWeaponScopes\
+  AC_ClearZone in AC-Mod-Pack\AC-ClearZone\, DZ_Sounds_Weapons in DZ\sounds\weapons\
+  DZ_Weapons_Firearms_M4 in DZ\weapons\firearms\m4\
+  DZ_Weapons_Firearms_VSS in DZ\weapons\firearms\vss\
+  DZ_Structures_Walls in DZ\structures\walls\
+  DZ_Animals_ovis_aries in DZ\animals\ovis_aries\
+  DZ_Animals_ovis_aries_fem in DZ\animals\ovis_aries_fem\
+  DZ_Characters_Glasses in DZ\characters\glasses\
+  DZ_Characters_Gloves in DZ\characters\gloves\
+  DZ_Animals_capra_hircus in DZ\animals\capra_hircus\, CA_Mi17 in CA-Mi17\
+  DZ_Weapons_Archery_Bow_pvc in DZ\weapons\archery\bow_pvc\
+  DZ_Pistols_pb6p9 in DZ\weapons\pistols\pb6p9\, CP1_lift in CP1\models\lift\
+  DZ_Gear_Crafting in DZ\gear\crafting\, DZ_Gear_Camping in no_tent_damage\
+  HDSN_CloseOpenAnywhere in CloseOpenAnywhere\
+  NoPaperLitter_scripts in TH_NoPaperLitter\, CA_XH9_Warbird in CA-XH9-Warbird\
+  DZ_AI_Bliss in DZ\AI_bliss\, DZ_Structures_Wrecks in DZ\structures\wrecks\
+  DZ_Weapons_Firearms_CZ527 in DZ\weapons\firearms\cz527\
+  DZ_Weapons_Firearms_AK74 in DZ\weapons\firearms\ak74\
+  Dogtags_Scripts in WRDG\Dogtags\Scripts\
+  DZ_Characters_Zombies in DZ\characters\zombies\
+  DZ_Structures_Bliss_Residential in DZ\structures_bliss\residential\
+  AC_StaticCarCrash in AC-Mod-Pack\AC-StaticCarCrash\, DZ_Data in DZ\data\
+  DZ_Animals_bos_taurus in DZ\animals\bos_taurus\
+  DZ_Sounds_Effects in DZ\sounds\hpp\
+  DZ_Weapons_Firearms_SKS in DZ\weapons\firearms\sks\
+  DZ_Weapons_Firearms_Winchester70 in DZ\weapons\firearms\winchester70\
+  DZ_Weapons_Muzzles in DZ\weapons\attachments\muzzle\
+  AC_Scoreboard in AC-Mod-Pack\AC-Scoreboard\, DZ_Water_Bliss in DZ\water_bliss\
+  dp_buildings_metal_door_build in dp_buildings\metal_door\build\
+  DZ_Structures_Roads in DZ\structures\roads\
+  AD_NFATACR in AdvancedWeaponScopes\nf_atacr\
+  DZM_VPPAdminToolsScripts in VPPAdminTools\, SchanaModParty in SchanaModParty\
+  DZ_Animals_capreolus_capreolus_fem in DZ\animals\capreolus_capreolus_fem\
+  Dex_Storage in Dex_Storage\, GameLabs_Scripts in GameLabs\Scripts\
+  DZ_DOJ_Sounds_Effects in BetterSnapSounds\sounds\hpp\
+  DZ_Animals_gallus_gallus_domesticus in DZ\animals\gallus_gallus_domesticus\
+  DZ_Surfaces in DZ\surfaces\, DZ_Gear_Cooking in DZ\gear\cooking\
+  DZ_Weapons_Firearms_Trumpet in DZ\weapons\firearms\trumpet\
+  DZ_Weapons_Misc in DZ\weapons\misc\, RPC_Scripts in JM\CF\Legacy\
+  DZ_Structures_Industrial in DZ\structures\industrial\
+  DZ_Characters_Headgear in DZ\characters\headgear\
+  DZ_Weapons_Launchers_M203 in DZ\weapons\launchers\m203\
+  DZ_Weapons_Projectiles in DZ\weapons\projectiles\, RFDW in ReducedWeaponDamage\
+  DZ_Rocks_Bliss in DZ\rocks_bliss\, Building_dp in dp_buildings\door\
+  DZ_Animals_bos_taurus_fem in DZ\animals\bos_taurus_fem\, CP1 in CP1\
+  ch_bases in ch_bases\, DZ_Characters_Pants in DZ\characters\pants\
+  AC_EarPlugs in AC-Mod-Pack\AC-EarPlugs\
+  DZ_Weapons_Firearms_MosinNagant in DZ\weapons\firearms\mosin9130\
+  DZ_Pistols_DE in DZ\weapons\pistols\de\
+  DZ_Weapons_Attachments_Data in DZ\weapons\attachments\data\
+  DZ_Spawn_Proxies in DZ\data\proxies\, DZ_UI in DZ\ui\
+  DZ_Structures_Military in DZ\structures\military\, DZ_Rocks in DZ\rocks\
+  Dex_Gunwall in Dex_Storage\data\gunwall\, GoreZ in GoreZ\
+  LogoMod_Scripts in LogoMod\scripts\
+  DZ_Worlds_ChernarusPlus_CE in DZ\worlds\chernarusplus\ce\
+  AC_DayZPlus in AC-Mod-Pack\AC-DayZPlus\
+  AC_Helicopter in AC-Mod-Pack\AC-Helicopter\
+  DZ_Worlds_Enoch_Data in DZ\worlds\enoch\data\
+  DZ_Gear_Containers in DZ\gear\containers\, DZ_Structures in DZ\structures\data\
+  NemesisScripts in NemesisScripts\
+  DZ_Structures_Bliss_Walls in DZ\structures_bliss\walls\, NoCrouch in NoCrouch\
+  AD_VanillaTweaks_M16 in AdvancedWeaponScopes\vanillatweaks\m16\
+  zomberry_scripts in ZomBerry\AT\scripts\
+  DZ_Weapons_Firearms_aug in DZ\weapons\firearms\aug\
+  DZ_Weapons_Melee_Blade in DZ\weapons\melee\blade\
+  DZ_Weapons_Magazines in DZ\weapons\attachments\magazine\
+  AC_Compass in AC-Mod-Pack\AC-Compass\, VanillaPlusPlus in VanillaPPMap\
+  DZ_Surfaces_Bliss in DZ\surfaces_bliss\, DZ_Gear_Tools in DZ\gear\tools\
+  HRM_Temporary in H2A\HRM\Temporary\, AC_Weather in AC-Mod-Pack\AC-Weather\
+  Dex_Guncase in Dex_Storage\data\guncase\
+  rag_hummer_Armored in rag\vehicles\rag_hummer\
+  SchanaModPartyDefine in SchanaModPartyDefine\
+  DZ_Weapons_Archery_Bow_Recurve in DZ\weapons\archery\bow_recurve\
+  DZ_Pistols_Red9 in DZ\weapons\pistols\red9\
+  Dogtags_Characters in WRDG\Dogtags\Characters\, AC_Chat in AC-Mod-Pack\AC-Chat\
+  DZ_Structures_Furniture in DZ\structures\furniture\
+  DZ_Animals_capra_hircus_fem in DZ\animals\capra_hircus_fem\
+  DZ_Weapons_Firearms_SVD in DZ\weapons\firearms\svd\
+  DZ_Weapons_Firearms_groza in DZ\weapons\firearms\ots14\
+  DZ_Weapons_Firearms_AK101 in DZ\weapons\firearms\ak101\
+  AC_ServerInformation in AC-Mod-Pack\AC-ServerInformation\, CarCover in CarCover\
+  AC_CombatLog in AC-Mod-Pack\AC-CombatLog\, WornRepair in WornRepair\
+  DZ_Structures_Bliss_Roads in DZ\structures_bliss\roads\
+  DZ_Structures_Ruins in DZ\structures\ruins\
+  DZ_Worlds_Enoch_CE in DZ\worlds\enoch\ce\
+  DZ_Structures_Bliss_Military in DZ\structures_bliss\military\
+  DZ_Weapons_Archery in DZ\weapons\archery\
+  DZ_Weapons_Firearms_pm73rak in DZ\weapons\firearms\pm73rak\
+  DZ_Weapons_Firearms_Ruger1022 in DZ\weapons\firearms\ruger1022\
+  DZ_Weapons_Firearms_PP19 in DZ\weapons\firearms\pp19\
+  DZ_Server_Data in DZ\server\, AC_Notification in AC-Mod-Pack\AC-Notification\
+  DayZPlayerCounter in playercounter\, AD_B13Mount in AdvancedWeaponScopes\b13mount\
+  DZ_Structures_Bliss_Rail in DZ\structures_bliss\rail\
+  AC_Admin in AC-Mod-Pack\AC-Admin\, AC_Mod_Pack in AC-Mod-Pack\AC\
+  DZ_Gear_Optics in DZ\gear\optics\, DZ_Characters_Heads in DZ\characters\heads\
+  AC_DayZ in AC-Mod-Pack\AC-DayZ\, AC_KillFeed in AC-Mod-Pack\AC-KillFeed\
+  DZ_Weapons_Firearms_UMP in DZ\weapons\firearms\ump45\
+  DZ_Pistols_p1 in DZ\weapons\pistols\p1\
+  AC_StaticItems in AC-Mod-Pack\AC-StaticItems\, AD_MRS in AdvancedWeaponScopes\mrs\
+  JM_CF_Scripts in JM\CF\Scripts\, DZ_Gear_Medical in DZ\gear\medical\
+  Dogtags_Defines in WRDG\Dogtags\Defines\, AD_PVS4 in AdvancedWeaponScopes\pvs4\
+  DZ_Animals_Bliss in DZ\animals_bliss\
+  DZ_Weapons_Explosives in DZ\weapons\explosives\
+  DZ_Weapons_Firearms_Scout in DZ\weapons\firearms\scout\
+  DZ_Worlds_Chernarusplus_World in DZ\worlds\chernarusplus\world\
+  AD_ACOG in AdvancedWeaponScopes\acog\, AD_XPS34 in AdvancedWeaponScopes\xps3\
+  AC_StatTrak in AC-Mod-Pack\AC-StatTrak\, HRM_Scripts in H2A\HRM\Scripts\
+  Dogtags_GUI in WRDG\Dogtags\GUI\
+  AD_LeupoldMk4 in AdvancedWeaponScopes\leupoldmk4\
+  GameLabsDefine in GameLabs\GameLabsDefine\
+  DZ_Weapons_Animations in DZ\weapons\animations\
+  DZ_Weapons_Archery_Bow_Quickie in DZ\weapons\archery\bow_quickie\
+  CP1_tower in CP1\models\tower\, Dogtags_Gear in WRDG\Dogtags\Gear\
+  AC_DropItems in AC-Mod-Pack\AC-DropItems\, AC_Helicopter_UH1H in AC-UH1H\
+  DZ_Radio in DZ\gear\radio\, AC_Jetpack in AC-Jetpack\
+  Dogtags_Integrations in WRDG\Dogtags\Integrations\
+  Traje_Preto in TWD\twd_characters\tops\coat\, dp_Buildings in dp_furniture\locker\
+  bliss_wind in WindReduction\, asr_durablesuppressors in asr_durablesuppressors\
+  AC_CreaturesZone in AC-Mod-Pack\AC-CreaturesZone\
+  DZ_Vehicles_Parts in DZ\vehicles\parts\
+  DZ_Weapons_Shotguns in DZ\weapons\shotguns\, CP1_house in CP1\models\house\
+  AC_StaticHeliCrash in AC-Mod-Pack\AC-StaticHeliCrash\
+  DZ_Gear_Drinks in DZ\gear\drinks\, AD_Pilad in AdvancedWeaponScopes\pilad\
+  DZ_Characters_Backpacks in DZ\characters\backpacks\
+  DZ_Structures_Signs in DZ\structures\signs\, DZ_Gear_Traps in DZ\gear\traps\
+  DZ_Sounds_Bliss in DZ\sounds_bliss\, BuildAnywhere_V3 in BuildAnywhere_v3\
+  GoldRaidTools in GoldRaidTools\, CodeLock in CodeLock\, HRM_Retex in H2A\HRM\Retex\
+  DZ_Animals_cervus_elaphus in DZ\animals\cervus_elaphus\
+  DZ_Gear_Cultivation in DZ\gear\cultivation\
+  DZ_Gear_Navigation in DZ\gear\navigation\
+  DZ_Weapons_Firearms_FAL in DZ\weapons\firearms\fal\
+  DZ_Weapons_Launchers in DZ\weapons\launchers\
+  DZ_Pistols_1911 in DZ\weapons\pistols\1911\
+  dp_furniture in dp_furniture\shelf_woodst\
+  DZ_Structures_Bliss_Ruins in DZ\structures_bliss\ruins\
+  DZ_Gear_Food in DZ\gear\food\, Dex_Box1 in Dex_Storage\data\box1\
+  DZ_data_trackingconfigs in DZ\data\trackingconfigs\
+  DZ_Weapons_Firearms_AKM in DZ\weapons\firearms\akm\
+  DZ_Weapons_Firearms_M16A2 in DZ\weapons\firearms\m16a2\
+  DZ_Weapons_Firearms_IZH18 in DZ\weapons\firearms\izh18\
+  DZ_Weapons_Melee_Powered in DZ\weapons\melee\powered\
+  DZ_Pistols_FNX45 in DZ\weapons\pistols\fnx45\
+  DZ_Pistols_Glock in DZ\weapons\pistols\glock\
+  DZ_Weapons_Lights in DZ\weapons\attachments\light\, DZ_Animals in DZ\animals\
+  JM_CF_Defines in JM\CF\Defines\, Dex_Box2 in Dex_Storage\data\box2\
+  BulletStacksPlusPlus in BulletStacksPlusPlus\, dp_buildings in dp_buildings\
+  dp_furniture_plantsbox in dp_furniture\plantsbox\
+  DZ_Weapons_Firearms_Famas in DZ\weapons\firearms\famas\
+  DZ_Pistols_Derringer in DZ\weapons\pistols\derringer\
+  DF_GUI in DabsFramework\GUI\, AD_OKP7 in AdvancedWeaponScopes\okp7\
+  Dex_FTWDBox in Dex_Storage\data\ftwdbox\, AC_Money in AC-Mod-Pack\AC-Money\
+  Dex_Box3 in Dex_Storage\data\box3\
+  AD_NFATACR_1_8 in AdvancedWeaponScopes\nf_atacr_1_8\
+  DZM_VPPAdminTools in VPPAdminTools\assets\
+  DZ_Pistols_Magnum in DZ\weapons\pistols\magnum\
+  AC_SpawnPoint in AC-Mod-Pack\AC-SpawnPoint\
+  DZ_Animals_sus_scrofa in DZ\animals\sus_scrofa\
+  Dogtags_LanguageCore in WRDG\Dogtags\LanguageCore\, BodyRemoval in BodyRemoval\
+  DZ_ModuleZ in DZ\modulesDayz\
+  DZ_Structures_Data_Bliss in DZ\structures_bliss\data\
+  DZ_Animals_canis_lupus in DZ\animals\canis_lupus\, GameLabs_GUI in GameLabs\GUI\
+  DZ_Characters_Tops in DZ\characters\tops\
+  DZ_data_aiconfigs_bliss in DZ\data_bliss\aiconfigs\
+  DZ_Plants_Bliss in DZ\plants_bliss\, Dex_Box4 in Dex_Storage\data\box4\
+  AC_Skinning in AC-Mod-Pack\AC-Skinning\
+  DZ_Animals_cervus_elaphus_feminam in DZ\animals\cervus_elaphus_fem\
+  DZ_Weapons_Firearms_MP5 in DZ\weapons\firearms\mp5\
+  DZ_Weapons_Launchers_LAW in DZ\weapons\launchers\law\
+  DZ_Weapons_Launchers_GP25 in DZ\weapons\launchers\gp25\
+  DZ_Pistols in DZ\weapons\pistols\
+  DZ_Weapons_Optics in DZ\weapons\attachments\optics\
+  DZ_Characters_Shoes in DZ\characters\shoes\, DF_Objects in DabsFramework\Objects\
+  AD_RMR in AdvancedWeaponScopes\rmr\, AD_DHF5 in AdvancedWeaponScopes\dhf5\
+  ch_bases_one_base in ch_bases\base_one\
+  DZ_Animals_sus_domesticus in DZ\animals\sus_domesticus\
+  DZ_Data_Data_ParticleEffects in DZ\data\data\particleeffects\
+  Traje_Preto_Sparda in TWD\twd_characters\
+  DZ_Characters_Masks in DZ\characters\masks\
+  DZ_Structures_Bliss_Wrecks in DZ\structures_bliss\wrecks\
+  AC_Stash in AC-Mod-Pack\AC-Stash\, DF_Scripts in DabsFramework\Scripts\
+  DZ_Worlds_Enoch in DZ\worlds\enoch\world\, DZ_Plants in DZ\plants\
+  DZ_Weapons_Ammunition in DZ\weapons\ammunition\
+  DZ_Weapons_Firearms_Repeater in DZ\weapons\firearms\repeater\
+  DZ_Nonlethal in DZ\weapons\nonlethal\, DZ_Characters_Belts in DZ\characters\belts\
+  AdminHatchet in AdminHatchet\
+  AC_StartingWeaponSetup in AC-Mod-Pack\AC-StartingWeaponSetup\
+  EPO_DisableDamageItemsInCargo in EPO_DisableDamageItemsInCargo\Scripts\
+  DZ_Animals_capreolus_capreolus in DZ\animals\capreolus_capreolus\
+  DZ_Structures_Residential in DZ\structures\residential\
+  DZ_Animals_ursus_arctos in DZ\animals_bliss\ursus_arctos\
+  DZ_Animals_gallus_gallus_domesticus_feminam in DZ\animals\gallus_gallus_domesticus_feminam\
+  DZ_Structures_Bliss_Signs in DZ\structures_bliss\signs\
+  DZ_Weapons_Firearms_cz61 in DZ\weapons\firearms\cz61\
+  DZ_weapons_nonlethal_DartGun in DZ\weapons\nonlethal\dartgun\
+  DZ_Pistols_Encore in DZ\weapons\pistols\longhorn\
+  DZ_Pistols_pmm in DZ\weapons\pistols\pmm\
+  DZ_Weapons_Shotguns_Izh43 in DZ\weapons\shotguns\izh43\
+  AC_Models in AC-Mod-Pack\AC-Models\, noMoreAh in noMoreAH\
+  AC_Locker in AC-Mod-Pack\AC-Locker\
+  DZ_Structures_Specific in DZ\structures\specific\
+  DZ_Characters in DZ\characters\data\
+  DZ_Weapons_Firearms_B95 in DZ\weapons\firearms\b95\
+  DZ_Weapons_Melee in DZ\weapons\melee\
+  DZ_Nonlethal_Shockpistol in DZ\weapons\nonlethal\shockpistol\
+Mods: @CarCover
+Version 1.17.154754
+Fault address:  EE1B0009 00:EE1B0009 Unknown module
+file:     
+world:    ChernarusPlus
+Prev. code bytes: 48 83 EC 20 33 F6 4C 8B F2 89 74 24 40 48 8B F9
+Fault code bytes: 48 8B 01 8D 56 01 48 8B 58 08 E8 D8 5A EE FF 48
+=======================================================
+note: Minidump has been generated into the file profiles\DayZServer_x64_2022-05-02_22-35-42_2022-05-02_22-35-54.mdmp

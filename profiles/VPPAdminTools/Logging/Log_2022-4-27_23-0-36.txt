@@ -1,0 +1,764 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-4-27_23-0-36
+====================================================================================
+23:0:36 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+23:0:36 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+23:0:36 | [PermissionManager] Perm (FreeCamera) has been registered!
+23:0:36 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuItemManager) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuServerManager) has been registered!
+23:0:36 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+23:0:36 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+23:0:36 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+23:0:36 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+23:0:36 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+23:0:36 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+23:0:36 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+23:0:36 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+23:0:36 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+23:0:36 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+23:0:36 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+23:0:36 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+23:0:36 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+23:0:36 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+23:0:36 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+23:0:36 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+23:0:36 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+23:0:36 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+23:0:36 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+23:0:36 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+23:0:36 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+23:0:36 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+23:0:36 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+23:0:36 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+23:0:36 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+23:0:36 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+23:0:36 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+23:0:36 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+23:0:36 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+23:0:36 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+23:0:36 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+23:0:36 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+23:0:36 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuBansManager) has been registered!
+23:0:36 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+23:0:36 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+23:0:36 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+23:0:36 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+23:0:36 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+23:0:36 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+23:0:36 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+23:0:36 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+23:0:36 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+23:0:36 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+23:0:36 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+23:0:36 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+23:0:36 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+23:0:36 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+23:0:36 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+23:0:36 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+23:0:36 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+23:0:36 | [PermissionManager] Adding Super Admin (76561198253386609)
+23:0:36 | [PermissionManager] Adding Super Admin (76561198950594742)
+23:0:36 | [PermissionManager] Adding Super Admin (76561198329721265)
+23:0:36 | [PermissionManager] Adding Super Admin (76561198140728342)
+23:0:36 | [PermissionManager] Loaded UserGroups.json
+23:0:36 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+23:0:36 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+23:0:36 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+23:0:36 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+23:0:36 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+23:0:36 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+23:0:36 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+23:0:36 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+23:0:36 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+23:0:36 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+23:0:36 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+23:0:36 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+23:0:36 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+23:0:36 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+23:0:36 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+23:0:36 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+23:0:36 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+23:0:36 | Building Sets Loaded: 5
+23:0:36 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+23:0:57 | Player "Lucawkz" (steamId=76561198063957890) connected to server!
+23:0:58 | Player "[YKZ]-tappes" (steamId=76561198990092287) connected to server!
+23:0:58 | Player "Biel FxR" (steamId=76561198050836260) connected to server!
+23:0:59 | Player "Diorno" (steamId=76561198142139495) connected to server!
+23:0:59 | Player "[YKZ] chron1c" (steamId=76561198205585613) connected to server!
+23:0:59 | Player "G A T O" (steamId=76561199207813177) connected to server!
+23:0:59 | Player "Hacan121" (steamId=76561198345012092) connected to server!
+23:1:1 | Player "Eloy" (steamId=76561197980095586) connected to server!
+23:1:9 | Player "[YKZ]-tappes" (steamId=76561198990092287) connected to server!
+23:1:9 | Player "Diorno" (steamId=76561198142139495) connected to server!
+23:1:9 | Player "Lucawkz" (steamId=76561198063957890) connected to server!
+23:1:9 | Player "Biel FxR" (steamId=76561198050836260) connected to server!
+23:1:9 | Player "[YKZ] chron1c" (steamId=76561198205585613) connected to server!
+23:1:10 | Player "G A T O" (steamId=76561199207813177) connected to server!
+23:1:10 | Player "Hacan121" (steamId=76561198345012092) connected to server!
+23:1:13 | Player "Eloy" (steamId=76561197980095586) connected to server!
+23:1:14 | Player "GabrielLobato" (steamId=76561198158375860) connected to server!
+23:1:34 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+23:1:43 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+23:1:59 | Player "Joker" (steamId=76561198038326260) connected to server!
+23:2:3 | Player "Betinho_maluco" (steamId=76561198057627157) connected to server!
+23:2:13 | Player "Betinho_maluco" (steamId=76561198057627157) connected to server!
+23:2:14 | Player "[HORDA] zBieL" (steamId=76561198001525812) connected to server!
+23:2:20 | Player "[L.B] Santorin" (steamId=76561199069721527) connected to server!
+23:2:22 | Player "Joker" (steamId=76561198038326260) connected to server!
+23:2:23 | Player "[HORDA] zBieL" (steamId=76561198001525812) connected to server!
+23:2:28 | Player "[L.B] ploodrinny" (steamId=76561198312062387) connected to server!
+23:2:35 | Player "[HORDA] JHON WICK" (steamId=76561198122075703) connected to server!
+23:2:36 | Player "[L.B] Santorin" (steamId=76561199069721527) connected to server!
+23:2:40 | Player "CharlinhoPsico" (steamId=76561198366562144) connected to server!
+23:2:44 | Player "[HORDA] JHON WICK" (steamId=76561198122075703) connected to server!
+23:2:54 | Player "[ONE] KARABULJHAN" (steamId=76561198100527842) connected to server!
+23:3:9 | Player "[ONE] KARABULJHAN" (steamId=76561198100527842) connected to server!
+23:3:28 | Player "[L.B] ploodrinny" (steamId=76561198312062387) connected to server!
+23:3:46 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) connected to server!
+23:3:59 | Player "Guijermo" (steamId=76561198080701997) connected to server!
+23:3:59 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) connected to server!
+23:4:11 | Player "Guijermo" (steamId=76561198080701997) connected to server!
+23:4:21 | Player "[ONE] JAPA" (steamId=76561198161060673) connected to server!
+23:4:37 | Player "[ONE] JAPA" (steamId=76561198161060673) connected to server!
+23:5:47 | Player "TripaSeca" (steamId=76561198093060507) connected to server!
+23:6:6 | Player "Ronin" (steamId=76561197979480347) connected to server!
+23:6:12 | Player "[HORDA]KAS" (steamId=76561199202697738) connected to server!
+23:6:36 | Player "[HORDA]KAS" (steamId=76561199202697738) connected to server!
+23:6:43 | Player "TripaSeca" (steamId=76561198093060507) connected to server!
+23:7:0 | Player "Eloy" (steamId=76561197980095586) disconnected from server.
+23:7:2 | Player "Joker" (steamId=76561198038326260) disconnected from server.
+23:7:12 | Player "jhean" (steamId=76561198819003355) connected to server!
+23:7:25 | Player "jhean" (steamId=76561198819003355) connected to server!
+23:7:26 | Player "Sagara" (steamId=76561198057660620) connected to server!
+23:7:37 | Player "Sagara" (steamId=76561198057660620) connected to server!
+23:8:49 | Player "DanielSam" (steamId=76561198867200764) connected to server!
+23:9:11 | Player "DanielSam" (steamId=76561198867200764) connected to server!
+23:11:24 | Player "SuperNoia" (steamId=76561198132169694) connected to server!
+23:11:25 | Player "Betinho_maluco" (steamId=76561198057627157) disconnected from server.
+23:11:38 | Player "SuperNoia" (steamId=76561198132169694) connected to server!
+23:11:44 | Player "Betinho_maluco" (steamId=76561198057627157) disconnected from server.
+23:12:8 | Player "[L.B] SeryD" (steamId=76561198072791642) connected to server!
+23:12:20 | Player "Betinho_maluco" (steamId=76561198057627157) connected to server!
+23:12:29 | Player "[L.B] SeryD" (steamId=76561198072791642) connected to server!
+23:12:31 | Player "Betinho_maluco" (steamId=76561198057627157) connected to server!
+23:19:7 | Player "ChukenThe3rd" (steamId=76561198134837847) connected to server!
+23:19:24 | Player "Lucawkz" (steamId=76561198063957890) disconnected from server.
+23:19:25 | Player "ChukenThe3rd" (steamId=76561198134837847) connected to server!
+23:19:42 | Player "[YKZ] Felps" (steamId=76561198892779186) connected to server!
+23:19:43 | Player "KISS" (steamId=76561199032621365) connected to server!
+23:20:1 | Player "bLisH" (steamId=76561198970690760) connected to server!
+23:20:1 | Player "[YKZ] Felps" (steamId=76561198892779186) connected to server!
+23:22:45 | Player "KOREA" (steamId=76561198253386609) connected to server!
+23:23:12 | Player "KOREA" (steamId=76561198253386609) connected to server!
+23:23:21 | "KOREA" (steamid=76561198253386609) toggled godmode
+23:23:23 | Player "GabrielLobato" (steamId=76561198158375860) disconnected from server.
+23:23:50 | Player "GabrielLobato" (steamId=76561198158375860) disconnected from server.
+23:24:19 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9570.815430, 34.524979, 12212.579102>)
+23:24:25 | Player "Gabriel" (steamId=76561198067216057) connected to server!
+23:25:15 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:25:40 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:25:48 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:26:14 | Player "Kenny" (steamId=76561198044562814) connected to server!
+23:26:33 | Player "Kenny" (steamId=76561198044562814) connected to server!
+23:26:36 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:26:36 | "KOREA" (steamid=76561198253386609) created new building set (CasteloJapa)
+23:27:27 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:27:27 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:27:27 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:27:27 | [BuildingSetManager] Deleted file: CasteloJapa
+23:27:27 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:28:5 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:28:5 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:28:5 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:28:5 | [BuildingSetManager] Deleted file: CasteloJapa
+23:28:5 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:28:38 | Player "TripaSeca" (steamId=76561198093060507) disconnected from server.
+23:28:46 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:28:46 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:28:46 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:28:46 | [BuildingSetManager] Deleted file: CasteloJapa
+23:28:46 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:29:59 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:29:59 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:29:59 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:29:59 | [BuildingSetManager] Deleted file: CasteloJapa
+23:29:59 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:30:22 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:30:22 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:30:22 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:30:22 | [BuildingSetManager] Deleted file: CasteloJapa
+23:30:22 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:30:39 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:30:39 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:30:39 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:30:39 | [BuildingSetManager] Deleted file: CasteloJapa
+23:30:39 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:30:43 | Player "CharlinhoPsico" (steamId=76561198366562144) disconnected from server.
+23:31:19 | Player "Sagara" (steamId=76561198057660620) disconnected from server.
+23:31:21 | Player "Sagara" (steamId=76561198057660620) disconnected from server.
+23:31:35 | Player "[L.B]TropaDoEnguisa" (steamId=76561198211423224) connected to server!
+23:31:50 | Player "[L.B]TropaDoEnguisa" (steamId=76561198211423224) connected to server!
+23:32:8 | Player "Guijermo" (steamId=76561198080701997) disconnected from server.
+23:32:27 | Player "Guijermo" (steamId=76561198080701997) connected to server!
+23:32:34 | Player "xSpeck" (steamId=76561198071508012) connected to server!
+23:32:39 | Player "Mr. Crowley" (steamId=76561198941790818) connected to server!
+23:32:48 | Player "duende" (steamId=76561199006916563) connected to server!
+23:33:0 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:33:0 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:33:0 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:33:0 | [BuildingSetManager] Deleted file: CasteloJapa
+23:33:0 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:33:17 | Player "TripaSeca" (steamId=76561198093060507) connected to server!
+23:33:26 | Player "TripaSeca" (steamId=76561198093060507) connected to server!
+23:33:31 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9569.709961, 30.480476, 12184.075195>)
+23:33:32 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:33:35 | "KOREA" (steamid=76561198253386609) /heal used on: "KOREA" (steamid=76561198253386609)
+23:33:59 | "KOREA" (steamid=76561198253386609) Spawned Item: (Rope)
+23:34:3 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenStick)
+23:34:3 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenStick)
+23:34:3 | "KOREA" (steamid=76561198253386609) Spawned Item: (WoodenStick)
+23:34:17 | Player "[HORDA]KAS" (steamId=76561199202697738) disconnected from server.
+23:34:20 | Player "[HORDA]KAS" (steamId=76561199202697738) disconnected from server.
+23:34:22 | Player "Blurih" (steamId=76561198361856287) connected to server!
+23:34:38 | Player "|PiT| Geraldin" (steamId=76561199047783095) connected to server!
+23:35:5 | "KOREA" (steamid=76561198253386609) Spawned Item: (BandageDressing)
+23:35:46 | Player "ttv/p3sad3lo__" (steamId=76561198277384503) connected to server!
+23:36:13 | Player "ttv/p3sad3lo__" (steamId=76561198277384503) connected to server!
+23:36:19 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:36:34 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) connected to server!
+23:37:2 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) connected to server!
+23:37:10 | Player "[ONE] XxibahH" (steamId=76561198165228070) connected to server!
+23:38:1 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:38:1 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:38:1 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:38:1 | [BuildingSetManager] Deleted file: CasteloJapa
+23:38:1 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:38:54 | Player "[L.B]TropaDoEnguisa" (steamId=76561198211423224) disconnected from server.
+23:39:24 | Player "[ONE] XxibahH" (steamId=76561198165228070) connected to server!
+23:39:36 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:39:36 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:39:36 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:39:36 | [BuildingSetManager] Deleted file: CasteloJapa
+23:39:36 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:39:56 | Player "[L.B]TropaDoEnguisa" (steamId=76561198211423224) connected to server!
+23:40:12 | Player "[L.B]TropaDoEnguisa" (steamId=76561198211423224) connected to server!
+23:40:21 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:40:21 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:40:21 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:40:21 | [BuildingSetManager] Deleted file: CasteloJapa
+23:40:21 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:40:39 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) disconnected from server.
+23:40:42 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) disconnected from server.
+23:41:25 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:41:25 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:41:25 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:41:25 | [BuildingSetManager] Deleted file: CasteloJapa
+23:41:25 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:41:49 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:41:49 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:41:49 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:41:49 | [BuildingSetManager] Deleted file: CasteloJapa
+23:41:49 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:41:50 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:41:58 | Player "Blurih" (steamId=76561198361856287) disconnected from server.
+23:42:1 | Player "Blurih" (steamId=76561198361856287) disconnected from server.
+23:42:14 | "KOREA" (steamid=76561198253386609) Spawned Item: (AdminHatchet)
+23:42:48 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9559.166992, 50.797195, 12177.101563>)
+23:42:49 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9559.493164, 50.761440, 12176.843750>)
+23:42:49 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9564.422852, 29.444759, 12175.875000>)
+23:42:58 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<10414.522461, 724.623291, 12221.175781>)
+23:43:11 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9557.848633, 33.531250, 12181.618164>)
+23:43:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9572.640625, 37.278728, 12186.133789>)
+23:43:17 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:43:19 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:43:47 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9573.250977, 30.036060, 12178.116211>)
+23:43:50 | "KOREA" (steamid=76561198253386609) toggled freecam
+23:44:0 | Player "Biel FxR" (steamId=76561198050836260) disconnected from server.
+23:44:4 | Player "Biel FxR" (steamId=76561198050836260) disconnected from server.
+23:44:51 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:44:51 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:44:51 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:44:51 | [BuildingSetManager] Deleted file: CasteloJapa
+23:44:51 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:45:33 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:45:33 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:45:33 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:45:33 | [BuildingSetManager] Deleted file: CasteloJapa
+23:45:33 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:46:43 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:46:43 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:46:43 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:46:43 | [BuildingSetManager] Deleted file: CasteloJapa
+23:46:43 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:46:51 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:46:51 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:46:51 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:46:51 | [BuildingSetManager] Deleted file: CasteloJapa
+23:46:51 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:47:0 | Player "Guijermo" (steamId=76561198080701997) disconnected from server.
+23:47:2 | Player "Guijermo" (steamId=76561198080701997) disconnected from server.
+23:47:4 | "KOREA" (steamid=76561198253386609) deleted building set (CasteloJapa)
+23:48:29 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:48:29 | "KOREA" (steamid=76561198253386609) created new building set (CasteloJapa)
+23:48:38 | Player "[HORDA]KAS" (steamId=76561199202697738) connected to server!
+23:48:51 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:48:51 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:48:51 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:48:51 | [BuildingSetManager] Deleted file: CasteloJapa
+23:48:51 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:49:1 | Player "[HORDA]KAS" (steamId=76561199202697738) connected to server!
+23:49:9 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:49:9 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:49:9 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:49:9 | [BuildingSetManager] Deleted file: CasteloJapa
+23:49:9 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:50:0 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:50:0 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:50:0 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:50:0 | [BuildingSetManager] Deleted file: CasteloJapa
+23:50:0 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:50:41 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:50:41 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:50:41 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:50:41 | [BuildingSetManager] Deleted file: CasteloJapa
+23:50:41 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:50:59 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:50:59 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:50:59 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:50:59 | [BuildingSetManager] Deleted file: CasteloJapa
+23:50:59 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:51:47 | Player "Gabriel" (steamId=76561198067216057) disconnected from server.
+23:51:56 | Player "Biel FxR" (steamId=76561198050836260) connected to server!
+23:52:11 | Player "Biel FxR" (steamId=76561198050836260) connected to server!
+23:53:4 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:53:4 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:53:4 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:53:4 | [BuildingSetManager] Deleted file: CasteloJapa
+23:53:4 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:54:28 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:54:28 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:54:28 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:54:28 | [BuildingSetManager] Deleted file: CasteloJapa
+23:54:28 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:55:18 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:55:18 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:55:18 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:55:18 | [BuildingSetManager] Deleted file: CasteloJapa
+23:55:18 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:55:28 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:55:28 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:55:28 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:55:28 | [BuildingSetManager] Deleted file: CasteloJapa
+23:55:28 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:55:40 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:55:40 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:55:40 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:55:40 | [BuildingSetManager] Deleted file: CasteloJapa
+23:55:40 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:56:7 | Player "Petes1552" (steamId=76561198309024480) connected to server!
+23:57:1 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:57:1 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:57:1 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:57:1 | [BuildingSetManager] Deleted file: CasteloJapa
+23:57:1 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:57:31 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:57:31 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:57:31 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:57:31 | [BuildingSetManager] Deleted file: CasteloJapa
+23:57:31 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:58:1 | Player "Kenworths" (steamId=76561198356284541) connected to server!
+23:58:7 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:58:7 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:58:7 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:58:7 | [BuildingSetManager] Deleted file: CasteloJapa
+23:58:7 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:58:31 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) connected to server!
+23:58:39 | Player "[HORDA]MacLovin" (steamId=76561199068236803) disconnected from server.
+23:58:39 | Player "[HORDA]MacLovin" (steamId=76561199068236803) disconnected from server.
+23:58:41 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) connected to server!
+23:58:54 | Player "{KMG}fuzil" (steamId=76561198965933878) connected to server!
+23:59:14 | Player "{KMG}fuzil" (steamId=76561198965933878) connected to server!
+23:59:15 | Player "{KMG}-Rockeiro" (steamId=76561198928581570) connected to server!
+23:59:16 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:59:16 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:59:16 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:59:16 | [BuildingSetManager] Deleted file: CasteloJapa
+23:59:16 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:59:20 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+23:59:33 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+23:59:36 | Player "{KMG}-Rockeiro" (steamId=76561198928581570) connected to server!
+23:59:56 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:59:56 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+23:59:56 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+23:59:56 | [BuildingSetManager] Deleted file: CasteloJapa
+23:59:56 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+23:59:58 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9561.075195, 29.005972, 12173.177734>)
+23:59:59 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:0:1 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:0:4 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9555.461914, 31.349566, 12176.161133>)
+0:0:5 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:0:10 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:1:1 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:1:1 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+0:1:1 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+0:1:1 | [BuildingSetManager] Deleted file: CasteloJapa
+0:1:1 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:1:3 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:1:24 | "KOREA" (steamid=76561198253386609) /heal used on: "KOREA" (steamid=76561198253386609)
+0:1:26 | "KOREA" (steamid=76561198253386609) /heal used on: "ttv/p3sad3lo__" (steamid=76561198277384503)
+0:1:44 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:2:1 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:2:1 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+0:2:1 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+0:2:1 | [BuildingSetManager] Deleted file: CasteloJapa
+0:2:1 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:2:3 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:2:11 | "KOREA" (steamid=76561198253386609) Spawned Item: (WatchtowerKit)
+0:2:46 | "KOREA" (steamid=76561198253386609) Spawned Item: (dp_box_big_Brown)
+0:2:55 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:3:19 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:3:19 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+0:3:19 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+0:3:19 | [BuildingSetManager] Deleted file: CasteloJapa
+0:3:19 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:3:35 | Player "KOREA" (steamId=76561198253386609) disconnected from server.
+0:4:12 | Player "KOREA" (steamId=76561198253386609) connected to server!
+0:4:31 | Player "KOREA" (steamId=76561198253386609) connected to server!
+0:4:34 | "KOREA" (steamid=76561198253386609) toggled godmode
+0:4:35 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:4:45 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:4:45 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+0:4:45 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+0:4:45 | [BuildingSetManager] Deleted file: CasteloJapa
+0:4:45 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:4:52 | Player "duende" (steamId=76561199006916563) disconnected from server.
+0:4:52 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:4:52 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+0:4:52 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+0:4:52 | [BuildingSetManager] Deleted file: CasteloJapa
+0:4:52 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:4:56 | Player "ChukenThe3rd" (steamId=76561198134837847) disconnected from server.
+0:5:1 | Player "Blurih" (steamId=76561198361856287) connected to server!
+0:5:2 | Player "PintoJunior" (steamId=76561198057936781) connected to server!
+0:5:8 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:5:8 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+0:5:8 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+0:5:8 | [BuildingSetManager] Deleted file: CasteloJapa
+0:5:8 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:5:10 | Player "Blurih" (steamId=76561198361856287) connected to server!
+0:5:20 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:5:20 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+0:5:20 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+0:5:20 | [BuildingSetManager] Deleted file: CasteloJapa
+0:5:20 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:5:22 | Player "PintoJunior" (steamId=76561198057936781) connected to server!
+0:5:44 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9566.200195, 30.019594, 12181.833008>)
+0:5:45 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:5:47 | Player "ChukenThe3rd" (steamId=76561198134837847) connected to server!
+0:6:0 | Player "ChukenThe3rd" (steamId=76561198134837847) connected to server!
+0:6:8 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:7:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9560.694336, 28.992561, 12173.639648>)
+0:7:37 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:7:43 | "KOREA" (steamid=76561198253386609) deleted object "dp_box_big_Brown" (pos=<9566.796875, 29.492519, 12174.108398>)
+0:7:53 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:8:3 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:8:3 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+0:8:3 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+0:8:3 | [BuildingSetManager] Deleted file: CasteloJapa
+0:8:3 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:8:5 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9564.279297, 29.285261, 12173.041992>)
+0:8:5 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:8:25 | "KOREA" (steamid=76561198253386609) Spawned Item: (WatchtowerKit)
+0:9:1 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:9:7 | Player "SuperNoia" (steamId=76561198132169694) disconnected from server.
+0:9:15 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:9:15 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+0:9:15 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+0:9:15 | [BuildingSetManager] Deleted file: CasteloJapa
+0:9:15 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:9:32 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:9:32 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+0:9:32 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+0:9:32 | [BuildingSetManager] Deleted file: CasteloJapa
+0:9:32 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:9:43 | Player "duende" (steamId=76561199006916563) connected to server!
+0:9:47 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:9:47 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+0:9:47 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+0:9:47 | [BuildingSetManager] Deleted file: CasteloJapa
+0:9:47 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:9:52 | Player "duende" (steamId=76561199006916563) connected to server!
+0:10:13 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:10:13 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+0:10:13 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+0:10:13 | [BuildingSetManager] Deleted file: CasteloJapa
+0:10:13 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:10:45 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:10:45 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+0:10:45 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+0:10:45 | [BuildingSetManager] Deleted file: CasteloJapa
+0:10:45 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:10:58 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:10:58 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+0:10:58 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+0:10:58 | [BuildingSetManager] Deleted file: CasteloJapa
+0:10:58 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:11:0 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9565.497070, 29.357101, 12172.702148>)
+0:11:0 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:11:21 | "KOREA" (steamid=76561198253386609) toggled godmode
+0:11:22 | "KOREA" (steamid=76561198253386609) toggled godmode
+0:11:54 | "KOREA" (steamid=76561198253386609) Spawned Item: (dp_wall_big_Kit)
+0:12:13 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9594.514648, 28.855324, 12177.928711>)
+0:12:13 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9603.483398, 28.008291, 12180.628906>)
+0:12:13 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9615.639648, 25.863880, 12183.577148>)
+0:12:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9624.425781, 24.330904, 12187.294922>)
+0:12:14 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9631.601563, 23.543447, 12191.717773>)
+0:12:28 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9582.473633, 31.325705, 12169.642578>)
+0:13:3 | Player "ttv/p3sad3lo__" (steamId=76561198277384503) disconnected from server.
+0:13:4 | Player "ttv/p3sad3lo__" (steamId=76561198277384503) disconnected from server.
+0:13:40 | Player "Passo Largo" (steamId=76561198057660141) connected to server!
+0:14:2 | Player "Passo Largo" (steamId=76561198057660141) connected to server!
+0:14:8 | "KOREA" (steamid=76561198253386609) Spawned Item: (dp_wall_big_Kit)
+0:15:29 | "KOREA" (steamid=76561198253386609) Spawned Item: (dp_wall_big_Kit)
+0:15:57 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:16:8 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:16:8 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+0:16:8 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+0:16:8 | [BuildingSetManager] Deleted file: CasteloJapa
+0:16:8 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:16:10 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:16:33 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:16:34 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9589.423828, 28.578541, 12171.179688>)
+0:16:52 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:16:52 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+0:16:52 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+0:16:52 | [BuildingSetManager] Deleted file: CasteloJapa
+0:16:52 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:17:35 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:17:35 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+0:17:35 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+0:17:35 | [BuildingSetManager] Deleted file: CasteloJapa
+0:17:35 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:17:57 | Player "DanielSam" (steamId=76561198867200764) disconnected from server.
+0:17:58 | Player "DanielSam" (steamId=76561198867200764) disconnected from server.
+0:18:8 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:18:8 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+0:18:8 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+0:18:8 | [BuildingSetManager] Deleted file: CasteloJapa
+0:18:8 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:18:10 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9569.671875, 30.158987, 12180.687500>)
+0:18:11 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:18:27 | "KOREA" (steamid=76561198253386609) Spawned Item: (CodeLock)
+0:18:33 | Player "paulin" (steamId=76561199216132269) connected to server!
+0:18:45 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:18:47 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:19:20 | Player "paulin" (steamId=76561199216132269) connected to server!
+0:20:9 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9566.955078, 30.170443, 12183.063477>)
+0:20:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9574.049805, 36.947350, 12179.200195>)
+0:20:30 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9574.067383, 36.692852, 12179.326172>)
+0:20:54 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:20:58 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:21:12 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:21:20 | Player "[L.B]TropaDoEnguisa" (steamId=76561198211423224) disconnected from server.
+0:21:21 | Player "[L.B]TropaDoEnguisa" (steamId=76561198211423224) disconnected from server.
+0:21:52 | Player "[YKZ] Emissarius" (steamId=76561198271087379) connected to server!
+0:22:3 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9572.491211, 36.344723, 12183.153320>)
+0:22:4 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:22:6 | Player "[YKZ] Emissarius" (steamId=76561198271087379) connected to server!
+0:22:41 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:22:45 | "KOREA" (steamid=76561198253386609) /heal used on: "KOREA" (steamid=76561198253386609)
+0:22:45 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:22:47 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:23:4 | Player "Blurih" (steamId=76561198361856287) disconnected from server.
+0:23:39 | Player "[ONE}Rick" (steamId=76561198868590548) connected to server!
+0:23:55 | Player "[ONE}Rick" (steamId=76561198868590548) connected to server!
+0:24:35 | Player "bLisH" (steamId=76561198970690760) disconnected from server.
+0:25:5 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:25:5 | [BuildingSetManager] Saving & Reloading Building Set:CasteloJapa
+0:25:5 | "KOREA" (steamid=76561198253386609) updated building set (CasteloJapa)
+0:25:5 | [BuildingSetManager] Deleted file: CasteloJapa
+0:25:5 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/CasteloJapa.vpp
+0:25:36 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/teste.vpp
+0:25:36 | "KOREA" (steamid=76561198253386609) created new building set (teste)
+0:25:37 | Player "[L.B] LopesTa " (steamId=76561198375254083) connected to server!
+0:26:13 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) disconnected from server.
+0:26:16 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9773.987305, 1.419165, 11864.493164>)
+0:26:18 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/teste.vpp
+0:26:18 | [BuildingSetManager] Saving & Reloading Building Set:teste
+0:26:18 | "KOREA" (steamid=76561198253386609) updated building set (teste)
+0:26:18 | [BuildingSetManager] Deleted file: teste
+0:26:18 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/teste.vpp
+0:26:25 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:26:29 | Player "[L.B] LopesTa " (steamId=76561198375254083) connected to server!
+0:27:19 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:27:27 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9565.723633, 29.131138, 12165.426758>)
+0:27:28 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:27:39 | "KOREA" (steamid=76561198253386609) deleted building set (teste)
+0:28:32 | Player "KISS" (steamId=76561199032621365) disconnected from server.
+0:28:36 | Player "KISS" (steamId=76561199032621365) disconnected from server.
+0:31:1 | "KOREA": (steamid=76561198253386609) teleported to (pos=48.1985,0,112.559)
+0:31:3 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:31:11 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<-0.986465, 0.903992, -1.785103>)
+0:31:12 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:31:19 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<-0.186816, 0.526379, -0.426928>)
+0:31:20 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:31:25 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<-4.095356, 2.612120, 0.715623>)
+0:31:26 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:31:28 | Player "TcheLoco" (steamId=76561198099449370) connected to server!
+0:31:34 | Player "PintoJunior" (steamId=76561198057936781) disconnected from server.
+0:31:35 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<-0.813566, 2.537032, 0.441293>)
+0:31:37 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<-1.409477, 2.547347, 0.657996>)
+0:31:42 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:32:10 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:32:10 | "KOREA" (steamid=76561198253386609) created new building set (NewSet)
+0:32:36 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:32:36 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+0:32:36 | "KOREA" (steamid=76561198253386609) updated building set (NewSet)
+0:32:36 | [BuildingSetManager] Deleted file: NewSet
+0:32:36 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:33:6 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:33:6 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+0:33:6 | "KOREA" (steamid=76561198253386609) updated building set (NewSet)
+0:33:6 | [BuildingSetManager] Deleted file: NewSet
+0:33:6 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:33:8 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:33:22 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:33:22 | [BuildingSetManager] Saving & Reloading Building Set:NewSet
+0:33:22 | "KOREA" (steamid=76561198253386609) updated building set (NewSet)
+0:33:22 | [BuildingSetManager] Deleted file: NewSet
+0:33:22 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+0:33:24 | Player "Sagara" (steamId=76561198057660620) connected to server!
+0:33:41 | Player "[YKZ]-BlackBear" (steamId=76561198343030820) connected to server!
+0:33:44 | Player "Sagara" (steamId=76561198057660620) connected to server!
+0:34:9 | Player "[YKZ]-BlackBear" (steamId=76561198343030820) connected to server!
+0:37:25 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:37:39 | "KOREA" (steamid=76561198253386609) deleted building set (BunkerJAPA)
+0:37:43 | "KOREA" (steamid=76561198253386609) deleted object "Fence" (pos=<7872.000000, 33.565784, 7423.607910>)
+0:38:2 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:38:15 | Player "[YKZ] Emissarius" (steamId=76561198271087379) disconnected from server.
+0:38:49 | Player "[L.B]Hunter" (steamId=76561199247778251) connected to server!
+0:39:1 | Player "[L.B]Hunter" (steamId=76561199247778251) connected to server!
+0:40:52 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:42:12 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:45:3 | "KOREA" (steamid=76561198253386609) Spawned Item: (HRM_Spraycan_Kamysh)
+0:45:8 | "KOREA" (steamid=76561198253386609) Spawned Item: (Mosin9130)
+0:45:31 | "KOREA" (steamid=76561198253386609) Spawned Item: (M4A1)
+0:45:50 | "KOREA" (steamid=76561198253386609) Spawned Item: (HRM_AliceBag_Barracuda)
+0:47:20 | Player "[L.B]Hunter" (steamId=76561199247778251) disconnected from server.
+0:47:21 | Player "[L.B]Hunter" (steamId=76561199247778251) disconnected from server.
+0:47:28 | Player "cold" (steamId=76561198016821619) connected to server!
+0:47:43 | Player "|PiT| Geraldin" (steamId=76561199047783095) disconnected from server.
+0:47:44 | Player "|PiT| Geraldin" (steamId=76561199047783095) disconnected from server.
+0:48:8 | Player "[HORDA] JHON WICK" (steamId=76561198122075703) disconnected from server.
+0:48:9 | Player "[HORDA] JHON WICK" (steamId=76561198122075703) disconnected from server.
+0:48:17 | Player "[YKZ] Notsniw" (steamId=76561197967151252) connected to server!
+0:48:40 | Player "[YKZ] Notsniw" (steamId=76561197967151252) connected to server!
+0:48:47 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) connected to server!
+0:48:53 | "KOREA" (steamid=76561198253386609) Spawned Item: (HRM_Crafted_GhillieSuit_Kamysh)
+0:49:0 | "KOREA" (steamid=76561198253386609) Spawned Item: (HRM_Crafted_GhillieHood_Kamysh)
+0:49:6 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) connected to server!
+0:49:11 | "KOREA" (steamid=76561198253386609) Spawned Item: (HRM_BalaclavaMask3Holes_Kamysh)
+0:49:15 | "KOREA" (steamid=76561198253386609) Spawned Item: (HRM_GorkaPants_Kamysh)
+0:49:19 | "KOREA" (steamid=76561198253386609) Spawned Item: (HRM_GorkaJacket_Kamysh)
+0:49:22 | "KOREA" (steamid=76561198253386609) Spawned Item: (HRM_UKVest_Kamysh)
+0:49:27 | "KOREA" (steamid=76561198253386609) Spawned Item: (Hell_VX600Belt_Kamysh)
+0:52:32 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:52:35 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9555.039063, 48.415764, 12175.279297>)
+0:52:36 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:52:39 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:52:47 | "KOREA" (steamid=76561198253386609) /heal used on: "KOREA" (steamid=76561198253386609)
+0:52:48 | "KOREA" (steamid=76561198253386609) teleported to crosshair (pos=<9865.893555, 2.560598, 11781.747070>)
+0:52:49 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:52:50 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:52:51 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:52:52 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:53:5 | "KOREA" (steamid=76561198253386609) deleted building set (CasteloTeste)
+0:53:32 | "KOREA" (steamid=76561198253386609) toggled freecam
+0:53:34 | Player "[L.B] Santorin" (steamId=76561199069721527) disconnected from server.
+0:53:36 | Player "[L.B] Santorin" (steamId=76561199069721527) disconnected from server.
+0:54:10 | Player "[ONE] KING" (steamId=76561199153781943) connected to server!
+0:54:31 | Player "KOREA" (steamId=76561198253386609) disconnected from server.
+0:54:33 | Player "[ONE] KING" (steamId=76561199153781943) connected to server!
+0:54:58 | Player "[ONE] XxibahH" (steamId=76561198165228070) disconnected from server.
+0:55:6 | Player "-ES-Ricksson" (steamId=76561198100931853) connected to server!
+0:55:7 | Player "Azex" (steamId=76561198135960251) connected to server!
+0:55:34 | Player "-ES-Ricksson" (steamId=76561198100931853) connected to server!
+1:0:1 | Player "{KMG}-Rockeiro" (steamId=76561198928581570) disconnected from server.
+1:0:39 | Player "Morri" (steamId=76561199153690922) connected to server!
+1:0:53 | Player "Mr. Crowley" (steamId=76561198941790818) disconnected from server.
+1:0:57 | Player "negrin" (steamId=76561198254874557) connected to server!
+1:1:1 | Player "Morri" (steamId=76561199153690922) connected to server!
+1:3:18 | Player "[YKZ]-tappes" (steamId=76561198990092287) disconnected from server.
+1:3:54 | Player "AFRONTA" (steamId=76561198963178315) connected to server!
+1:4:1 | Player "[YKZ] Felps" (steamId=76561198892779186) disconnected from server.
+1:4:3 | Player "[YKZ] Felps" (steamId=76561198892779186) disconnected from server.
+1:4:40 | Player "[ONE] XxibahH" (steamId=76561198165228070) connected to server!
+1:7:56 | Player "xSpeck" (steamId=76561198071508012) disconnected from server.
+1:8:30 | Player "KOREA" (steamId=76561198253386609) connected to server!
+1:8:51 | Player "[ONE] XxibahH" (steamId=76561198165228070) disconnected from server.
+1:8:54 | Player "[L.B] SeryD" (steamId=76561198072791642) disconnected from server.
+1:8:56 | Player "[L.B] ploodrinny" (steamId=76561198312062387) disconnected from server.
+1:8:59 | Player "[YKZ] chron1c" (steamId=76561198205585613) disconnected from server.
+1:9:4 | Player "[L.B] SeryD" (steamId=76561198072791642) disconnected from server.
+1:9:8 | Player "Hacan121" (steamId=76561198345012092) disconnected from server.
+1:9:12 | Player "Morri" (steamId=76561199153690922) disconnected from server.
+1:9:18 | Player "KOREA" (steamId=76561198253386609) connected to server!
+1:9:28 | Player "KOREA" (steamId=76561198253386609) disconnected from server.
+1:9:30 | Player "Kenworths" (steamId=76561198356284541) disconnected from server.
+1:9:31 | Player "paulin" (steamId=76561199216132269) disconnected from server.
+1:9:32 | Player "[HORDA]ThiagoPenna" (steamId=76561198218822351) disconnected from server.
+1:9:32 | Player "Azex" (steamId=76561198135960251) disconnected from server.
+1:9:33 | Player "duende" (steamId=76561199006916563) disconnected from server.
+1:9:34 | Player "[HORDA] zBieL" (steamId=76561198001525812) disconnected from server.
+1:9:34 | Player "Kenny" (steamId=76561198044562814) disconnected from server.
+1:9:35 | Player "Azex" (steamId=76561198135960251) disconnected from server.
+1:9:36 | Player "Passo Largo" (steamId=76561198057660141) disconnected from server.
+1:9:36 | Player "ChukenThe3rd" (steamId=76561198134837847) disconnected from server.
+1:9:37 | Player "jhean" (steamId=76561198819003355) disconnected from server.
+1:9:37 | Player "[YKZ] Notsniw" (steamId=76561197967151252) disconnected from server.
+1:9:37 | Player "TripaSeca" (steamId=76561198093060507) disconnected from server.
+1:9:38 | Player "[ONE] JAPA" (steamId=76561198161060673) disconnected from server.
+1:9:40 | Player "Betinho_maluco" (steamId=76561198057627157) disconnected from server.
+1:9:42 | Player "Sagara" (steamId=76561198057660620) disconnected from server.
+1:9:44 | Player "{KMG}fuzil" (steamId=76561198965933878) disconnected from server.
+1:9:45 | Player "[HORDA]MacLovin" (steamId=76561199068236803) disconnected from server.
+1:9:45 | Player "cold" (steamId=76561198016821619) disconnected from server.
+1:9:46 | Player "G A T O" (steamId=76561199207813177) disconnected from server.
+1:9:46 | Player "Biel FxR" (steamId=76561198050836260) disconnected from server.
+1:9:49 | Player "Diorno" (steamId=76561198142139495) disconnected from server.
+1:9:49 | Player "{ KMG } - Elguapo" (steamId=76561198363655296) disconnected from server.
+1:9:49 | Player "[ONE] KARABULJHAN" (steamId=76561198100527842) disconnected from server.
+1:9:50 | Player "negrin" (steamId=76561198254874557) disconnected from server.
+1:9:50 | Player "KOREA" (steamId=76561198253386609) disconnected from server.
+1:9:50 | Player "[L.B] LopesTa " (steamId=76561198375254083) disconnected from server.
+1:9:55 | Player "-ES-Ricksson" (steamId=76561198100931853) disconnected from server.
+1:9:56 | Player "[HORDA]KAS" (steamId=76561199202697738) disconnected from server.
+1:9:56 | Player "[ONE] JAPA" (steamId=76561198161060673) disconnected from server.
+1:9:57 | Player "Petes1552" (steamId=76561198309024480) disconnected from server.
+1:9:58 | Player "[ONE}Rick" (steamId=76561198868590548) disconnected from server.
+1:9:59 | Player "[ONE] KING" (steamId=76561199153781943) disconnected from server.
+1:9:59 | Player "[YKZ]-BlackBear" (steamId=76561198343030820) disconnected from server.
+1:10:19 | Player "AFRONTA" (steamId=76561198963178315) disconnected from server.
+1:10:32 | Player "TcheLoco" (steamId=76561198099449370) disconnected from server.
+1:10:38 | Player "TcheLoco" (steamId=76561198099449370) disconnected from server.

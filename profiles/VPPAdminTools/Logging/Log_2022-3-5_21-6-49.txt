@@ -1,0 +1,901 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-3-5_21-6-49
+====================================================================================
+21:6:49 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+21:6:49 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+21:6:49 | [PermissionManager] Perm (FreeCamera) has been registered!
+21:6:49 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuItemManager) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuServerManager) has been registered!
+21:6:49 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+21:6:49 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+21:6:49 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+21:6:49 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+21:6:49 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+21:6:49 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+21:6:49 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+21:6:49 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+21:6:49 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+21:6:49 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+21:6:49 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+21:6:49 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+21:6:49 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+21:6:49 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+21:6:49 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+21:6:49 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+21:6:49 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+21:6:49 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+21:6:49 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+21:6:49 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+21:6:49 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+21:6:49 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+21:6:49 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+21:6:49 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+21:6:49 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+21:6:49 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+21:6:49 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+21:6:49 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+21:6:49 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+21:6:49 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+21:6:49 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+21:6:49 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+21:6:49 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuBansManager) has been registered!
+21:6:49 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+21:6:49 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+21:6:49 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+21:6:49 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+21:6:49 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+21:6:49 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+21:6:49 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+21:6:49 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+21:6:49 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+21:6:49 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+21:6:49 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+21:6:49 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+21:6:49 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+21:6:49 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+21:6:49 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+21:6:49 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+21:6:49 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+21:6:49 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+21:6:49 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+21:6:49 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+21:6:49 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+21:6:49 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+21:6:49 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+21:6:49 | [PermissionManager] Perm (Chat:NamalskRunEvent) has been registered!
+21:6:49 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+21:6:49 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+21:6:49 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+21:6:49 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+21:6:49 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+21:6:49 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+21:6:49 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+21:6:49 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+21:6:49 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+21:6:49 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+21:6:49 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+21:6:49 | Building Sets Loaded: 0
+21:6:49 | [PermissionManager] Adding Super Admin (76561198253386609)
+21:6:49 | [PermissionManager] Adding Super Admin (76561198442072760)
+21:6:49 | [PermissionManager] Adding Super Admin (76561198950594742)
+21:6:49 | [PermissionManager] Adding Super Admin (76561198329721265)
+21:6:49 | [PermissionManager] Adding Super Admin (76561198140728342)
+21:6:49 | [PermissionManager] Loaded UserGroups.json
+21:7:30 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) connected to server!
+21:7:58 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) connected to server!
+21:8:1 | Player "=FURY=KABUT" (steamId=76561198877070289) connected to server!
+21:8:2 | Player "=FURY=InfantiDF" (steamId=76561198283309946) connected to server!
+21:8:17 | Player "=FURY=KABUT" (steamId=76561198877070289) connected to server!
+21:8:30 | Player "=FURY=InfantiDF" (steamId=76561198283309946) connected to server!
+21:8:49 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+21:9:8 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+21:9:21 | Player "=FURY=KABUT" (steamId=76561198877070289) disconnected from server.
+21:9:24 | Player "Will<3" (steamId=76561198994482452) connected to server!
+21:9:49 | Player "[ :) ]" (steamId=76561198253386609) connected to server!
+21:10:19 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) connected to server!
+21:10:21 | Player "=FURY=SANTANA" (steamId=76561199228878387) connected to server!
+21:10:30 | Player "[ :) ]" (steamId=76561198253386609) connected to server!
+21:10:35 | Player "=FURY=SANTANA" (steamId=76561199228878387) connected to server!
+21:10:37 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) connected to server!
+21:13:4 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+21:13:28 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+21:14:23 | "[ :) ]" (steamid=76561198253386609) /heal used on: "[ :) ]" (steamid=76561198253386609)
+21:14:23 | "[ :) ]" (steamid=76561198253386609) toggled godmode
+21:14:38 | "[ :) ]" (steamid=76561198253386609) Spawned Item: (AirdropFlare)
+21:14:47 | Player "Jovem-Mestre" (steamId=76561198798463085) connected to server!
+21:15:4 | Player "Jovem-Mestre" (steamId=76561198798463085) connected to server!
+21:15:55 | Player "Jovem-Mestre" (steamId=76561198798463085) disconnected from server.
+21:16:36 | Player "Jovem-Mestre" (steamId=76561198798463085) connected to server!
+21:16:53 | Player "Jovem-Mestre" (steamId=76561198798463085) connected to server!
+21:17:22 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+21:17:38 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+21:22:22 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1586.511475, 1.999990, 9218.044922>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.112549, 2.000000, 9209.227539>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.114136, 2.000000, 9209.207031>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.115723, 2.000000, 9209.186523>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.117432, 2.000000, 9209.166992>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.120117, 2.000000, 9209.132813>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.122314, 2.000000, 9209.105469>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.124390, 2.000000, 9209.079102>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.125977, 2.000000, 9209.058594>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.128418, 2.000000, 9209.030273>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.131592, 2.000000, 9208.991211>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.133911, 2.000000, 9208.963867>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.136963, 2.000000, 9208.925781>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.140137, 2.000000, 9208.886719>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.142578, 2.000000, 9208.857422>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.145752, 2.000000, 9208.821289>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.148071, 2.000000, 9208.791992>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.151367, 2.000000, 9208.752930>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.158569, 2.000000, 9208.652344>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.199463, 2.000000, 9208.019531>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.254150, 2.000000, 9207.174805>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.295044, 2.000000, 9206.541016>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.336060, 1.999993, 9205.907227>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.376953, 1.999990, 9205.274414>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.431641, 1.999961, 9204.429688>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.472534, 2.000061, 9203.795898>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.513550, 2.000000, 9203.162109>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.568237, 2.000000, 9202.317383>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.609131, 2.000000, 9201.683594>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.609985, 2.000000, 9201.648438>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.610596, 2.000000, 9201.599609>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.611084, 2.000000, 9201.569336>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.611572, 2.000000, 9201.540039>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.612183, 2.000000, 9201.500977>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.612427, 2.000000, 9201.471680>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.612915, 2.000000, 9201.431641>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.613403, 2.000000, 9201.403320>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.614014, 2.000000, 9201.364258>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.615112, 2.000000, 9201.339844>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.617920, 2.000000, 9201.305664>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.620117, 2.000000, 9201.279297>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.622437, 2.000000, 9201.251953>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.624023, 2.000000, 9201.231445>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.626953, 2.000000, 9201.198242>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.628662, 2.000000, 9201.177734>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.630249, 2.000000, 9201.157227>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.631958, 2.000000, 9201.137695>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.678345, 1.999999, 9200.424805>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.733276, 2.000000, 9199.576172>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.774414, 2.000000, 9198.940430>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.815552, 2.000000, 9198.303711>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.870483, 2.000000, 9197.454102>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.925415, 2.000000, 9196.606445>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1587.966675, 2.000000, 9195.969727>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.007813, 2.000000, 9195.333984>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.062744, 1.999999, 9194.485352>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.091187, 2.000000, 9194.048828>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.093384, 1.999999, 9194.022461>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.095215, 2.000000, 9194.001953>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.096924, 2.000000, 9193.981445>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.098633, 2.000000, 9193.961914>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.101074, 2.000000, 9193.934570>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.103271, 2.000000, 9193.907227>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.105103, 2.000000, 9193.887695>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.106812, 1.999999, 9193.867188>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.108521, 2.000000, 9193.846680>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.112427, 1.999999, 9193.780273>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.118530, 2.000000, 9193.656250>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.123169, 2.000000, 9193.562500>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.127686, 2.000000, 9193.469727>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.133789, 2.000000, 9193.345703>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.138306, 2.000000, 9193.252930>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.144287, 2.000000, 9193.128906>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.148926, 2.000000, 9193.035156>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.155029, 2.000000, 9192.911133>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.160767, 2.000000, 9192.794922>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.163208, 2.000000, 9192.767578>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.165527, 2.000000, 9192.741211>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.167358, 2.000000, 9192.720703>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.169800, 2.000000, 9192.693359>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.172119, 2.000000, 9192.666992>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.173950, 2.000000, 9192.646484>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.176392, 2.000000, 9192.619141>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.178711, 2.000000, 9192.592773>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.179932, 2.000000, 9192.579102>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.181641, 2.000000, 9192.558594>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.183960, 2.000000, 9192.532227>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.185669, 2.000000, 9192.511719>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.187500, 2.000000, 9192.491211>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.189209, 2.000000, 9192.472656>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.191040, 2.000000, 9192.452148>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.192627, 2.000000, 9192.431641>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.195068, 1.999999, 9192.405273>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.196655, 2.000000, 9192.384766>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.198486, 1.999999, 9192.364258>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.200195, 2.000000, 9192.344727>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.202515, 2.000000, 9192.317383>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.204956, 2.000000, 9192.290039>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.206665, 2.000000, 9192.270508>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.208496, 2.000000, 9192.250000>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.210938, 2.000000, 9192.222656>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.213257, 2.000000, 9192.196289>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.215088, 2.000000, 9192.175781>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.216797, 2.000000, 9192.155273>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.218140, 2.000000, 9192.142578>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.220459, 2.000000, 9192.115234>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.222656, 2.000000, 9192.087891>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.225098, 2.000000, 9192.061523>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.227417, 2.000000, 9192.034180>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.229126, 2.000000, 9192.013672>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.232056, 2.000000, 9191.980469>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.233887, 2.000000, 9191.959961>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.235596, 2.000000, 9191.940430>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.237915, 2.000000, 9191.913086>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.239624, 2.000000, 9191.892578>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.242432, 1.999999, 9191.859375>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.244629, 2.000000, 9191.832031>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.246338, 2.000000, 9191.811523>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.249268, 2.000000, 9191.778320>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.251465, 2.000000, 9191.750977>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.253174, 2.000000, 9191.731445>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.254883, 2.000000, 9191.710938>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.256470, 2.000000, 9191.690430>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.258179, 2.000000, 9191.670898>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.260986, 2.000000, 9191.636719>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.262085, 2.000000, 9191.623047>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.264160, 2.000000, 9191.596680>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.265869, 2.000000, 9191.576172>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.267456, 2.000000, 9191.555664>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.269165, 2.000000, 9191.536133>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.270752, 2.000000, 9191.515625>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.272339, 2.000000, 9191.495117>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.274658, 2.000000, 9191.468750>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.276245, 2.000000, 9191.448242>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.278442, 1.999999, 9191.420898>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.280029, 2.000000, 9191.401367>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.281616, 2.000000, 9191.380859>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.284790, 2.000000, 9191.339844>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.288208, 2.000000, 9191.299805>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.290283, 2.000000, 9191.272461>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.292480, 2.000000, 9191.246094>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.294556, 2.000000, 9191.218750>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.296875, 2.000000, 9191.192383>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.298950, 2.000000, 9191.165039>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.302734, 2.000000, 9191.118164>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.304810, 2.000000, 9191.090820>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.306519, 2.000000, 9191.070313>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.309692, 2.000000, 9191.030273>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.311768, 2.000000, 9191.002930>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.313965, 2.000000, 9190.976563>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.317749, 2.000000, 9190.929688>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.319824, 2.000000, 9190.902344>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.321899, 2.000000, 9190.875000>)
+21:22:23 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.323608, 2.000000, 9190.855469>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.325684, 2.000000, 9190.828125>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.327759, 2.000000, 9190.800781>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.330444, 2.000000, 9190.767578>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.332520, 2.000000, 9190.740234>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.334717, 2.000000, 9190.713867>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.336914, 2.000000, 9190.686523>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.338501, 2.000000, 9190.666016>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.341187, 2.000000, 9190.632813>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.342773, 2.000000, 9190.612305>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.344482, 2.000000, 9190.592773>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.346558, 2.000000, 9190.565430>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.348145, 2.000000, 9190.544922>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.350708, 2.000000, 9190.511719>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.352905, 2.000000, 9190.484375>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.354492, 2.000000, 9190.463867>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.356079, 2.000000, 9190.444336>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.358154, 2.000000, 9190.416992>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.360229, 2.000000, 9190.390625>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.361938, 2.000000, 9190.370117>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.363525, 2.000000, 9190.349609>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.365601, 2.000000, 9190.323242>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.367676, 2.000000, 9190.295898>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.369751, 2.000000, 9190.268555>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.371460, 2.000000, 9190.249023>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.373535, 2.000000, 9190.221680>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.375122, 2.000000, 9190.201172>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.377808, 2.000000, 9190.167969>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.380005, 2.000000, 9190.140625>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.381592, 2.000000, 9190.121094>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.384277, 2.000000, 9190.086914>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.386475, 2.000000, 9190.059570>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.387939, 2.000000, 9190.040039>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.390259, 2.000000, 9190.012695>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.391846, 2.000000, 9189.992188>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.394043, 2.000000, 9189.965820>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.395630, 2.000000, 9189.945313>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.397339, 2.000000, 9189.924805>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.398926, 2.000000, 9189.905273>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.400513, 2.000000, 9189.884766>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.402222, 2.000000, 9189.864258>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.405029, 2.000000, 9189.831055>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.406616, 2.000000, 9189.810547>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.408203, 2.000000, 9189.790039>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.410400, 2.000000, 9189.763672>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.412720, 2.000000, 9189.736328>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.414917, 2.000000, 9189.709961>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.417114, 2.000000, 9189.682617>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.418823, 2.000000, 9189.662109>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.421021, 1.999999, 9189.635742>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.423950, 2.000000, 9189.601563>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.426147, 2.000000, 9189.575195>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.427979, 2.000000, 9189.554688>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.430176, 2.000000, 9189.527344>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.432373, 2.000000, 9189.500977>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.434692, 2.000000, 9189.473633>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.436401, 2.000000, 9189.453125>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.438110, 2.000000, 9189.433594>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.440430, 2.000000, 9189.406250>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.443481, 2.000000, 9189.372070>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.445801, 2.000000, 9189.344727>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.448120, 2.000000, 9189.317383>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.450562, 2.000000, 9189.291016>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.452271, 2.000000, 9189.270508>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.454712, 2.000000, 9189.244141>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.456299, 2.000000, 9189.223633>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.458618, 2.000000, 9189.196289>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.461670, 2.000000, 9189.163086>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.463501, 2.000000, 9189.142578>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.465210, 2.000000, 9189.122070>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.467529, 2.000000, 9189.095703>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.469360, 2.000000, 9189.075195>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.471680, 2.000000, 9189.047852>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.473389, 2.000000, 9189.028320>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.517822, 2.000000, 9188.515625>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.610229, 2.000000, 9187.390625>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1588.696167, 2.000000, 9186.305664>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1589.459229, 2.000000, 9175.288086>)
+21:22:24 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1589.992554, 2.000000, 9167.060547>)
+21:22:25 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1590.489990, 2.000000, 9159.219727>)
+21:22:25 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1590.987183, 2.000000, 9151.416992>)
+21:22:25 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<1591.353516, 2.000000, 9143.342773>)
+21:22:38 | "[ :) ]" (steamid=76561198253386609) deleted object "ZmbM_PatrolNormal_Autumn" (pos=<1587.010498, 2.040000, 9126.680664>)
+21:22:40 | "[ :) ]" (steamid=76561198253386609) deleted object "ZmbM_PatrolNormal_PautRev" (pos=<1586.970093, 2.040000, 9126.541016>)
+21:22:41 | "[ :) ]" (steamid=76561198253386609) deleted object "ZmbM_PatrolNormal_PautRev" (pos=<1587.794067, 2.040000, 9126.555664>)
+21:22:43 | "[ :) ]" (steamid=76561198253386609) deleted object "ZmbM_PatrolNormal_Flat" (pos=<1588.985352, 2.040000, 9124.333008>)
+21:22:48 | "[ :) ]" (steamid=76561198253386609) deleted object "Animal_CanisLupus_Grey" (pos=<1591.174316, 2.040000, 9123.817383>)
+21:25:36 | Player "cRn" (steamId=76561198100945209) connected to server!
+21:25:50 | Player "cRn" (steamId=76561198100945209) connected to server!
+21:28:28 | "[ :) ]" (steamid=76561198253386609) Spawned Item: (Barrel_Yellow)
+21:28:37 | "[ :) ]" (steamid=76561198253386609) deleted object "Barrel_Yellow" (pos=<1579.897461, 2.000000, 9129.651367>)
+21:29:41 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+21:29:55 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+21:30:22 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+21:31:46 | Player "cRn" (steamId=76561198100945209) disconnected from server.
+21:31:47 | Player "cRn" (steamId=76561198100945209) disconnected from server.
+21:35:38 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) disconnected from server.
+21:37:41 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) disconnected from server.
+21:37:57 | Player "Jovem-Mestre" (steamId=76561198798463085) disconnected from server.
+21:37:58 | Player "Jovem-Mestre" (steamId=76561198798463085) disconnected from server.
+21:38:18 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) connected to server!
+21:38:30 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) connected to server!
+21:47:2 | Player "[SDC]pistoleiro" (steamId=76561198046104047) connected to server!
+21:47:15 | Player "[SDC]pistoleiro" (steamId=76561198046104047) connected to server!
+21:51:17 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+21:57:53 | Player "Toy Story" (steamId=76561198133211909) connected to server!
+21:58:13 | Player "Toy Story" (steamId=76561198133211909) connected to server!
+22:4:10 | Player "cRn" (steamId=76561198100945209) connected to server!
+22:4:29 | Player "ATOMIC" (steamId=76561199083408122) connected to server!
+22:4:31 | Player "cRn" (steamId=76561198100945209) connected to server!
+22:4:52 | Player "Maurilim" (steamId=76561198054045761) connected to server!
+22:5:4 | Player "Maurilim" (steamId=76561198054045761) connected to server!
+22:5:20 | Player "[FARM]Gandii" (steamId=76561199008723574) connected to server!
+22:5:58 | Player "Syn" (steamId=76561199215400451) connected to server!
+22:6:18 | Player "Syn" (steamId=76561199215400451) connected to server!
+22:7:39 | Player "[FARM]Gandii" (steamId=76561199008723574) connected to server!
+22:8:15 | Player "[SDC]pistoleiro" (steamId=76561198046104047) disconnected from server.
+22:8:18 | Player "[SDC]pistoleiro" (steamId=76561198046104047) disconnected from server.
+22:10:33 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:13:36 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<4908.395996, 49.725475, 8201.753906>)
+22:20:55 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<4427.517578, 82.941795, 8076.193359>)
+22:21:57 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<4428.793945, 78.901932, 8090.011719>)
+22:21:58 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:22:41 | "[ :) ]" (steamid=76561198253386609) Spawned Item: (dp_6b23_olive)
+22:22:45 | "[ :) ]" (steamid=76561198253386609) Spawned Item: (dp_6b43_pixel)
+22:22:48 | "[ :) ]" (steamid=76561198253386609) Spawned Item: (dp_6b45_ColorBase)
+22:22:55 | Player "Alti" (steamId=76561199235859883) connected to server!
+22:23:19 | Player "Alti" (steamId=76561199235859883) connected to server!
+22:23:22 | "[ :) ]" (steamid=76561198253386609) Spawned Item: (dp_TacticalShirt_Pixel)
+22:23:25 | "[ :) ]" (steamid=76561198253386609) deleted object "Land_Mil_Barracks3" (pos=<4439.871582, 81.120644, 8085.672852>)
+22:24:22 | Player "Sabonete Niquido" (steamId=76561198950594742) connected to server!
+22:24:59 | Player "Sabonete Niquido" (steamId=76561198950594742) connected to server!
+22:25:0 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<4372.739746, 98.560081, 8087.607422>)
+22:25:10 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<4263.932129, 111.712410, 8076.102539>)
+22:25:43 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<4328.884766, 93.572754, 8121.049805>)
+22:29:24 | "Sabonete Niquido" (steamid=76561198950594742) /heal used on: "Sabonete Niquido" (steamid=76561198950594742)
+22:29:29 | "Sabonete Niquido" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+22:29:42 | "Sabonete Niquido": (steamid=76561198950594742) teleported to (pos=5345.04,0,8487.59)
+22:29:48 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:30:47 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3704.322998, 41.697132, 6232.925781>)
+22:30:51 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3726.979248, 54.236958, 6194.896484>)
+22:30:54 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3733.823975, 30.627844, 6115.136719>)
+22:30:55 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3735.710938, 31.822989, 6117.808105>)
+22:31:20 | "[ :) ]" (steamid=76561198253386609) Spawned Item: (AdminHatchet)
+22:31:23 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3614.286377, 41.415298, 6520.243164>)
+22:31:30 | "[ :) ]" (steamid=76561198253386609) Spawned Item: (dp_metal_door_Kit)
+22:31:33 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3616.806885, 165.589493, 6523.061035>)
+22:31:35 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<4141.608887, 78.400139, 8062.766602>)
+22:31:36 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:31:44 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (NVGHeadstrap)
+22:31:45 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (NVGoggles)
+22:31:52 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:31:53 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:32:0 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<4267.995605, 112.080437, 8034.895996>)
+22:32:2 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:32:5 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:32:8 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3599.598145, 217.175186, 6669.177734>)
+22:32:9 | "[ :) ]" (steamid=76561198253386609) /heal used on: "[ :) ]" (steamid=76561198253386609)
+22:32:10 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:32:11 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<4257.663574, 100.937523, 8052.853027>)
+22:32:12 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:33:11 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:33:17 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:33:26 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:33:28 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:33:32 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:33:33 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:33:37 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:34:4 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:34:37 | "[ :) ]" (steamid=76561198253386609) Spawned Item: (CodeLock)
+22:34:54 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (AviatorGlasses_orange_Gold_civ)
+22:35:8 | "[ :) ]" (steamid=76561198253386609) deleted object "dp_metal_door" (pos=<4269.636230, 78.473984, 8034.478027>)
+22:35:38 | Player "OniXD3" (steamId=76561198157353976) connected to server!
+22:35:39 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:35:43 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:36:5 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:36:8 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3596.855225, 179.852615, 6679.317383>)
+22:36:10 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3591.286621, 170.487305, 6676.048340>)
+22:36:11 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:36:54 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3597.564697, 170.107986, 6686.018066>)
+22:37:32 | "Sabonete Niquido" (steamid=76561198950594742) /heal used on: "Sabonete Niquido" (steamid=76561198950594742)
+22:37:34 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3600.086182, 170.730682, 6664.029785>)
+22:37:35 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3599.792969, 170.730682, 6661.050293>)
+22:38:35 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3593.401855, 170.790588, 6708.664551>)
+22:38:38 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3607.566895, 170.487305, 6685.180664>)
+22:39:9 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (dzn_apsi)
+22:39:15 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (Battery9V)
+22:39:15 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (Battery9V)
+22:39:15 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (Battery9V)
+22:39:53 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3592.706543, 217.123932, 6675.011230>)
+22:39:54 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3548.945557, 212.052124, 6693.020508>)
+22:39:54 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3540.885986, 212.458481, 6697.003906>)
+22:40:0 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3514.710938, 214.176270, 6701.407227>)
+22:40:0 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3508.276123, 214.244568, 6698.041504>)
+22:40:0 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3502.510986, 214.670242, 6696.625488>)
+22:40:1 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3496.419922, 215.338287, 6696.908203>)
+22:40:1 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3491.276855, 215.945923, 6699.937012>)
+22:40:59 | "[ :) ]" (steamid=76561198253386609) deleted object "dp_metal_door" (pos=<3477.962891, 216.714783, 6701.011230>)
+22:41:13 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3593.531494, 154.566589, 6685.805664>)
+22:41:16 | Player "Syn" (steamId=76561199215400451) disconnected from server.
+22:42:10 | Player "Syn" (steamId=76561199215400451) connected to server!
+22:42:24 | Player "Syn" (steamId=76561199215400451) connected to server!
+22:42:34 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:42:34 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:43:19 | "[ :) ]" (steamid=76561198253386609) Spawned Item: (NVGHeadstrap)
+22:43:20 | "[ :) ]" (steamid=76561198253386609) Spawned Item: (NVGoggles)
+22:43:26 | "[ :) ]" (steamid=76561198253386609) Spawned Item: (NVGoggles)
+22:43:32 | "[ :) ]" (steamid=76561198253386609) Spawned Item: (NVGoggles)
+22:43:40 | Player "OniXD3" (steamId=76561198157353976) disconnected from server.
+22:43:42 | Player "OniXD3" (steamId=76561198157353976) disconnected from server.
+22:43:47 | "[ :) ]" (steamid=76561198253386609) Spawned Item: (Battery9V)
+22:44:37 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:44:49 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:46:1 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:46:11 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:46:11 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:46:13 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:46:33 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3593.541016, 215.952957, 6721.579590>)
+22:46:34 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:46:39 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3611.124756, 61.733528, 6636.764648>)
+22:46:40 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:46:51 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:47:0 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:47:2 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:47:18 | Player "Toy Story" (steamId=76561198133211909) disconnected from server.
+22:47:19 | Player "Toy Story" (steamId=76561198133211909) disconnected from server.
+22:47:25 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:47:29 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:47:35 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:47:36 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:47:44 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3597.270508, 41.410980, 6675.879395>)
+22:47:44 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:48:9 | "Sabonete Niquido": (steamid=76561198950594742) teleported to (pos=10751.2,0,1761.3)
+22:48:14 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:48:16 | Player "Syn" (steamId=76561199215400451) disconnected from server.
+22:48:20 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<11052.715820, 1027.513794, 1582.533447>)
+22:48:22 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:48:25 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:48:33 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<11052.107422, 1025.476685, 1659.479614>)
+22:48:34 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:48:46 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:48:53 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:48:57 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:48:57 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:49:2 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:49:5 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:49:7 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:49:16 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:49:22 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:49:43 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:50:3 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:50:40 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:51:10 | Player "Rouco" (steamId=76561198157353976) connected to server!
+22:51:11 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<11079.682617, 1006.787781, 1632.770264>)
+22:51:14 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<11078.090820, 1003.768372, 1629.533936>)
+22:51:14 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<11062.145508, 1000.990784, 1626.318115>)
+22:51:45 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) disconnected from server.
+22:51:53 | "[ :) ]" (steamid=76561198253386609) Spawned Item: (dzn_module_ext)
+22:51:54 | "[ :) ]" (steamid=76561198253386609) Spawned Item: (dzn_module_surge)
+22:51:56 | "[ :) ]" (steamid=76561198253386609) Spawned Item: (dzn_module_lantia)
+22:51:59 | "[ :) ]" (steamid=76561198253386609) Spawned Item: (dzn_detector)
+22:52:8 | Player "Rouco" (steamId=76561198157353976) connected to server!
+22:52:8 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (dzn_detector)
+22:52:8 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (dzn_detector)
+22:52:8 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (dzn_detector)
+22:52:28 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (dzn_module_card)
+22:52:40 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:52:43 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<11079.628906, 1003.750610, 1622.262573>)
+22:52:44 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:52:52 | "Sabonete Niquido": (steamid=76561198950594742) teleported to (pos=5054.28,0,6664.14)
+22:53:8 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:53:56 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<4982.760742, 37.260895, 6617.966797>)
+22:53:57 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+22:54:13 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<4984.805176, 27.114096, 6614.774902>)
+22:54:33 | Player "ATOMIC" (steamId=76561199083408122) disconnected from server.
+22:55:0 | Player "marlon" (steamId=76561199125874694) connected to server!
+22:55:22 | Player "marlon" (steamId=76561199125874694) connected to server!
+22:56:24 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<4983.287109, 27.114096, 6611.900391>)
+22:56:25 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<4980.652832, 26.741068, 6616.197754>)
+22:56:27 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<4981.439941, 23.180889, 6618.416992>)
+22:57:5 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:57:10 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<4976.877441, 32.270699, 6624.689453>)
+22:57:10 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+22:59:6 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (dzn_module_lantia)
+22:59:7 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (dzn_module_surge)
+22:59:8 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (dzn_module_ext)
+23:0:54 | Player "DASH" (steamId=76561199241533579) connected to server!
+23:1:17 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (dzn_athena_action1)
+23:1:18 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (dzn_athena_action2)
+23:1:53 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+23:1:53 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+23:1:55 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+23:1:56 | Player "DASH" (steamId=76561199241533579) disconnected from server.
+23:1:57 | Player "DASH" (steamId=76561199241533579) disconnected from server.
+23:2:17 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<4977.642578, 32.862614, 6622.655762>)
+23:2:29 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<4974.808594, 32.270699, 6629.513672>)
+23:2:31 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<4974.808594, 32.270699, 6629.513672>)
+23:2:31 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+23:3:23 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<4984.171387, 35.532013, 6624.417480>)
+23:3:27 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<4989.031250, 35.532013, 6624.458008>)
+23:3:29 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<4989.093750, 35.927605, 6624.465332>)
+23:3:31 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<4990.209961, 37.264458, 6615.941895>)
+23:3:35 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+23:3:55 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<4965.162109, 63.166115, 6632.414551>)
+23:3:56 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+23:4:6 | Player "KRONUS" (steamId=76561199241533579) connected to server!
+23:4:18 | Player "KRONUS" (steamId=76561199241533579) connected to server!
+23:6:14 | "Sabonete Niquido": (steamid=76561198950594742) teleported to (pos=3809.98,0,8284.68)
+23:6:29 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+23:6:37 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+23:6:48 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+23:7:43 | Player "JaponesDoPirocoptero" (steamId=76561198247375848) connected to server!
+23:8:8 | Player "JaponesDoPirocoptero" (steamId=76561198247375848) connected to server!
+23:8:11 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+23:8:17 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3789.660400, 155.463486, 8273.477539>)
+23:8:17 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3756.528320, 152.194412, 8286.355469>)
+23:8:17 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3756.387695, 152.179443, 8286.410156>)
+23:8:17 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3756.468262, 152.188690, 8286.361328>)
+23:8:17 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3757.582764, 152.311752, 8285.825195>)
+23:8:17 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3758.531250, 152.412964, 8285.361328>)
+23:8:17 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3759.461182, 152.504730, 8284.880859>)
+23:8:17 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3761.252197, 152.700012, 8283.694336>)
+23:8:17 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3762.675781, 152.862122, 8282.789063>)
+23:8:17 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3765.868408, 153.336395, 8281.348633>)
+23:8:17 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3757.564941, 152.383667, 8284.123047>)
+23:8:17 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3750.269775, 151.861160, 8286.800781>)
+23:8:17 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3740.561768, 150.861618, 8290.235352>)
+23:8:17 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3741.225098, 150.987564, 8289.564453>)
+23:8:17 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3744.680176, 151.435486, 8287.917969>)
+23:8:17 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3745.602295, 151.554672, 8287.081055>)
+23:8:17 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3745.753662, 151.590881, 8286.390625>)
+23:8:19 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3754.887451, 152.470032, 8278.612305>)
+23:8:19 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3790.123291, 152.943649, 8258.714844>)
+23:8:20 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3799.520508, 154.693222, 8254.250977>)
+23:8:25 | "Sabonete Niquido" (steamid=76561198950594742) deleted object "Animal_CanisLupus_Grey" (pos=<3801.963867, 154.902267, 8249.416016>)
+23:8:34 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+23:8:42 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+23:8:44 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+23:8:46 | Player "InsomniaGzR" (steamId=76561198250492686) connected to server!
+23:9:4 | Player "InsomniaGzR" (steamId=76561198250492686) connected to server!
+23:10:13 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+23:10:25 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3754.950195, 157.329788, 8212.574219>)
+23:10:28 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3765.397217, 155.184296, 8217.957031>)
+23:10:30 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3763.303955, 155.774353, 8216.628906>)
+23:10:32 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3757.376221, 156.829178, 8215.232422>)
+23:10:33 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3762.051514, 157.166748, 8210.114258>)
+23:10:35 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3767.386719, 156.031845, 8214.173828>)
+23:10:37 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3761.636475, 155.208328, 8219.585938>)
+23:10:38 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3763.989746, 155.605133, 8219.646484>)
+23:10:49 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3744.057861, 158.610397, 8202.063477>)
+23:10:52 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3749.543457, 157.585602, 8208.825195>)
+23:10:53 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3746.974121, 157.750229, 8206.835938>)
+23:10:55 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3750.373047, 157.701904, 8207.769531>)
+23:10:57 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3744.018799, 156.860397, 8212.381836>)
+23:11:5 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (AK_Suppressor)
+23:11:5 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (AK_Suppressor)
+23:11:9 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (Mag_AK101_30Rnd)
+23:11:13 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (dp_AK12)
+23:11:16 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (Mag_AKM_30Rnd)
+23:11:19 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (Mag_AK74_30Rnd_Green)
+23:11:54 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3811.047607, 157.217804, 8250.487305>)
+23:12:25 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (Mag_AK74_30Rnd_Green)
+23:12:25 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (Mag_AK74_30Rnd_Green)
+23:12:25 | "Sabonete Niquido" (steamid=76561198950594742) Spawned Item: (Mag_AK74_30Rnd_Green)
+23:12:42 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+23:13:13 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+23:13:16 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<4170.409668, 101.239342, 8047.871582>)
+23:13:26 | "[ :) ]" (steamid=76561198253386609) teleported to crosshair (pos=<3685.649414, 53.350002, 7339.728516>)
+23:13:27 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3647.072754, 70.614258, 7421.408203>)
+23:13:50 | "Sabonete Niquido" (steamid=76561198950594742) toggled freecam
+23:13:54 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<3659.646973, 74.963562, 7413.534668>)
+23:13:58 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<4101.890625, 167.961426, 7125.615723>)
+23:14:1 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<4113.901367, 172.774994, 7118.001465>)
+23:14:38 | "Sabonete Niquido" (steamid=76561198950594742) deleted object "dzn_ballisticvest_nac" (pos=<4115.544434, 176.461731, 7110.978516>)
+23:14:39 | "Sabonete Niquido" (steamid=76561198950594742) deleted object "NBCPantsblack" (pos=<4115.544434, 176.419998, 7110.978516>)
+23:14:41 | "Sabonete Niquido" (steamid=76561198950594742) deleted object "dp_TacticalShirt_Pixel" (pos=<4115.544434, 176.459961, 7110.978516>)
+23:14:42 | "Sabonete Niquido" (steamid=76561198950594742) deleted object "CombatBoots_Green" (pos=<4115.544434, 176.405579, 7110.978516>)
+23:14:44 | "Sabonete Niquido" (steamid=76561198950594742) deleted object "TacticalGloves_Green" (pos=<4115.544434, 176.408905, 7110.978516>)
+23:14:46 | "Sabonete Niquido" (steamid=76561198950594742) deleted object "dzn_gorkahood_autumn" (pos=<4115.544434, 176.419495, 7110.978516>)
+23:14:47 | "Sabonete Niquido" (steamid=76561198950594742) deleted object "MilitaryBelt" (pos=<4115.544434, 176.413254, 7110.978516>)
+23:14:48 | "Sabonete Niquido" (steamid=76561198950594742) deleted object "dp_AK12" (pos=<4115.544434, 176.442657, 7110.978516>)
+23:14:55 | "Sabonete Niquido" (steamid=76561198950594742) teleported to crosshair (pos=<4135.333008, 1276.876343, 7008.657715>)
+23:15:2 | "Sabonete Niquido" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+23:15:41 | Player "Maurilim" (steamId=76561198054045761) disconnected from server.
+23:15:42 | Player "Maurilim" (steamId=76561198054045761) disconnected from server.
+23:16:20 | Player "Sabonete Niquido" (steamId=76561198950594742) disconnected from server.
+23:19:38 | Player "G.a.b.i.r.u" (steamId=76561198982226615) connected to server!
+23:19:49 | Player "G.a.b.i.r.u" (steamId=76561198982226615) connected to server!
+23:21:5 | Player "InsomniaGzR" (steamId=76561198250492686) disconnected from server.
+23:21:8 | Player "InsomniaGzR" (steamId=76561198250492686) disconnected from server.
+23:24:23 | Player "JaponesDoPirocoptero" (steamId=76561198247375848) disconnected from server.
+23:26:44 | Player "[FARM]Gandii" (steamId=76561199008723574) disconnected from server.
+23:26:47 | Player "[FARM]Gandii" (steamId=76561199008723574) disconnected from server.
+23:27:43 | Player "C E L E B R I M B O R" (steamId=76561198114043394) disconnected from server.
+23:28:0 | Player "black0000" (steamId=76561198413182325) connected to server!
+23:28:7 | Player "Carambolas" (steamId=76561198442072760) disconnected from server.
+23:28:11 | Player "Carambolas" (steamId=76561198442072760) disconnected from server.
+23:28:46 | Player "Alti" (steamId=76561199235859883) disconnected from server.
+23:28:49 | Player "Alti" (steamId=76561199235859883) disconnected from server.
+23:31:4 | Player "G.a.b.i.r.u" (steamId=76561198982226615) disconnected from server.
+23:31:5 | Player "G.a.b.i.r.u" (steamId=76561198982226615) disconnected from server.
+23:31:39 | Player "KRONUS" (steamId=76561199241533579) disconnected from server.
+23:31:40 | Player "KRONUS" (steamId=76561199241533579) disconnected from server.
+23:33:20 | Player "black0000" (steamId=76561198413182325) disconnected from server.
+23:33:42 | Player "Maurilim" (steamId=76561198054045761) connected to server!
+23:33:50 | Player "Maurilim" (steamId=76561198054045761) connected to server!
+23:34:10 | Player "cRn" (steamId=76561198100945209) disconnected from server.
+23:34:11 | Player "cRn" (steamId=76561198100945209) disconnected from server.
+23:44:49 | Player "ATOMIC" (steamId=76561199083408122) connected to server!
+23:45:2 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) connected to server!
+23:45:2 | Player "ATOMIC" (steamId=76561199083408122) connected to server!
+23:45:15 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) connected to server!
+23:48:54 | Player "Syn" (steamId=76561199215400451) connected to server!
+23:49:12 | Player "Syn" (steamId=76561199215400451) connected to server!
+23:52:40 | Player "marlon" (steamId=76561199125874694) disconnected from server.
+23:52:42 | Player "marlon" (steamId=76561199125874694) disconnected from server.
+23:57:19 | Player "[cGc] Martin" (steamId=76561199024565819) connected to server!
+23:58:10 | Player "[cGc] Martin" (steamId=76561199024565819) connected to server!
+23:59:24 | Player "Martins" (steamId=76561198378326509) connected to server!
+23:59:44 | Player "Martins" (steamId=76561198378326509) connected to server!
+0:0:38 | Player "hugo" (steamId=76561199055984010) connected to server!
+0:1:11 | Player "hugo" (steamId=76561199055984010) connected to server!
+0:3:40 | Player "=FURY=InfantiDF" (steamId=76561198283309946) disconnected from server.
+0:5:27 | Player "[VRL]Primordial" (steamId=76561199224688906) connected to server!
+0:6:4 | Player "Andre1237" (steamId=76561199042038508) connected to server!
+0:6:25 | Player "cRn" (steamId=76561198100945209) connected to server!
+0:6:40 | Player "cRn" (steamId=76561198100945209) connected to server!
+0:7:15 | Player "Congo" (steamId=76561199119859024) connected to server!
+0:8:23 | Player "[FARM]Gandii" (steamId=76561199008723574) connected to server!
+0:8:32 | Player "[FARM]Gandii" (steamId=76561199008723574) connected to server!
+0:8:32 | Player "[cGc] Martin" (steamId=76561199024565819) disconnected from server.
+0:8:34 | Player "[cGc] Martin" (steamId=76561199024565819) disconnected from server.
+0:8:51 | "[ :) ]" (steamid=76561198253386609) toggled freecam
+0:9:13 | "[ :) ]" (steamid=76561198253386609) deleted object "AC_CargoPants_Admin" (pos=<3685.185303, 53.351852, 7339.622559>)
+0:9:15 | "[ :) ]" (steamid=76561198253386609) /heal used on: "[ :) ]" (steamid=76561198253386609)
+0:9:17 | "[ :) ]" (steamid=76561198253386609) /heal used on: "[ :) ]" (steamid=76561198253386609)
+0:10:38 | Player "[SDC]pistoleiro" (steamId=76561198046104047) connected to server!
+0:10:47 | Player "[SDC]pistoleiro" (steamId=76561198046104047) connected to server!
+0:11:57 | Player "[GURI]OTG" (steamId=76561198438824008) connected to server!
+0:15:15 | Player "[GURI]OTG" (steamId=76561198438824008) connected to server!
+0:15:26 | Player "=FURY=SANTANA" (steamId=76561199228878387) disconnected from server.
+0:16:25 | Player "Toy Story" (steamId=76561198133211909) connected to server!
+0:16:47 | Player "Toy Story" (steamId=76561198133211909) connected to server!
+0:17:56 | Player "[TDU]TROPAdoRODO" (steamId=76561199092065648) connected to server!
+0:21:10 | "[ :) ]" (steamid=76561198253386609) toggled godmode
+0:49:53 | "[ :) ]" (steamid=76561198253386609) toggled godmode
+0:49:54 | "[ :) ]" (steamid=76561198253386609) toggled godmode
+0:52:45 | Player "=FURY=M4ndr4k3.Rs*" (steamId=76561197977977178) connected to server!
+0:53:42 | Player "=FURY=M4ndr4k3.Rs*" (steamId=76561197977977178) connected to server!
+0:55:15 | Player "Lancastel" (steamId=76561199103114870) connected to server!
+0:55:33 | Player "Lancastel" (steamId=76561199103114870) connected to server!
+0:58:47 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) disconnected from server.
+0:59:54 | Player "Dingdim" (steamId=76561198186641841) connected to server!
+1:12:21 | Player "[FARM]Gandii" (steamId=76561199008723574) disconnected from server.
+1:17:21 | Player "Dingdim" (steamId=76561198186641841) disconnected from server.
+1:25:33 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) connected to server!
+1:25:42 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) connected to server!
+1:26:56 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) disconnected from server.
+1:29:8 | Player "[FARM]Gandii" (steamId=76561199008723574) connected to server!
+1:29:19 | Player "[FARM]Gandii" (steamId=76561199008723574) connected to server!
+1:30:16 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) connected to server!
+1:30:34 | Player "Syn" (steamId=76561199215400451) disconnected from server.
+1:30:34 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) connected to server!
+1:32:0 | Player "Syn" (steamId=76561199215400451) connected to server!
+1:32:21 | Player "Syn" (steamId=76561199215400451) connected to server!
+1:34:36 | Player "[ :) ]" (steamId=76561198253386609) disconnected from server.
+1:38:10 | Player "Edinaldo" (steamId=76561198253386609) connected to server!
+1:38:40 | Player "Pereira" (steamId=76561198950594742) connected to server!
+1:38:51 | Player "Edinaldo" (steamId=76561198253386609) connected to server!
+1:39:2 | Player "[CMDS] BocaPreta" (steamId=76561198061748681) connected to server!
+1:39:26 | Player "Pereira" (steamId=76561198950594742) connected to server!
+1:40:18 | Player "[CMDS] BocaPreta" (steamId=76561198061748681) connected to server!
+1:41:58 | Player "ATOMIC" (steamId=76561199083408122) disconnected from server.
+1:43:3 | Player "[FARM]NATO" (steamId=76561199083641388) connected to server!
+1:44:6 | Player "[FARM]NATO" (steamId=76561199083641388) connected to server!
+1:45:8 | Player "ADM-BRUXO" (steamId=76561198140728342) connected to server!
+1:45:22 | Player "ADM-BRUXO" (steamId=76561198140728342) connected to server!
+1:45:58 | Player "ADM-BRUXO" (steamId=76561198140728342) disconnected from server.
+1:47:29 | Player "ADM-BRUXO" (steamId=76561198140728342) connected to server!
+1:47:52 | Player "ADM-BRUXO" (steamId=76561198140728342) connected to server!
+1:48:30 | "ADM-BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+1:48:34 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198140728342)
+1:48:36 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198140728342)
+1:48:38 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198140728342)
+1:51:34 | Player "SafeDoNordeste" (steamId=76561198127713178) connected to server!
+1:51:58 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=4393.46,0,8053.56)
+1:52:31 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=5052.8,0,7916.2)
+1:52:37 | Player "SafeDoNordeste" (steamId=76561198127713178) connected to server!
+1:52:43 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+1:52:51 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5044.358887, 54.319164, 7917.495117>)
+1:52:53 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5044.333984, 54.319164, 7916.323730>)
+1:52:55 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+1:53:36 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=5926.19,0,8947.98)
+1:54:39 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=4821.44,0,6283.4)
+1:54:55 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+1:55:2 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4820.499512, 45.019405, 6280.736328>)
+1:55:6 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4820.575684, 45.019405, 6280.799805>)
+1:55:8 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4820.346191, 43.279919, 6279.988281>)
+1:55:10 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4820.986328, 45.019405, 6278.481445>)
+1:55:11 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4821.009277, 45.019405, 6278.502930>)
+1:55:16 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4820.767090, 44.902428, 6280.598633>)
+1:55:17 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+1:55:58 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=4902.46,0,6158.56)
+1:56:13 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+1:56:16 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4892.082520, 40.999989, 6161.792969>)
+1:56:18 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+1:57:23 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4846.270996, 40.999985, 6169.551758>)
+2:0:9 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=5582.17,0,6135.03)
+2:0:12 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:0:45 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5800.624023, 101.126450, 6226.697266>)
+2:1:5 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5541.298340, 128.037155, 6229.936523>)
+2:1:6 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:1:55 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=4923.91,0,8063.16)
+2:4:22 | "ADM-BRUXO" (steamid=76561198140728342) Spawned Item: (Sedan_02_Wheel)
+2:4:41 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:4:45 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5149.824707, 43.961746, 8268.952148>)
+2:4:47 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:4:49 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5175.601563, 50.642864, 8335.328125>)
+2:4:53 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5238.920898, 72.054955, 8337.857422>)
+2:5:37 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:5:48 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:6:50 | "ADM-BRUXO" (steamid=76561198140728342) Spawned Item: (AirdropFlare)
+2:7:4 | "ADM-BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+2:7:25 | "ADM-BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+2:8:40 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<1308.333740, 2.988829, 11783.510742>)
+2:9:0 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:9:18 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<1398.987793, -1.559682, 11822.657227>)
+2:9:21 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:9:56 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<1303.075195, 3.767197, 11787.484375>)
+2:12:10 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<1307.297852, 2.000004, 11760.117188>)
+2:12:10 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<1295.317505, 2.989064, 11736.256836>)
+2:12:11 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<1252.850952, 0.726612, 11651.957031>)
+2:13:23 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=5390.6,0,8603.17)
+2:14:24 | Player "cRn" (steamId=76561198100945209) disconnected from server.
+2:14:54 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=5076.53,0,8076.94)
+2:15:1 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:15:12 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) disconnected from server.
+2:16:2 | Player "Bob Lee Swagger" (steamId=76561198338923534) connected to server!
+2:16:19 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4954.446777, 50.000034, 7963.783203>)
+2:16:19 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:17:14 | Player "MaozinhaBr" (steamId=76561198321161373) connected to server!
+2:17:44 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4952.103027, 49.999977, 7942.803223>)
+2:17:45 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4954.904297, 50.000000, 7958.478027>)
+2:18:2 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:18:9 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5113.154297, 39.823875, 8208.354492>)
+2:18:10 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:18:20 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:18:25 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:18:38 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:18:50 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) disconnected from server.
+2:18:57 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4436.515625, 82.406273, 8089.159180>)
+2:18:57 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4436.467773, 82.397705, 8089.072266>)
+2:19:2 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:19:35 | Player "Andre1237" (steamId=76561199042038508) disconnected from server.
+2:19:58 | Player "=FURY=M4ndr4k3.Rs*" (steamId=76561197977977178) disconnected from server.
+2:20:51 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=4080.98,0,7282.57)
+2:20:54 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:21:48 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:22:16 | Player "[GURI]OTG" (steamId=76561198438824008) disconnected from server.
+2:22:17 | Player "[GURI]OTG" (steamId=76561198438824008) re-connected to server [canceledLogout]
+2:22:17 | Player "[GURI]OTG" (steamId=76561198438824008) re-connected to server [canceledLogout]
+2:22:39 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=5102.34,0,11410.3)
+2:22:59 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=4855.14,0,8039.28)
+2:23:20 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4868.794434, 50.000000, 8021.912598>)
+2:23:23 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4910.744141, 49.994938, 8009.412109>)
+2:23:24 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4938.625977, 49.971874, 8010.643066>)
+2:23:26 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4990.633301, 50.525642, 7991.080566>)
+2:23:28 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5073.785156, 57.006889, 7978.815430>)
+2:23:32 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:23:35 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5315.357910, 81.211357, 8198.363281>)
+2:23:53 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5802.880859, 57.411171, 8559.225586>)
+2:23:55 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:24:5 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5849.625488, 53.677540, 8667.182617>)
+2:24:58 | Player "[GURI]OTG" (steamId=76561198438824008) disconnected from server.
+2:24:58 | Player "[GURI]OTG" (steamId=76561198438824008) re-connected to server [canceledLogout]
+2:24:58 | Player "[GURI]OTG" (steamId=76561198438824008) re-connected to server [canceledLogout]
+2:25:4 | Player "[UF]Haridade" (steamId=76561198808745430) connected to server!
+2:25:7 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5759.890137, 50.957802, 8628.314453>)
+2:25:12 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5789.327148, 50.870007, 8628.926758>)
+2:25:16 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5829.285645, 50.810707, 8625.220703>)
+2:25:18 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:25:33 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6522.733398, 16.000000, 9285.398438>)
+2:25:34 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:26:8 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:26:9 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+2:26:15 | Player "ADM-BRUXO" (steamId=76561198140728342) disconnected from server.
+2:28:36 | Player "ADM-BRUXO" (steamId=76561199083408122) connected to server!
+2:28:56 | Player "ADM-BRUXO" (steamId=76561199083408122) connected to server!
+2:29:38 | Player "ADM-BRUXO" (steamId=76561199083408122) disconnected from server.
+2:30:34 | Player "ATOMIC" (steamId=76561199083408122) connected to server!
+2:30:54 | Player "ATOMIC" (steamId=76561199083408122) connected to server!
+2:34:50 | Player "[SDC]pistoleiro" (steamId=76561198046104047) disconnected from server.
+2:44:35 | Player "PintoJunior" (steamId=76561198057936781) connected to server!
+2:48:30 | Player "Toy Story" (steamId=76561198133211909) disconnected from server.
+2:48:32 | Player "Toy Story" (steamId=76561198133211909) disconnected from server.
+2:59:10 | Player "Martins" (steamId=76561198378326509) disconnected from server.
+2:59:12 | Player "Martins" (steamId=76561198378326509) re-connected to server [canceledLogout]
+2:59:21 | Player "[TDU]TROPAdoRODO" (steamId=76561199092065648) disconnected from server.
+2:59:55 | Player "ATOMIC" (steamId=76561199083408122) disconnected from server.
+2:59:55 | Player "Syn" (steamId=76561199215400451) disconnected from server.
+2:59:55 | Player "PintoJunior" (steamId=76561198057936781) disconnected from server.
+2:59:55 | Player "[UF]Haridade" (steamId=76561198808745430) disconnected from server.
+2:59:55 | Player "MaozinhaBr" (steamId=76561198321161373) disconnected from server.
+2:59:55 | Player "Pereira" (steamId=76561198950594742) disconnected from server.
+2:59:55 | Player "[FARM]Gandii" (steamId=76561199008723574) disconnected from server.
+2:59:55 | Player "Lancastel" (steamId=76561199103114870) disconnected from server.
+2:59:55 | Player "Congo" (steamId=76561199119859024) disconnected from server.
+2:59:55 | Player "Edinaldo" (steamId=76561198253386609) disconnected from server.
+2:59:55 | Player "[FARM]NATO" (steamId=76561199083641388) disconnected from server.
+2:59:55 | Player "[VRL]Primordial" (steamId=76561199224688906) disconnected from server.
+2:59:55 | Player "[CMDS] BocaPreta" (steamId=76561198061748681) disconnected from server.
+2:59:55 | Player "Martins" (steamId=76561198378326509) disconnected from server.
+2:59:55 | Player "Maurilim" (steamId=76561198054045761) disconnected from server.
+2:59:55 | Player "Bob Lee Swagger" (steamId=76561198338923534) disconnected from server.
+2:59:55 | Player "hugo" (steamId=76561199055984010) disconnected from server.
+2:59:55 | Player "[GURI]OTG" (steamId=76561198438824008) disconnected from server.

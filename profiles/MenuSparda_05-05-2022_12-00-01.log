@@ -1,0 +1,79 @@
+---------------------------------------------
+MenuSparda v1.0 log iniciado em 05.05.2022 12:00:01
+
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO:Categoria adicionada ADMIN
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada TPCur para categoria ADMIN
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada TPToTarget para categoria ADMIN
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada TPToAdmin para categoria ADMIN
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada TPToBlackMarket para categoria ADMIN
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada HealTarget para categoria ADMIN
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada SetHealthTarget para categoria ADMIN
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada SetBloodTarget para categoria ADMIN
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada GodTarget para categoria ADMIN
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada TargetInvisivel para categoria ADMIN
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada RefuelAndRepair para categoria ADMIN
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada SetScaleTarget para categoria ADMIN
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO:Categoria adicionada PUNIÇÃO
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada KillTarget para categoria PUNIÇÃO
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada StripTarget para categoria PUNIÇÃO
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada FreezeTarget para categoria PUNIÇÃO
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada SpawnHorde para categoria PUNIÇÃO
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada SpawnSanta para categoria PUNIÇÃO
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada SpawnZNBC para categoria PUNIÇÃO
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada SpawnWolf para categoria PUNIÇÃO
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada SpawnBear para categoria PUNIÇÃO
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada SpawnSurvivor para categoria PUNIÇÃO
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO:Categoria adicionada DANO
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada BiteTarget para categoria DANO
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada RejectBellyTarget para categoria DANO
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada PsycoTarget para categoria DANO
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada SneezeTarget para categoria DANO
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada HandsBlood para categoria DANO
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO:Categoria adicionada SERVER
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada FreeCamAdm para categoria SERVER
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada TimeDay para categoria SERVER
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada TimeNight para categoria SERVER
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada SetTime para categoria SERVER
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada SetDate para categoria SERVER
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada SetWeather para categoria SERVER
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada DeleteObj para categoria SERVER
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada ServerOff para categoria SERVER
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO:Categoria adicionada VEÍCULOS
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada Carro1 para categoria VEÍCULOS
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada Carro2 para categoria VEÍCULOS
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada Carro3 para categoria VEÍCULOS
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada Carro4 para categoria VEÍCULOS
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO:Categoria adicionada KIT BASE
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada OuroPack para categoria KIT BASE
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada PrataPack para categoria KIT BASE
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada BronzePack para categoria KIT BASE
+05.05.2022 12:00:01 [MenuSpardaCmdAPI]: INFO: Função adicionada BaseMaterialSpawn para categoria KIT BASE
+05.05.2022 12:00:01 [MenuSpardaConfig]: INFO: Usando admins.cfg do diretório de perfil
+05.05.2022 12:00:01 [ZomBerryDbg]: Servidor pronto, carregando lista de administradores de: $profile:_MenuSparda\admins.cfg
+05.05.2022 12:00:01 [MenuSpardaConfig]: admins.cfg carregado
+05.05.2022 12:00:01 [MenuSpardaConfig]: Adicionado admin: 76561198253386609
+05.05.2022 12:00:01 [MenuSpardaConfig]: Adicionado admin: 76561198950594742
+05.05.2022 12:00:01 [MenuSpardaConfig]: Adicionado admin: 76561198329721265
+05.05.2022 12:00:01 [MenuSpardaConfig]: Adicionado admin: 76561198140728342
+05.05.2022 12:00:42 [MenuSpardaDbg]: Solicitação de autenticação ignorada (não é um administrador) G A T O (rJNwSBt-keMsxy6wmw26KIknby9pbi-BdPVDRxXtp1M=)
+05.05.2022 12:00:43 [MenuSpardaDbg]: Solicitação de autenticação ignorada (não é um administrador) ALFAA (nmtfbkTwHkQSBFzHNWoCxhqnu9NTvOsRke42ngDp-lQ=)
+05.05.2022 12:01:00 [MenuSpardaDbg]: Solicitação de autenticação ignorada (não é um administrador) GabrielDWR (rTVfTag5znqfvyuyGNqrT9q3Jozf0AxkI6Luv8N7wUA=)
+05.05.2022 12:15:52 [MenuSpardaDbg]: Solicitação de autenticação ignorada (não é um administrador) [HORDA]ThiagoPenna (PMMKCG_54t632nONjkU-hd7ti3sZdO-qH8RvStPr3TI=)
+05.05.2022 12:18:05 [MenuSpardaDbg]: Solicitação de autenticação ignorada (não é um administrador) [HORDA]MacLovin (N1T8alzVdGMdDxSDbPzjhNlbmzoP9B5b4k0BhQw8aWw=)
+05.05.2022 12:38:36 [MenuSpardaDbg]: Solicitação de autenticação ignorada (não é um administrador) [HORDA]KAS (4vTL7SLJBH64gT0MvDS3tPj3IIHYYujjT5xbHtSlOEk=)
+05.05.2022 12:38:46 [MenuSpardaDbg]: Solicitação de autenticação ignorada (não é um administrador) [HORDA]MacLovin (N1T8alzVdGMdDxSDbPzjhNlbmzoP9B5b4k0BhQw8aWw=)
+05.05.2022 12:47:37 [MenuSpardaDbg]: Solicitação de autenticação ignorada (não é um administrador) [YKZ]-BlackBear (faBVm-cLhM_8VuXgLqsYE1ZrZXkCqG_TCdmfwXjUge0=)
+05.05.2022 12:51:22 [MenuSpardaDbg]: Autenticação responder ao administrador BRUXO (jmHJ9I92rPpKSzbli79ZPleNsxcxvGej0q2nfeA-33w=)
+05.05.2022 12:52:26 [MenuSpardaDbg]: BRUXO (jmHJ9I92rPpKSzbli79ZPleNsxcxvGej0q2nfeA-33w=) - sincronização da lista de jogadores
+05.05.2022 12:52:26 [MenuSpardaDbg]: BRUXO (jmHJ9I92rPpKSzbli79ZPleNsxcxvGej0q2nfeA-33w=) - sincronização da lista de funções
+05.05.2022 13:15:52 [MenuSpardaDbg]: Solicitação de autenticação ignorada (não é um administrador) (CNXC)Roger     (SGuBHxx57pugvSKJ_ceQ3kLSnQBac4Y92EIwcnrIQh0=)
+05.05.2022 13:30:18 [MenuSpardaDbg]: Solicitação de autenticação ignorada (não é um administrador) [horda]marcelinho (u9bD4bRUZMBVX6dyqqSBr-KbJJyj5tqLAH0Xc3yWDvE=)
+05.05.2022 13:34:24 [MenuSpardaDbg]: Solicitação de autenticação ignorada (não é um administrador) Vini_300 (6srco_2fW8bkf8ZDLDPyLPXaxZ5GmgnEIqUmacaHw6s=)
+05.05.2022 13:44:03 [MenuSpardaDbg]: Solicitação de autenticação ignorada (não é um administrador) Vini_300 (6srco_2fW8bkf8ZDLDPyLPXaxZ5GmgnEIqUmacaHw6s=)
+05.05.2022 13:44:39 [MenuSpardaDbg]: Solicitação de autenticação ignorada (não é um administrador) [HORDA]MacLovin (N1T8alzVdGMdDxSDbPzjhNlbmzoP9B5b4k0BhQw8aWw=)
+05.05.2022 14:01:52 [MenuSpardaDbg]: Solicitação de autenticação ignorada (não é um administrador) [YKZ]-Lobato (WFdrY5eGSCjMBANuPQz5tjNMyBAoUtphFMAPdwMCmJw=)
+05.05.2022 14:10:59 [MenuSpardaDbg]: Solicitação de autenticação ignorada (não é um administrador) Galega (73yoK8DxaYAqB53dwuq5DTvSkxItU7UmfmdcKV6tbe4=)
+05.05.2022 14:24:15 [MenuSpardaDbg]: Solicitação de autenticação ignorada (não é um administrador) ProstFire (eguG3iwSvpdjDCGD7i7Py2L6d_tIAGOXlRzWT5GKS5g=)
+05.05.2022 14:47:08 [MenuSpardaDbg]: Solicitação de autenticação ignorada (não é um administrador) Vex (ypl-4VpzpDkUhZUqc4SDatbQ1BxqGYJKbtgMPyB8MD8=)
+05.05.2022 14:49:33 [MenuSpardaDbg]: Solicitação de autenticação ignorada (não é um administrador) ProstFire (eguG3iwSvpdjDCGD7i7Py2L6d_tIAGOXlRzWT5GKS5g=)
+05.05.2022 14:52:58 [MenuSpardaDbg]: Solicitação de autenticação ignorada (não é um administrador) [YKZ]-BlackBear (faBVm-cLhM_8VuXgLqsYE1ZrZXkCqG_TCdmfwXjUge0=)

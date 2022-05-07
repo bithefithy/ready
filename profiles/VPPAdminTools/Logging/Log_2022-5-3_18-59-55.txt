@@ -1,0 +1,908 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-5-3_18-59-55
+====================================================================================
+18:59:55 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+18:59:55 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+18:59:55 | [PermissionManager] Perm (FreeCamera) has been registered!
+18:59:55 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuItemManager) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuServerManager) has been registered!
+18:59:55 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+18:59:55 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+18:59:55 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+18:59:55 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+18:59:55 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+18:59:55 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+18:59:55 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+18:59:55 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+18:59:55 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+18:59:55 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+18:59:55 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+18:59:55 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+18:59:55 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+18:59:55 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+18:59:55 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+18:59:55 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+18:59:55 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+18:59:55 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+18:59:55 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+18:59:55 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+18:59:55 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+18:59:55 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+18:59:55 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+18:59:55 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+18:59:55 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+18:59:55 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+18:59:55 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+18:59:55 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+18:59:55 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+18:59:55 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+18:59:55 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+18:59:55 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+18:59:55 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuBansManager) has been registered!
+18:59:55 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+18:59:55 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+18:59:55 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+18:59:55 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+18:59:55 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+18:59:55 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+18:59:55 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+18:59:55 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+18:59:55 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+18:59:55 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+18:59:55 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+18:59:55 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+18:59:55 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+18:59:55 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+18:59:55 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+18:59:55 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+18:59:55 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+18:59:55 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+18:59:55 | [PermissionManager] Adding Super Admin (76561198253386609)
+18:59:55 | [PermissionManager] Adding Super Admin (76561198950594742)
+18:59:55 | [PermissionManager] Adding Super Admin (76561198329721265)
+18:59:55 | [PermissionManager] Adding Super Admin (76561198140728342)
+18:59:55 | [PermissionManager] Loaded UserGroups.json
+18:59:55 | Building Sets Loaded: 5
+18:59:55 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+18:59:55 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+18:59:55 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+18:59:55 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+18:59:55 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+18:59:55 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+18:59:55 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+18:59:55 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+18:59:55 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+18:59:55 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+18:59:55 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+18:59:55 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+18:59:55 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+18:59:55 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+18:59:55 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+18:59:55 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+18:59:55 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+19:0:18 | Player "[YKZ] Emissarius" (steamId=76561198271087379) connected to server!
+19:0:36 | Player "[YKZ] Emissarius" (steamId=76561198271087379) connected to server!
+19:1:11 | Player "[YKZ] Felps" (steamId=76561198892779186) connected to server!
+19:1:27 | Player "[YKZ] Felps" (steamId=76561198892779186) connected to server!
+19:1:33 | Player "[YKZ]-Lobato" (steamId=76561198158375860) connected to server!
+19:1:59 | Player "[YKZ]-Lobato" (steamId=76561198158375860) connected to server!
+19:3:46 | Player "Sagara" (steamId=76561198057660620) connected to server!
+19:3:57 | Player "Sagara" (steamId=76561198057660620) connected to server!
+19:5:50 | Player "joaoob23" (steamId=76561198302337518) connected to server!
+19:7:1 | Player "Landim" (steamId=76561198167594302) connected to server!
+19:8:5 | Player "[YKZ] Seekerzao" (steamId=76561198067793781) connected to server!
+19:8:29 | Player "[YKZ] Seekerzao" (steamId=76561198067793781) connected to server!
+19:15:43 | Player "[YKZ]-BlackBear" (steamId=76561198343030820) connected to server!
+19:16:0 | Player "[YKZ]-BlackBear" (steamId=76561198343030820) connected to server!
+19:17:29 | Player "[YKZ] Notsniw" (steamId=76561197967151252) connected to server!
+19:17:52 | Player "[YKZ] Notsniw" (steamId=76561197967151252) connected to server!
+19:25:27 | Player "Survivrau" (steamId=76561198057660141) connected to server!
+19:25:47 | Player "Survivrau" (steamId=76561198057660141) connected to server!
+19:26:22 | "Survivrau" (steamid=76561198057660141) gave godmode to (steamid=76561198057660141)
+19:26:50 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:26:53 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7549.102539, 35.200169, 7900.085938>)
+19:26:54 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:29:29 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7379.52,0,8707.96)
+19:29:40 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7127.73,0,8624.28)
+19:29:48 | "Survivrau" (steamid=76561198057660141) toggled godmode
+19:29:50 | "Survivrau" (steamid=76561198057660141) toggled godmode
+19:29:51 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:30:51 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:31:0 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:31:27 | Player "[YKZ]-BlackBear" (steamId=76561198343030820) disconnected from server.
+19:31:43 | "Survivrau" (steamid=76561198057660141) toggled godmode
+19:31:44 | "Survivrau" (steamid=76561198057660141) toggled godmode
+19:31:44 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:31:49 | "Survivrau": (steamid=76561198057660141) teleported to (pos=8712.77,0,6721.99)
+19:32:0 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:32:5 | Player "Biel FxR" (steamId=76561198050836260) connected to server!
+19:32:25 | Player "Biel FxR" (steamId=76561198050836260) connected to server!
+19:32:46 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7391.39,0,8176.6)
+19:32:48 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7411.05,0,8186.43)
+19:32:50 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:32:58 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:34:0 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7762.5,0,7000.64)
+19:34:2 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:34:13 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:35:6 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7449.522949, 21.971832, 6866.067383>)
+19:35:7 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7468.110352, 20.966663, 6884.323242>)
+19:35:14 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:35:26 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:36:9 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7197.957520, 40.591461, 6816.177734>)
+19:36:11 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:36:35 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:37:32 | Player "[YKZ]-BlackBear" (steamId=76561198343030820) connected to server!
+19:37:49 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7093.102051, 26.645779, 6848.416992>)
+19:37:51 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:37:56 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:38:1 | Player "[YKZ]-BlackBear" (steamId=76561198343030820) connected to server!
+19:39:43 | "Survivrau": (steamid=76561198057660141) teleported to (pos=6749.21,0,7701.54)
+19:39:46 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:40:9 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:41:7 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<6765.943359, 33.976746, 7508.990723>)
+19:41:8 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:41:15 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:41:38 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<6733.012207, 32.143955, 7571.676270>)
+19:41:39 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:41:55 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:42:28 | "Survivrau": (steamid=76561198057660141) teleported to (pos=10293.2,0,10958.6)
+19:42:32 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:43:2 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10318.602539, 8.046798, 10925.383789>)
+19:43:5 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:44:15 | Player "Betinho_maluco" (steamId=76561198057627157) connected to server!
+19:44:35 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10308.344727, 13.255214, 10972.598633>)
+19:44:37 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:44:48 | Player "Betinho_maluco" (steamId=76561198057627157) connected to server!
+19:44:49 | "Survivrau": (steamid=76561198057660141) teleported to (pos=10187.9,0,10256.7)
+19:44:57 | "Survivrau": (steamid=76561198057660141) teleported to (pos=11001.7,0,6630.92)
+19:45:5 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10986.975586, 40.226341, 6578.355469>)
+19:45:6 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10984.231445, 43.206310, 6567.923828>)
+19:45:7 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10966.291992, 43.261894, 6532.089844>)
+19:45:8 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10959.317383, 44.084621, 6498.437500>)
+19:45:8 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10956.318359, 45.901272, 6488.863770>)
+19:45:12 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10957.936523, 47.206726, 6468.611328>)
+19:45:13 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10960.972656, 46.864220, 6429.834961>)
+19:45:15 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10960.748047, 47.709316, 6405.944824>)
+19:45:16 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10959.399414, 48.193245, 6392.070313>)
+19:45:17 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10920.124023, 47.700134, 6341.322266>)
+19:45:21 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10908.684570, 49.892578, 6337.807129>)
+19:45:21 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10900.856445, 51.085072, 6335.908203>)
+19:45:22 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10888.716797, 51.826878, 6333.311035>)
+19:45:23 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10681.564453, 50.869259, 6289.214355>)
+19:45:24 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10617.183594, 50.386745, 6270.157227>)
+19:45:31 | Player "Hacan121" (steamId=76561198345012092) connected to server!
+19:45:32 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10535.962891, 50.143688, 6238.334961>)
+19:45:33 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10521.826172, 52.053776, 6230.181641>)
+19:45:34 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10510.234375, 53.275501, 6223.568848>)
+19:45:34 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10497.081055, 53.550240, 6216.546387>)
+19:45:35 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10477.755859, 51.097000, 6206.102051>)
+19:45:36 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10437.120117, 45.586334, 6192.958496>)
+19:45:37 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10335.985352, 35.387566, 6187.024414>)
+19:45:38 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10313.435547, 35.685131, 6168.584961>)
+19:45:52 | Player "Hacan121" (steamId=76561198345012092) connected to server!
+19:45:54 | "Survivrau": (steamid=76561198057660141) teleported to (pos=9525.84,0,6208.39)
+19:46:40 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9440.157227, 30.856766, 6245.890625>)
+19:46:41 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9427.366211, 29.757757, 6256.158691>)
+19:46:42 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9415.057617, 29.795959, 6261.401367>)
+19:46:42 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9404.320313, 30.241753, 6263.402832>)
+19:46:43 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9387.545898, 31.382368, 6265.218262>)
+19:46:44 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9377.722656, 32.097572, 6265.758301>)
+19:46:44 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9369.157227, 32.869431, 6266.881348>)
+19:46:45 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9356.020508, 33.272400, 6269.422852>)
+19:46:46 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9345.777344, 33.342281, 6275.674316>)
+19:46:46 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9333.613281, 32.846870, 6280.705566>)
+19:46:47 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9322.685547, 32.078907, 6285.154785>)
+19:46:47 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9312.471680, 30.968777, 6290.290039>)
+19:46:47 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9308.245117, 31.485943, 6292.851563>)
+19:46:48 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9304.833008, 31.488138, 6295.140625>)
+19:46:49 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9290.635742, 28.449537, 6304.240723>)
+19:46:56 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:47:38 | Player "[YKZ] Emissarius" (steamId=76561198271087379) disconnected from server.
+19:47:38 | Player "[YKZ] Emissarius" (steamId=76561198271087379) disconnected from server.
+19:48:1 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7640.27,0,9775.59)
+19:48:2 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:48:4 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:48:8 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:48:17 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:48:18 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:48:21 | Player "[YKZ] Emissarius" (steamId=76561198271087379) connected to server!
+19:48:21 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:48:24 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7630.147949, 12.681437, 9784.538086>)
+19:48:24 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:48:27 | Player "[YKZ] Emissarius" (steamId=76561198271087379) connected to server!
+19:48:41 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7629.847168, 13.189465, 9795.259766>)
+19:48:42 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7627.092773, 13.189465, 9801.995117>)
+19:48:43 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7622.274902, 13.189465, 9810.296875>)
+19:48:43 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7615.896484, 13.189465, 9814.081055>)
+19:48:44 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7609.689941, 13.189465, 9810.280273>)
+19:48:44 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7608.782227, 13.189465, 9802.808594>)
+19:48:45 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7611.818848, 13.189465, 9796.917969>)
+19:48:45 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7616.136719, 13.189465, 9791.509766>)
+19:48:46 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7619.151855, 13.189465, 9785.557617>)
+19:48:47 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7625.193359, 13.189465, 9787.033203>)
+19:49:45 | "Survivrau": (steamid=76561198057660141) teleported to (pos=8183.05,0,8463.47)
+19:49:51 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:50:54 | "Survivrau": (steamid=76561198057660141) teleported to (pos=9469.85,0,6238.88)
+19:50:57 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:51:29 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:52:9 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7562.16,0,7910.62)
+19:52:11 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:52:12 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:52:13 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:52:14 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:52:15 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:52:20 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:52:20 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:53:40 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+19:54:24 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:55:2 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:55:5 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+19:55:11 | "Survivrau": (steamid=76561198057660141) teleported to (pos=6597.04,0,7141.48)
+19:55:12 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:55:19 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:55:27 | "Survivrau": (steamid=76561198057660141) teleported to (pos=6771.71,0,7506.23)
+19:55:47 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:57:38 | Player "joaoob23" (steamId=76561198302337518) connected to server!
+19:58:59 | "Survivrau": (steamid=76561198057660141) teleported to (pos=11049.3,0,8503.17)
+19:59:1 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:59:6 | "Survivrau" (steamid=76561198057660141) toggled freecam
+19:59:27 | Player "[YKZ] Seekerzao" (steamId=76561198067793781) disconnected from server.
+20:0:1 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10188.790039, 8.424630, 9211.631836>)
+20:0:17 | Player "ttv/p3sad3lo__ [$]" (steamId=76561198277384503) connected to server!
+20:0:26 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10163.177734, 6.813460, 9280.904297>)
+20:0:27 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:0:32 | Player "ttv/p3sad3lo__ [$]" (steamId=76561198277384503) connected to server!
+20:0:50 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:1:0 | "Survivrau": (steamid=76561198057660141) teleported to (pos=11107.5,0,8403.52)
+20:1:1 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:1:4 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:1:19 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7621,0,6491.97)
+20:1:21 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:1:45 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7595.812988, 38.361073, 6464.445313>)
+20:1:45 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7605.735352, 39.113235, 6465.285156>)
+20:1:45 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7615.155762, 39.739048, 6466.592285>)
+20:1:46 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7625.488770, 40.240158, 6468.049805>)
+20:1:46 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7639.470703, 39.610416, 6495.612793>)
+20:1:48 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:2:1 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8563.520508, 27.936684, 7220.397949>)
+20:2:6 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8116.115234, 19.392715, 7693.501465>)
+20:2:14 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9197.784180, 21.304667, 7234.651367>)
+20:2:16 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:2:53 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7557.44,0,7905.32)
+20:2:53 | Player "Sagara" (steamId=76561198057660620) disconnected from server.
+20:3:10 | "Survivrau": (steamid=76561198057660141) teleported to (pos=9197.89,0,7253.5)
+20:3:12 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9200.834961, 21.329277, 7245.221680>)
+20:3:20 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7553.28,0,7902.09)
+20:3:26 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:3:34 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7549.987305, 28.019102, 7894.928711>)
+20:3:34 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:3:41 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:3:47 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7550.331543, 35.231400, 7893.429688>)
+20:3:47 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:4:0 | "Survivrau": (steamid=76561198057660141) teleported to (pos=9198.04,0,7252.67)
+20:4:26 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7553.88,0,7896.02)
+20:5:13 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7475.38,0,8664.29)
+20:5:15 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:6:7 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:6:17 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7627.93,0,9801.73)
+20:6:57 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:7:11 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9286.487305, 27.470869, 8228.448242>)
+20:7:23 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:7:40 | Player "ttv/p3sad3lo__ [$]" (steamId=76561198277384503) disconnected from server.
+20:8:7 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9295.511719, 27.000015, 8256.399414>)
+20:8:10 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:8:19 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:8:25 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7553.91,0,7903.39)
+20:8:38 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:8:42 | Player "Betinho_maluco" (steamId=76561198057627157) disconnected from server.
+20:8:57 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:8:59 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:9:0 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:9:5 | Player "Betinho_maluco" (steamId=76561198057627157) disconnected from server.
+20:9:19 | Player "joaoob23" (steamId=76561198302337518) disconnected from server.
+20:9:33 | Player "joaoob23" (steamId=76561198302337518) disconnected from server.
+20:9:53 | "Survivrau": (steamid=76561198057660141) teleported to (pos=9316.04,0,8218.84)
+20:10:12 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9322.179688, 28.486715, 8226.164063>)
+20:10:12 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9321.961914, 28.300108, 8229.424805>)
+20:10:13 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9321.949219, 29.497341, 8229.945313>)
+20:10:13 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9325.000000, 26.999943, 8239.891602>)
+20:10:14 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9332.248047, 27.000067, 8244.391602>)
+20:10:19 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9331.791016, 26.999998, 8233.496094>)
+20:10:20 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9332.963867, 27.000002, 8219.773438>)
+20:10:20 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9333.066406, 26.999998, 8206.123047>)
+20:10:21 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9315.201172, 26.999996, 8188.799316>)
+20:10:21 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9313.051758, 28.398291, 8187.555664>)
+20:10:22 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9308.333984, 30.614029, 8187.731445>)
+20:10:22 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9270.037109, 27.000004, 8182.729004>)
+20:10:23 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9260.904297, 26.999998, 8180.278809>)
+20:10:23 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9255.206055, 27.000004, 8179.025879>)
+20:10:23 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9247.332031, 26.999998, 8177.330566>)
+20:10:24 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9224.699219, 26.999998, 8172.227051>)
+20:10:24 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9200.544922, 27.000000, 8166.776367>)
+20:10:24 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9176.539063, 27.000000, 8161.336914>)
+20:10:24 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9160.260742, 27.507387, 8157.683105>)
+20:10:25 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9132.566406, 27.603083, 8155.529785>)
+20:10:25 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9092.725586, 27.060001, 8153.012207>)
+20:10:25 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9091.796875, 28.483410, 8152.905273>)
+20:10:28 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9099.143555, 27.098892, 8154.093750>)
+20:10:28 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9103.064453, 27.062248, 8142.061523>)
+20:10:28 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9107.023438, 27.127930, 8124.030762>)
+20:10:29 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9110.730469, 27.140003, 8105.726563>)
+20:10:29 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9115.037109, 27.139999, 8084.652832>)
+20:10:31 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9149.451172, 27.139999, 8083.780762>)
+20:10:31 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9178.810547, 27.109869, 8083.721191>)
+20:10:33 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9206.687500, 27.092224, 8085.806152>)
+20:10:34 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9223.825195, 27.198881, 8081.641113>)
+20:10:35 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9249.769531, 28.115694, 8057.722168>)
+20:10:35 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9256.601563, 28.560804, 8040.241699>)
+20:10:36 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9253.570313, 28.651476, 8022.154785>)
+20:10:36 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9249.295898, 28.658594, 8003.374512>)
+20:10:36 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9250.735352, 28.674404, 7987.208984>)
+20:10:39 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9284.524414, 30.238213, 7922.997559>)
+20:10:39 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9287.583008, 32.274609, 7918.445313>)
+20:10:39 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9294.039063, 33.866589, 7911.233398>)
+20:10:40 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9299.732422, 35.904324, 7905.961914>)
+20:10:40 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9390.113281, 39.141285, 7810.545410>)
+20:10:41 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9407.752930, 34.877171, 7792.882813>)
+20:10:42 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9405.218750, 34.832218, 7785.765625>)
+20:10:43 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9403.025391, 34.902935, 7778.372070>)
+20:10:43 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9395.191406, 35.275383, 7776.411621>)
+20:10:44 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9382.899414, 35.397636, 7777.541992>)
+20:10:44 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9375.590820, 35.487339, 7782.786621>)
+20:10:45 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9364.309570, 35.507275, 7793.872559>)
+20:10:46 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9361.028320, 35.516602, 7810.356445>)
+20:10:46 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9363.610352, 35.529449, 7824.203613>)
+20:10:47 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9361.622070, 35.569294, 7840.590820>)
+20:10:49 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9360.346680, 35.444710, 7852.740234>)
+20:10:49 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9360.510742, 35.589870, 7864.844238>)
+20:10:53 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9337.066406, 35.714344, 7879.234863>)
+20:10:55 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9347.067383, 35.699986, 7860.380859>)
+20:10:57 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9378.099609, 35.384205, 7865.651855>)
+20:10:57 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9393.344727, 35.229992, 7877.582031>)
+20:10:59 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9411.416016, 34.922501, 7878.124023>)
+20:11:0 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9423.247070, 34.894127, 7875.722168>)
+20:11:0 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9436.917969, 34.529995, 7873.374023>)
+20:11:9 | "Survivrau": (steamid=76561198057660141) teleported to (pos=10498.6,0,9699)
+20:11:47 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:11:57 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:12:0 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:12:9 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9336.741211, 26.999981, 8229.126953>)
+20:12:11 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:12:26 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:13:33 | "Survivrau": (steamid=76561198057660141) teleported to (pos=10579.5,0,13569.4)
+20:13:35 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:13:40 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:13:43 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10574.054688, 18.197870, 13576.561523>)
+20:13:44 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:14:3 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10572.715820, 18.101084, 13571.294922>)
+20:14:58 | Player "Landim" (steamId=76561198167594302) disconnected from server.
+20:15:1 | Player "Landim" (steamId=76561198167594302) disconnected from server.
+20:15:2 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:15:6 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10824.812500, 14.746506, 13887.632813>)
+20:16:2 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<11132.140625, 15.719351, 13671.276367>)
+20:16:3 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:16:8 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:17:18 | "Survivrau": (steamid=76561198057660141) teleported to (pos=10771.7,0,12042.4)
+20:17:20 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:17:24 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:18:29 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<10432.018555, 12.491869, 11541.251953>)
+20:18:30 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:19:29 | "Survivrau": (steamid=76561198057660141) teleported to (pos=9153.57,0,8099)
+20:21:15 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:21:34 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9116.731445, 18.800922, 6160.622559>)
+20:21:37 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:22:10 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7559.21,0,7901.93)
+20:22:39 | "Survivrau": (steamid=76561198057660141) teleported to (pos=8179.23,0,8459.88)
+20:22:45 | Player "Biel FxR" (steamId=76561198050836260) disconnected from server.
+20:22:48 | Player "Biel FxR" (steamId=76561198050836260) disconnected from server.
+20:23:11 | "Survivrau" (steamid=76561198057660141) toggled godmode
+20:23:17 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7555.34,0,7902.29)
+20:23:22 | "Survivrau" (steamid=76561198057660141) toggled godmode
+20:23:35 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:24:30 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7390.423340, 31.551264, 8200.453125>)
+20:24:31 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:24:38 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:24:57 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:24:59 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:25:11 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7551.169922, 35.200169, 7899.601563>)
+20:25:11 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:25:27 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7842.01,0,6151.78)
+20:25:36 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:25:52 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8427.172852, 12.824557, 6068.495117>)
+20:25:53 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:26:2 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8401.424805, 16.389887, 6056.124512>)
+20:26:2 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8388.115234, 17.802475, 6053.756836>)
+20:26:3 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8375.767578, 19.069712, 6051.652832>)
+20:26:3 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8363.628906, 20.358467, 6048.739746>)
+20:26:4 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8355.762695, 21.288065, 6046.311523>)
+20:26:15 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:26:51 | "Survivrau": (steamid=76561198057660141) teleported to (pos=8421.59,0,5886.53)
+20:26:53 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:27:2 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8491.952148, 0.932689, 5906.111816>)
+20:27:3 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8521.675781, 1.082424, 5916.115723>)
+20:27:4 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8559.991211, 0.610033, 5926.808105>)
+20:27:5 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8578.036133, 0.998819, 5930.440430>)
+20:27:5 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8604.321289, 0.426269, 5934.460449>)
+20:27:6 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8620.489258, 0.753865, 5936.819824>)
+20:27:6 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8642.756836, 0.553385, 5940.023926>)
+20:27:7 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8665.302734, 0.249480, 5943.223633>)
+20:27:7 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8684.048828, 0.318965, 5945.922852>)
+20:27:7 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8699.271484, 0.789470, 5948.145996>)
+20:27:15 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8744.142578, 1.907944, 5957.911621>)
+20:27:15 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8782.539063, 2.575573, 5960.416504>)
+20:27:16 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8794.873047, 3.341182, 5958.383301>)
+20:27:17 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8812.910156, 2.629866, 5955.316406>)
+20:27:18 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8834.529297, 0.903725, 5957.790527>)
+20:27:18 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8852.495117, 0.513649, 5960.655762>)
+20:27:18 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8868.385742, 0.354244, 5963.218750>)
+20:27:19 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8883.880859, 0.264560, 5965.685547>)
+20:27:19 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8898.875000, 0.213675, 5968.136719>)
+20:27:19 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8913.556641, 0.309734, 5970.531738>)
+20:27:36 | "Survivrau": (steamid=76561198057660141) teleported to (pos=8660.93,0,6032.57)
+20:27:40 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8622.822266, 18.312984, 6036.674805>)
+20:27:41 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8609.336914, 19.519196, 6036.531738>)
+20:27:41 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8595.770508, 20.863018, 6037.242188>)
+20:27:42 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8581.154297, 21.701065, 6038.240723>)
+20:27:42 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8563.794922, 21.455524, 6039.203125>)
+20:27:42 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8559.267578, 22.294844, 6039.132813>)
+20:27:43 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8534.720703, 18.719990, 6040.343262>)
+20:27:43 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8519.439453, 17.517088, 6038.399414>)
+20:27:44 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8509.911133, 17.091631, 6038.409180>)
+20:27:45 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8496.947266, 15.819833, 6040.589355>)
+20:27:45 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8485.591797, 13.996481, 6045.911621>)
+20:27:46 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8477.183594, 13.177788, 6050.379883>)
+20:27:46 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8469.262695, 13.112251, 6053.594727>)
+20:27:47 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8457.638672, 13.262476, 6057.785156>)
+20:27:48 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8445.943359, 13.406953, 6058.660156>)
+20:27:48 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8434.788086, 13.636234, 6058.615234>)
+20:27:49 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8423.957031, 14.222301, 6057.680664>)
+20:27:49 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8413.903320, 15.116582, 6056.166992>)
+20:27:49 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8405.083008, 16.018988, 6054.823730>)
+20:27:50 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8395.836914, 16.998083, 6053.354492>)
+20:27:50 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8387.200195, 17.857632, 6052.026367>)
+20:27:57 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7556.41,0,7907.83)
+20:27:59 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:28:1 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:28:3 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:28:9 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7550.392578, 35.228539, 7893.808105>)
+20:28:9 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:28:18 | "Survivrau": (steamid=76561198057660141) teleported to (pos=8580.41,0,6131.22)
+20:28:24 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8558.912109, 35.822414, 6139.781738>)
+20:28:24 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8547.676758, 34.168919, 6137.602051>)
+20:28:25 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8541.380859, 33.758530, 6135.016602>)
+20:28:25 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8532.413086, 30.825521, 6128.963867>)
+20:28:26 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8530.764648, 31.628973, 6128.020020>)
+20:28:26 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8530.654297, 31.663994, 6128.720703>)
+20:28:27 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8521.430664, 27.556332, 6123.845703>)
+20:28:29 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8501.818359, 22.404079, 6112.686523>)
+20:28:30 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8490.852539, 19.467928, 6105.970215>)
+20:28:30 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8472.627930, 14.523434, 6094.407715>)
+20:28:31 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8442.254883, 9.910718, 6084.926270>)
+20:28:32 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8423.277344, 12.591582, 6075.154297>)
+20:28:32 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8408.667969, 15.045126, 6068.669434>)
+20:28:33 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8395.776367, 17.061026, 6062.341309>)
+20:28:33 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8378.677734, 18.847292, 6053.833984>)
+20:28:34 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8365.548828, 20.076660, 6048.002441>)
+20:28:34 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8359.340820, 21.616642, 6045.778320>)
+20:29:42 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7556.55,0,7907.91)
+20:29:48 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:29:50 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7550.478516, 35.231251, 7893.435547>)
+20:29:51 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:30:53 | "Survivrau": (steamid=76561198057660141) teleported to (pos=10751.8,0,8593.05)
+20:30:54 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:31:0 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:31:3 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:32:59 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<11084.894531, 4.212667, 8416.683594>)
+20:33:0 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:33:29 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:33:57 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<11090.805664, 27.942402, 8430.095703>)
+20:33:59 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<11090.817383, 27.942402, 8430.090820>)
+20:33:59 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:34:15 | Player "[YKZ]-Lobato" (steamId=76561198158375860) disconnected from server.
+20:34:18 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:34:22 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<11085.221680, 31.571800, 8416.441406>)
+20:34:22 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:34:47 | Player "[YKZ] Seekerzao" (steamId=76561198067793781) connected to server!
+20:35:0 | Player "[YKZ] Seekerzao" (steamId=76561198067793781) connected to server!
+20:35:9 | "Survivrau": (steamid=76561198057660141) teleported to (pos=10841.5,0,8575.21)
+20:35:11 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:35:16 | Player "[YKZ]-Lobato" (steamId=76561198158375860) connected to server!
+20:36:9 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<11104.627930, 3.999945, 8406.311523>)
+20:36:21 | Player "[YKZ]-Lobato" (steamId=76561198158375860) connected to server!
+20:36:42 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:36:51 | "Survivrau" (steamid=76561198057660141) toggled godmode
+20:36:51 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:36:52 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:36:53 | "Survivrau" (steamid=76561198057660141) toggled godmode
+20:36:54 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:37:18 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:37:28 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7658.67,0,6801.28)
+20:37:31 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:37:42 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9206.587891, 24.477394, 7206.996094>)
+20:37:47 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:38:19 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7554.65,0,7901.95)
+20:38:23 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:38:25 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7558.745605, 28.019102, 7900.990723>)
+20:38:25 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:39:28 | Player "joaoob23" (steamId=76561198302337518) connected to server!
+20:39:56 | Player "joaoob23" (steamId=76561198302337518) connected to server!
+20:39:57 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:40:4 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7560.395996, 28.019102, 7899.049805>)
+20:40:6 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:40:33 | "Survivrau": (steamid=76561198057660141) teleported to (pos=10476.7,0,9430.42)
+20:40:53 | "Survivrau": (steamid=76561198057660141) teleported to (pos=10448.6,0,8780.72)
+20:40:55 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:40:59 | Player "General2323" (steamId=76561198300843847) connected to server!
+20:42:11 | Player "General2323" (steamId=76561198300843847) connected to server!
+20:42:26 | "Survivrau": (steamid=76561198057660141) teleported to (pos=9564.89,0,9540.07)
+20:42:29 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:42:40 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9576.900391, 2.960602, 9539.179688>)
+20:42:40 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9594.260742, 2.492827, 9511.602539>)
+20:42:46 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9618.667969, 3.624946, 9467.680664>)
+20:42:48 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9601.913086, 3.375627, 9450.489258>)
+20:42:50 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9528.750000, 3.701401, 9421.405273>)
+20:42:50 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9512.985352, 4.962257, 9415.304688>)
+20:42:51 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9498.307617, 5.756494, 9410.575195>)
+20:42:51 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9480.864258, 6.204819, 9405.124023>)
+20:42:52 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9466.038086, 6.187845, 9399.989258>)
+20:43:5 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9320.583008, 9.574050, 9452.627930>)
+20:43:6 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9303.855469, 10.946171, 9459.847656>)
+20:43:6 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9276.314453, 11.559246, 9471.911133>)
+20:43:7 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9126.642578, 14.728086, 9534.907227>)
+20:43:7 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9112.364258, 11.936875, 9528.935547>)
+20:43:8 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9103.070313, 11.717304, 9525.599609>)
+20:43:8 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9088.687500, 12.033595, 9520.143555>)
+20:43:20 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9037.173828, 10.482963, 9521.613281>)
+20:43:21 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9023.100586, 11.752475, 9523.106445>)
+20:43:21 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9006.344727, 13.474135, 9524.923828>)
+20:43:22 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8909.945313, 13.779905, 9555.902344>)
+20:43:23 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8895.685547, 15.459511, 9560.573242>)
+20:43:24 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8874.352539, 15.870186, 9562.506836>)
+20:43:25 | Player "Galega" (steamId=76561198959103891) connected to server!
+20:43:25 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8865.500977, 15.282995, 9573.034180>)
+20:43:35 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8828.829102, 15.645607, 9569.320313>)
+20:43:35 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8807.853516, 17.030169, 9562.791992>)
+20:43:36 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8793.016602, 18.655924, 9557.696289>)
+20:43:36 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8780.799805, 20.320410, 9553.212891>)
+20:43:36 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8768.656250, 21.660015, 9548.839844>)
+20:43:37 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8755.540039, 22.685369, 9544.598633>)
+20:43:37 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8737.782227, 23.337618, 9538.973633>)
+20:43:37 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8712.509766, 23.636892, 9530.981445>)
+20:43:38 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8698.636719, 24.570807, 9526.609375>)
+20:43:38 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8687.651367, 25.747105, 9523.123047>)
+20:43:38 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8655.927734, 25.797264, 9513.087891>)
+20:43:39 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8625.228516, 25.802261, 9503.339844>)
+20:43:39 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8606.896484, 26.526894, 9497.554688>)
+20:43:40 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8592.428711, 27.900608, 9495.606445>)
+20:43:41 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8577.434570, 28.419359, 9491.146484>)
+20:43:41 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8521.415039, 24.848736, 9487.681641>)
+20:43:42 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8463.849609, 23.267757, 9497.620117>)
+20:43:47 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7953.21,0,9472.23)
+20:43:59 | "Survivrau": (steamid=76561198057660141) teleported to (pos=8292.9,0,9575.01)
+20:44:0 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:44:1 | Player "[HORDA]MacLovin" (steamId=76561199068236803) disconnected from server.
+20:44:37 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+20:44:55 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+20:46:32 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7917.210938, 22.517319, 9510.042969>)
+20:46:33 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:46:46 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:50:39 | Player "DanielSam" (steamId=76561198867200764) connected to server!
+20:50:55 | Player "DanielSam" (steamId=76561198867200764) connected to server!
+20:51:15 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7558.18,0,7894.63)
+20:51:17 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:52:22 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7615.06,0,9775.49)
+20:52:25 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:55:31 | "Survivrau" (steamid=76561198057660141) toggled freecam
+20:55:42 | "Survivrau": (steamid=76561198057660141) teleported to (pos=9353.28,0,7804.51)
+20:55:55 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9403.998047, 35.120003, 7820.625488>)
+20:55:55 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9406.177734, 35.059040, 7854.087402>)
+20:55:55 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9404.922852, 34.912563, 7889.892578>)
+20:55:57 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9379.600586, 35.478302, 7889.471191>)
+20:55:58 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9354.724609, 35.707928, 7883.690430>)
+20:55:59 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9337.441406, 35.725079, 7880.622559>)
+20:56:0 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9329.166016, 35.849747, 7882.765137>)
+20:56:2 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9328.175781, 37.795002, 7895.229492>)
+20:56:3 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9321.516602, 36.203526, 7903.730957>)
+20:56:3 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9272.792969, 28.787266, 7957.377930>)
+20:56:4 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9247.701172, 28.712948, 7963.927246>)
+20:56:5 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9226.067383, 28.666910, 7968.455078>)
+20:56:5 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9207.178711, 28.890707, 7972.491211>)
+20:56:5 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9186.452148, 29.116491, 7976.150391>)
+20:56:5 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9159.309570, 29.140001, 7979.355957>)
+20:56:6 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9131.588867, 29.139999, 7981.722656>)
+20:56:6 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9119.387695, 29.983311, 7982.601074>)
+20:56:7 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9109.554688, 29.344025, 7988.001953>)
+20:56:7 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9109.048828, 30.076876, 7993.129395>)
+20:56:7 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9115.005859, 29.073236, 8009.200195>)
+20:56:8 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9116.358398, 28.850622, 8026.390137>)
+20:56:8 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9109.444336, 27.176090, 8063.754395>)
+20:56:8 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9105.591797, 27.150002, 8083.478516>)
+20:56:9 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9107.011719, 27.092827, 8138.545410>)
+20:56:10 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9128.271484, 27.701975, 8160.665039>)
+20:56:10 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9275.764648, 29.335270, 8236.435547>)
+20:56:11 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9276.908203, 30.575985, 8236.791016>)
+20:56:12 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9316.257813, 27.000000, 8245.763672>)
+20:56:12 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9336.837891, 27.000000, 8249.581055>)
+20:56:13 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9369.789063, 26.999998, 8248.724609>)
+20:56:14 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9367.854492, 26.999998, 8229.209961>)
+20:56:15 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9366.397461, 28.385099, 8225.326172>)
+20:56:16 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9370.545898, 27.000017, 8217.502930>)
+20:56:17 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9362.827148, 27.000004, 8208.758789>)
+20:56:18 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9339.843750, 26.999998, 8207.678711>)
+20:56:23 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9417.096680, 27.786200, 8219.765625>)
+20:56:24 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9433.742188, 27.842468, 8215.186523>)
+20:56:41 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9396.433594, 26.999977, 8225.003906>)
+20:56:44 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9366.443359, 27.000002, 8235.113281>)
+20:56:45 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9338.094727, 27.000004, 8249.922852>)
+20:56:45 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9316.763672, 26.999996, 8254.658203>)
+20:56:46 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9295.560547, 27.000004, 8258.582031>)
+20:56:47 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9267.138672, 27.000000, 8260.583008>)
+20:56:47 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9240.968750, 27.615589, 8261.705078>)
+20:56:47 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9226.710938, 29.069714, 8261.338867>)
+20:56:48 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9210.649414, 30.080250, 8259.623047>)
+20:56:48 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9192.177734, 30.807508, 8257.508789>)
+20:56:49 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9173.766602, 31.830992, 8255.404297>)
+20:56:49 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9113.161133, 29.989597, 8240.684570>)
+20:56:50 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9088.768555, 30.411911, 8234.699219>)
+20:56:50 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9072.609375, 31.640015, 8227.197266>)
+20:56:58 | "Survivrau": (steamid=76561198057660141) teleported to (pos=8683.24,0,6712.21)
+20:57:25 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8673.645508, 182.138306, 6708.179688>)
+20:57:25 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8673.999023, 182.457443, 6690.328125>)
+20:57:37 | "Survivrau": (steamid=76561198057660141) teleported to (pos=8218.25,0,8465.09)
+20:57:48 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8225.096680, 211.809494, 8482.890625>)
+20:57:48 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8238.781250, 211.691849, 8483.813477>)
+20:57:49 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8253.326172, 211.753647, 8480.633789>)
+20:57:49 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8272.154297, 211.814697, 8470.313477>)
+20:58:3 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8215.960938, 239.724548, 8499.536133>)
+20:58:4 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8215.435547, 241.106384, 8501.458984>)
+20:58:15 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8162.641602, 207.957291, 8494.151367>)
+20:58:35 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8181.971680, 211.020294, 8464.928711>)
+20:58:44 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8176.037598, 211.108017, 8457.570313>)
+20:58:45 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8173.881836, 211.701401, 8452.787109>)
+20:58:58 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<8152.420898, 209.800537, 8466.151367>)
+20:59:8 | "Survivrau": (steamid=76561198057660141) teleported to (pos=8252.56,0,9796.04)
+20:59:31 | "Survivrau": (steamid=76561198057660141) teleported to (pos=9772.57,0,8135.45)
+20:59:39 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9743.466797, 27.000000, 8111.415039>)
+20:59:40 | Player "[YKZ]-Lobato" (steamId=76561198158375860) disconnected from server.
+20:59:42 | Player "[YKZ]-Lobato" (steamId=76561198158375860) disconnected from server.
+20:59:44 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9717.833984, 26.990047, 8117.808594>)
+20:59:44 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9697.931641, 26.959993, 8120.176270>)
+20:59:44 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9680.539063, 27.107912, 8122.270996>)
+20:59:45 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9662.929688, 27.255432, 8124.353516>)
+20:59:45 | Player "[GDR]Lobo_Lendario" (steamId=76561199069761803) connected to server!
+20:59:45 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9644.235352, 27.259998, 8126.614746>)
+20:59:45 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9625.725586, 27.259996, 8128.788574>)
+20:59:46 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9604.822266, 27.259998, 8131.346680>)
+20:59:46 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9586.203125, 27.260002, 8133.730469>)
+20:59:46 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9567.346680, 27.250000, 8136.141602>)
+20:59:51 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9551.349609, 27.244873, 8147.435059>)
+20:59:52 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9539.431641, 27.247025, 8148.972656>)
+20:59:53 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9530.954102, 28.067352, 8158.082031>)
+20:59:54 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9529.667969, 27.816795, 8170.949707>)
+20:59:54 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9521.398438, 27.624760, 8175.383789>)
+20:59:56 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9503.666016, 27.733007, 8171.082520>)
+20:59:56 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9493.208008, 27.798786, 8164.363281>)
+20:59:56 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9483.103516, 27.641819, 8157.804199>)
+20:59:57 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9470.344727, 26.999990, 8149.030273>)
+20:59:57 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9460.633789, 27.000006, 8139.034180>)
+20:59:57 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9452.256836, 27.076759, 8128.793945>)
+20:59:57 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9444.855469, 27.351166, 8119.714844>)
+20:59:58 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9436.852539, 27.412992, 8109.803711>)
+20:59:58 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9423.555664, 27.475485, 8100.074219>)
+20:59:58 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9410.221680, 27.543100, 8091.615723>)
+20:59:59 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9399.397461, 27.809168, 8085.199707>)
+20:59:59 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9385.818359, 27.567797, 8077.833984>)
+20:59:59 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9374.963867, 27.897741, 8069.790527>)
+21:0:0 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9363.485352, 28.331804, 8062.375488>)
+21:0:0 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9351.207031, 28.320005, 8054.650879>)
+21:0:0 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9339.218750, 28.321571, 8047.091797>)
+21:0:0 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9328.690430, 28.329988, 8032.684570>)
+21:0:1 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9319.580078, 28.330006, 8016.200195>)
+21:0:1 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9311.103516, 28.339981, 8000.442383>)
+21:0:1 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9308.054688, 29.832090, 7998.327637>)
+21:0:2 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9304.049805, 30.844801, 7998.761719>)
+21:0:2 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9270.712891, 28.394186, 8006.486328>)
+21:0:2 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9261.548828, 28.540892, 8007.508789>)
+21:0:3 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9250.502930, 28.661003, 7996.386230>)
+21:0:3 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9243.082031, 28.660002, 7984.899414>)
+21:0:5 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9257.215820, 28.762611, 7952.159180>)
+21:0:6 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9265.962891, 30.307730, 7941.121582>)
+21:0:6 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9286.212891, 31.166082, 7918.997070>)
+21:0:7 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9288.807617, 32.755714, 7918.526855>)
+21:0:7 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9297.461914, 34.668701, 7909.375488>)
+21:0:8 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9502.628906, 41.660919, 7702.667969>)
+21:0:10 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9508.563477, 33.690704, 7700.572754>)
+21:0:10 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9507.773438, 34.043915, 7708.214844>)
+21:0:10 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9506.126953, 34.214302, 7712.960449>)
+21:0:11 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9497.744141, 34.450512, 7724.149414>)
+21:0:11 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9489.311523, 34.471375, 7735.721680>)
+21:0:11 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9480.496094, 34.523315, 7744.288086>)
+21:0:12 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9471.395508, 34.648071, 7749.705566>)
+21:0:12 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9461.794922, 34.740273, 7754.569336>)
+21:0:12 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9452.073242, 34.775345, 7760.115723>)
+21:0:13 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9444.692383, 35.356064, 7764.561035>)
+21:0:13 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9434.215820, 34.820000, 7770.831055>)
+21:0:13 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9423.715820, 34.819992, 7774.559082>)
+21:0:14 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9406.557617, 34.820000, 7781.371582>)
+21:0:18 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9399.893555, 35.145264, 7808.866211>)
+21:0:19 | "Survivrau" (steamid=76561198057660141) toggled freecam
+21:0:31 | "Survivrau" (steamid=76561198057660141) toggled freecam
+21:0:39 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7647.57,0,9770.13)
+21:0:40 | "Survivrau" (steamid=76561198057660141) toggled freecam
+21:0:45 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7645.477539, 10.053178, 9746.076172>)
+21:1:0 | Player "[YKZ]-Lobato" (steamId=76561198158375860) connected to server!
+21:1:3 | "Survivrau" (steamid=76561198057660141) toggled freecam
+21:1:6 | "Survivrau" (steamid=76561198057660141) toggled freecam
+21:1:11 | "Survivrau" (steamid=76561198057660141) toggled freecam
+21:1:22 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7387.89,0,8672.61)
+21:1:23 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7393.8,0,8702.15)
+21:1:23 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7393.8,0,8702.15)
+21:1:26 | "Survivrau" (steamid=76561198057660141) toggled freecam
+21:1:44 | "Survivrau" (steamid=76561198057660141) toggled freecam
+21:1:47 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7956.06,0,9228.5)
+21:1:54 | Player "[YKZ]-Lobato" (steamId=76561198158375860) connected to server!
+21:2:26 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7555.05,0,7900.3)
+21:2:27 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7555.05,0,7900.3)
+21:2:58 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7584.48,0,9705.07)
+21:3:2 | "Survivrau" (steamid=76561198057660141) toggled freecam
+21:3:13 | "Survivrau" (steamid=76561198057660141) toggled freecam
+21:3:34 | "Survivrau" (steamid=76561198057660141) toggled freecam
+21:4:28 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<7947.285645, 18.876652, 9562.583984>)
+21:6:30 | Player "DanielSam" (steamId=76561198867200764) disconnected from server.
+21:6:39 | Player "DanielSam" (steamId=76561198867200764) disconnected from server.
+21:10:0 | "Survivrau" (steamid=76561198057660141) toggled freecam
+21:10:9 | "Survivrau": (steamid=76561198057660141) teleported to (pos=11379.5,0,8190.88)
+21:10:11 | "Survivrau" (steamid=76561198057660141) toggled godmode
+21:10:12 | "Survivrau" (steamid=76561198057660141) toggled freecam
+21:10:14 | "Survivrau" (steamid=76561198057660141) toggled godmode
+21:10:40 | "Survivrau" (steamid=76561198057660141) toggled freecam
+21:10:46 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7557.64,0,7902.96)
+21:10:55 | "Survivrau" (steamid=76561198057660141) toggled godmode
+21:10:56 | "Survivrau" (steamid=76561198057660141) toggled godmode
+21:11:11 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7983.08,0,8902.64)
+21:11:14 | "Survivrau" (steamid=76561198057660141) toggled freecam
+21:11:41 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7784.33,0,9515.99)
+21:11:44 | "Survivrau" (steamid=76561198057660141) toggled freecam
+21:11:45 | "Survivrau" (steamid=76561198057660141) toggled freecam
+21:13:39 | "Survivrau" (steamid=76561198057660141) toggled freecam
+21:14:52 | "Survivrau" (steamid=76561198057660141) toggled freecam
+21:15:40 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9396.575195, 27.553162, 8080.111816>)
+21:17:22 | "Survivrau" (steamid=76561198057660141) toggled freecam
+21:17:45 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9372.949219, 31.912125, 8045.140137>)
+21:17:46 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9366.137695, 35.486137, 8037.052734>)
+21:17:47 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9355.218750, 35.932434, 8034.729980>)
+21:17:48 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9345.743164, 35.987587, 8033.245117>)
+21:17:49 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9328.360352, 28.340000, 7980.062500>)
+21:17:49 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9327.710938, 28.348866, 7972.858887>)
+21:17:49 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9323.207031, 28.390007, 7957.498047>)
+21:17:50 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9310.980469, 29.102133, 7945.512695>)
+21:17:50 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9268.707031, 30.582705, 7922.917480>)
+21:17:50 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9259.957031, 32.514687, 7919.356934>)
+21:17:51 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9241.625977, 34.727463, 7911.905762>)
+21:17:51 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9212.718750, 35.061409, 7896.199707>)
+21:17:52 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9198.453125, 36.164619, 7887.817871>)
+21:17:52 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9187.132813, 37.488644, 7881.573242>)
+21:17:53 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9152.096680, 37.603825, 7871.713867>)
+21:17:54 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9131.694336, 35.388699, 7864.260254>)
+21:17:55 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9124.647461, 35.562153, 7861.356445>)
+21:17:55 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9107.935547, 35.758183, 7854.224609>)
+21:17:56 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9107.670898, 36.888203, 7854.607910>)
+21:17:58 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9083.732422, 35.347588, 7857.518555>)
+21:17:58 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9075.650391, 36.888615, 7850.861816>)
+21:18:0 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9064.998047, 38.573334, 7834.656738>)
+21:18:0 | "Survivrau" (steamid=76561198057660141) teleported to crosshair (pos=<9057.380859, 39.785301, 7823.044434>)
+21:18:13 | "Survivrau": (steamid=76561198057660141) teleported to (pos=7558.05,0,7899.33)
+21:18:36 | Player "Survivrau" (steamId=76561198057660141) disconnected from server.
+21:22:46 | Player "Myul" (steamId=76561198153622914) connected to server!
+21:23:54 | Player "[HORDA] zBieL" (steamId=76561198001525812) connected to server!
+21:24:22 | Player "[HORDA] zBieL" (steamId=76561198001525812) connected to server!
+21:24:50 | Player "[YKZ] Emissarius" (steamId=76561198271087379) disconnected from server.
+21:24:51 | Player "[YKZ] Emissarius" (steamId=76561198271087379) disconnected from server.
+21:24:55 | Player "Myul" (steamId=76561198153622914) connected to server!
+21:25:48 | Player "Hacan121" (steamId=76561198345012092) disconnected from server.
+21:25:50 | Player "[YKZ] Emissarius" (steamId=76561198271087379) connected to server!
+21:25:51 | Player "Hacan121" (steamId=76561198345012092) disconnected from server.
+21:26:9 | Player "[YKZ] Emissarius" (steamId=76561198271087379) connected to server!
+21:29:1 | Player "Myul" (steamId=76561198153622914) disconnected from server.
+21:29:2 | Player "Myul" (steamId=76561198153622914) disconnected from server.
+21:34:6 | Player "ttuker" (steamId=76561198971813376) connected to server!
+21:34:41 | Player "ttuker" (steamId=76561198971813376) connected to server!
+21:39:26 | Player "Luisff" (steamId=76561198191554814) connected to server!
+21:39:38 | Player "Luisff" (steamId=76561198191554814) connected to server!
+21:40:17 | Player "[YKZ] Felps" (steamId=76561198892779186) disconnected from server.
+21:41:59 | Player "[YKZ]-BlackBear" (steamId=76561198343030820) disconnected from server.
+21:45:7 | Player "Galega" (steamId=76561198959103891) disconnected from server.
+21:45:12 | Player "ttuker" (steamId=76561198971813376) disconnected from server.
+21:45:15 | Player "ttuker" (steamId=76561198971813376) disconnected from server.
+21:45:18 | Player "Duero" (steamId=76561198259492425) connected to server!
+21:46:3 | Player "Duero" (steamId=76561198259492425) connected to server!
+21:46:48 | Player "[YKZ] Notsniw" (steamId=76561197967151252) disconnected from server.
+21:46:50 | Player "[YKZ] Notsniw" (steamId=76561197967151252) disconnected from server.
+21:48:17 | Player "ttuker" (steamId=76561198971813376) connected to server!
+21:49:11 | Player "ttuker" (steamId=76561198971813376) connected to server!
+21:52:13 | Player "C O R U J A" (steamId=76561198819003355) connected to server!
+21:56:25 | Player "[YKZ]-Lobato" (steamId=76561198158375860) disconnected from server.
+21:56:49 | Player "[YKZ]-Lobato" (steamId=76561198158375860) disconnected from server.
+22:1:38 | Player "[YKZ] Seekerzao" (steamId=76561198067793781) disconnected from server.
+22:1:42 | Player "[YKZ] Seekerzao" (steamId=76561198067793781) disconnected from server.
+22:3:30 | Player "ACC" (steamId=76561198106291582) connected to server!
+22:3:40 | Player "Funghi" (steamId=76561199069858485) connected to server!
+22:3:51 | Player "ACC" (steamId=76561198106291582) connected to server!
+22:3:59 | Player "Funghi" (steamId=76561199069858485) connected to server!
+22:4:52 | Player "Thiago" (steamId=76561198168084899) connected to server!
+22:5:10 | Player "[YKZ] chron1c" (steamId=76561198205585613) connected to server!
+22:5:30 | Player "[YKZ] chron1c" (steamId=76561198205585613) connected to server!
+22:5:45 | Player "[YKZ] chron1c" (steamId=76561198205585613) disconnected from server.
+22:6:52 | Player "[YKZ] chron1c" (steamId=76561198205585613) connected to server!
+22:7:11 | Player "[YKZ] chron1c" (steamId=76561198205585613) connected to server!
+22:9:16 | Player "[GDR]Lobo_Lendario" (steamId=76561199069761803) disconnected from server.
+22:9:47 | Player "Thiago" (steamId=76561198168084899) connected to server!
+22:11:24 | Player "=G3= Tuin" (steamId=76561198914685824) connected to server!
+22:11:27 | Player "Luisff" (steamId=76561198191554814) disconnected from server.
+22:11:31 | Player "Luisff" (steamId=76561198191554814) disconnected from server.
+22:12:36 | Player "=G3= Tuin" (steamId=76561198914685824) connected to server!
+22:15:27 | Player "Survivor" (steamId=76561199027076248) connected to server!
+22:16:22 | Player "tiago0722" (steamId=76561198353818533) connected to server!
+22:20:2 | Player "_fraco_" (steamId=76561198176104718) connected to server!
+22:21:43 | Player "[HORDA]KAS" (steamId=76561199202697738) connected to server!
+22:21:59 | Player "[HORDA]KAS" (steamId=76561199202697738) connected to server!
+22:23:25 | Player "_fraco_" (steamId=76561198176104718) connected to server!
+22:26:14 | Player "C O R U J A" (steamId=76561198819003355) disconnected from server.
+22:26:18 | Player "C O R U J A" (steamId=76561198819003355) disconnected from server.
+22:35:45 | Player "=G3= Tuin" (steamId=76561198914685824) disconnected from server.
+22:35:52 | Player "StarkCG" (steamId=76561198121484554) connected to server!
+22:36:1 | Player "=G3= Tuin" (steamId=76561198914685824) disconnected from server.
+22:36:33 | Player "StarkCG" (steamId=76561198121484554) connected to server!
+22:37:34 | Player "C O R U J A" (steamId=76561198819003355) connected to server!
+22:37:43 | Player "C O R U J A" (steamId=76561198819003355) connected to server!
+22:41:25 | Player "[HORDA] JHON WICK" (steamId=76561198122075703) connected to server!
+22:41:45 | Player "[HORDA] JHON WICK" (steamId=76561198122075703) connected to server!
+22:42:52 | Player "Thiago" (steamId=76561198168084899) disconnected from server.
+22:44:1 | Player "[HORDA]MacLovin" (steamId=76561199068236803) disconnected from server.
+22:44:1 | Player "[HORDA]MacLovin" (steamId=76561199068236803) disconnected from server.
+22:44:52 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+22:45:5 | Player "[HORDA]MacLovin" (steamId=76561199068236803) connected to server!
+22:49:29 | Player "Duero" (steamId=76561198259492425) disconnected from server.
+22:51:2 | Player "tiago0722" (steamId=76561198353818533) disconnected from server.
+22:52:20 | Player "Survivor" (steamId=76561198151967747) connected to server!
+22:53:45 | Player "Duero" (steamId=76561198259492425) connected to server!
+22:53:52 | Player "Duero" (steamId=76561198259492425) connected to server!
+22:54:3 | Player "[YKZ] Felps" (steamId=76561198892779186) connected to server!
+22:54:24 | Player "[YKZ] Felps" (steamId=76561198892779186) connected to server!
+22:58:31 | Player "StarkCG" (steamId=76561198121484554) disconnected from server.
+22:58:31 | Player "_fraco_" (steamId=76561198176104718) disconnected from server.
+22:58:31 | Player "[HORDA]MacLovin" (steamId=76561199068236803) disconnected from server.
+22:58:31 | Player "Duero" (steamId=76561198259492425) disconnected from server.
+22:58:31 | Player "joaoob23" (steamId=76561198302337518) disconnected from server.
+22:58:31 | Player "ACC" (steamId=76561198106291582) disconnected from server.
+22:58:31 | Player "Funghi" (steamId=76561199069858485) disconnected from server.
+22:58:31 | Player "[HORDA]KAS" (steamId=76561199202697738) disconnected from server.
+22:58:31 | Player "[YKZ] Emissarius" (steamId=76561198271087379) disconnected from server.
+22:58:31 | Player "ttuker" (steamId=76561198971813376) disconnected from server.
+22:58:31 | Player "[HORDA] zBieL" (steamId=76561198001525812) disconnected from server.
+22:58:31 | Player "General2323" (steamId=76561198300843847) disconnected from server.
+22:58:31 | Player "[YKZ] chron1c" (steamId=76561198205585613) disconnected from server.
+22:58:31 | Player "[HORDA] JHON WICK" (steamId=76561198122075703) disconnected from server.
+22:58:31 | Player "C O R U J A" (steamId=76561198819003355) disconnected from server.
+22:58:31 | Player "[YKZ] Felps" (steamId=76561198892779186) disconnected from server.

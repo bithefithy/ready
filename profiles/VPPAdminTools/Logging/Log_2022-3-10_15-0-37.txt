@@ -1,0 +1,877 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-3-10_15-0-37
+====================================================================================
+15:0:37 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+15:0:37 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+15:0:37 | [PermissionManager] Perm (FreeCamera) has been registered!
+15:0:37 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuItemManager) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuServerManager) has been registered!
+15:0:37 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+15:0:37 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+15:0:37 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+15:0:37 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+15:0:37 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+15:0:37 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+15:0:37 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+15:0:37 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+15:0:37 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+15:0:37 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+15:0:37 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+15:0:37 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+15:0:37 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+15:0:37 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+15:0:37 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+15:0:37 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+15:0:37 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+15:0:37 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+15:0:37 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+15:0:37 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+15:0:37 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+15:0:37 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+15:0:37 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+15:0:37 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+15:0:37 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+15:0:37 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+15:0:37 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+15:0:37 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+15:0:37 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+15:0:37 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+15:0:37 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+15:0:37 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+15:0:37 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuBansManager) has been registered!
+15:0:37 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+15:0:37 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+15:0:37 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+15:0:37 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+15:0:37 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+15:0:37 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+15:0:37 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+15:0:37 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+15:0:37 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+15:0:37 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+15:0:37 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+15:0:37 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+15:0:37 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+15:0:37 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+15:0:37 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+15:0:37 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+15:0:37 | [PermissionManager] Adding Super Admin (76561198253386609)
+15:0:37 | [PermissionManager] Adding Super Admin (76561198442072760)
+15:0:37 | [PermissionManager] Adding Super Admin (76561198950594742)
+15:0:37 | [PermissionManager] Adding Super Admin (76561198329721265)
+15:0:37 | [PermissionManager] Adding Super Admin (76561198140728342)
+15:0:37 | [PermissionManager] Loaded UserGroups.json
+15:0:37 | Building Sets Loaded: 1
+15:0:37 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+15:0:37 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+15:0:37 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+15:0:37 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+15:0:37 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+15:0:37 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+15:0:37 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+15:0:37 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+15:0:37 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+15:0:37 | [PermissionManager] Perm (Chat:NamalskRunEvent) has been registered!
+15:0:37 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+15:0:37 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+15:0:37 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+15:0:37 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+15:0:37 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+15:0:37 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+15:0:37 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+15:0:37 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+15:0:37 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+15:1:43 | Player "Texaco" (steamId=76561198389486307) connected to server!
+15:1:43 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+15:1:46 | Player "Congo" (steamId=76561199119859024) connected to server!
+15:2:3 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+15:2:3 | Player "Texaco" (steamId=76561198389486307) connected to server!
+15:2:3 | Player "Congo" (steamId=76561199119859024) connected to server!
+15:3:6 | Player "N*O SOU O PAI" (steamId=76561198868456396) connected to server!
+15:3:16 | Player "N*O SOU O PAI" (steamId=76561198868456396) connected to server!
+15:6:48 | Player "D 4 N " (steamId=76561199114431170) connected to server!
+15:7:12 | Player "D 4 N " (steamId=76561199114431170) connected to server!
+15:8:8 | Player "N*O SOU O PAI" (steamId=76561198868456396) disconnected from server.
+15:8:26 | Player "N*O SOU O PAI" (steamId=76561198868456396) connected to server!
+15:8:36 | Player "N*O SOU O PAI" (steamId=76561198868456396) connected to server!
+15:12:15 | Player "Survivor" (steamId=76561199027336117) connected to server!
+15:12:33 | Player "D 4 N " (steamId=76561199114431170) disconnected from server.
+15:16:8 | Player "N*O SOU O PAI" (steamId=76561198868456396) disconnected from server.
+15:16:11 | Player "N*O SOU O PAI" (steamId=76561198868456396) disconnected from server.
+15:19:26 | Player "FALCAO" (steamId=76561198970484097) connected to server!
+15:20:21 | Player "FALCAO" (steamId=76561198970484097) connected to server!
+15:27:2 | Player "[FARM] Grifos" (steamId=76561199140641946) connected to server!
+15:27:24 | Player "[FARM] Grifos" (steamId=76561199140641946) connected to server!
+15:37:20 | Player "Sparrow" (steamId=76561198119207436) connected to server!
+15:37:50 | Player "Sparrow" (steamId=76561198119207436) connected to server!
+15:45:45 | Player "Texaco" (steamId=76561198389486307) disconnected from server.
+15:49:0 | Player "[FARM] Grifos" (steamId=76561199140641946) disconnected from server.
+15:49:1 | Player "[FARM] Grifos" (steamId=76561199140641946) disconnected from server.
+15:49:15 | Player "Ordeep Trembala" (steamId=76561198088982945) connected to server!
+15:51:12 | Player "Shaka" (steamId=76561198807556395) connected to server!
+15:51:44 | Player "Survivor" (steamId=76561199027336117) disconnected from server.
+15:52:6 | Player "Survivor" (steamId=76561199027336117) connected to server!
+15:52:15 | Player "Survivor" (steamId=76561199027336117) connected to server!
+15:53:17 | Player "Ordeep Trembala" (steamId=76561198088982945) disconnected from server.
+15:55:30 | Player "Shaka" (steamId=76561198807556395) disconnected from server.
+15:55:31 | Player "FALCAO" (steamId=76561198970484097) disconnected from server.
+15:55:31 | Player "Shaka" (steamId=76561198807556395) disconnected from server.
+16:3:43 | Player "J0hann" (steamId=76561198403938232) connected to server!
+16:6:4 | Player "J0hann" (steamId=76561198403938232) disconnected from server.
+16:6:8 | Player "J0hann" (steamId=76561198403938232) disconnected from server.
+16:22:50 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) disconnected from server.
+16:27:17 | Player "Hisokinha" (steamId=76561198206544727) connected to server!
+16:27:36 | Player "Survivor (2)" (steamId=76561198162755925) connected to server!
+16:34:0 | Player "PH" (steamId=76561199215280308) connected to server!
+16:34:13 | Player "PH" (steamId=76561199215280308) connected to server!
+16:42:59 | Player "PH" (steamId=76561199215280308) disconnected from server.
+16:42:59 | Player "Survivor" (steamId=76561199027336117) disconnected from server.
+16:42:59 | Player "Sparrow" (steamId=76561198119207436) disconnected from server.
+16:43:17 | Player "PH" (steamId=76561199215280308) connected to server!
+16:43:21 | Player "Sparrow" (steamId=76561198119207436) connected to server!
+16:43:24 | Player "Survivor" (steamId=76561199113205344) connected to server!
+16:43:25 | Player "Survivor (3)" (steamId=76561199027336117) connected to server!
+16:43:25 | Player "PH" (steamId=76561199215280308) connected to server!
+16:43:33 | Player "Survivor (3)" (steamId=76561199027336117) connected to server!
+16:43:33 | Player "Sparrow" (steamId=76561198119207436) connected to server!
+16:47:4 | Player "[SDC]pistoleiro" (steamId=76561198046104047) connected to server!
+16:47:16 | Player "[SDC]pistoleiro" (steamId=76561198046104047) connected to server!
+17:1:41 | Player "TeoScout" (steamId=76561198870672564) connected to server!
+17:2:44 | Player "TeoScout" (steamId=76561198870672564) connected to server!
+17:10:34 | Player "Survivor (4)" (steamId=76561198095800944) connected to server!
+17:12:35 | Player "Survivor (4)" (steamId=76561198095800944) disconnected from server.
+17:20:44 | Player "FALCAO" (steamId=76561198970484097) connected to server!
+17:21:59 | Player "FALCAO" (steamId=76561198970484097) connected to server!
+17:32:12 | Player "jobstein" (steamId=76561198215939389) connected to server!
+17:32:17 | Player "Survivor (2)" (steamId=76561198162755925) disconnected from server.
+17:36:34 | Player "FUZILEIRO" (steamId=76561198071779383) connected to server!
+17:36:48 | Player "FUZILEIRO" (steamId=76561198071779383) connected to server!
+17:36:52 | Player "jobstein" (steamId=76561198215939389) disconnected from server.
+17:37:11 | Player "Hisokinha" (steamId=76561198206544727) disconnected from server.
+17:37:23 | Player "ATOMIC" (steamId=76561198140728342) connected to server!
+17:41:9 | Player "ATOMIC" (steamId=76561198140728342) connected to server!
+17:41:14 | Player "FUZILEIRO" (steamId=76561198071779383) disconnected from server.
+17:41:17 | Player "FUZILEIRO" (steamId=76561198071779383) disconnected from server.
+17:42:34 | "ATOMIC" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+17:43:31 | "ATOMIC": (steamid=76561198140728342) teleported to (pos=1290.11,0,11805.2)
+17:43:37 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+17:43:50 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+17:45:38 | "ATOMIC": (steamid=76561198140728342) teleported to (pos=3935.21,0,10003.8)
+17:47:52 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+17:48:33 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<5293.046387, 6.074026, 11145.403320>)
+17:49:44 | Player "PH" (steamId=76561199215280308) disconnected from server.
+17:49:47 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<6582.868652, 42.491169, 11089.984375>)
+17:49:48 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<6585.295898, 42.488953, 11089.057617>)
+17:49:51 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<6574.649902, 42.498676, 11089.228516>)
+17:50:36 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+17:51:8 | Player "ATOMIC" (steamId=76561198140728342) disconnected from server.
+17:51:10 | Player "ATOMIC" (steamId=76561198140728342) disconnected from server.
+17:51:41 | Player "Survivor" (steamId=76561199215280308) connected to server!
+17:51:55 | Player "Survivor" (steamId=76561199215280308) connected to server!
+17:52:15 | Player "Sparrow" (steamId=76561198119207436) disconnected from server.
+17:52:18 | Player "Sparrow" (steamId=76561198119207436) disconnected from server.
+17:52:35 | Player "Sparrow" (steamId=76561198119207436) connected to server!
+17:52:45 | Player "Sparrow" (steamId=76561198119207436) connected to server!
+17:52:49 | Player "Survivor (3)" (steamId=76561199027336117) disconnected from server.
+17:52:53 | Player "Survivor (3)" (steamId=76561199027336117) disconnected from server.
+17:54:9 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+17:54:30 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+17:55:2 | Player "TeoScout" (steamId=76561198870672564) disconnected from server.
+17:55:2 | Player "[SDC]pistoleiro" (steamId=76561198046104047) disconnected from server.
+17:55:2 | Player "Sparrow" (steamId=76561198119207436) disconnected from server.
+17:55:2 | Player "Survivor" (steamId=76561199215280308) disconnected from server.
+17:55:2 | Player "Carambolas" (steamId=76561198442072760) disconnected from server.
+17:56:17 | Player "Survivor" (steamId=76561199215280308) connected to server!
+17:56:27 | Player "Survivor" (steamId=76561199215280308) connected to server!
+17:56:44 | Player "Sparrow" (steamId=76561198119207436) connected to server!
+17:57:11 | Player "Sparrow" (steamId=76561198119207436) connected to server!
+17:58:0 | Player "[FARM] NATO" (steamId=76561199083641388) connected to server!
+17:58:6 | Player "ATOMIC" (steamId=76561198140728342) connected to server!
+17:58:31 | Player "ATOMIC" (steamId=76561198140728342) connected to server!
+17:58:37 | Player "FUZILEIRO" (steamId=76561198071779383) connected to server!
+17:58:49 | Player "[FARM] NATO" (steamId=76561199083641388) connected to server!
+17:58:51 | Player "FUZILEIRO" (steamId=76561198071779383) connected to server!
+17:59:29 | "ATOMIC" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+18:0:27 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:0:30 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3820.209229, 56.063873, 7448.271484>)
+18:0:31 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:1:17 | Player "[SDC]pistoleiro" (steamId=76561198046104047) connected to server!
+18:1:24 | Player "[SDC]pistoleiro" (steamId=76561198046104047) connected to server!
+18:1:39 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (CodeLock)
+18:1:40 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (CodeLock)
+18:1:40 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (CodeLock)
+18:1:41 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (CodeLock)
+18:1:41 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (CodeLock)
+18:1:42 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (CodeLock)
+18:1:59 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_box_big_Green)
+18:2:0 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_box_big_Green)
+18:2:0 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_box_big_Green)
+18:2:6 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_box_small_Olive)
+18:2:7 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_box_small_Olive)
+18:2:23 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+18:2:42 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+18:3:30 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_mangal_kit)
+18:3:31 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_mangal_kit)
+18:3:57 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (NailBox)
+18:3:57 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (NailBox)
+18:3:57 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (NailBox)
+18:3:57 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (NailBox)
+18:3:58 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (NailBox)
+18:3:58 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (NailBox)
+18:3:58 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (NailBox)
+18:3:58 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (NailBox)
+18:3:58 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (NailBox)
+18:4:40 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalWire)
+18:4:41 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalWire)
+18:4:41 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalWire)
+18:4:42 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalWire)
+18:4:42 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalWire)
+18:4:42 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalWire)
+18:4:45 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalPlate)
+18:4:45 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalPlate)
+18:4:45 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalPlate)
+18:4:45 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalPlate)
+18:4:45 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalPlate)
+18:4:46 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalPlate)
+18:4:46 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalPlate)
+18:4:46 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalPlate)
+18:4:48 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalPlate)
+18:5:49 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalPlate)
+18:5:51 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalPlate)
+18:5:51 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalPlate)
+18:5:51 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalPlate)
+18:5:52 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalPlate)
+18:5:52 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalPlate)
+18:5:52 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalPlate)
+18:5:52 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalPlate)
+18:5:52 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalPlate)
+18:5:52 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalPlate)
+18:5:53 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalPlate)
+18:5:53 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalPlate)
+18:5:53 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (MetalPlate)
+18:6:9 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (NailBox)
+18:6:10 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (NailBox)
+18:6:10 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (NailBox)
+18:6:10 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (NailBox)
+18:6:10 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (NailBox)
+18:6:10 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (NailBox)
+18:6:10 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (NailBox)
+18:6:11 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (NailBox)
+18:6:12 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (NailBox)
+18:6:52 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Pliers)
+18:6:53 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Pliers)
+18:6:54 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Pliers)
+18:6:54 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Pliers)
+18:6:54 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Pliers)
+18:7:18 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodAxe)
+18:7:18 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodAxe)
+18:7:19 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodAxe)
+18:7:24 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Pickaxe)
+18:7:25 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Pickaxe)
+18:8:36 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Hammer)
+18:8:37 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Hammer)
+18:8:37 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Hammer)
+18:8:38 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Hammer)
+18:8:38 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Hammer)
+18:8:38 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Hammer)
+18:8:39 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Hammer)
+18:8:40 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (SledgeHammer)
+18:8:40 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (SledgeHammer)
+18:8:41 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (SledgeHammer)
+18:9:50 | Player "Congo" (steamId=76561199119859024) disconnected from server.
+18:10:59 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:10:59 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:10:59 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:10:59 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:11:0 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:11:0 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:11:0 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:11:0 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:11:0 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:11:0 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:11:1 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:11:1 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:11:1 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:11:1 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:11:1 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:11:1 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:11:2 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:11:2 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:11:2 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:11:2 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:11:2 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:11:2 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:11:3 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenPlank)
+18:11:5 | Player "Sparrow" (steamId=76561198119207436) disconnected from server.
+18:11:7 | Player "Sparrow" (steamId=76561198119207436) disconnected from server.
+18:11:15 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:15 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:15 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:15 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:16 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:16 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:16 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:16 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:16 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:16 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:17 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:17 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:17 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:17 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:17 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:17 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:18 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:18 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:18 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:18 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:18 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:18 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:19 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:19 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:19 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:19 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:19 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:11:19 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenLog)
+18:12:6 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenStick)
+18:12:6 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenStick)
+18:12:7 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenStick)
+18:12:7 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenStick)
+18:12:7 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenStick)
+18:12:7 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenStick)
+18:12:7 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenStick)
+18:12:7 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenStick)
+18:12:15 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenStick)
+18:12:15 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenStick)
+18:12:15 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WoodenStick)
+18:12:32 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Rope)
+18:12:32 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Rope)
+18:12:33 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Rope)
+18:12:33 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Rope)
+18:12:33 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Rope)
+18:12:33 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Rope)
+18:12:33 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Rope)
+18:12:33 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Rope)
+18:12:34 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Rope)
+18:12:34 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Rope)
+18:13:46 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_gunrackKit)
+18:13:48 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_gunrack)
+18:13:55 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_guncabinetKit)
+18:13:59 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_guncabinet)
+18:14:10 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:14:13 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3819.247070, 56.063873, 7449.452148>)
+18:14:14 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:14:17 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:14:22 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3822.069580, 53.083961, 7453.265137>)
+18:14:22 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:15:3 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:15:4 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:15:11 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_guncabinet)
+18:15:12 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_guncabinet)
+18:15:13 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_guncabinet)
+18:15:14 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_guncabinet)
+18:15:14 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_guncabinet)
+18:16:41 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_Suppressor)
+18:16:42 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_Suppressor)
+18:16:42 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_Suppressor)
+18:16:43 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_Suppressor)
+18:16:44 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_Suppressor)
+18:16:44 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_Suppressor)
+18:16:44 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_Suppressor)
+18:16:56 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_OEBttstck_Black)
+18:16:57 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_OEBttstck_Black)
+18:16:57 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_OEBttstck_Black)
+18:16:57 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_OEBttstck_Black)
+18:16:57 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_OEBttstck_Black)
+18:16:57 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_OEBttstck_Black)
+18:16:57 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_OEBttstck_Black)
+18:16:58 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_OEBttstck_Black)
+18:16:58 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_OEBttstck_Black)
+18:17:4 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_PlasticHndgrd_Black)
+18:17:4 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_PlasticHndgrd_Black)
+18:17:4 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_PlasticHndgrd_Black)
+18:17:4 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_PlasticHndgrd_Black)
+18:17:5 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_PlasticHndgrd_Black)
+18:17:5 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_PlasticHndgrd_Black)
+18:17:5 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_PlasticHndgrd_Black)
+18:17:5 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_PlasticHndgrd_Black)
+18:17:5 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_PlasticHndgrd_Black)
+18:17:6 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_PlasticHndgrd_Black)
+18:17:6 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_PlasticHndgrd_Black)
+18:17:12 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4A1)
+18:17:12 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4A1)
+18:17:12 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4A1)
+18:17:13 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4A1)
+18:17:14 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4A1)
+18:17:15 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4A1)
+18:17:15 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4A1)
+18:17:17 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4A1)
+18:17:34 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_Suppressor)
+18:17:35 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_Suppressor)
+18:17:35 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_Suppressor)
+18:17:41 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_OEBttstck_Black)
+18:17:41 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4_OEBttstck_Black)
+18:17:49 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4A1)
+18:17:49 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (M4A1)
+18:18:7 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_m40a3)
+18:18:8 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_m40a3)
+18:18:8 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_m40a3)
+18:18:9 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_m40a3)
+18:18:10 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_m40a3)
+18:18:11 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_m40a3)
+18:18:15 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_Mag_m40a3_5rnd)
+18:18:15 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_Mag_m40a3_5rnd)
+18:18:16 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_Mag_m40a3_5rnd)
+18:18:16 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_Mag_m40a3_5rnd)
+18:18:16 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_Mag_m40a3_5rnd)
+18:18:16 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_Mag_m40a3_5rnd)
+18:18:16 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_Mag_m40a3_5rnd)
+18:18:16 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_Mag_m40a3_5rnd)
+18:18:17 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_Mag_m40a3_5rnd)
+18:18:17 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_Mag_m40a3_5rnd)
+18:18:17 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_Mag_m40a3_5rnd)
+18:18:17 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_Mag_m40a3_5rnd)
+18:18:37 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HuntingOptic)
+18:18:37 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HuntingOptic)
+18:18:37 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HuntingOptic)
+18:18:38 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HuntingOptic)
+18:18:38 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HuntingOptic)
+18:18:38 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HuntingOptic)
+18:18:38 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HuntingOptic)
+18:18:38 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HuntingOptic)
+18:18:38 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HuntingOptic)
+18:18:56 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_308Win_20Rnd)
+18:18:56 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_308Win_20Rnd)
+18:18:56 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_308Win_20Rnd)
+18:18:56 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_308Win_20Rnd)
+18:18:57 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_308Win_20Rnd)
+18:18:57 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_308Win_20Rnd)
+18:18:57 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_308Win_20Rnd)
+18:18:57 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_308Win_20Rnd)
+18:18:57 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_308Win_20Rnd)
+18:18:57 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_308Win_20Rnd)
+18:18:58 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_308Win_20Rnd)
+18:19:3 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_308_Suppressor)
+18:19:4 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_308_Suppressor)
+18:19:4 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_308_Suppressor)
+18:19:5 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_308_Suppressor)
+18:19:5 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_308_Suppressor)
+18:19:18 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_556x45_20Rnd)
+18:19:18 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_556x45_20Rnd)
+18:19:18 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_556x45_20Rnd)
+18:19:18 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_556x45_20Rnd)
+18:19:18 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_556x45_20Rnd)
+18:19:18 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_556x45_20Rnd)
+18:19:19 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_556x45_20Rnd)
+18:19:19 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_556x45_20Rnd)
+18:19:19 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_556x45_20Rnd)
+18:19:19 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_556x45_20Rnd)
+18:19:19 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_556x45_20Rnd)
+18:19:19 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_556x45_20Rnd)
+18:19:20 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_556x45_20Rnd)
+18:19:20 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_556x45_20Rnd)
+18:19:20 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_556x45_20Rnd)
+18:19:20 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AmmoBox_556x45_20Rnd)
+18:19:35 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_STANAG_30Rnd)
+18:19:35 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_STANAG_30Rnd)
+18:19:35 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_STANAG_30Rnd)
+18:19:35 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_STANAG_30Rnd)
+18:19:36 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_STANAG_30Rnd)
+18:19:36 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_STANAG_30Rnd)
+18:19:36 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_STANAG_30Rnd)
+18:19:36 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_STANAG_30Rnd)
+18:19:36 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_STANAG_30Rnd)
+18:19:36 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_STANAG_30Rnd)
+18:19:36 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_STANAG_30Rnd)
+18:19:39 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_STANAGCoupled_30Rnd)
+18:19:39 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_STANAGCoupled_30Rnd)
+18:19:39 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_STANAGCoupled_30Rnd)
+18:19:39 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_STANAGCoupled_30Rnd)
+18:19:39 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_STANAGCoupled_30Rnd)
+18:19:44 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_CMAG_40Rnd)
+18:19:44 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_CMAG_40Rnd)
+18:19:44 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_CMAG_40Rnd)
+18:19:44 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_CMAG_40Rnd)
+18:19:45 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_CMAG_40Rnd)
+18:20:12 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_Mag_FAL_40Rnd)
+18:20:13 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_Mag_FAL_40Rnd)
+18:20:18 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_FAL_20Rnd)
+18:20:18 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_FAL_20Rnd)
+18:20:18 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Mag_FAL_20Rnd)
+18:20:20 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (FAL)
+18:20:21 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (FAL)
+18:20:22 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (FAL)
+18:20:23 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (FAL)
+18:20:26 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Fal_OeBttstck)
+18:20:26 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Fal_OeBttstck)
+18:20:27 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Fal_OeBttstck)
+18:20:27 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (Fal_OeBttstck)
+18:21:14 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrier_ttsco)
+18:21:14 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrier_ttsco)
+18:21:14 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrier_ttsco)
+18:21:14 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrier_ttsco)
+18:21:15 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrier_ttsco)
+18:21:15 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrier_ttsco)
+18:21:15 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrier_ttsco)
+18:21:17 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrierPouches_ttsco)
+18:21:17 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrierPouches_ttsco)
+18:21:18 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrierPouches_ttsco)
+18:21:18 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrierPouches_ttsco)
+18:21:18 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrierPouches_ttsco)
+18:21:18 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrierPouches_ttsco)
+18:21:19 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrierPouches_ttsco)
+18:21:22 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrierHolster_ttsco)
+18:21:22 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrierHolster_ttsco)
+18:21:22 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_PlateCarrierHolster_ttsco)
+18:22:25 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (ACOGOptic)
+18:22:25 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (ACOGOptic)
+18:22:25 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (ACOGOptic)
+18:22:26 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (ACOGOptic)
+18:22:26 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (ACOGOptic)
+18:22:26 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (ACOGOptic)
+18:22:27 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (ACOGOptic)
+18:22:32 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (ACOGOptic_6x)
+18:22:32 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (ACOGOptic_6x)
+18:22:32 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (ACOGOptic_6x)
+18:22:33 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (ACOGOptic_6x)
+18:24:36 | Player "TeoScout" (steamId=76561198870672564) connected to server!
+18:25:5 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (SportGlasses_Blue)
+18:25:6 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (SportGlasses_Blue)
+18:25:6 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (SportGlasses_Blue)
+18:25:6 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (SportGlasses_Blue)
+18:25:6 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (SportGlasses_Blue)
+18:25:7 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (SportGlasses_Blue)
+18:25:34 | Player "TeoScout" (steamId=76561198870672564) connected to server!
+18:27:29 | Player "Alti" (steamId=76561199235859883) connected to server!
+18:27:33 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (WatchtowerKit)
+18:27:37 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (ShelterKit)
+18:27:40 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (TerritoryFlagKit)
+18:27:44 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (FenceKit)
+18:27:48 | Player "Alti" (steamId=76561199235859883) connected to server!
+18:27:52 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_door_Kit)
+18:27:53 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_door_Kit)
+18:27:55 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_roof_Kit)
+18:28:1 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_wall_big_Kit)
+18:28:2 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_wall_kit)
+18:28:2 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_wall_kit)
+18:28:5 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_window_sheild_kit)
+18:28:6 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_window_sheild_kit)
+18:28:42 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (AdminHatchet)
+18:30:30 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:30:33 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3823.102539, 53.083961, 7452.191895>)
+18:30:34 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:33:50 | Player "Survivor" (steamId=76561199215280308) disconnected from server.
+18:33:55 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:34:24 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3829.297363, 56.974533, 7459.272949>)
+18:34:24 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:36:7 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3838.685791, 53.592167, 7467.143555>)
+18:36:23 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3841.795654, 52.999996, 7473.904785>)
+18:37:0 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:37:3 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3833.574707, 55.555744, 7461.133789>)
+18:37:4 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:37:16 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:37:21 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3831.866455, 56.965893, 7458.419434>)
+18:37:21 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:38:41 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:38:42 | Player "[FARM] Grifos" (steamId=76561199140641946) connected to server!
+18:38:48 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3843.146973, 61.121334, 7447.393066>)
+18:38:49 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:39:6 | Player "[FARM] Grifos" (steamId=76561199140641946) connected to server!
+18:39:6 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3856.222412, 62.897293, 7453.253906>)
+18:39:21 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3834.667725, 63.183941, 7476.621094>)
+18:39:57 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3821.182129, 53.077194, 7463.681641>)
+18:40:19 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:40:24 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3828.156738, 56.982227, 7461.745605>)
+18:40:25 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:42:31 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:42:37 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3830.303223, 56.975529, 7461.316406>)
+18:42:38 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:42:43 | Player "=FURY=InfantiDF" (steamId=76561198283309946) connected to server!
+18:43:5 | Player "=FURY=InfantiDF" (steamId=76561198283309946) connected to server!
+18:45:5 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:45:9 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3821.385742, 53.074551, 7459.838379>)
+18:45:10 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:45:18 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:45:23 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3815.219727, 56.063873, 7451.688965>)
+18:45:23 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:46:42 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:46:46 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3818.920410, 56.063873, 7448.487305>)
+18:46:47 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:47:15 | Player "CACHORRAO DO BREGA" (steamId=76561199138975671) connected to server!
+18:49:17 | Player "Chuck-JD" (steamId=76561198290124304) connected to server!
+18:55:21 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:55:29 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3815.010742, 52.999992, 7451.000488>)
+18:55:30 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:56:23 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:56:32 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3815.217041, 56.894375, 7451.357422>)
+18:56:33 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:56:33 | Player "[SDC]pistoleiro" (steamId=76561198046104047) disconnected from server.
+18:56:34 | Player "[SDC]pistoleiro" (steamId=76561198046104047) disconnected from server.
+18:56:58 | Player "Mr. Oppai" (steamId=76561198067634106) connected to server!
+18:57:14 | Player "Mr. Oppai" (steamId=76561198067634106) connected to server!
+18:58:35 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:58:37 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+18:59:58 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:0:3 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3587.719238, 171.526276, 7936.866211>)
+19:0:5 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:3:9 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+19:3:12 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:3:17 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3816.059570, 53.000000, 7435.665039>)
+19:3:18 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:3:23 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+19:4:4 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:4:10 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3828.216309, 53.075817, 7447.918945>)
+19:4:11 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:7:6 | Player "Chuck-JD" (steamId=76561198290124304) disconnected from server.
+19:7:47 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HunterPants_Spring)
+19:7:48 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HunterPants_Spring)
+19:7:48 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HunterPants_Spring)
+19:7:48 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HunterPants_Spring)
+19:7:53 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HuntingJacket_Spring)
+19:7:53 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HuntingJacket_Spring)
+19:7:53 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HuntingJacket_Spring)
+19:7:53 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HuntingJacket_Spring)
+19:7:53 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HuntingJacket_Spring)
+19:7:54 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HuntingJacket_Spring)
+19:7:54 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HuntingJacket_Spring)
+19:7:54 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HuntingJacket_Spring)
+19:7:54 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HuntingJacket_Spring)
+19:8:9 | Player "Chuck-JD" (steamId=76561198290124304) connected to server!
+19:8:13 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HunterPants_Spring)
+19:8:13 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HunterPants_Spring)
+19:8:13 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HunterPants_Spring)
+19:8:13 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (HunterPants_Spring)
+19:8:20 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:8:26 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3676.435303, 177.055313, 7978.342773>)
+19:8:27 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:8:48 | Player "FALCAO" (steamId=76561198970484097) disconnected from server.
+19:8:55 | Player "Chuck-JD" (steamId=76561198290124304) connected to server!
+19:9:7 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<3780.545166, 163.315323, 8204.897461>)
+19:9:8 | Player "CACHORRAO DO BREGA" (steamId=76561199138975671) disconnected from server.
+19:9:10 | Player "CACHORRAO DO BREGA" (steamId=76561199138975671) disconnected from server.
+19:12:37 | Player "ATOMIC" (steamId=76561198140728342) disconnected from server.
+19:12:42 | Player "ATOMIC" (steamId=76561198140728342) re-connected to server [canceledLogout]
+19:13:0 | "ATOMIC": (steamid=76561198140728342) teleported to (pos=9335.15,0,8154.09)
+19:16:54 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:17:8 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:17:47 | "ATOMIC": (steamid=76561198140728342) teleported to (pos=6582.39,0,11054.6)
+19:17:54 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:17:57 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<6578.691895, 15.030001, 11071.468750>)
+19:17:58 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:18:50 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_door_Kit)
+19:19:3 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:19:24 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<6609.219727, 42.488052, 11109.642578>)
+19:19:24 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:19:29 | Player "biboz" (steamId=76561198065450211) connected to server!
+19:19:45 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:20:23 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<6579.482910, 45.047920, 11087.509766>)
+19:20:24 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:20:26 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) connected to server!
+19:20:53 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:20:57 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<6579.022949, 18.792000, 11073.687500>)
+19:20:57 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:21:18 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_wall_kit)
+19:21:24 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) connected to server!
+19:22:36 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (CodeLock)
+19:22:37 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (CodeLock)
+19:22:37 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (CodeLock)
+19:22:43 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (CodeLock)
+19:26:46 | "ATOMIC" (steamid=76561198140728342) deleted object "AdminHatchet" (pos=<6581.854492, 15.071787, 11080.678711>)
+19:28:40 | Player "=FURY=InfantiDF" (steamId=76561198283309946) disconnected from server.
+19:30:44 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_mangal_kit)
+19:30:54 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_box_big_Grey)
+19:30:56 | "ATOMIC" (steamid=76561198140728342) Spawned Item: (dp_box_big_Grey)
+19:33:44 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:34:9 | "ATOMIC": (steamid=76561198140728342) teleported to (pos=8088.06,0,9685.63)
+19:34:10 | Player "biboz" (steamId=76561198065450211) disconnected from server.
+19:34:14 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:34:18 | Player "alezito" (steamId=76561199089752675) connected to server!
+19:34:33 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<8081.942383, 1.999999, 9745.226563>)
+19:34:34 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<8082.891113, 1.999999, 9760.659180>)
+19:34:52 | Player "Alti" (steamId=76561199235859883) disconnected from server.
+19:34:54 | Player "Alti" (steamId=76561199235859883) disconnected from server.
+19:35:3 | Player "TRIPA SECA" (steamId=76561198133243371) connected to server!
+19:35:16 | "ATOMIC": (steamid=76561198140728342) teleported to (pos=7430.7,0,6889.62)
+19:35:29 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:35:48 | "ATOMIC" (steamid=76561198140728342) teleported to crosshair (pos=<7269.351563, 259.103973, 7075.401855>)
+19:35:49 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:37:14 | "ATOMIC": (steamid=76561198140728342) teleported to (pos=4608.81,0,7801.82)
+19:37:20 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:37:53 | Player "Carambolas" (steamId=76561198442072760) disconnected from server.
+19:38:41 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:38:53 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:42:6 | Player "ffaec" (steamId=76561198212749040) connected to server!
+19:43:4 | "ATOMIC" (steamid=76561198140728342) toggled freecam
+19:43:40 | Player "ATOMIC" (steamId=76561198140728342) disconnected from server.
+19:43:42 | Player "ATOMIC" (steamId=76561198140728342) disconnected from server.
+19:45:8 | Player "[FARM] Grifos" (steamId=76561199140641946) disconnected from server.
+19:45:10 | Player "[FARM] Grifos" (steamId=76561199140641946) disconnected from server.
+19:47:43 | Player "Brunner" (steamId=76561199031638818) connected to server!
+19:48:0 | Player "Brunner" (steamId=76561199031638818) connected to server!
+19:56:41 | Player "[FARM] Grifos" (steamId=76561199140641946) connected to server!
+19:57:0 | Player "[FARM] Grifos" (steamId=76561199140641946) connected to server!
+19:59:8 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) disconnected from server.
+20:2:17 | Player "=FURY=InfantiDF" (steamId=76561198283309946) connected to server!
+20:2:40 | Player "=FURY=InfantiDF" (steamId=76561198283309946) connected to server!
+20:4:59 | Player "FALCAO" (steamId=76561198970484097) connected to server!
+20:6:13 | Player "FALCAO" (steamId=76561198970484097) connected to server!
+20:7:20 | Player "Chuck-JD" (steamId=76561198290124304) disconnected from server.
+20:14:36 | Player "Sparrow" (steamId=76561198119207436) connected to server!
+20:14:58 | Player "Sparrow" (steamId=76561198119207436) connected to server!
+20:24:13 | Player "Mr. Oppai" (steamId=76561198067634106) disconnected from server.
+20:24:15 | Player "Mr. Oppai" (steamId=76561198067634106) disconnected from server.
+20:28:33 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) connected to server!
+20:40:51 | Player "[FARM] NATO" (steamId=76561199083641388) disconnected from server.
+20:40:55 | Player "[FARM] NATO" (steamId=76561199083641388) disconnected from server.
+20:43:1 | Player "=FURY= BaBaYaaGa" (steamId=76561199145341465) connected to server!
+20:43:9 | Player "Hisokinha" (steamId=76561198206544727) connected to server!
+20:43:23 | Player "=FURY= BaBaYaaGa" (steamId=76561199145341465) connected to server!
+20:45:17 | Player "TeoScout" (steamId=76561198870672564) disconnected from server.
+20:49:10 | Player "FALCAO" (steamId=76561198970484097) disconnected from server.
+20:55:58 | Player "[FARM] Grifos" (steamId=76561199140641946) disconnected from server.
+20:55:59 | Player "[FARM] Grifos" (steamId=76561199140641946) disconnected from server.
+21:1:26 | Player "TRIPA SECA" (steamId=76561198133243371) disconnected from server.
+21:1:40 | Player "Sparrow" (steamId=76561198119207436) disconnected from server.
+21:1:57 | Player "ffaec" (steamId=76561198212749040) disconnected from server.
+21:2:20 | Player "alezito" (steamId=76561199089752675) disconnected from server.
+21:2:24 | Player "=FURY=InfantiDF" (steamId=76561198283309946) disconnected from server.
+21:4:27 | Player "Survivor" (steamId=76561198162755925) connected to server!
+21:5:7 | Player "Sparrow" (steamId=76561198119207436) connected to server!
+21:5:17 | Player "Sparrow" (steamId=76561198119207436) connected to server!
+21:14:38 | Player "Congo" (steamId=76561199119859024) connected to server!
+21:14:52 | Player "Andre1237" (steamId=76561199042038508) connected to server!
+21:15:12 | Player "Congo" (steamId=76561199119859024) connected to server!
+21:16:14 | Player "Andre1237" (steamId=76561199042038508) connected to server!
+21:18:25 | Player "Survivor" (steamId=76561198162755925) disconnected from server.
+21:18:44 | Player "Hisokinha" (steamId=76561198206544727) disconnected from server.
+21:21:48 | Player "FUZILEIRO" (steamId=76561198071779383) disconnected from server.
+21:22:1 | Player "=FURY=zCastro" (steamId=76561199027286716) connected to server!
+21:22:13 | Player "=FURY=zCastro" (steamId=76561199027286716) connected to server!
+21:32:9 | Player "[FARM] NATO" (steamId=76561199083641388) connected to server!
+21:33:2 | Player "[FARM] NATO" (steamId=76561199083641388) connected to server!
+21:34:10 | Player "Alti" (steamId=76561199235859883) connected to server!
+21:34:24 | Player "Delta-9" (steamId=76561198334164830) connected to server!
+21:34:24 | Player "Alti" (steamId=76561199235859883) connected to server!
+21:38:22 | Player "[SDC]pistoleiro" (steamId=76561198046104047) connected to server!
+21:38:31 | Player "[SDC]pistoleiro" (steamId=76561198046104047) connected to server!
+21:38:41 | Player "Dayz" (steamId=76561198988508227) connected to server!
+21:39:42 | Player "Dayz" (steamId=76561198988508227) disconnected from server.
+21:39:44 | Player "Dayz" (steamId=76561198988508227) disconnected from server.
+21:40:47 | Player "Dayz" (steamId=76561198988508227) connected to server!
+21:41:3 | Player "Dayz" (steamId=76561198988508227) connected to server!
+21:43:10 | Player "CACHORRAO DO BREGA" (steamId=76561199138975671) connected to server!
+21:43:26 | Player "CACHORRAO DO BREGA" (steamId=76561199138975671) connected to server!
+21:45:24 | Player "PqZiN^" (steamId=76561198060674477) connected to server!
+21:47:0 | Player "SD989" (steamId=76561198263814277) connected to server!
+21:47:33 | Player "PqZiN^" (steamId=76561198060674477) disconnected from server.
+21:47:44 | Player "SD989" (steamId=76561198263814277) connected to server!
+21:51:43 | Player "[G.O.L.E] KOYOTE" (steamId=76561198964690468) connected to server!
+21:52:1 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+21:52:30 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+21:52:48 | Player "[G.O.L.E] KOYOTE" (steamId=76561198964690468) disconnected from server.
+21:53:32 | Player "[G.O.L.E] KOYOTE" (steamId=76561198964690468) connected to server!
+21:53:40 | Player "[G.O.L.E] KOYOTE" (steamId=76561198964690468) connected to server!
+21:59:52 | Player "CACHORRAO DO BREGA" (steamId=76561199138975671) disconnected from server.
+21:59:55 | Player "CACHORRAO DO BREGA" (steamId=76561199138975671) disconnected from server.
+22:0:5 | Player "|NKN| TeteuFilho" (steamId=76561198180296083) connected to server!
+22:1:21 | Player "[FARM] NATO" (steamId=76561199083641388) disconnected from server.
+22:1:23 | Player "[FARM] NATO" (steamId=76561199083641388) disconnected from server.
+22:3:35 | Player "PqZiN^" (steamId=76561198060674477) connected to server!
+22:4:3 | Player "PqZiN^" (steamId=76561198060674477) connected to server!
+22:4:20 | Player "Delta-9" (steamId=76561198334164830) disconnected from server.
+22:4:24 | Player "Delta-9" (steamId=76561198334164830) disconnected from server.
+22:5:40 | Player "Major Filhaum" (steamId=76561198137101509) connected to server!
+22:6:39 | Player "Major Filhaum" (steamId=76561198137101509) connected to server!
+22:7:7 | Player "|NKN| TeteuFilho" (steamId=76561198180296083) disconnected from server.
+22:7:9 | Player "|NKN| TeteuFilho" (steamId=76561198180296083) disconnected from server.
+22:8:57 | Player "[G.O.L.E] KOYOTE" (steamId=76561198964690468) disconnected from server.
+22:9:26 | Player "Dayz" (steamId=76561198988508227) disconnected from server.
+22:9:28 | Player "Dayz" (steamId=76561198988508227) disconnected from server.
+22:9:37 | Player "Dayz" (steamId=76561198988508227) connected to server!
+22:9:45 | Player "Dayz" (steamId=76561198988508227) connected to server!
+22:12:34 | Player "CABOBRANCO" (steamId=76561198057389190) connected to server!
+22:12:48 | Player "Andre1237" (steamId=76561199042038508) disconnected from server.
+22:13:1 | Player "CABOBRANCO" (steamId=76561198057389190) connected to server!
+22:16:40 | Player "=FURY=KABUT" (steamId=76561198877070289) connected to server!
+22:17:2 | Player "=FURY=KABUT" (steamId=76561198877070289) connected to server!
+22:19:49 | Player "=FURY=InfantiDF" (steamId=76561198283309946) connected to server!
+22:20:12 | Player "=FURY=InfantiDF" (steamId=76561198283309946) connected to server!
+22:24:58 | Player "Brunner" (steamId=76561199031638818) disconnected from server.
+22:26:13 | Player "=FURY=KABUT" (steamId=76561198877070289) disconnected from server.
+22:27:3 | Player "[ G.O.L.E] jumento" (steamId=76561198905728984) connected to server!
+22:28:6 | Player "[ G.O.L.E] jumento" (steamId=76561198905728984) disconnected from server.
+22:28:19 | Player "CrissBernal" (steamId=76561198020173542) connected to server!
+22:29:0 | Player "[ G.O.L.E] jumento" (steamId=76561198905728984) connected to server!
+22:29:8 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) disconnected from server.
+22:29:14 | Player "[ G.O.L.E] jumento" (steamId=76561198905728984) connected to server!
+22:29:47 | Player "[ G.O.L.E] jumento" (steamId=76561198905728984) disconnected from server.
+22:32:41 | Player "[G.O.L.E] RINKA178" (steamId=76561198905728984) connected to server!
+22:32:59 | Player "[G.O.L.E] RINKA178" (steamId=76561198905728984) connected to server!
+22:33:10 | Player "[G.O.L.E] RINKA178" (steamId=76561198905728984) disconnected from server.
+22:33:27 | Player "=FURY=zCastro" (steamId=76561199027286716) disconnected from server.
+22:33:29 | Player "=FURY=zCastro" (steamId=76561199027286716) disconnected from server.
+22:33:48 | Player "[G.O.L.E] RINKA178" (steamId=76561198905728984) connected to server!
+22:34:10 | Player "[G.O.L.E] RINKA178" (steamId=76561198905728984) connected to server!
+22:34:36 | Player "[G.O.L.E] RINKA178" (steamId=76561198905728984) disconnected from server.
+22:34:54 | Player "A Z A Z E L #.#" (steamId=76561199004943082) connected to server!
+22:35:8 | Player "A Z A Z E L #.#" (steamId=76561199004943082) connected to server!
+22:35:39 | Player "[SDC]pistoleiro" (steamId=76561198046104047) disconnected from server.
+22:37:53 | Player "=FURY= BaBaYaaGa" (steamId=76561199145341465) disconnected from server.
+22:38:13 | Player "=FURY= BaBaYaaGa" (steamId=76561199145341465) connected to server!
+22:38:22 | Player "[G.O.L.E] RINKA178" (steamId=76561198905728984) connected to server!
+22:38:23 | Player "=FURY= BaBaYaaGa" (steamId=76561199145341465) connected to server!
+22:38:43 | Player "[G.O.L.E] RINKA178" (steamId=76561198905728984) connected to server!
+22:39:13 | Player "=FURY= BaBaYaaGa" (steamId=76561199145341465) disconnected from server.
+22:39:21 | Player "[G.O.L.E] RINKA178" (steamId=76561198905728984) disconnected from server.
+22:41:1 | Player "A Z A Z E L #.#" (steamId=76561199004943082) disconnected from server.
+22:41:4 | Player "marlon" (steamId=76561199125874694) connected to server!
+22:42:1 | Player "[SDC]pistoleiro" (steamId=76561198046104047) connected to server!
+22:42:10 | Player "[SDC]pistoleiro" (steamId=76561198046104047) connected to server!
+22:47:22 | Player "[SDC]pistoleiro" (steamId=76561198046104047) disconnected from server.
+22:47:23 | Player "[SDC]pistoleiro" (steamId=76561198046104047) disconnected from server.
+22:47:32 | Player "[SDC]pistoleiro" (steamId=76561198046104047) connected to server!
+22:47:42 | Player "[SDC]pistoleiro" (steamId=76561198046104047) connected to server!
+22:49:36 | Player "[SDC]pistoleiro" (steamId=76561198046104047) disconnected from server.
+22:49:37 | Player "[SDC]pistoleiro" (steamId=76561198046104047) disconnected from server.
+22:49:58 | Player "REDFOX" (steamId=76561199231969983) connected to server!
+22:53:27 | Player "Brunner" (steamId=76561199031638818) connected to server!
+22:53:48 | Player "Brunner" (steamId=76561199031638818) connected to server!
+22:55:48 | Player "NeagleX" (steamId=76561199128971683) connected to server!
+23:0:56 | Player "Sparrow" (steamId=76561198119207436) disconnected from server.
+23:0:58 | Player "Sparrow" (steamId=76561198119207436) disconnected from server.
+23:1:22 | Player "REDFOX" (steamId=76561199231969983) disconnected from server.
+23:1:24 | Player "REDFOX" (steamId=76561199231969983) disconnected from server.
+23:1:45 | Player "CrissBernal" (steamId=76561198020173542) disconnected from server.
+23:1:45 | Player "Dayz" (steamId=76561198988508227) disconnected from server.
+23:1:45 | Player "NeagleX" (steamId=76561199128971683) disconnected from server.
+23:1:45 | Player "=FURY=InfantiDF" (steamId=76561198283309946) disconnected from server.
+23:1:45 | Player "Major Filhaum" (steamId=76561198137101509) disconnected from server.
+23:1:45 | Player "PqZiN^" (steamId=76561198060674477) disconnected from server.
+23:1:45 | Player "CABOBRANCO" (steamId=76561198057389190) disconnected from server.
+23:1:45 | Player "Brunner" (steamId=76561199031638818) disconnected from server.
+23:1:45 | Player "marlon" (steamId=76561199125874694) disconnected from server.
+23:1:45 | Player "Alti" (steamId=76561199235859883) disconnected from server.
+23:1:45 | Player "Congo" (steamId=76561199119859024) disconnected from server.
+23:1:45 | Player "=FURY=SniperBrasileiro " (steamId=76561198876185496) disconnected from server.
+23:1:45 | Player "SD989" (steamId=76561198263814277) disconnected from server.
+23:1:45 | Player "Carambolas" (steamId=76561198442072760) disconnected from server.

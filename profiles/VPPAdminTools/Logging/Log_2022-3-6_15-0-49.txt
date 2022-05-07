@@ -1,0 +1,1173 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-3-6_15-0-49
+====================================================================================
+15:0:49 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+15:0:49 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+15:0:49 | [PermissionManager] Perm (FreeCamera) has been registered!
+15:0:49 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuItemManager) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuServerManager) has been registered!
+15:0:49 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+15:0:49 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+15:0:49 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+15:0:49 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+15:0:49 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+15:0:49 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+15:0:49 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+15:0:49 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+15:0:49 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+15:0:49 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+15:0:49 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+15:0:49 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+15:0:49 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+15:0:49 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+15:0:49 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+15:0:49 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+15:0:49 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+15:0:49 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+15:0:49 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+15:0:49 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+15:0:49 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+15:0:49 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+15:0:49 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+15:0:49 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+15:0:49 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+15:0:49 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+15:0:49 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+15:0:49 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+15:0:49 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+15:0:49 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+15:0:49 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+15:0:49 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+15:0:49 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuBansManager) has been registered!
+15:0:49 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+15:0:49 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+15:0:49 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+15:0:49 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+15:0:49 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+15:0:49 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+15:0:49 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+15:0:49 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+15:0:49 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+15:0:49 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+15:0:49 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+15:0:49 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+15:0:49 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+15:0:49 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+15:0:49 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+15:0:49 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+15:0:49 | [PermissionManager] Adding Super Admin (76561198253386609)
+15:0:49 | [PermissionManager] Adding Super Admin (76561198442072760)
+15:0:49 | [PermissionManager] Adding Super Admin (76561198950594742)
+15:0:49 | [PermissionManager] Adding Super Admin (76561198329721265)
+15:0:49 | [PermissionManager] Adding Super Admin (76561198140728342)
+15:0:49 | [PermissionManager] Loaded UserGroups.json
+15:0:49 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+15:0:49 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+15:0:49 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+15:0:49 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+15:0:49 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+15:0:49 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+15:0:49 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+15:0:49 | [PermissionManager] Perm (Chat:NamalskRunEvent) has been registered!
+15:0:49 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+15:0:49 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+15:0:49 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+15:0:49 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+15:0:49 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+15:0:49 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+15:0:49 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+15:0:49 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+15:0:49 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+15:0:49 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+15:0:49 | Building Sets Loaded: 0
+15:0:49 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+15:1:29 | Player "[FARM]Gandii" (steamId=76561199008723574) connected to server!
+15:1:51 | Player "[FARM]Gandii" (steamId=76561199008723574) connected to server!
+15:1:54 | Player "=FURY=M4ndr4k3.Rs*" (steamId=76561197977977178) connected to server!
+15:1:57 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+15:2:1 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+15:2:7 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+15:2:16 | Player "=FURY=SANTANA" (steamId=76561199228878387) connected to server!
+15:2:21 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+15:2:25 | Player "=FURY=SANTANA" (steamId=76561199228878387) connected to server!
+15:2:27 | Player "Congo" (steamId=76561199119859024) connected to server!
+15:2:34 | Player "Congo" (steamId=76561199119859024) connected to server!
+15:3:11 | Player "=FURY=M4ndr4k3.Rs*" (steamId=76561197977977178) connected to server!
+15:3:32 | Player "Skull" (steamId=76561198250209088) connected to server!
+15:4:53 | Player "Skull" (steamId=76561198250209088) disconnected from server.
+15:8:46 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+15:8:57 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+15:13:58 | Player "[FARM]MauriLim" (steamId=76561198054045761) connected to server!
+15:14:20 | Player "[FARM]MauriLim" (steamId=76561198054045761) connected to server!
+15:16:34 | Player "Andre1237" (steamId=76561199042038508) connected to server!
+15:17:7 | Player "Andre1237" (steamId=76561199042038508) connected to server!
+15:22:18 | Player "hugo" (steamId=76561199055984010) connected to server!
+15:22:26 | Player "hugo" (steamId=76561199055984010) connected to server!
+15:26:4 | Player "hugo" (steamId=76561199055984010) disconnected from server.
+15:27:28 | Player "hugo" (steamId=76561199055984010) connected to server!
+15:27:36 | Player "hugo" (steamId=76561199055984010) connected to server!
+15:28:29 | Player "Lancastel" (steamId=76561199103114870) connected to server!
+15:28:42 | Player "Lancastel" (steamId=76561199103114870) connected to server!
+15:28:46 | Player "=FURY=M4ndr4k3.Rs*" (steamId=76561197977977178) disconnected from server.
+15:30:39 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) connected to server!
+15:30:57 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) connected to server!
+15:36:14 | Player "Andre1237" (steamId=76561199042038508) disconnected from server.
+15:38:28 | Player "[Mi-6] Gui" (steamId=76561198306757012) connected to server!
+15:39:31 | Player "[Mi-6] Gui" (steamId=76561198306757012) connected to server!
+15:40:1 | Player "Martins" (steamId=76561198378326509) connected to server!
+15:40:10 | Player "Martins" (steamId=76561198378326509) connected to server!
+15:48:43 | Player "Major Filhaum" (steamId=76561198137101509) connected to server!
+15:49:23 | Player "Alti" (steamId=76561199235859883) connected to server!
+15:49:38 | Player "Alti" (steamId=76561199235859883) connected to server!
+15:53:20 | Player "carlos call" (steamId=76561198077345826) connected to server!
+15:53:32 | Player "carlos call" (steamId=76561198077345826) connected to server!
+15:53:33 | Player "[Mi-6] Gui" (steamId=76561198306757012) disconnected from server.
+15:55:19 | Player "carlos call" (steamId=76561198077345826) disconnected from server.
+15:56:27 | Player "carlos call" (steamId=76561198077345826) connected to server!
+15:56:38 | Player "carlos call" (steamId=76561198077345826) connected to server!
+15:56:55 | Player "Congo" (steamId=76561199119859024) disconnected from server.
+15:56:57 | Player "Congo" (steamId=76561199119859024) disconnected from server.
+16:1:23 | Player "hugo" (steamId=76561199055984010) disconnected from server.
+16:1:25 | Player "hugo" (steamId=76561199055984010) disconnected from server.
+16:7:38 | Player "Congo" (steamId=76561199119859024) connected to server!
+16:7:45 | Player "Congo" (steamId=76561199119859024) connected to server!
+16:9:48 | Player "ATOMIC" (steamId=76561199083408122) connected to server!
+16:10:14 | Player "ATOMIC" (steamId=76561199083408122) connected to server!
+16:11:18 | Player "ATOMIC" (steamId=76561199083408122) disconnected from server.
+16:14:55 | Player "ATOMIC" (steamId=76561198140728342) connected to server!
+16:16:13 | Player "ADM-BRUXO" (steamId=76561198140728342) connected to server!
+16:16:50 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6513.126465, 17.236467, 9387.780273>)
+16:16:57 | Player "[VRL]Primordial" (steamId=76561199224688906) connected to server!
+16:18:20 | "ADM-BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+16:18:33 | "ADM-BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+16:18:43 | Player "ADM-BRUXO" (steamId=76561198140728342) disconnected from server.
+16:19:7 | Player "carlos call" (steamId=76561198077345826) disconnected from server.
+16:19:33 | Player "[CMDs]MrZulu" (steamId=76561198133335010) connected to server!
+16:19:43 | Player "Hundred" (steamId=76561198268537009) connected to server!
+16:19:47 | Player "=FURY=SANTANA" (steamId=76561199228878387) disconnected from server.
+16:19:50 | Player "ADM-BRUXO" (steamId=76561198140728342) connected to server!
+16:20:8 | Player "ADM-BRUXO" (steamId=76561198140728342) connected to server!
+16:20:8 | Player "carlos call" (steamId=76561198077345826) connected to server!
+16:20:14 | Player "=FURY=SANTANA" (steamId=76561199228878387) connected to server!
+16:20:21 | Player "=FURY=SANTANA" (steamId=76561199228878387) connected to server!
+16:20:23 | Player "carlos call" (steamId=76561198077345826) connected to server!
+16:20:24 | "ADM-BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+16:20:48 | "ADM-BRUXO" (steamid=76561198140728342) Spawned Item: (dp_m_katana)
+16:23:1 | Player "Major Filhaum" (steamId=76561198137101509) disconnected from server.
+16:23:2 | Player "Major Filhaum" (steamId=76561198137101509) disconnected from server.
+16:23:13 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) disconnected from server.
+16:23:40 | Player "[CMDs]MrZulu" (steamId=76561198133335010) connected to server!
+16:24:21 | "ADM-BRUXO" (steamid=76561198140728342) Spawned Item: (OMNOGloves_Gray)
+16:24:33 | "ADM-BRUXO" (steamid=76561198140728342) Spawned Item: (Ushanka_Green)
+16:25:0 | "ADM-BRUXO" (steamid=76561198140728342) Spawned Item: (BalaclavaMask_Black)
+16:25:24 | "ADM-BRUXO" (steamid=76561198140728342) Spawned Item: (JungleBoots_Black)
+16:25:33 | "ADM-BRUXO" (steamid=76561198140728342) Spawned Item: (M65Jacket_Black)
+16:25:34 | "ADM-BRUXO" (steamid=76561198140728342) Spawned Item: (M65Jacket_Black)
+16:25:54 | "ADM-BRUXO" (steamid=76561198140728342) Spawned Item: (dp_TacticPants_BLACK)
+16:26:2 | Player "[CMDS]Templario" (steamId=76561198080265279) connected to server!
+16:26:19 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=1261.68,0,11732.8)
+16:26:30 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=1277.3,0,11809.5)
+16:26:32 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=1223.62,0,11847.8)
+16:27:3 | Player "[CMDS]Templario" (steamId=76561198080265279) connected to server!
+16:27:51 | Player "Hundred" (steamId=76561198268537009) connected to server!
+16:28:48 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=4718.45,0,8104.62)
+16:29:27 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) connected to server!
+16:29:34 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) connected to server!
+16:30:10 | Player "Ch3rno" (steamId=76561199031794199) connected to server!
+16:30:10 | Player "carlos call" (steamId=76561198077345826) disconnected from server.
+16:30:27 | Player "Ch3rno" (steamId=76561199031794199) connected to server!
+16:30:45 | Player "Hundred" (steamId=76561198268537009) disconnected from server.
+16:31:2 | Player "carlos call" (steamId=76561198077345826) connected to server!
+16:31:17 | Player "carlos call" (steamId=76561198077345826) connected to server!
+16:32:3 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5841.632813, 5.228118, 11586.671875>)
+16:32:6 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5863.852051, 6.945617, 11584.478516>)
+16:33:20 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:33:37 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:33:41 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5906.901367, 13.074135, 11578.809570>)
+16:33:58 | Player "=FURY=SANTANA" (steamId=76561199228878387) disconnected from server.
+16:34:3 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=7518.42,0,6958.37)
+16:34:6 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:35:9 | Player "Ch3rno" (steamId=76561199031794199) disconnected from server.
+16:35:10 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:35:11 | Player "Ch3rno" (steamId=76561199031794199) disconnected from server.
+16:35:23 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=3950.35,0,8525.92)
+16:35:29 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:36:2 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:36:5 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3947.241943, 174.566147, 8504.017578>)
+16:36:11 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3935.006104, 163.077927, 8446.556641>)
+16:36:12 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3932.528076, 160.622452, 8428.390625>)
+16:36:13 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3932.082031, 160.030304, 8420.346680>)
+16:36:17 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3918.949219, 160.471939, 8393.844727>)
+16:36:19 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3904.402588, 160.189697, 8358.602539>)
+16:36:21 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3899.713135, 161.888901, 8345.620117>)
+16:36:25 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3886.326904, 158.489365, 8297.045898>)
+16:36:28 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:37:43 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:37:56 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=4230.84,0,8150.62)
+16:38:3 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:38:49 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4314.614258, 78.526619, 8084.265137>)
+16:38:51 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:39:15 | Player "Martins" (steamId=76561198378326509) disconnected from server.
+16:39:16 | Player "Martins" (steamId=76561198378326509) disconnected from server.
+16:39:33 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:39:38 | Player "N*O SOU O PAI" (steamId=76561198868456396) connected to server!
+16:39:54 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4266.144043, 100.938362, 8047.812012>)
+16:39:56 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:40:5 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:40:12 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:40:48 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:40:56 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4418.486328, 79.051529, 8085.029785>)
+16:40:59 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:41:34 | Player "Martins" (steamId=76561198378326509) connected to server!
+16:41:47 | Player "Martins" (steamId=76561198378326509) connected to server!
+16:41:49 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:41:51 | Player "Alti" (steamId=76561199235859883) disconnected from server.
+16:41:52 | Player "Alti" (steamId=76561199235859883) disconnected from server.
+16:41:57 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4515.382324, 90.496971, 8226.211914>)
+16:41:58 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:42:17 | Player "C E L E B R I M B O R" (steamId=76561198114043394) disconnected from server.
+16:42:27 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:42:34 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4494.928223, 87.121529, 8212.716797>)
+16:42:36 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4494.925293, 87.121529, 8212.722656>)
+16:42:36 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:43:31 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+16:43:33 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:43:37 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4683.911621, 70.881607, 8219.827148>)
+16:43:45 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+16:45:33 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=3637.54,0,7542.59)
+16:45:39 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:45:41 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:46:23 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:46:41 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=6458.47,0,11111.3)
+16:47:35 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+16:47:46 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:47:52 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+16:48:3 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6719.970703, 34.170036, 11288.854492>)
+16:48:4 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:48:48 | Player "=FURY= ATIRADOR" (steamId=76561199101972011) disconnected from server.
+16:48:52 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:49:22 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6061.448242, 36.398117, 10640.008789>)
+16:49:23 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:49:36 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=10873.5,0,11334.5)
+16:49:41 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:49:45 | Player "=FURY=M4ndr4k3.Rs*" (steamId=76561197977977178) connected to server!
+16:50:3 | Player "splinter" (steamId=76561199095096697) connected to server!
+16:50:8 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<11931.875977, 2.879293, 12052.984375>)
+16:50:9 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:50:48 | Player "=FURY=M4ndr4k3.Rs*" (steamId=76561197977977178) connected to server!
+16:51:12 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=3945.16,0,9995.32)
+16:53:41 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:53:47 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3946.250732, 9.396002, 9957.237305>)
+16:53:47 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:54:15 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:54:18 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3964.958496, 9.593681, 9968.326172>)
+16:54:19 | Player "=FURY=M4ndr4k3.Rs*" (steamId=76561197977977178) disconnected from server.
+16:54:19 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+16:54:22 | Player "=FURY=M4ndr4k3.Rs*" (steamId=76561197977977178) disconnected from server.
+16:54:48 | Player "Alti" (steamId=76561199235859883) connected to server!
+16:54:55 | Player "Toucinho" (steamId=76561198136706340) connected to server!
+16:55:3 | Player "Alti" (steamId=76561199235859883) connected to server!
+16:55:31 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=7306.73,0,10529.5)
+16:55:32 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) disconnected from server.
+16:57:47 | Player "XXCARRASCOXX" (steamId=76561198192276507) connected to server!
+16:59:31 | "ADM-BRUXO" (steamid=76561198140728342) Spawned Item: (dp_F1Grenade)
+16:59:32 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) connected to server!
+16:59:32 | "ADM-BRUXO" (steamid=76561198140728342) Spawned Item: (dp_F1Grenade)
+16:59:48 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) connected to server!
+17:0:41 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=7575.47,0,10637.6)
+17:1:10 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=7572.69,0,10639.7)
+17:2:17 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=7571.18,0,10636.7)
+17:2:22 | Player "=FURY=InfantiDF" (steamId=76561198283309946) connected to server!
+17:2:26 | Player "=FURY=SANTANA" (steamId=76561199228878387) connected to server!
+17:2:36 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<7529.016602, 16.258814, 10720.880859>)
+17:2:38 | Player "=FURY=SANTANA" (steamId=76561199228878387) connected to server!
+17:2:46 | Player "=FURY=InfantiDF" (steamId=76561198283309946) connected to server!
+17:3:2 | Player ".PpKa._Oficial" (steamId=76561198115884870) connected to server!
+17:3:19 | Player "cRn" (steamId=76561198100945209) connected to server!
+17:3:28 | Player ".PpKa._Oficial" (steamId=76561198115884870) connected to server!
+17:3:30 | Player "Toy Story" (steamId=76561198133211909) connected to server!
+17:3:38 | Player "cRn" (steamId=76561198100945209) connected to server!
+17:3:46 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=7570.97,0,10636.2)
+17:3:51 | Player "Toy Story" (steamId=76561198133211909) connected to server!
+17:3:53 | Player "hugo" (steamId=76561199055984010) connected to server!
+17:3:59 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) disconnected from server.
+17:4:1 | Player "hugo" (steamId=76561199055984010) connected to server!
+17:4:3 | Player "=FURY=M4ndr4k3.Rs*" (steamId=76561197977977178) connected to server!
+17:4:29 | Player "[FARM]MauriLim" (steamId=76561198054045761) disconnected from server.
+17:4:30 | Player "[TDF] iBllack" (steamId=76561198400510616) connected to server!
+17:4:31 | Player "[FARM]MauriLim" (steamId=76561198054045761) disconnected from server.
+17:5:8 | Player "Lancastel" (steamId=76561199103114870) disconnected from server.
+17:5:20 | Player "=FURY=M4ndr4k3.Rs*" (steamId=76561197977977178) connected to server!
+17:5:22 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=6475.6,0,9315.27)
+17:5:24 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+17:5:39 | Player "[TDF] iBllack" (steamId=76561198400510616) connected to server!
+17:5:47 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6271.733887, 20.770000, 9532.024414>)
+17:5:49 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+17:6:13 | Player "[FARM]MauriLim" (steamId=76561198054045761) connected to server!
+17:6:14 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6273.154785, 20.886204, 9406.062500>)
+17:6:15 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6256.593262, 21.014286, 9373.345703>)
+17:6:20 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6242.097656, 21.091238, 9286.724609>)
+17:6:21 | Player "[FARM]MauriLim" (steamId=76561198054045761) connected to server!
+17:6:23 | Player "GOD$ | anonimus" (steamId=76561199037134982) connected to server!
+17:6:27 | Player "C E L E B R I M B O R" (steamId=76561198114043394) disconnected from server.
+17:6:36 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6256.367188, 21.065931, 9315.276367>)
+17:6:52 | Player "Carrie" (steamId=76561198076834303) connected to server!
+17:6:59 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6247.525391, 21.091476, 9290.346680>)
+17:7:55 | Player "XXCARRASCOXX" (steamId=76561198192276507) disconnected from server.
+17:8:5 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+17:8:9 | Player "XXCARRASCOXX" (steamId=76561198192276507) connected to server!
+17:8:12 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6088.674316, 13.534126, 9381.822266>)
+17:8:16 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+17:8:19 | Player "XXCARRASCOXX" (steamId=76561198192276507) connected to server!
+17:8:44 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+17:10:50 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) connected to server!
+17:10:58 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) connected to server!
+17:11:47 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+17:12:27 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=6002.09,0,6613.16)
+17:13:40 | Player "Carrie" (steamId=76561198076834303) disconnected from server.
+17:13:42 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=3402.52,0,6723.93)
+17:15:31 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+17:15:45 | Player "C E L E B R I M B O R" (steamId=76561198114043394) connected to server!
+17:15:57 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=6561.06,0,9239.45)
+17:15:59 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+17:16:49 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6331.286133, 13.601862, 9847.748047>)
+17:16:52 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+17:16:57 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+17:18:30 | Player "GOD$ | anonimus" (steamId=76561199037134982) disconnected from server.
+17:19:7 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6178.630859, 17.884371, 9127.502930>)
+17:19:10 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+17:19:10 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+17:19:56 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<6334.085449, 20.916542, 9364.999023>)
+17:19:58 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+17:20:38 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+17:20:46 | Player "Major Filhaum" (steamId=76561198137101509) connected to server!
+17:20:50 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5754.935547, 50.941322, 8645.543945>)
+17:20:52 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+17:21:49 | Player "Major Filhaum" (steamId=76561198137101509) connected to server!
+17:23:49 | Player "SD989" (steamId=76561198263814277) connected to server!
+17:24:42 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+17:25:15 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4733.640625, 65.738297, 9376.814453>)
+17:25:16 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+17:26:12 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+17:26:17 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+17:27:1 | Player "splinter" (steamId=76561199095096697) disconnected from server.
+17:27:4 | Player "splinter" (steamId=76561199095096697) disconnected from server.
+17:27:5 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+17:27:6 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+17:27:25 | Player "carlos call" (steamId=76561198077345826) disconnected from server.
+17:27:26 | Player "carlos call" (steamId=76561198077345826) disconnected from server.
+17:27:28 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=5394.38,0,7845.5)
+17:30:6 | Player "ADM-BRUXO" (steamId=76561198140728342) disconnected from server.
+17:32:7 | Player "[CMDS] BocaPreta" (steamId=76561198061748681) connected to server!
+17:33:21 | Player "[CMDS] BocaPreta" (steamId=76561198061748681) connected to server!
+17:34:15 | Player "JaponesDoPirocoptero" (steamId=76561198247375848) connected to server!
+17:36:25 | Player "JaponesDoPirocoptero" (steamId=76561198247375848) connected to server!
+17:41:42 | Player "Carambolas" (steamId=76561198442072760) disconnected from server.
+17:41:47 | Player "Carambolas" (steamId=76561198442072760) disconnected from server.
+17:42:53 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+17:43:9 | Player "Carambolas" (steamId=76561198442072760) connected to server!
+17:44:29 | Player "Eltuu" (steamId=76561199101527323) connected to server!
+17:47:12 | Player "Frost" (steamId=76561198325187892) connected to server!
+17:47:59 | Player "[CMDS] BocaPreta" (steamId=76561198061748681) disconnected from server.
+17:48:1 | Player "[CMDS] BocaPreta" (steamId=76561198061748681) disconnected from server.
+17:55:33 | Player "Andre1237" (steamId=76561199042038508) connected to server!
+17:56:39 | Player "Andre1237" (steamId=76561199042038508) connected to server!
+17:58:50 | Player "Pereira" (steamId=76561198950594742) connected to server!
+17:59:38 | Player "Pereira" (steamId=76561198950594742) connected to server!
+17:59:40 | Player "zezozoi" (steamId=76561198886694633) connected to server!
+18:0:4 | "Pereira" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+18:0:35 | Player "zezozoi" (steamId=76561198886694633) connected to server!
+18:0:38 | "Pereira" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+18:0:46 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<3141.517578, 1150.108643, 6204.228027>)
+18:5:50 | Player "[CMDS] BocaPreta" (steamId=76561198061748681) connected to server!
+18:6:55 | Player "[FARM] Grifos" (steamId=76561199140641946) connected to server!
+18:7:9 | Player "[CMDS] BocaPreta" (steamId=76561198061748681) connected to server!
+18:7:23 | Player "[FARM] Grifos" (steamId=76561199140641946) connected to server!
+18:9:47 | Player "Survivor" (steamId=76561198199811453) connected to server!
+18:12:25 | Player "LeiteDeMiapica" (steamId=76561198395615139) connected to server!
+18:12:45 | Player "LeiteDeMiapica" (steamId=76561198395615139) connected to server!
+18:14:27 | Player "Frost" (steamId=76561198325187892) disconnected from server.
+18:14:46 | Player "Juriscleybso" (steamId=76561198157303531) connected to server!
+18:15:5 | Player "Juriscleybso" (steamId=76561198157303531) connected to server!
+18:18:55 | Player "Congo" (steamId=76561199119859024) disconnected from server.
+18:18:58 | Player "Congo" (steamId=76561199119859024) disconnected from server.
+18:20:24 | Player "Congo" (steamId=76561199119859024) connected to server!
+18:20:34 | Player "Congo" (steamId=76561199119859024) connected to server!
+18:21:46 | Player "CABOBRANCO" (steamId=76561198057389190) connected to server!
+18:22:15 | Player "CABOBRANCO" (steamId=76561198057389190) connected to server!
+18:22:25 | Player "=FURY=M4ndr4k3.Rs*" (steamId=76561197977977178) disconnected from server.
+18:27:30 | Player "Andre1237" (steamId=76561199042038508) disconnected from server.
+18:31:17 | Player "Pereira" (steamId=76561198950594742) disconnected from server.
+18:38:36 | Player "Pereira" (steamId=76561198950594742) connected to server!
+18:39:3 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) disconnected from server.
+18:39:24 | Player "Pereira" (steamId=76561198950594742) connected to server!
+18:39:34 | "Pereira" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+18:40:4 | Player "T0rMio" (steamId=76561198282235524) connected to server!
+18:40:15 | "Pereira" (steamid=76561198950594742) toggled freecam
+18:40:19 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4111.694824, 380.019409, 6676.984863>)
+18:40:26 | Player "T0rMio" (steamId=76561198282235524) connected to server!
+18:40:30 | "Pereira" (steamid=76561198950594742) toggled freecam
+18:40:31 | "Pereira" (steamid=76561198950594742) toggled freecam
+18:43:34 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4168.036621, 380.050690, 6714.337402>)
+18:43:45 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+18:43:56 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+18:45:52 | Player "C E L E B R I M B O R" (steamId=76561198114043394) disconnected from server.
+18:48:30 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4273.646973, 332.292664, 6795.502441>)
+18:49:39 | Player "Toy Story" (steamId=76561198133211909) disconnected from server.
+18:49:40 | "Pereira" (steamid=76561198950594742) toggled freecam
+18:49:41 | Player "Toy Story" (steamId=76561198133211909) disconnected from server.
+18:49:48 | "Pereira" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+18:49:51 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4273.611816, 337.444550, 6780.610352>)
+18:49:51 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4275.506348, 339.690399, 6773.009277>)
+18:49:51 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4275.603027, 339.680603, 6772.950195>)
+18:49:51 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4275.694336, 339.660431, 6772.920410>)
+18:49:51 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4275.755859, 339.628143, 6772.944336>)
+18:49:51 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4275.764648, 339.526642, 6773.172852>)
+18:49:51 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4275.781738, 339.461670, 6773.311035>)
+18:49:51 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4275.964355, 340.704742, 6770.256836>)
+18:49:51 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4276.135742, 341.623932, 6767.954590>)
+18:49:51 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4276.189453, 341.622467, 6767.912109>)
+18:49:51 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4276.271484, 341.623138, 6767.839844>)
+18:49:51 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4276.345703, 341.621826, 6767.779297>)
+18:49:51 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4276.439453, 341.908539, 6767.001953>)
+18:49:51 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4276.495605, 342.904633, 6764.464355>)
+18:49:51 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4276.561523, 343.568298, 6762.748535>)
+18:49:51 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4276.572754, 343.562744, 6762.752441>)
+18:49:51 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4276.382813, 343.556396, 6762.931152>)
+18:49:51 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4276.381836, 343.737915, 6762.477539>)
+18:49:51 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4276.431152, 343.811707, 6762.241699>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4276.503418, 344.028351, 6761.616699>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4276.522461, 345.467957, 6757.799805>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4276.297852, 345.454803, 6758.032227>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4276.085938, 345.583099, 6757.879395>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4276.029297, 345.677063, 6757.681641>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4276.105469, 345.676788, 6757.615234>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4275.523438, 346.962280, 6754.611816>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4275.423340, 347.327942, 6753.669434>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4275.521484, 347.349243, 6753.515137>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4275.571777, 347.361755, 6753.432617>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4275.470703, 347.414337, 6753.378418>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4275.225098, 347.751526, 6752.651855>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4274.769531, 348.524384, 6750.882324>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4274.664063, 348.897827, 6749.912109>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4274.629395, 349.099915, 6749.318848>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4274.586426, 349.147095, 6749.215820>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4274.612793, 349.173401, 6749.106934>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4274.655762, 349.224457, 6748.905273>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4274.088867, 349.920044, 6747.317383>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4273.788086, 350.385040, 6746.176270>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4273.709961, 350.703125, 6745.267090>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4273.728516, 350.818390, 6744.893555>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4273.764648, 350.870636, 6744.699707>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4273.668457, 350.926971, 6744.625000>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4273.156250, 351.727844, 6742.578125>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4272.683105, 352.578552, 6740.199219>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4272.753418, 352.661041, 6739.835449>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4272.825684, 352.703522, 6739.609375>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4272.691406, 353.014130, 6738.730469>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4272.265137, 353.665253, 6736.980957>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4272.290527, 353.735046, 6736.678223>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4272.202148, 353.968414, 6735.894531>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4271.883789, 354.491547, 6734.303711>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4271.748535, 354.835052, 6733.239258>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4271.714844, 355.028656, 6732.583496>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4271.780273, 355.038574, 6732.462402>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4271.646484, 355.294861, 6731.711426>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4270.801270, 356.460999, 6728.239746>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4270.873535, 356.474487, 6728.079590>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4270.771484, 356.745056, 6727.181641>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4270.667480, 357.026642, 6726.241699>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4270.726563, 357.031342, 6726.136719>)
+18:49:52 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4270.796387, 357.037079, 6726.010742>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4270.781738, 357.182678, 6725.467285>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4270.239746, 357.952393, 6723.038086>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4269.946289, 358.458801, 6721.458496>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4270.019043, 358.464478, 6721.313965>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4269.793945, 358.833557, 6720.180664>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4269.780273, 359.019348, 6719.445313>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4269.458496, 359.678925, 6717.127930>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4269.330566, 360.003876, 6715.956055>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4269.437012, 359.990112, 6715.816895>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4269.519043, 359.989288, 6715.667480>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4269.306152, 360.428741, 6714.159668>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4268.971191, 361.041870, 6712.071289>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4269.050781, 361.046844, 6711.880859>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4268.853027, 361.426605, 6710.538574>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4268.494141, 362.043732, 6708.405762>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4268.527344, 362.054901, 6708.289063>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4268.599121, 362.038635, 6708.221680>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4268.687988, 362.032715, 6708.072754>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4268.218750, 362.878265, 6705.093750>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4267.904297, 363.489288, 6702.807129>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4267.970215, 363.476227, 6702.725586>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4267.822754, 363.781097, 6701.562500>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4267.654785, 364.123596, 6700.356445>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4267.793457, 364.092377, 6700.202637>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4267.815918, 364.102722, 6700.110840>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4267.429199, 364.760162, 6697.786621>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4266.906250, 365.635590, 6694.784180>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4266.687988, 366.040314, 6693.461426>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4266.600586, 366.246124, 6692.701172>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4266.712402, 366.189240, 6692.705078>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4266.808105, 366.176117, 6692.538574>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4266.916992, 366.164124, 6692.338867>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4266.992676, 366.151764, 6692.217285>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4266.458496, 367.004181, 6689.507324>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4265.619141, 368.332947, 6685.409180>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4265.773926, 368.262299, 6685.356934>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4265.874512, 368.229736, 6685.252441>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4265.944824, 368.216827, 6685.129883>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4265.979004, 368.216187, 6685.042969>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4266.021973, 368.213074, 6684.944824>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4266.103516, 368.197815, 6684.807129>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4265.686035, 368.968750, 6682.357910>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4264.957031, 370.283447, 6678.362305>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4265.054199, 370.234985, 6678.336914>)
+18:49:53 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4265.101563, 370.212708, 6678.321289>)
+18:49:54 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4265.087891, 370.222504, 6678.310059>)
+18:49:54 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4265.142578, 370.216003, 6678.201172>)
+18:49:54 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4265.217773, 370.203644, 6678.068848>)
+18:49:54 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4265.291016, 370.186157, 6677.964355>)
+18:49:54 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4265.140625, 370.529602, 6676.785156>)
+18:49:54 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4264.289063, 372.234558, 6671.686523>)
+18:49:54 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4264.361816, 372.221161, 6671.583496>)
+18:49:54 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4264.473633, 372.194702, 6671.453125>)
+18:49:54 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4264.569824, 372.171387, 6671.343750>)
+18:49:54 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4264.661621, 372.148956, 6671.239746>)
+18:49:54 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4264.783203, 372.116302, 6671.115723>)
+18:49:54 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4264.854004, 372.095123, 6671.052734>)
+18:49:54 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4265.215332, 373.923676, 6665.182129>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4264.639648, 375.881226, 6658.414551>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4264.453613, 375.912079, 6658.432129>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4264.326172, 375.991180, 6658.273926>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4264.077637, 376.058929, 6658.218750>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4263.890625, 376.106018, 6658.189453>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4263.829590, 376.135803, 6658.138184>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4263.743652, 376.171295, 6658.083496>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4262.164551, 377.193939, 6656.117188>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4260.707031, 378.383209, 6654.304688>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4260.526855, 378.485992, 6654.186035>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4260.482422, 378.523193, 6654.127930>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4259.806152, 378.941254, 6653.605469>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4259.002441, 379.492218, 6652.972168>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4258.947754, 379.608673, 6652.786621>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4258.420898, 380.119385, 6652.187500>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4257.354492, 381.033752, 6651.208008>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4257.038086, 381.290497, 6650.946777>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4256.980469, 381.375824, 6650.823242>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4256.333496, 381.827301, 6650.430664>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4255.810547, 382.193207, 6650.028320>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4255.237305, 382.554596, 6649.499512>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4255.148438, 382.651703, 6649.310059>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4255.066895, 382.728882, 6649.166016>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4253.800293, 383.422180, 6648.279785>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4252.306152, 384.188782, 6647.252441>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4251.975586, 384.343262, 6646.916992>)
+18:49:55 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4251.961426, 384.371460, 6646.824219>)
+18:50:5 | Player "Xavasca" (steamId=76561198329721265) connected to server!
+18:50:24 | Player "=FURY=M4ndr4k3.Rs*" (steamId=76561197977977178) connected to server!
+18:50:31 | "Pereira" (steamid=76561198950594742) Spawned Item: (MP5K)
+18:50:32 | "Pereira" (steamid=76561198950594742) Spawned Item: (Mag_MP5_30Rnd)
+18:50:34 | Player "=FURY=M4ndr4k3.Rs*" (steamId=76561197977977178) connected to server!
+18:50:37 | Player "Juriscleybso" (steamId=76561198157303531) disconnected from server.
+18:50:37 | "Xavasca" (steamid=76561198329721265) healed player (steamid=76561198329721265)
+18:50:40 | "Xavasca" (steamid=76561198329721265) healed player (steamid=76561198329721265)
+18:50:42 | "Xavasca" (steamid=76561198329721265) healed player (steamid=76561198329721265)
+18:50:50 | "Pereira" (steamid=76561198950594742) toggled freecam
+18:50:54 | Player "Carambolas" (steamId=76561198442072760) disconnected from server.
+18:50:58 | "Pereira" (steamid=76561198950594742) toggled freecam
+18:50:58 | Player "Carambolas" (steamId=76561198442072760) disconnected from server.
+18:50:59 | "Pereira" (steamid=76561198950594742) toggled freecam
+18:51:21 | Player "Alti" (steamId=76561199235859883) disconnected from server.
+18:51:23 | Player "Alti" (steamId=76561199235859883) disconnected from server.
+18:51:27 | Player "JaponesDoPirocoptero" (steamId=76561198247375848) disconnected from server.
+18:51:37 | "Pereira" (steamid=76561198950594742) toggled freecam
+18:51:55 | "Pereira" (steamid=76561198950594742) gave godmode to (steamid=76561198950594742)
+18:51:57 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4221.988281, 394.320038, 6594.795898>)
+18:52:8 | "Pereira" (steamid=76561198950594742) toggled freecam
+18:52:36 | Player "Solrac20" (steamId=76561199020584920) connected to server!
+18:53:5 | "Xavasca" (steamid=76561198329721265) teleported to crosshair (pos=<7180.651855, 4.212055, 11871.136719>)
+18:53:5 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:53:5 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:53:6 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:53:6 | Player "Survivor" (steamId=76561198199811453) disconnected from server.
+18:53:6 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:53:6 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:53:6 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:53:6 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:53:6 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:53:7 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:53:7 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:53:7 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:53:7 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:53:8 | Player "Survivor" (steamId=76561198199811453) disconnected from server.
+18:53:8 | "Xavasca" (steamid=76561198329721265) teleported to crosshair (pos=<7180.819336, 4.251422, 11868.220703>)
+18:53:9 | "Xavasca" (steamid=76561198329721265) teleported to crosshair (pos=<7180.807129, 4.409730, 11865.410156>)
+18:53:13 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:53:15 | "Xavasca" (steamid=76561198329721265) teleported to crosshair (pos=<7182.655762, 4.114051, 11869.810547>)
+18:53:15 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:53:20 | Player "T0rMio" (steamId=76561198282235524) disconnected from server.
+18:53:26 | "Xavasca": (steamid=76561198329721265) teleported to (pos=7267,0,7047.36)
+18:53:39 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:53:41 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:53:42 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:53:48 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:53:58 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:54:34 | "Xavasca" (steamid=76561198329721265) teleported to crosshair (pos=<6998.464844, 113.919075, 6852.496094>)
+18:54:35 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:54:42 | Player "T0rMio" (steamId=76561198282235524) connected to server!
+18:54:52 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: Roupa verde has no parrent!
+18:54:52 | "Xavasca" (steamid=76561198329721265) spawned preset: (Roupa verde)
+18:55:2 | Player "T0rMio" (steamId=76561198282235524) connected to server!
+18:55:23 | "Xavasca" (steamid=76561198329721265) gave godmode to (steamid=76561198329721265)
+18:55:55 | "Xavasca": (steamid=76561198329721265) teleported to (pos=4938.15,0,7788.23)
+18:56:7 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:56:21 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:56:22 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:56:35 | Player "T0rMio" (steamId=76561198282235524) disconnected from server.
+18:56:44 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:56:45 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:56:51 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:56:53 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:56:56 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:56:58 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:57:6 | Player "Congo" (steamId=76561199119859024) disconnected from server.
+18:57:8 | Player "Congo" (steamId=76561199119859024) disconnected from server.
+18:57:28 | "Pereira" (steamid=76561198950594742) toggled freecam
+18:57:57 | Player "T0rMio" (steamId=76561198282235524) connected to server!
+18:58:16 | Player "T0rMio" (steamId=76561198282235524) connected to server!
+18:58:35 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4239.699219, 387.393097, 6593.517578>)
+18:58:35 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4246.309570, 385.872986, 6591.693848>)
+18:58:35 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4250.795410, 384.761902, 6588.658691>)
+18:58:36 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4250.849609, 384.755493, 6588.627441>)
+18:58:36 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4250.959473, 384.742035, 6588.562988>)
+18:58:36 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4251.024414, 384.734039, 6588.524902>)
+18:58:36 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4251.092285, 384.726135, 6588.486816>)
+18:58:36 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4251.165527, 384.717499, 6588.445313>)
+18:58:36 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4253.416992, 384.296570, 6586.772949>)
+18:58:36 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4254.378906, 384.082428, 6586.061035>)
+18:58:36 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4254.444336, 384.069092, 6586.016113>)
+18:58:36 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4254.491699, 384.060089, 6585.985840>)
+18:58:36 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4254.591309, 384.040649, 6585.920410>)
+18:58:36 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4254.658203, 384.027557, 6585.876953>)
+18:58:36 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4254.716309, 384.015015, 6585.834961>)
+18:58:36 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4254.890625, 383.975861, 6585.704590>)
+18:58:36 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4256.614746, 383.561157, 6584.419922>)
+18:58:36 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4258.452148, 383.007355, 6583.057617>)
+18:58:36 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4258.566895, 382.973938, 6582.976563>)
+18:58:36 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4258.662109, 382.943878, 6582.900879>)
+18:58:36 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4258.741699, 382.915375, 6582.828125>)
+18:58:36 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4258.878906, 382.866119, 6582.701172>)
+18:58:36 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4260.248535, 382.441376, 6581.647949>)
+18:58:36 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4261.709473, 381.897034, 6580.512207>)
+18:58:37 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4381.008789, 292.288147, 6244.683105>)
+18:58:44 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4387.416992, 285.336761, 6202.420898>)
+18:58:45 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4401.208496, 262.178162, 6070.434082>)
+18:58:45 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4397.547852, 261.362152, 6034.005859>)
+18:58:45 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4397.545410, 261.361877, 6033.982422>)
+18:58:45 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4397.542480, 261.361145, 6033.971680>)
+18:58:45 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4397.538086, 261.359680, 6033.958496>)
+18:58:45 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4397.533691, 261.357635, 6033.966309>)
+18:58:45 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4397.529297, 261.355499, 6033.977539>)
+18:58:46 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4397.524902, 261.352509, 6034.000000>)
+18:58:46 | "Xavasca" (steamid=76561198329721265) teleported to crosshair (pos=<4997.553223, 71.859665, 7970.607910>)
+18:58:46 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4397.967773, 262.061981, 6025.379395>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4398.362305, 262.923859, 6018.416992>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4398.363281, 262.934082, 6018.345215>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4398.363770, 262.941437, 6018.293457>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4398.365234, 262.950806, 6018.229492>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4398.366211, 262.960724, 6018.160156>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4398.367188, 262.969788, 6018.097656>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4398.444824, 263.202087, 6016.628418>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4398.590820, 263.634308, 6013.904297>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4398.655273, 263.835938, 6012.678223>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4398.659180, 263.855865, 6012.549805>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4398.657715, 263.864441, 6012.481445>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4398.651367, 263.863678, 6012.466309>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4398.670898, 263.925415, 6011.983887>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4398.709961, 264.037079, 6011.119629>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4398.788086, 264.240234, 6009.575684>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4398.925781, 264.594604, 6006.915039>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4398.954590, 264.671600, 6006.362305>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4398.959961, 264.686188, 6006.258789>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4398.962402, 264.690155, 6006.222656>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4398.965820, 264.694092, 6006.185059>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4399.024902, 264.802399, 6004.901855>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4399.091797, 264.928284, 6003.404785>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4399.196777, 265.093384, 6001.539063>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4399.311523, 265.288147, 5999.608887>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4399.478027, 265.508209, 5997.195313>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4399.490234, 265.519592, 5997.085938>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4399.739258, 265.870972, 5993.307129>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4399.756836, 265.882904, 5993.204590>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4399.764648, 265.885406, 5993.200684>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4399.770020, 265.885437, 5993.224609>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4399.842285, 265.961243, 5992.376465>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4399.952148, 266.078064, 5991.057617>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4400.070313, 266.207153, 5989.462891>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4400.204102, 266.346832, 5987.657715>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4400.208008, 266.350098, 5987.617676>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4400.218262, 266.357330, 5987.532227>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4400.268555, 266.376953, 5987.101074>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4400.324219, 266.410126, 5986.543945>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4400.457520, 266.507080, 5984.811035>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4400.567871, 266.588226, 5983.355957>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4400.694824, 266.685181, 5981.607422>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4400.705566, 266.692444, 5981.479004>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4400.713379, 266.698242, 5981.374512>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4400.886719, 266.767365, 5979.435547>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4401.051270, 266.848694, 5977.602539>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4401.090332, 266.868164, 5977.163086>)
+18:58:47 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4401.098633, 266.872131, 5977.073730>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4401.100098, 266.874237, 5977.017090>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4401.113770, 266.882813, 5976.810059>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4401.184570, 266.923615, 5975.848633>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4401.259766, 266.964874, 5974.888184>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4401.416504, 267.061340, 5973.134277>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4401.555176, 267.186249, 5971.618164>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4401.686523, 267.286652, 5970.419434>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4401.702148, 267.293823, 5970.340820>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4401.721680, 267.300323, 5970.274902>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4401.872559, 267.431946, 5968.694824>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4402.074707, 267.666412, 5966.474609>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4402.094238, 267.682129, 5966.366211>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4402.229492, 267.809937, 5965.480957>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4402.238281, 267.817596, 5965.427734>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4402.384277, 267.936920, 5964.605957>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4402.509766, 268.087250, 5963.556152>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4402.636719, 268.263977, 5962.366699>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4402.648926, 268.273102, 5962.320801>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4402.697266, 268.325806, 5962.052734>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4402.770996, 268.410675, 5961.620117>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4402.775879, 268.419800, 5961.572754>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4402.779785, 268.426453, 5961.538574>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4402.785645, 268.438446, 5961.476563>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4402.855957, 268.538879, 5960.961914>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4403.033691, 268.790283, 5959.672363>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4403.345215, 269.098602, 5957.870605>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4403.351563, 269.109589, 5957.802734>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4403.358887, 269.118530, 5957.748535>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4403.369141, 269.130188, 5957.677734>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4403.413086, 269.181183, 5957.368652>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4403.464355, 269.239807, 5957.014160>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4403.533203, 269.316101, 5956.552246>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4403.645996, 269.442841, 5955.881348>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4403.846191, 269.667175, 5954.802734>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4403.904297, 269.720001, 5954.552246>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4403.925293, 269.733337, 5954.491211>)
+18:58:48 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4404.382813, 270.273224, 5951.886719>)
+18:58:49 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4404.439941, 270.306152, 5951.645508>)
+18:58:49 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4404.455566, 270.313599, 5951.590332>)
+18:58:49 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4404.491211, 270.326355, 5951.515625>)
+18:58:49 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4404.827637, 270.509155, 5949.887207>)
+18:58:49 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4405.121582, 270.483459, 5948.403320>)
+18:58:49 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4405.128906, 270.485138, 5948.410645>)
+18:58:49 | "Pereira" (steamid=76561198950594742) teleported to crosshair (pos=<4406.088379, 270.430756, 5944.122559>)
+18:58:50 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:58:52 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:58:58 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:59:0 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:59:8 | "Xavasca" (steamid=76561198329721265) toggled freecam
+18:59:11 | Player "Pereira" (steamId=76561198950594742) disconnected from server.
+18:59:25 | Player "Survivor" (steamId=76561198095800944) connected to server!
+19:0:38 | Player "[CMDS]Templario" (steamId=76561198080265279) disconnected from server.
+19:0:39 | Player "[CMDs]MrZulu" (steamId=76561198133335010) disconnected from server.
+19:0:41 | Player "[CMDs]MrZulu" (steamId=76561198133335010) disconnected from server.
+19:0:51 | Player "zezozoi" (steamId=76561198886694633) disconnected from server.
+19:1:14 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:1:25 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:1:27 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:1:29 | Player "T0rMio" (steamId=76561198282235524) disconnected from server.
+19:1:54 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:1:56 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:2:5 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:3:15 | Player "LeiteDeMiapica" (steamId=76561198395615139) disconnected from server.
+19:3:22 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) disconnected from server.
+19:3:49 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:3:51 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:3:53 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:3:55 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:4:44 | Player "N*O SOU O PAI" (steamId=76561198868456396) disconnected from server.
+19:7:43 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:7:49 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:7:51 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:8:0 | "Xavasca" (steamid=76561198329721265) teleported to crosshair (pos=<5023.648926, 50.319149, 7928.148926>)
+19:8:2 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:9:4 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:9:7 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:9:10 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:10:56 | Player "[TDF] iBllack" (steamId=76561198400510616) disconnected from server.
+19:11:51 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:11:57 | "Xavasca": (steamid=76561198329721265) teleported to (pos=4957.8,0,6567.55)
+19:11:59 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:12:22 | "Xavasca" (steamid=76561198329721265) teleported to crosshair (pos=<4967.611328, 47.305668, 6558.052734>)
+19:12:23 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:13:20 | "Xavasca" (steamid=76561198329721265) Spawned Item: (dp_Mag939_30Rnd)
+19:15:3 | "Xavasca" (steamid=76561198329721265) Spawned Item: (ASVAL)
+19:15:22 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+19:15:46 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) connected to server!
+19:15:54 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:16:13 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:16:47 | "Xavasca" (steamid=76561198329721265) Spawned Item: (TacticalBaconCan)
+19:16:49 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:16:49 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:16:49 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:16:49 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:16:49 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:16:50 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:16:50 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:16:51 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:16:51 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:16:53 | "Xavasca" (steamid=76561198329721265) teleported to crosshair (pos=<4829.065918, 83.630417, 6521.073730>)
+19:16:54 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:17:7 | "Xavasca": (steamid=76561198329721265) teleported to (pos=3957.81,0,7372.76)
+19:17:9 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:17:11 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:17:15 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:17:18 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:17:20 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:18:14 | "Xavasca" (steamid=76561198329721265) toggled freecam
+19:18:53 | "Xavasca": (steamid=76561198329721265) teleported to (pos=6366.28,0,11722.1)
+19:19:7 | Player "[CMDS] BocaPreta" (steamId=76561198061748681) disconnected from server.
+19:19:9 | Player "[CMDS] BocaPreta" (steamId=76561198061748681) disconnected from server.
+19:19:35 | "Xavasca": (steamid=76561198329721265) teleported to (pos=2175.72,0,5812.57)
+19:19:36 | Player "FALCAO" (steamId=76561198970484097) connected to server!
+19:19:39 | "Xavasca" (steamid=76561198329721265) teleported to crosshair (pos=<2186.065430, 4.126838, 5799.637207>)
+19:19:57 | Player "Xavasca" (steamId=76561198329721265) disconnected from server.
+19:19:58 | Player "Xavasca" (steamId=76561198329721265) disconnected from server.
+19:20:44 | Player "Juriscleybso" (steamId=76561198157303531) connected to server!
+19:21:3 | Player "Juriscleybso" (steamId=76561198157303531) connected to server!
+19:21:13 | Player "[FARM] Grifos" (steamId=76561199140641946) disconnected from server.
+19:21:15 | Player "[FARM] Grifos" (steamId=76561199140641946) disconnected from server.
+19:22:13 | Player "[GURI] Pontaria" (steamId=76561198432710490) connected to server!
+19:25:43 | Player "FALCAO" (steamId=76561198970484097) connected to server!
+19:25:59 | Player "Survivor" (steamId=76561198212583829) connected to server!
+19:28:29 | Player "CABOBRANCO" (steamId=76561198057389190) disconnected from server.
+19:28:31 | Player "CABOBRANCO" (steamId=76561198057389190) disconnected from server.
+19:29:4 | Player "Forest144" (steamId=76561199114431170) connected to server!
+19:32:48 | Player "LeiteDeMiapica" (steamId=76561198395615139) connected to server!
+19:33:2 | Player "LeiteDeMiapica" (steamId=76561198395615139) connected to server!
+19:34:21 | Player "NPKreisch" (steamId=76561198082669110) connected to server!
+19:38:7 | Player "Mr. Oppai" (steamId=76561198067634106) connected to server!
+19:40:27 | Player "Juriscleybso" (steamId=76561198157303531) disconnected from server.
+19:41:36 | Player "[FARM] Grifos" (steamId=76561199140641946) connected to server!
+19:42:2 | Player "[FARM] Grifos" (steamId=76561199140641946) connected to server!
+19:49:48 | Player "Toucinho" (steamId=76561198136706340) disconnected from server.
+19:49:49 | Player "XXCARRASCOXX" (steamId=76561198192276507) disconnected from server.
+19:52:14 | Player "Kvalo" (steamId=76561198310305722) connected to server!
+19:57:45 | Player "SD989" (steamId=76561198263814277) disconnected from server.
+19:57:59 | Player "CABOBRANCO" (steamId=76561198057389190) connected to server!
+19:58:31 | Player "CABOBRANCO" (steamId=76561198057389190) connected to server!
+20:0:33 | Player "SD989" (steamId=76561198263814277) connected to server!
+20:0:41 | Player "SD989" (steamId=76561198263814277) connected to server!
+20:0:41 | Player "[CMDs]MrZulu" (steamId=76561198133335010) connected to server!
+20:1:28 | Player "[CMDS]Templario" (steamId=76561198080265279) connected to server!
+20:2:34 | Player "[CMDS]Templario" (steamId=76561198080265279) connected to server!
+20:4:45 | Player "ADM-BRUXO" (steamId=76561198140728342) connected to server!
+20:5:3 | Player "ADM-BRUXO" (steamId=76561198140728342) connected to server!
+20:5:18 | "ADM-BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+20:6:2 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=6142,0,8969.14)
+20:6:5 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:6:15 | Player "[FARM]Gandii" (steamId=76561199008723574) disconnected from server.
+20:6:19 | Player "[FARM]Gandii" (steamId=76561199008723574) disconnected from server.
+20:6:47 | Player "[FARM]Gandii" (steamId=76561199008723574) connected to server!
+20:6:55 | Player "[FARM]Gandii" (steamId=76561199008723574) connected to server!
+20:7:1 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=5035.99,0,7968.6)
+20:7:6 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:7:22 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:7:33 | Player "[CMDs]MrZulu" (steamId=76561198133335010) connected to server!
+20:7:33 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4959.639648, 50.000011, 7961.222168>)
+20:7:35 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:7:38 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:7:41 | Player "[FARM] Grifos" (steamId=76561199140641946) disconnected from server.
+20:7:42 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4962.698730, 50.126163, 7967.537598>)
+20:7:43 | Player "[FARM] Grifos" (steamId=76561199140641946) disconnected from server.
+20:7:45 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:8:19 | Player "Eltuu" (steamId=76561199101527323) disconnected from server.
+20:8:21 | Player "Eltuu" (steamId=76561199101527323) disconnected from server.
+20:8:25 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:8:26 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:8:35 | Player "Eltuu" (steamId=76561199101527323) connected to server!
+20:8:44 | Player "Eltuu" (steamId=76561199101527323) connected to server!
+20:9:0 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:9:21 | Player "[CMDS] BocaPreta" (steamId=76561198061748681) connected to server!
+20:9:28 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4834.068359, 63.876869, 7962.952148>)
+20:9:30 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:10:46 | Player "[CMDS] BocaPreta" (steamId=76561198061748681) connected to server!
+20:10:46 | Player "Syn" (steamId=76561199215400451) connected to server!
+20:10:50 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=4521.67,0,8201.77)
+20:10:58 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:11:8 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4862.038086, 63.687260, 7964.166992>)
+20:11:10 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:11:30 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:11:40 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198378326509)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198283309946)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199228878387)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198100945209)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199055984010)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198054045761)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198177159459)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198137101509)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561197977977178)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199075317144)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198970484097)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198432710490)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199114431170)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198395615139)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198082669110)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198067634106)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198310305722)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198057389190)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198263814277)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198080265279)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198140728342)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199008723574)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199101527323)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198061748681)
+20:11:51 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199215400451)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198378326509)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198283309946)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199228878387)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198100945209)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199055984010)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198054045761)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198177159459)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198137101509)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561197977977178)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199075317144)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198970484097)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198432710490)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199114431170)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198395615139)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198082669110)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198067634106)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198310305722)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198057389190)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198263814277)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198080265279)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198140728342)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199008723574)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199101527323)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198061748681)
+20:11:53 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199215400451)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198378326509)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198283309946)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561199228878387)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198100945209)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561199055984010)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198054045761)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198177159459)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198137101509)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561197977977178)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561199075317144)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198970484097)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198432710490)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561199114431170)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198395615139)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198082669110)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198067634106)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198310305722)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198057389190)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198263814277)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198080265279)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198140728342)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561199008723574)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561199101527323)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198061748681)
+20:11:55 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561199215400451)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198378326509)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198283309946)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199228878387)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198100945209)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199055984010)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198054045761)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198177159459)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198137101509)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561197977977178)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199075317144)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198970484097)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198432710490)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199114431170)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198395615139)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198082669110)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198067634106)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198310305722)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198057389190)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198263814277)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198080265279)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198140728342)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199008723574)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199101527323)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198061748681)
+20:11:57 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561199215400451)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198378326509)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198283309946)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561199228878387)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198100945209)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561199055984010)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198054045761)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198177159459)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198137101509)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561197977977178)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561199075317144)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198970484097)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198432710490)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561199114431170)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198395615139)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198082669110)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198067634106)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198310305722)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198057389190)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198263814277)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198080265279)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198140728342)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561199008723574)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561199101527323)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198061748681)
+20:11:58 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561199215400451)
+20:12:15 | "ADM-BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+20:12:17 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198140728342)
+20:12:19 | "ADM-BRUXO" (steamid=76561198140728342) just updated a health stat on (steamid=76561198140728342)
+20:12:20 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198140728342)
+20:12:28 | "ADM-BRUXO" (steamid=76561198140728342) gave godmode to (steamid=76561198140728342)
+20:12:32 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:12:41 | Player "rxzed" (steamId=76561198349620379) connected to server!
+20:12:47 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:12:52 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:14:16 | "ADM-BRUXO" (steamid=76561198140728342) healed player (steamid=76561198140728342)
+20:14:44 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=5976.61,0,8988.69)
+20:14:46 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=5986.03,0,8993.4)
+20:14:49 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:15:8 | Player "rxzed" (steamId=76561198349620379) disconnected from server.
+20:15:28 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:16:7 | Player "=FURY=Brunner" (steamId=76561199031638818) connected to server!
+20:16:13 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:16:21 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=6026.42,0,9037.48)
+20:16:24 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:16:26 | Player "=FURY=Brunner" (steamId=76561199031638818) connected to server!
+20:16:33 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5615.560059, 33.578812, 9217.503906>)
+20:16:38 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:17:44 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:18:50 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4772.455566, 54.461617, 8037.797363>)
+20:18:58 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4746.395996, 64.865089, 7866.510254>)
+20:19:3 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:19:9 | Player "[CMDs]Chefe" (steamId=76561198349620379) connected to server!
+20:20:6 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:20:16 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5133.670410, 37.618679, 8135.626953>)
+20:20:17 | Player "[CMDs]Chefe" (steamId=76561198349620379) connected to server!
+20:21:31 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4584.357422, 76.574684, 8304.984375>)
+20:22:7 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4149.809570, 74.088806, 7759.813965>)
+20:22:59 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5483.874512, 87.296692, 8510.972656>)
+20:22:59 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:23:14 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:23:23 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5488.357422, 89.277519, 8513.806641>)
+20:23:32 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:23:40 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:23:48 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5488.220703, 89.273094, 8513.512695>)
+20:23:50 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:24:4 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:24:6 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5485.935547, 87.504776, 8506.401367>)
+20:24:7 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:24:59 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:25:10 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4965.066895, 54.090248, 7963.216797>)
+20:25:11 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:25:33 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:25:42 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<3943.258301, 117.423645, 8095.243164>)
+20:25:44 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:25:45 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:25:53 | Player "[FARM]Gandii" (steamId=76561199008723574) disconnected from server.
+20:26:18 | Player "[FARM]Gandii" (steamId=76561199008723574) connected to server!
+20:26:26 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=5782.83,0,10056.1)
+20:26:26 | Player "[FARM]Gandii" (steamId=76561199008723574) connected to server!
+20:26:30 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:26:31 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:28:46 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4964.577637, 50.126163, 7968.292480>)
+20:28:49 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:29:45 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:30:20 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:31:36 | Player "FALCAO" (steamId=76561198970484097) disconnected from server.
+20:31:41 | Player "FALCAO" (steamId=76561198970484097) disconnected from server.
+20:32:21 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:32:34 | Player "LeiteDeMiapica" (steamId=76561198395615139) disconnected from server.
+20:32:38 | Player "LeiteDeMiapica" (steamId=76561198395615139) disconnected from server.
+20:32:48 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5025.022949, 86.180588, 7695.917480>)
+20:32:53 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:32:53 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:33:39 | Player "Syn" (steamId=76561199215400451) disconnected from server.
+20:35:6 | Player "Syn" (steamId=76561199215400451) connected to server!
+20:35:27 | Player "Syn" (steamId=76561199215400451) connected to server!
+20:36:22 | Player "MaozinhaBr" (steamId=76561198321161373) connected to server!
+20:36:42 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<4180.861328, 100.393005, 8054.937988>)
+20:36:45 | Player "MaozinhaBr" (steamId=76561198321161373) connected to server!
+20:38:58 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:38:59 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:41:40 | Player "MaozinhaBr" (steamId=76561198321161373) disconnected from server.
+20:43:55 | Player "julios_creitam" (steamId=76561198391755145) connected to server!
+20:45:11 | Player "cRn" (steamId=76561198100945209) disconnected from server.
+20:45:14 | Player "cRn" (steamId=76561198100945209) disconnected from server.
+20:46:42 | Player "=FURY=InfantiDF" (steamId=76561198283309946) disconnected from server.
+20:46:46 | Player "=FURY=InfantiDF" (steamId=76561198283309946) disconnected from server.
+20:48:35 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:49:1 | Player "Mr. Oppai" (steamId=76561198067634106) disconnected from server.
+20:49:3 | Player "Mr. Oppai" (steamId=76561198067634106) disconnected from server.
+20:49:32 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:51:1 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=6073.42,0,5637.93)
+20:51:6 | Player "=FURY=Brunner" (steamId=76561199031638818) disconnected from server.
+20:51:14 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:51:15 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:51:32 | Player "=FURY=SANTANA" (steamId=76561199228878387) disconnected from server.
+20:51:44 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:51:54 | "ADM-BRUXO": (steamid=76561198140728342) teleported to (pos=4521.75,0,7828.62)
+20:51:59 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:52:29 | Player "Martins" (steamId=76561198378326509) disconnected from server.
+20:52:31 | Player "Martins" (steamId=76561198378326509) disconnected from server.
+20:54:2 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:54:3 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:57:39 | Player "hugo" (steamId=76561199055984010) disconnected from server.
+20:57:41 | Player "Weskerr" (steamId=76561198212583829) disconnected from server.
+20:57:56 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:57:58 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:58:2 | Player "[GURI] Pontaria" (steamId=76561198432710490) disconnected from server.
+20:58:4 | Player "[GURI] Pontaria" (steamId=76561198432710490) disconnected from server.
+20:58:6 | "ADM-BRUXO" (steamid=76561198140728342) teleported to crosshair (pos=<5035.225098, 57.411800, 8050.976563>)
+20:58:8 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:58:36 | "ADM-BRUXO" (steamid=76561198140728342) toggled freecam
+20:59:50 | Player "Weskerr" (steamId=76561198212583829) connected to server!
+20:59:55 | Player "=FURY= Gabyzik4" (steamId=76561198177159459) disconnected from server.
+20:59:55 | Player "julios_creitam" (steamId=76561198391755145) disconnected from server.
+20:59:55 | Player "[FARM]Gandii" (steamId=76561199008723574) disconnected from server.
+20:59:55 | Player "SD989" (steamId=76561198263814277) disconnected from server.
+20:59:55 | Player "Eltuu" (steamId=76561199101527323) disconnected from server.
+20:59:55 | Player "=FURY=M4ndr4k3.Rs*" (steamId=76561197977977178) disconnected from server.
+20:59:55 | Player "[CMDs]Chefe" (steamId=76561198349620379) disconnected from server.
+20:59:55 | Player "[CMDS]Templario" (steamId=76561198080265279) disconnected from server.
+20:59:55 | Player "Forest144" (steamId=76561199114431170) disconnected from server.
+20:59:55 | Player "[FARM]MauriLim" (steamId=76561198054045761) disconnected from server.
+20:59:55 | Player "=FURY=BaBaYaGa" (steamId=76561199075317144) disconnected from server.
+20:59:55 | Player "NPKreisch" (steamId=76561198082669110) disconnected from server.
+20:59:55 | Player "[CMDS] BocaPreta" (steamId=76561198061748681) disconnected from server.
+20:59:55 | Player "Major Filhaum" (steamId=76561198137101509) disconnected from server.
+20:59:55 | Player "ADM-BRUXO" (steamId=76561198140728342) disconnected from server.
+20:59:55 | Player "CABOBRANCO" (steamId=76561198057389190) disconnected from server.

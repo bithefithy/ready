@@ -1,0 +1,718 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-2-12_0-5-1
+====================================================================================
+0:5:1 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+0:5:1 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+0:5:1 | [PermissionManager] Perm (FreeCamera) has been registered!
+0:5:1 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuItemManager) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuServerManager) has been registered!
+0:5:1 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+0:5:1 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+0:5:1 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+0:5:1 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+0:5:1 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+0:5:1 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+0:5:1 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+0:5:1 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+0:5:1 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+0:5:1 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+0:5:1 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+0:5:1 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+0:5:1 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+0:5:1 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+0:5:1 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+0:5:1 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+0:5:1 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+0:5:1 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+0:5:1 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+0:5:1 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+0:5:1 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+0:5:1 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+0:5:1 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+0:5:1 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+0:5:1 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+0:5:1 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+0:5:1 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+0:5:1 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+0:5:1 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+0:5:1 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+0:5:1 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+0:5:1 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+0:5:1 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuBansManager) has been registered!
+0:5:1 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+0:5:1 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+0:5:1 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+0:5:1 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+0:5:1 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+0:5:1 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+0:5:1 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+0:5:1 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+0:5:1 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+0:5:1 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+0:5:1 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+0:5:1 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+0:5:1 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+0:5:1 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+0:5:1 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+0:5:1 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+0:5:1 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+0:5:1 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+0:5:1 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+0:5:1 | [PermissionManager] Adding Super Admin (76561198253386609)
+0:5:1 | [PermissionManager] Adding Super Admin (76561198442072760)
+0:5:1 | [PermissionManager] Adding Super Admin (76561198950594742)
+0:5:1 | [PermissionManager] Adding Super Admin (76561198329721265)
+0:5:1 | [PermissionManager] Loaded UserGroups.json
+0:5:1 | Building Sets Loaded: 0
+0:5:1 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+0:5:1 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+0:5:1 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+0:5:1 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+0:5:1 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+0:5:1 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+0:5:1 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+0:5:1 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+0:5:1 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+0:5:1 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+0:5:1 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+0:5:1 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+0:5:1 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+0:5:1 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+0:5:1 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+0:7:2 | Player "GATITEN" (steamId=76561198304820439) connected to server!
+0:7:30 | Player "GATITEN" (steamId=76561198304820439) connected to server!
+0:7:43 | Player "a1dry" (steamId=76561197996112973) connected to server!
+0:7:55 | Player "[Mercenarios] Chines Angolano" (steamId=76561198128636633) connected to server!
+0:7:56 | Player "a1dry" (steamId=76561197996112973) connected to server!
+0:8:19 | Player "ER-Masius" (steamId=76561198390835868) connected to server!
+0:8:47 | Player "ER-Masius" (steamId=76561198390835868) connected to server!
+0:8:47 | Player "[Mercenarios] Chines Angolano" (steamId=76561198128636633) connected to server!
+0:10:9 | Player "NoobMaster" (steamId=76561198953587456) connected to server!
+0:10:49 | Player "NoobMaster" (steamId=76561198953587456) connected to server!
+0:10:50 | Player "MEIRA" (steamId=76561198285365583) connected to server!
+0:12:2 | Player "MEIRA" (steamId=76561198285365583) connected to server!
+0:12:13 | Player "NUDS,com" (steamId=76561199046735504) connected to server!
+0:12:20 | Player "[Mercenarios] Rambo" (steamId=76561198375135263) connected to server!
+0:12:30 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) connected to server!
+0:12:40 | Player "NUDS,com" (steamId=76561199046735504) connected to server!
+0:12:44 | Player "[Mercenarios] Rambo" (steamId=76561198375135263) connected to server!
+0:12:56 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) connected to server!
+0:14:10 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) connected to server!
+0:14:37 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) connected to server!
+0:17:30 | Player "wololo" (steamId=76561197991155980) connected to server!
+0:17:47 | Player "wololo" (steamId=76561197991155980) connected to server!
+0:21:57 | Player "[GRM]K0rVO" (steamId=76561199105906758) connected to server!
+0:23:52 | Player "[GRM]JubZ" (steamId=76561199046503868) connected to server!
+0:24:20 | Player "[AVG]cap.america" (steamId=76561198046104047) connected to server!
+0:24:33 | Player "[AVG]cap.america" (steamId=76561198046104047) connected to server!
+0:25:56 | Player "PRIMOBR" (steamId=76561199078435589) connected to server!
+0:45:30 | Player "HF_d+" (steamId=76561198169386030) connected to server!
+0:45:46 | Player "HF_d+" (steamId=76561198169386030) connected to server!
+0:57:15 | Player "Super Mouse" (steamId=76561199214576884) connected to server!
+0:57:32 | Player "DonBearZ" (steamId=76561198158820496) connected to server!
+0:58:7 | Player "Super Mouse" (steamId=76561199214576884) connected to server!
+0:58:18 | Player "~ES~ TinkWink" (steamId=76561198170630445) connected to server!
+0:58:32 | Player "[VKG] Ragnar Lothbrok" (steamId=76561198103856699) connected to server!
+0:58:34 | Player "~ES~ TinkWink" (steamId=76561198170630445) connected to server!
+0:59:36 | Player "[VKG] Ragnar Lothbrok" (steamId=76561198103856699) connected to server!
+1:0:30 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+1:0:48 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+1:2:9 | Player "[VKG] Ragnar Lothbrok" (steamId=76561198103856699) disconnected from server.
+1:8:40 | Player "SrMenma" (steamId=76561199036544004) connected to server!
+1:9:32 | Player "SrMenma" (steamId=76561199036544004) connected to server!
+1:10:36 | Player "[AVG]cap.america" (steamId=76561198046104047) disconnected from server.
+1:10:38 | Player "[AVG]cap.america" (steamId=76561198046104047) disconnected from server.
+1:17:18 | Player "DonBearZ" (steamId=76561198158820496) disconnected from server.
+1:22:49 | Player "AVG // STARK" (steamId=76561198133211909) connected to server!
+1:23:9 | Player "AVG // STARK" (steamId=76561198133211909) connected to server!
+1:23:44 | Player "DonBearZ" (steamId=76561198158820496) connected to server!
+1:24:10 | Player "MEIRA" (steamId=76561198285365583) disconnected from server.
+1:24:13 | Player "ER-Masius" (steamId=76561198390835868) disconnected from server.
+1:24:16 | Player "DonBearZ" (steamId=76561198158820496) disconnected from server.
+1:24:17 | Player "DonBearZ" (steamId=76561198158820496) disconnected from server.
+1:24:43 | Player "ER-Masius" (steamId=76561198390835868) connected to server!
+1:24:58 | Player "ER-Masius" (steamId=76561198390835868) connected to server!
+1:25:27 | Player "MEIRA" (steamId=76561198285365583) connected to server!
+1:26:38 | Player "MEIRA" (steamId=76561198285365583) connected to server!
+1:28:16 | Player "SrMenma" (steamId=76561199036544004) disconnected from server.
+1:28:24 | Player "SrMenma" (steamId=76561199036544004) disconnected from server.
+1:30:7 | Player "GATITEN" (steamId=76561198304820439) disconnected from server.
+1:30:9 | Player "GATITEN" (steamId=76561198304820439) disconnected from server.
+1:30:36 | Player "SrMenma" (steamId=76561199036544004) connected to server!
+1:31:27 | Player "SrMenma" (steamId=76561199036544004) connected to server!
+1:32:10 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+1:33:42 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+1:34:3 | Player "BRUXO" (steamId=76561198140728342) connected to server!
+1:35:47 | Player "G.a.b.i.r.u" (steamId=76561198982226615) connected to server!
+1:36:7 | Player "G.a.b.i.r.u" (steamId=76561198982226615) connected to server!
+1:37:53 | Player "~ES~ TinkWink" (steamId=76561198170630445) disconnected from server.
+1:41:50 | Player "teteu" (steamId=76561198059090190) connected to server!
+1:43:34 | Player "~ES~ TinkWink" (steamId=76561198170630445) connected to server!
+1:43:54 | Player "~ES~ TinkWink" (steamId=76561198170630445) connected to server!
+1:45:10 | Player "teteu" (steamId=76561198059090190) disconnected from server.
+1:45:11 | Player "teteu" (steamId=76561198059090190) disconnected from server.
+1:45:41 | Player "PRIMOBR" (steamId=76561199078435589) disconnected from server.
+1:45:43 | Player "PRIMOBR" (steamId=76561199078435589) disconnected from server.
+1:46:8 | Player "PRIMOBR" (steamId=76561199078435589) connected to server!
+1:46:16 | Player "PRIMOBR" (steamId=76561199078435589) connected to server!
+1:46:32 | Player "Lotus" (steamId=76561199242744830) connected to server!
+1:47:41 | Player "teteu" (steamId=76561198059090190) connected to server!
+1:47:57 | Player "teteu" (steamId=76561198059090190) connected to server!
+1:51:12 | Player "SrMenma" (steamId=76561199036544004) disconnected from server.
+1:52:9 | Player "AlissonXxXx" (steamId=76561198950594742) connected to server!
+1:53:4 | Player "AlissonXxXx" (steamId=76561198950594742) connected to server!
+1:57:32 | Player "Guhenf" (steamId=76561198088272569) connected to server!
+1:57:39 | Player "MEIRA" (steamId=76561198285365583) disconnected from server.
+1:57:40 | Player "MEIRA" (steamId=76561198285365583) disconnected from server.
+1:58:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4004.885498, 334.863922, 11115.509766>)
+1:58:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4007.062256, 335.460541, 11104.355469>)
+1:58:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4009.538086, 335.916046, 11091.921875>)
+1:58:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4013.396240, 335.715912, 11072.035156>)
+1:58:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4015.155518, 336.332794, 11063.026367>)
+1:58:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4026.077148, 336.900513, 11013.095703>)
+1:58:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4030.922363, 338.136597, 10990.979492>)
+1:58:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4043.690186, 338.999969, 10933.112305>)
+1:58:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4051.907959, 339.428497, 10896.540039>)
+1:58:39 | Player "[GRM] OTG" (steamId=76561198438824008) connected to server!
+2:0:56 | Player "Havaianos" (steamId=76561198128780952) connected to server!
+2:1:5 | Player "Havaianos" (steamId=76561198128780952) connected to server!
+2:3:27 | "AlissonXxXx" (steamid=76561198950594742) Spawned Item: (dp_mag545_60Rnd)
+2:3:27 | "AlissonXxXx" (steamid=76561198950594742) Spawned Item: (dp_mag545_60Rnd)
+2:3:27 | "AlissonXxXx" (steamid=76561198950594742) Spawned Item: (dp_mag545_60Rnd)
+2:5:29 | "AlissonXxXx" (steamid=76561198950594742) Spawned Item: (dp_okp3)
+2:5:29 | "AlissonXxXx" (steamid=76561198950594742) Spawned Item: (dp_okp7)
+2:5:44 | "AlissonXxXx" (steamid=76561198950594742) Spawned Item: (Battery9V)
+2:11:39 | Player "Cortiano26" (steamId=76561199241665640) connected to server!
+2:11:41 | Player "G.a.b.i.r.u" (steamId=76561198982226615) disconnected from server.
+2:11:42 | Player "G.a.b.i.r.u" (steamId=76561198982226615) disconnected from server.
+2:13:23 | [WeatherManager] Send Data Count is 0
+2:13:49 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<14172.634766, 4.742869, 12969.137695>)
+2:13:50 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<14171.291016, 4.850830, 12965.053711>)
+2:13:50 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<14168.733398, 5.300665, 12955.783203>)
+2:13:50 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<14168.542969, 5.341980, 12955.259766>)
+2:13:50 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<14168.150391, 5.412053, 12954.378906>)
+2:13:51 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<14164.918945, 6.020103, 12943.035156>)
+2:13:51 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<14163.930664, 6.112757, 12940.399414>)
+2:14:23 | "AlissonXxXx": (steamid=76561198950594742) teleported to (pos=4427.47,0,8199.63)
+2:14:52 | Player "[Mercenarios] KowalsKy" (steamId=76561198260207005) disconnected from server.
+2:16:15 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<6526.162109, 15.341604, 2374.921387>)
+2:16:37 | "AlissonXxXx" (steamid=76561198950594742) toggled freecam
+2:17:1 | Player "ER-Masius" (steamId=76561198390835868) disconnected from server.
+2:17:2 | "AlissonXxXx" (steamid=76561198950594742) toggled freecam
+2:17:4 | Player "ER-Masius" (steamId=76561198390835868) disconnected from server.
+2:17:13 | "AlissonXxXx": (steamid=76561198950594742) teleported to (pos=4456.89,0,8226.1)
+2:17:44 | Player "[GRM] OTG" (steamId=76561198438824008) disconnected from server.
+2:17:45 | Player "[GRM] OTG" (steamId=76561198438824008) re-connected to server [canceledLogout]
+2:17:45 | Player "[GRM] OTG" (steamId=76561198438824008) re-connected to server [canceledLogout]
+2:17:46 | Player "[GRM] OTG" (steamId=76561198438824008) re-connected to server [canceledLogout]
+2:18:15 | Player "[GRM] OTG" (steamId=76561198438824008) disconnected from server.
+2:18:41 | Player "[GRM] OTG" (steamId=76561198438824008) connected to server!
+2:18:51 | Player "[GRM] OTG" (steamId=76561198438824008) connected to server!
+2:23:16 | Player "AVG // STARK" (steamId=76561198133211909) disconnected from server.
+2:23:18 | Player "AVG // STARK" (steamId=76561198133211909) disconnected from server.
+2:28:12 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+2:28:16 | Player "BRUXO" (steamId=76561198140728342) disconnected from server.
+2:29:32 | Player "~ES~ TinkWink" (steamId=76561198170630445) disconnected from server.
+2:30:45 | Player "HF_d+" (steamId=76561198169386030) disconnected from server.
+2:31:30 | [WeatherManager] Send Data Count is 0
+2:31:35 | [Time Manager] Setting Date to 2022/9/21 7:39
+2:33:38 | Player "[mercenarios] striker" (steamId=76561198801415744) connected to server!
+2:33:47 | Player "[GRM] OTG" (steamId=76561198438824008) disconnected from server.
+2:34:21 | Player "[GRM] OTG" (steamId=76561198438824008) connected to server!
+2:34:32 | Player "[GRM] OTG" (steamId=76561198438824008) connected to server!
+2:34:57 | Player "[mercenarios] striker" (steamId=76561198801415744) connected to server!
+2:35:16 | Player "Yevgeny Zinichev" (steamId=76561199019252205) connected to server!
+2:35:41 | Player "Yevgeny Zinichev" (steamId=76561199019252205) connected to server!
+2:40:36 | Player "ATIRADOR" (steamId=76561199101972011) connected to server!
+2:40:54 | Player "ATIRADOR" (steamId=76561199101972011) connected to server!
+2:41:36 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4558.110352, 317.989990, 8345.650391>)
+2:41:38 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4553.672852, 320.043701, 8362.299805>)
+2:42:21 | "AlissonXxXx" (steamid=76561198950594742) healed player (steamid=76561198950594742)
+2:42:34 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4552.152832, 317.989502, 8356.821289>)
+2:44:6 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4604.731445, 319.328674, 8240.809570>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.719238, 319.925934, 8251.774414>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.621582, 319.915680, 8251.778320>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.498535, 319.899200, 8251.641602>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.178711, 319.858521, 8251.365234>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.042969, 319.843353, 8251.335938>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.307129, 319.932526, 8253.876953>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4607.165039, 320.242737, 8260.265625>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.581543, 320.162079, 8259.826172>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.502441, 320.160095, 8259.925781>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.520020, 320.239960, 8261.321289>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.517578, 320.289215, 8262.205078>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.542969, 320.361725, 8263.645508>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.708984, 320.368378, 8269.048828>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.654297, 320.366150, 8269.778320>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.549805, 320.362549, 8270.992188>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.433594, 320.382751, 8273.091797>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.370117, 320.390594, 8274.142578>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.327637, 320.423065, 8277.398438>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.293945, 320.417358, 8281.675781>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.271484, 320.413971, 8281.899414>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.146484, 320.391449, 8283.512695>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.015137, 320.368256, 8285.162109>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4605.965332, 320.351471, 8287.527344>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4605.882813, 320.347076, 8293.089844>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4605.857910, 320.345734, 8293.346680>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4605.729492, 320.317139, 8295.902344>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4605.777344, 320.283447, 8298.572266>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.506348, 320.314178, 8298.458008>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4607.016602, 320.307129, 8302.812500>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4607.138184, 320.308167, 8306.912109>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4607.839355, 320.338745, 8308.377930>)
+2:44:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4607.911621, 320.341339, 8308.557617>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4607.925781, 320.340881, 8308.776367>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4608.129395, 320.333649, 8311.155273>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4608.658691, 320.302124, 8317.326172>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4608.671387, 320.300232, 8317.593750>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4609.233398, 320.302643, 8320.305664>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4609.450195, 320.297302, 8321.840820>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4609.418945, 320.294464, 8321.964844>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4610.007324, 320.263855, 8327.765625>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4610.350098, 320.238708, 8331.152344>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4610.215332, 320.225311, 8331.758789>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4610.069824, 320.212189, 8332.302734>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4609.942383, 320.199768, 8332.822266>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4610.663086, 320.095032, 8344.058594>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4610.655762, 320.091949, 8344.264648>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4610.611816, 320.086792, 8344.510742>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4610.167480, 320.056915, 8345.284180>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4609.924805, 320.039917, 8345.757813>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4609.897949, 320.034149, 8346.103516>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4610.430664, 319.905029, 8356.043945>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4610.181641, 319.853821, 8358.483398>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4609.893066, 319.831299, 8359.093750>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4609.816406, 319.820709, 8359.519531>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4609.538086, 319.796326, 8360.266602>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4609.628418, 319.687195, 8367.612305>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4609.714844, 319.618195, 8372.558594>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4609.682617, 319.615112, 8372.696289>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4609.405762, 319.594086, 8373.384766>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4609.258789, 319.522858, 8377.198242>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4609.144531, 319.450623, 8381.720703>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4609.133301, 319.448334, 8381.839844>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4608.722168, 319.323059, 8391.194336>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4608.699707, 319.319275, 8391.477539>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4608.688477, 319.317444, 8391.618164>)
+2:44:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4608.389160, 319.216309, 8399.221680>)
+2:44:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4608.174316, 319.131073, 8404.732422>)
+2:44:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4608.171387, 319.129486, 8404.875977>)
+2:44:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4608.129395, 319.122040, 8405.447266>)
+2:44:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4607.658691, 319.023438, 8415.427734>)
+2:44:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4607.427734, 318.967194, 8420.064453>)
+2:44:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4607.374023, 318.959290, 8420.833984>)
+2:44:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.493164, 318.808044, 8437.392578>)
+2:44:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.489258, 318.807678, 8437.487305>)
+2:44:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.435059, 318.801575, 8438.050781>)
+2:44:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4606.356445, 318.792542, 8438.862305>)
+2:44:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4605.000488, 318.638123, 8458.556641>)
+2:44:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4604.705078, 318.627258, 8460.683594>)
+2:44:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4603.771484, 318.834625, 8472.850586>)
+2:44:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4603.519043, 318.909576, 8476.160156>)
+2:44:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4602.720215, 318.902435, 8480.875000>)
+2:44:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4602.709961, 318.902618, 8480.971680>)
+2:44:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4602.689941, 318.902710, 8481.119141>)
+2:44:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4600.440918, 318.339630, 8503.396484>)
+2:44:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4599.058105, 318.085541, 8516.879883>)
+2:44:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4599.007813, 318.073334, 8517.292969>)
+2:44:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4597.892578, 317.909302, 8528.236328>)
+2:44:9 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4597.407227, 317.943542, 8532.781250>)
+2:44:10 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4597.022949, 317.975159, 8536.184570>)
+2:44:10 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4596.559082, 318.069061, 8540.388672>)
+2:44:10 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4595.838867, 318.235901, 8547.334961>)
+2:44:10 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4595.470215, 318.320770, 8550.672852>)
+2:44:10 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4595.416016, 318.348755, 8551.278320>)
+2:44:10 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4594.772461, 318.397156, 8557.033203>)
+2:44:10 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4593.503418, 318.500061, 8568.757813>)
+2:44:10 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4592.661621, 318.531525, 8575.010742>)
+2:44:10 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4592.498535, 318.535431, 8575.759766>)
+2:44:10 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4592.461914, 318.537018, 8575.973633>)
+2:44:10 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4591.410645, 318.630768, 8585.008789>)
+2:44:10 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4589.199707, 318.866791, 8599.736328>)
+2:44:10 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4589.179199, 318.872772, 8599.994141>)
+2:44:10 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4589.084961, 318.877411, 8600.353516>)
+2:44:10 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4588.677734, 318.936401, 8603.037109>)
+2:44:10 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4588.210449, 319.050903, 8607.088867>)
+2:44:10 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4588.197266, 319.054810, 8607.229492>)
+2:44:11 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4586.423340, 319.370270, 8618.755859>)
+2:44:11 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4585.618164, 319.543304, 8624.381836>)
+2:44:11 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4585.006836, 319.672668, 8628.459961>)
+2:44:11 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4583.223145, 320.031433, 8640.323242>)
+2:44:11 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4582.540527, 320.183685, 8645.265625>)
+2:44:11 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4582.525879, 320.186829, 8645.368164>)
+2:44:11 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4582.520508, 320.187805, 8645.400391>)
+2:44:11 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4580.220215, 320.678802, 8660.375977>)
+2:44:11 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4579.533691, 320.828613, 8665.195313>)
+2:44:11 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4579.573242, 320.819611, 8664.895508>)
+2:44:11 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4579.613770, 320.811523, 8664.623047>)
+2:44:11 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4579.446777, 320.845001, 8665.741211>)
+2:44:12 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4576.476074, 321.446259, 8685.941406>)
+2:44:12 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4576.325195, 321.459045, 8686.483398>)
+2:44:12 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4576.286621, 321.464233, 8686.685547>)
+2:44:12 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4576.279785, 321.465546, 8686.732422>)
+2:44:12 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4576.274902, 321.466309, 8686.761719>)
+2:44:12 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4573.184082, 321.968628, 8707.396484>)
+2:44:12 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4570.000488, 322.024231, 8713.090820>)
+2:44:12 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4569.656250, 322.033600, 8713.826172>)
+2:44:12 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4569.645508, 322.034637, 8713.880859>)
+2:44:12 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4563.569336, 322.449799, 8738.925781>)
+2:44:12 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4562.706055, 322.537903, 8741.715820>)
+2:44:12 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4559.337891, 323.378540, 8755.715820>)
+2:44:12 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4559.273926, 323.394196, 8755.915039>)
+2:44:12 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4559.253418, 323.399200, 8755.977539>)
+2:44:12 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4559.008789, 323.444580, 8756.582031>)
+2:44:12 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4558.763184, 323.489899, 8757.184570>)
+2:44:12 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4558.743652, 323.496002, 8757.259766>)
+2:44:12 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4557.831055, 323.804779, 8761.142578>)
+2:44:12 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4555.807617, 324.502014, 8770.173828>)
+2:44:12 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4555.806152, 324.539276, 8770.657227>)
+2:44:13 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4555.424805, 324.878571, 8775.083008>)
+2:44:13 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4555.461426, 324.900879, 8775.394531>)
+2:44:13 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4555.152832, 324.980652, 8776.943359>)
+2:44:13 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4553.230469, 325.445221, 8787.321289>)
+2:44:13 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4552.932617, 325.583038, 8791.910156>)
+2:44:13 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4551.796387, 326.041443, 8797.215820>)
+2:44:13 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4552.190918, 326.636536, 8797.148438>)
+2:44:13 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4549.460449, 326.129974, 8812.845703>)
+2:44:13 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4549.464844, 326.134491, 8812.841797>)
+2:44:13 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4545.656250, 323.342590, 8840.208984>)
+2:44:13 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4544.972168, 323.215088, 8843.676758>)
+2:44:13 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4545.059570, 323.218079, 8843.061523>)
+2:44:13 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4543.943848, 323.200806, 8852.063477>)
+2:44:13 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4543.949219, 323.200439, 8852.019531>)
+2:44:13 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4543.933105, 323.201050, 8852.099609>)
+2:44:13 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4543.895996, 323.201935, 8852.224609>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4542.112305, 323.289124, 8864.026367>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4542.060059, 323.291229, 8864.343750>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4540.033691, 323.378082, 8877.224609>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4539.825195, 323.386475, 8878.367188>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4539.795898, 323.387573, 8878.512695>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4539.410645, 323.400635, 8880.234375>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4539.227539, 323.408905, 8881.064453>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4538.311035, 323.464844, 8886.443359>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4536.906250, 323.509796, 8895.072266>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4536.188477, 323.545990, 8898.580078>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4535.986328, 323.557343, 8899.614258>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4535.965332, 323.558990, 8899.765625>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4533.449707, 323.693817, 8914.862305>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4532.625488, 323.726257, 8919.028320>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4532.512207, 323.730438, 8919.625000>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4532.493652, 323.731079, 8919.717773>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4530.648926, 323.833679, 8930.706055>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4529.497070, 323.908844, 8937.887695>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4529.523438, 323.910431, 8938.045898>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4527.705078, 324.261505, 8949.735352>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4527.186523, 324.417664, 8953.184570>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4527.165039, 324.431427, 8953.487305>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4527.123047, 324.444305, 8953.770508>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4526.620117, 324.593109, 8957.053711>)
+2:44:14 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4525.105957, 325.128632, 8966.971680>)
+2:44:15 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4524.996582, 325.200470, 8967.989258>)
+2:44:15 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4520.989258, 325.836700, 8992.214844>)
+2:44:15 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4521.393066, 325.839020, 8990.874023>)
+2:44:15 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4520.568848, 325.869171, 8995.168945>)
+2:44:15 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4515.665039, 325.730225, 9025.046875>)
+2:44:15 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4514.465332, 325.880920, 9031.078125>)
+2:44:15 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4514.442383, 325.883453, 9031.181641>)
+2:44:16 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4514.428711, 325.884918, 9031.239258>)
+2:44:16 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4512.333984, 326.232666, 9044.333008>)
+2:44:16 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4510.733398, 326.465790, 9052.907227>)
+2:44:16 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4508.208984, 326.909485, 9068.852539>)
+2:44:16 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4508.191406, 326.913483, 9068.998047>)
+2:44:16 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4508.135742, 326.923065, 9069.358398>)
+2:44:16 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4506.077148, 327.247620, 9081.582031>)
+2:44:16 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4503.571289, 327.655884, 9097.195313>)
+2:44:17 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4503.260742, 327.713013, 9099.329102>)
+2:44:17 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4501.100586, 328.030487, 9111.905273>)
+2:44:17 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4497.624512, 328.574493, 9135.206055>)
+2:44:17 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4495.059082, 328.830627, 9150.342773>)
+2:44:18 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4494.639160, 328.927246, 9153.339844>)
+2:44:18 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4492.331055, 329.641022, 9169.009766>)
+2:44:18 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4490.219238, 330.077362, 9181.678711>)
+2:44:18 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4482.029297, 330.114471, 9235.365234>)
+2:44:19 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4481.618164, 330.148834, 9237.682617>)
+2:44:19 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4475.368164, 330.173218, 9277.091797>)
+2:44:19 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4474.345703, 330.877625, 9284.752930>)
+2:44:20 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4473.257813, 331.639740, 9290.530273>)
+2:44:20 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4472.455078, 332.341431, 9296.431641>)
+2:44:20 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4471.091797, 333.137238, 9304.018555>)
+2:44:20 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4470.923828, 333.226959, 9305.048828>)
+2:44:21 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4468.730957, 334.302307, 9318.490234>)
+2:44:21 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4468.280273, 334.515106, 9321.390625>)
+2:44:21 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4468.202148, 334.563385, 9322.031250>)
+2:44:22 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4466.058105, 335.054108, 9332.356445>)
+2:49:45 | Player "teteu" (steamId=76561198059090190) disconnected from server.
+2:50:17 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4417.825684, 339.000000, 9615.414063>)
+2:50:17 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4411.010254, 338.999969, 9622.347656>)
+2:50:18 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4403.395996, 338.999939, 9628.100586>)
+2:50:18 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4403.300293, 338.999969, 9628.167969>)
+2:50:18 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4403.212891, 338.999939, 9628.229492>)
+2:50:18 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4403.117188, 338.999969, 9628.296875>)
+2:50:18 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4403.036133, 338.999969, 9628.353516>)
+2:50:18 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4396.210938, 338.991638, 9633.511719>)
+2:50:18 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4396.052734, 338.991455, 9633.624023>)
+2:50:18 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4395.916504, 338.991272, 9633.719727>)
+2:50:18 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4395.822754, 338.991150, 9633.785156>)
+2:50:18 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4391.189941, 338.979858, 9637.279297>)
+2:50:19 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4393.771973, 338.930084, 9647.697266>)
+2:50:20 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4394.410156, 338.097107, 9668.232422>)
+2:50:20 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4394.353516, 336.959930, 9689.355469>)
+2:50:20 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4394.352539, 336.956177, 9689.426758>)
+2:50:20 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4394.351074, 336.950836, 9689.528320>)
+2:50:20 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4395.570801, 336.459869, 9704.128906>)
+2:50:21 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4397.842285, 336.005035, 9717.449219>)
+2:50:21 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4398.329102, 336.031830, 9717.667969>)
+2:50:21 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4398.475586, 336.041077, 9717.708008>)
+2:50:21 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4398.929688, 336.044373, 9718.376953>)
+2:50:21 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4401.152344, 335.752380, 9728.938477>)
+2:50:21 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4401.518555, 335.701996, 9730.673828>)
+2:50:21 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4403.948242, 335.641754, 9740.072266>)
+2:50:21 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4404.012207, 335.643768, 9740.362305>)
+2:50:22 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4406.572266, 335.811340, 9750.713867>)
+2:50:22 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4407.065918, 335.926422, 9753.404297>)
+2:50:22 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4407.131348, 335.934662, 9753.800781>)
+2:50:22 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4407.143066, 335.935822, 9753.852539>)
+2:50:22 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4409.805176, 336.348236, 9765.151367>)
+2:50:22 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4409.867188, 336.361847, 9765.450195>)
+2:50:22 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4409.886230, 336.367004, 9765.568359>)
+2:50:22 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4410.911133, 336.587372, 9770.027344>)
+2:50:22 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4412.239258, 336.901825, 9776.641602>)
+2:50:22 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4412.311523, 336.929260, 9777.176758>)
+2:50:22 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4412.325684, 336.933105, 9777.250977>)
+2:50:22 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4414.738770, 337.314606, 9788.838867>)
+2:50:22 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4414.809082, 337.325623, 9789.223633>)
+2:50:22 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4414.830078, 337.334473, 9789.504883>)
+2:50:22 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4417.506348, 337.519257, 9802.649414>)
+2:50:23 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4417.581055, 337.515015, 9803.068359>)
+2:50:23 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4417.807129, 337.501556, 9804.491211>)
+2:50:23 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4417.905762, 337.495880, 9805.041992>)
+2:50:23 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4417.963867, 337.492554, 9805.367188>)
+2:50:23 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4417.984863, 337.491302, 9805.484375>)
+2:50:23 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4418.005371, 337.490082, 9805.598633>)
+2:50:23 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4418.026855, 337.488922, 9805.720703>)
+2:50:23 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4418.733398, 337.447876, 9809.281250>)
+2:50:23 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4421.305664, 337.263550, 9822.276367>)
+2:50:23 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4421.720703, 337.257446, 9823.831055>)
+2:50:23 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4421.734863, 337.257355, 9823.911133>)
+2:50:23 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4421.925781, 337.253021, 9824.333008>)
+2:50:23 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4423.779785, 337.270447, 9832.847656>)
+2:50:23 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4425.227539, 337.344574, 9839.563477>)
+2:50:23 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4425.264160, 337.346313, 9839.720703>)
+2:50:23 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4425.572266, 337.364929, 9840.726563>)
+2:50:23 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4425.665527, 337.372040, 9841.042969>)
+2:50:23 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4425.949219, 337.391937, 9841.947266>)
+2:50:23 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4426.167480, 337.408539, 9842.685547>)
+2:50:24 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4426.187012, 337.410858, 9842.776367>)
+2:50:24 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4430.661133, 337.977112, 9861.120117>)
+2:50:24 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4430.887695, 338.000244, 9861.880859>)
+2:50:24 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4430.907715, 338.003143, 9861.968750>)
+2:50:24 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4430.798828, 337.987183, 9861.488281>)
+2:50:24 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4434.169922, 338.537415, 9875.205078>)
+2:50:24 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4434.895020, 338.664429, 9878.186523>)
+2:50:24 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4434.934082, 338.668762, 9878.329102>)
+2:50:24 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4435.010254, 338.672943, 9878.500977>)
+2:50:24 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4438.558105, 339.120789, 9892.939453>)
+2:50:24 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4439.901367, 339.210144, 9897.915039>)
+2:50:25 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4439.990723, 339.212280, 9898.105469>)
+2:50:25 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4443.989746, 339.465057, 9913.965820>)
+2:50:25 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4445.279297, 339.453094, 9917.727539>)
+2:50:25 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4450.291016, 339.300446, 9936.793945>)
+2:50:25 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4450.101563, 339.259583, 9935.577148>)
+2:50:25 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4450.960449, 339.334320, 9937.491211>)
+2:50:25 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4454.305664, 339.802368, 9950.356445>)
+2:50:25 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4454.147949, 339.756317, 9949.247070>)
+2:50:25 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4457.341797, 340.202148, 9960.442383>)
+2:50:25 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4458.202148, 340.320709, 9963.464844>)
+2:50:25 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4462.415527, 340.283386, 9977.852539>)
+2:50:25 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4462.475586, 340.283600, 9978.072266>)
+2:50:25 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4462.524414, 340.284058, 9978.251953>)
+2:50:25 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4464.511719, 340.815094, 9984.747070>)
+2:50:26 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4464.258789, 341.339844, 9985.054688>)
+2:50:26 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4464.054199, 341.313293, 9985.302734>)
+2:50:26 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4468.654297, 339.823090, 10009.744141>)
+2:50:26 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4468.741699, 339.855988, 10009.642578>)
+2:50:26 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4468.239746, 339.715118, 10006.472656>)
+2:50:26 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4463.519531, 342.021057, 9985.952148>)
+2:50:27 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4470.709961, 339.898895, 10020.439453>)
+2:50:27 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4470.399902, 339.813354, 10018.406250>)
+2:50:27 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4471.927734, 340.750793, 10026.880859>)
+2:50:27 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4471.931152, 340.784393, 10026.907227>)
+2:50:27 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4471.938965, 340.840851, 10026.953125>)
+2:50:27 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4471.948730, 340.920319, 10027.016602>)
+2:50:27 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4471.958984, 340.940308, 10027.040039>)
+2:50:27 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4471.971680, 340.953278, 10027.060547>)
+2:50:27 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4471.947266, 340.963135, 10027.043945>)
+2:50:27 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4471.922852, 340.977997, 10027.031250>)
+2:50:27 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4471.670410, 340.363220, 10031.333984>)
+2:50:27 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4471.696289, 340.364807, 10031.448242>)
+2:50:27 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4471.773926, 340.367950, 10031.719727>)
+2:50:27 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4471.803711, 340.370422, 10031.871094>)
+2:50:27 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4471.870117, 340.377045, 10032.253906>)
+2:50:27 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4471.878418, 340.380707, 10032.409180>)
+2:50:28 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4471.882813, 340.383270, 10032.512695>)
+2:50:28 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4473.017578, 340.394653, 10042.246094>)
+2:50:28 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4472.771484, 340.389557, 10043.081055>)
+2:50:28 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4472.509277, 340.369934, 10044.083008>)
+2:50:28 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4472.808594, 340.239868, 10048.573242>)
+2:50:28 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4473.194824, 339.697052, 10061.331055>)
+2:50:28 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4473.330078, 339.648956, 10062.566406>)
+2:50:28 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4474.303711, 338.394043, 10078.858398>)
+2:50:28 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4474.508789, 338.215118, 10087.347656>)
+2:50:28 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4474.628418, 338.301392, 10088.608398>)
+2:50:29 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4474.636719, 338.318359, 10088.854492>)
+2:50:38 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4469.655273, 338.919556, 10137.319336>)
+2:50:38 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4468.279785, 338.929871, 10158.364258>)
+2:50:38 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4468.282227, 338.930054, 10158.497070>)
+2:50:38 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4468.221191, 338.931488, 10159.690430>)
+2:50:38 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4468.213379, 338.931793, 10159.887695>)
+2:50:38 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4468.222168, 338.931976, 10160.040039>)
+2:50:38 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4467.220703, 338.982086, 10179.875977>)
+2:50:38 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4467.271973, 338.988647, 10182.123047>)
+2:50:39 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4467.363770, 338.990662, 10182.829102>)
+2:50:39 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4466.736328, 339.000031, 10198.206055>)
+2:50:39 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4466.567383, 339.000000, 10208.224609>)
+2:50:39 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4466.008301, 339.000031, 10224.999023>)
+2:50:39 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4466.000488, 339.000031, 10225.201172>)
+2:50:39 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4465.914551, 339.000031, 10231.769531>)
+2:50:39 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4465.874512, 339.000031, 10234.318359>)
+2:50:39 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4465.221191, 339.000031, 10257.918945>)
+2:50:39 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4465.208984, 339.000031, 10258.315430>)
+2:50:39 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4465.183105, 339.000031, 10260.491211>)
+2:50:39 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4464.574707, 339.074738, 10282.729492>)
+2:50:39 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4464.589844, 339.075806, 10282.781250>)
+2:50:39 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4464.202148, 339.651031, 10299.715820>)
+2:50:39 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4464.189453, 339.668365, 10300.088867>)
+2:50:40 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4464.211426, 339.662384, 10299.932617>)
+2:50:40 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4464.207031, 339.669250, 10300.078125>)
+2:50:40 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4464.061035, 339.888306, 10306.464844>)
+2:50:40 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4463.753418, 340.101837, 10319.166016>)
+2:50:40 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4463.760254, 340.113312, 10319.565430>)
+2:50:40 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4463.727539, 340.140778, 10320.569336>)
+2:50:40 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4463.621094, 340.269470, 10325.117188>)
+2:50:40 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4463.563965, 341.121704, 10330.347656>)
+2:50:40 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4463.575195, 341.176178, 10330.351563>)
+2:50:40 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4463.699219, 340.556549, 10340.619141>)
+2:50:40 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4463.671875, 342.357117, 10334.756836>)
+2:50:40 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4463.890137, 340.813202, 10346.455078>)
+2:50:41 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4464.161133, 341.029755, 10351.303711>)
+2:50:41 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4464.022949, 341.073395, 10354.763672>)
+2:50:41 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4464.756348, 341.123596, 10358.254883>)
+2:50:41 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4465.026855, 341.257935, 10363.185547>)
+2:50:41 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4465.623535, 341.497131, 10370.362305>)
+2:50:41 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4465.993652, 341.474701, 10376.476563>)
+2:50:42 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4466.676270, 341.281769, 10385.379883>)
+2:50:42 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4465.946289, 341.431610, 10390.653320>)
+2:50:42 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4465.496582, 341.452209, 10390.918945>)
+2:50:42 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4464.951172, 341.877655, 10402.339844>)
+2:50:42 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4463.885742, 341.880188, 10406.080078>)
+2:50:43 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4462.087402, 342.175201, 10422.487305>)
+2:50:44 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4458.039551, 342.908295, 10437.059570>)
+2:50:45 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4431.565430, 339.092072, 10545.631836>)
+2:50:47 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4424.683594, 340.630890, 10570.442383>)
+2:50:47 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4417.334961, 340.914368, 10596.044922>)
+2:50:48 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4404.914551, 339.953827, 10629.024414>)
+2:51:28 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4432.113281, 340.093201, 10721.626953>)
+2:51:29 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4437.457031, 339.000031, 10737.420898>)
+2:52:17 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4479.755859, 338.868866, 10840.632813>)
+2:52:28 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4452.337891, 338.818237, 10840.985352>)
+2:52:29 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4443.810547, 338.736053, 10846.790039>)
+2:52:29 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4443.428711, 338.729431, 10847.244141>)
+2:52:29 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4443.114746, 338.723969, 10847.468750>)
+2:52:29 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4439.938965, 338.670013, 10849.743164>)
+2:52:29 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4436.170898, 338.669952, 10852.472656>)
+2:52:29 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4427.664551, 338.676910, 10857.662109>)
+2:52:29 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4424.791992, 339.847260, 10859.422852>)
+2:52:30 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4410.257813, 342.144257, 10868.214844>)
+2:52:31 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4400.735352, 344.117981, 10874.044922>)
+2:52:32 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4390.293945, 344.554626, 10881.822266>)
+2:52:32 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4356.125488, 338.726563, 10908.972656>)
+2:52:42 | "AlissonXxXx" (steamid=76561198950594742) healed player (steamid=76561198950594742)
+2:52:45 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4349.946777, 338.730011, 10914.003906>)
+2:52:46 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4343.370605, 338.730042, 10919.781250>)
+2:52:46 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4341.773926, 338.729401, 10921.208984>)
+2:52:46 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4341.444824, 338.729462, 10921.454102>)
+2:52:46 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4341.363281, 338.729492, 10921.508789>)
+2:52:46 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4333.584473, 338.742981, 10928.343750>)
+2:52:46 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4333.398926, 338.745026, 10928.428711>)
+2:52:46 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4333.199219, 338.746246, 10928.590820>)
+2:52:46 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4333.084961, 338.746552, 10928.703125>)
+2:52:46 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4327.952637, 338.770691, 10933.181641>)
+2:52:46 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4325.182129, 338.827240, 10935.680664>)
+2:52:46 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4320.515625, 338.982788, 10939.706055>)
+2:52:47 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4319.821289, 339.023071, 10940.144531>)
+2:52:47 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4318.498535, 339.194214, 10941.375977>)
+2:52:47 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4313.391113, 339.422607, 10945.841797>)
+2:52:47 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4312.252930, 339.431458, 10946.664063>)
+2:52:47 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4307.318359, 339.000000, 10950.895508>)
+2:52:47 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4301.923340, 339.000000, 10955.557617>)
+2:52:48 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4300.392578, 339.000000, 10956.717773>)
+2:52:48 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4292.870605, 339.000031, 10963.208008>)
+2:52:48 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4292.742676, 339.000000, 10963.301758>)
+2:52:48 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4292.551758, 339.000000, 10963.476563>)
+2:52:48 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4283.312988, 339.000031, 10971.338867>)
+2:52:48 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4283.457031, 339.000000, 10971.226563>)
+2:52:48 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4283.644531, 339.000000, 10971.113281>)
+2:52:48 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4270.564941, 338.463165, 10982.190430>)
+2:52:48 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4270.617676, 338.462433, 10982.133789>)
+2:52:48 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4270.541992, 338.463348, 10982.181641>)
+2:52:49 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4260.799805, 338.504486, 10990.961914>)
+2:52:49 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4261.602539, 338.505493, 10990.512695>)
+2:52:49 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4261.676758, 338.505005, 10990.532227>)
+2:52:49 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4254.665039, 338.948944, 10996.767578>)
+2:52:49 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4255.443359, 338.878906, 10996.426758>)
+2:52:50 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4237.804688, 339.221802, 11013.207031>)
+2:53:54 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4251.871094, 339.275208, 11033.070313>)
+2:53:54 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4244.208496, 339.246765, 11026.083984>)
+2:53:55 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<4236.911133, 339.455353, 11020.516602>)
+2:56:24 | Player "a1dry" (steamId=76561197996112973) disconnected from server.
+2:57:5 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<8193.289063, 5.387800, 2947.101807>)
+2:57:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<8181.543457, 6.624434, 2960.058838>)
+2:57:8 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<8148.829102, 7.862025, 2986.648682>)
+2:57:10 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<8128.674805, 8.132296, 3000.879395>)
+2:57:11 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<8063.696289, 5.544319, 3041.672119>)
+2:58:5 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<8074.579590, 6.436528, 3136.857910>)
+2:58:6 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<8093.358398, 6.646228, 3140.757568>)
+2:58:7 | "AlissonXxXx" (steamid=76561198950594742) teleported to crosshair (pos=<8111.837891, 6.222640, 3155.602051>)
+2:58:48 | Player "[GRM]Syn" (steamId=76561199215400451) connected to server!
+2:59:5 | Player "[GRM]Syn" (steamId=76561199215400451) connected to server!
+2:59:8 | Player "AlissonXxXx" (steamId=76561198950594742) disconnected from server.
+2:59:22 | Player "Cortiano26" (steamId=76561199241665640) disconnected from server.
+2:59:27 | Player "Cortiano26" (steamId=76561199241665640) disconnected from server.
+2:59:30 | Player "[GRM]JubZ" (steamId=76561199046503868) disconnected from server.
+2:59:30 | Player "Guhenf" (steamId=76561198088272569) disconnected from server.
+2:59:30 | Player "Havaianos" (steamId=76561198128780952) disconnected from server.
+2:59:30 | Player "NUDS,com" (steamId=76561199046735504) disconnected from server.
+2:59:30 | Player "[Mercenarios] Chines Angolano" (steamId=76561198128636633) disconnected from server.
+2:59:30 | Player "ATIRADOR" (steamId=76561199101972011) disconnected from server.
+2:59:30 | Player "[Mercenarios] Mayhem" (steamId=76561198291345014) disconnected from server.
+2:59:30 | Player "[Mercenarios] Rambo" (steamId=76561198375135263) disconnected from server.
+2:59:30 | Player "[mercenarios] striker" (steamId=76561198801415744) disconnected from server.
+2:59:30 | Player "NoobMaster" (steamId=76561198953587456) disconnected from server.
+2:59:30 | Player "Yevgeny Zinichev" (steamId=76561199019252205) disconnected from server.
+2:59:30 | Player "wololo" (steamId=76561197991155980) disconnected from server.
+2:59:30 | Player "[GRM] OTG" (steamId=76561198438824008) disconnected from server.
+2:59:30 | Player "[GRM]Syn" (steamId=76561199215400451) disconnected from server.
+2:59:30 | Player "PRIMOBR" (steamId=76561199078435589) disconnected from server.
+2:59:30 | Player "Lotus" (steamId=76561199242744830) disconnected from server.
